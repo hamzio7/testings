@@ -1,5 +1,5 @@
 {"presets":[
-  { "Name":"Google Dark Theme" , "Background":"#ff202124", "Actionbar_1":"#ff3c4043", "Actionbar_2":"#ff5f6368", "Actionbar_3":"#ff80868b" },
-  { "Name":"Windows Dark Theme" , "Background":"#ff202020", "Actionbar_1":"#ff424242", "Actionbar_2":"#ff616161", "Actionbar_3":"#ff757575" },
-  { "Name":"Whatsapp Dark Theme" , "Background":"#ff101d24", "Actionbar_1":"#ff222d36", "Actionbar_2":"#ff354654", "Actionbar_3":"#ff506a80" }
+  { "name":"Google Dark Theme" , "background":"#ff202124", "actionbar_1":"#ff3c4043", "actionbar_2":"#ff5f6368", "actionbar_3":"#ff80868b" },
+  { "name":"Windows Dark Theme" , "background":"#ff202020", "actionbar_1":"#ff424242", "actionbar_2":"#ff616161", "actionbar_3":"#ff757575" },
+  { "name":"Whatsapp Dark Theme" , "background":"#ff101d24", "actionbar_1":"#ff222d36", "actionbar_2":"#ff354654", "actionbar_3":"#ff506a80" }
 ]}
