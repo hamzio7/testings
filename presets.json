@@ -1,5 +1,5 @@
 {"presets":[
   { "name":"Google Dark Theme" , "background":"#ff202124", "actionbar_1":"#ff3c4043", "actionbar_2":"#ff5f6368", "actionbar_3":"#ff80868b", "accent":"#ff1a73e8" , "pro":false },
-  { "name":"Windows Dark Theme" , "background":"#ff202020", "actionbar_1":"#ff424242", "actionbar_2":"#ff616161", "actionbar_3":"#ff757575", "accent":"#ff80868b" , "pro":false },
-  { "name":"Whatsapp Dark Theme" , "background":"#ff101d24", "actionbar_1":"#ff222d36", "actionbar_2":"#ff354654", "actionbar_3":"#ff506a80", "accent":"#ff80868b" , "pro":true }
+  { "name":"Windows Dark Theme" , "background":"#ff202020", "actionbar_1":"#ff424242", "actionbar_2":"#ff616161", "actionbar_3":"#ff757575", "accent":"#ff03a9f4" , "pro":false },
+  { "name":"Whatsapp Dark Theme" , "background":"#ff101d24", "actionbar_1":"#ff222d36", "actionbar_2":"#ff354654", "actionbar_3":"#ff506a80", "accent":"#ff00b09c" , "pro":true }
 ]}
