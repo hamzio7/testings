@@ -1,5 +1,5 @@
 {"presets":[
-  { "name":"wall_01" , "url":"#ff202124", "preview":"#ff3c4043"},
-  { "name":"wall_02" , "url":"#ff202124", "preview":"#ff3c4043"},
-  { "name":"wall_03" , "url":"#ff202124", "preview":"#ff3c4043"}
+  { "name":"wall_01" , "url":"https://github.com/hamzio7/testings/raw/master/wallpapers/wall_01.jpg", "preview":"https://github.com/hamzio7/testings/raw/master/wallpreview/wall_01.jpg"},
+  { "name":"wall_02" , "url":"https://github.com/hamzio7/testings/raw/master/wallpapers/wall_01.jpg", "preview":"https://github.com/hamzio7/testings/raw/master/wallpreview/wall_01.jpg"},
+  { "name":"wall_03" , "url":"https://github.com/hamzio7/testings/raw/master/wallpapers/wall_01.jpg", "preview":"https://github.com/hamzio7/testings/raw/master/wallpreview/wall_01.jpg"}
 ]}
