@@ -1,4 +1,4 @@
 {"presets":[
-  { "name":"Google Theme" , "background":"#ff202124", "actionbar_1":"#ff3c4043", "accent":"#ff1a73e8" , "pro":false },
-  { "name":"Windows Theme" , "background":"#ff202124", "actionbar_1":"#ff3c4043", "accent":"#ff1a73e8" , "pro":false }
+  { "name":"Google Theme" , "background":"#ffffffff", "actionbar_1":"#ffffffff", "accent":"#ff1a73e8" , "pro":false },
+  { "name":"Windows Theme" , "background":"#ffffffff", "actionbar_1":"#ffffffff", "accent":"#ff03a9f4" , "pro":false }
 ]}
