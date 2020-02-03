@@ -3,5 +3,6 @@
   { "name":"Huawei EMUI 10" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/huawei.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/huawei.png","pro":false },
   { "name":"Google Pixel" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/pixel.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/pixel.png","pro":false},
   { "name":"iOS" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/ios.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/ios.png","pro":false},
+  { "name":"iOS Black" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/iosblack.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/iosblack.png","pro":true},
   { "name":"Fluent Design" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/fluent.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/fluent.png","pro":true}
 ]}
