@@ -1,0 +1,4 @@
+{"presets":[
+  { "name":"Google Theme" , "background":"#ff202124", "actionbar_1":"#ff3c4043", "accent":"#ff1a73e8" , "pro":false },
+  { "name":"Windows Theme" , "background":"#ff202124", "actionbar_1":"#ff3c4043", "accent":"#ff1a73e8" , "pro":false },
+]}
