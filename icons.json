@@ -1,4 +1,6 @@
 {"icons":[
+  { "name":"One UI Dark" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/oneuidark.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/oneuidark.png" ,"pro":true},
+  { "name":"One UI" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/oneui.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/oneui.png" ,"pro":false},
   { "name":"Lineage OS" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/lineage.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/lineage.png" ,"pro":true},
   { "name":"Huawei EMUI 10" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/huawei.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/huawei.png","pro":false },
   { "name":"Google Pixel" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/pixel.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/pixel.png","pro":false},
