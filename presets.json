@@ -1,4 +1,5 @@
 {"presets":[
+  { "name":"Midnight" , "background":"#ff242633", "actionbar_1":"#ff292b3a", "actionbar_2":"#ff3c3f54", "actionbar_3":"#ff4e526e", "accent":"#fff06292" , "pro":true },
   { "name":"Pitch Black" , "background":"#ff000000", "actionbar_1":"#ff000000", "actionbar_2":"#ff333333", "actionbar_3":"#ff777777", "accent":"#ff1a73e8" , "pro":false },
   { "name":"Google Dark" , "background":"#ff202124", "actionbar_1":"#ff3c4043", "actionbar_2":"#ff5f6368", "actionbar_3":"#ff80868b", "accent":"#ff1a73e8" , "pro":false },
   { "name":"Windows Dark" , "background":"#ff202020", "actionbar_1":"#ff424242", "actionbar_2":"#ff616161", "actionbar_3":"#ff757575", "accent":"#ff03a9f4" , "pro":false },
