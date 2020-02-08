@@ -1,5 +1,5 @@
 {"icons":[
-  { "name":"MIUI" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/miui.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/miui.png","pro":false},
+  { "name":"MIUI 11" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/miui.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/miui.png","pro":false},
   { "name":"MiOS" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/mios.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/mios.png","pro":true},
   { "name":"Mixel" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/mixel.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/mixel.png","pro":true},
   { "name":"AOSP" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/aosp.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/aosp.png","pro":false},
