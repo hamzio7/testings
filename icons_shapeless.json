@@ -1,4 +1,5 @@
 {"icons":[
+  { "name":"Materials McLaren" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/materialsmclaren.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/materialsmclaren.png","pro":false},
   { "name":"Materials" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/materials.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/materials.png","pro":false},
   { "name":"McLaren" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/mclaren.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/mclaren.png","pro":true},
   { "name":"Hydrogen" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/hydrogen.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/hydrogen.png","pro":true},
