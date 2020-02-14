@@ -1,9 +1,9 @@
 {"icons":[
-  { "name":"MIUI 10" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/miui10.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/miui10.png","pro":false},
-  { "name":"Poco" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/poco.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/poco.png","pro":false},
-  { "name":"Materials McLaren" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/materialsmclaren.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/materialsmclaren.png","pro":false},
-  { "name":"Materials" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/materials.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/materials.png","pro":false},
-  { "name":"McLaren" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/mclaren.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/mclaren.png","pro":true},
-  { "name":"Hydrogen" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/hydrogen.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/hydrogen.png","pro":true},
-  { "name":"Oxygen" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/oxygen.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/oxygen.png","pro":false}
+  { "name":"MIUI 10" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/miui10.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/miui10.jpg","pro":false},
+  { "name":"Poco" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/poco.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/poco.jpg","pro":false},
+  { "name":"Materials McLaren" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/materialsmclaren.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/materialsmclaren.jpg","pro":false},
+  { "name":"Materials" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/materials.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/materials.jpg","pro":false},
+  { "name":"McLaren" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/mclaren.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/mclaren.jpg","pro":true},
+  { "name":"Hydrogen" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/hydrogen.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/hydrogen.jpg","pro":true},
+  { "name":"Oxygen" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/oxygen.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/oxygen.jpg","pro":false}
 ]}
