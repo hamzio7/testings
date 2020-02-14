@@ -1,3 +1,4 @@
 {"mods":[
+  { "name":"MIUI Files Icons", "app":"com.huawei.hidisk" , "url":"https://github.com/hamzio7/testings/raw/master/mods/miuicategory.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/miuicategory.jpg"},
   { "name":"MIUI Seek Bars", "app":"framework-res-hwext" , "url":"https://github.com/hamzio7/testings/raw/master/mods/miuiseekbars.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/miuiseekbars.jpg"}
 ]}
