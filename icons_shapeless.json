@@ -1,4 +1,5 @@
 {"icons":[
+  { "name":"MIUI 10" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/miui10.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/miui10.png","pro":false},
   { "name":"Poco" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/poco.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/poco.png","pro":false},
   { "name":"Materials McLaren" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/materialsmclaren.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/materialsmclaren.png","pro":false},
   { "name":"Materials" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/materials.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/materials.png","pro":false},
