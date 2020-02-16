@@ -1,8 +1,8 @@
 {"presets":[
   { "name":"Luxury" , "background":"#ff191919", "actionbar_1":"#ff212121", "actionbar_2":"#ff333333", "actionbar_3":"#ff525252", "accent":"#ffe0ae91" , "pro":false },
   { "name":"Peafowl" , "background":"#ff282531", "actionbar_1":"#ff2e2a39", "actionbar_2":"#ff3f3a4d", "actionbar_3":"#ff494459", "accent":"#ff9a8ed7" , "pro":false },
-  { "name":"Alive" , "background":"#ff353745", "actionbar_1":"#ff353745", "actionbar_2":"#ff4f4f5a", "actionbar_3":"#ff565662", "accent":"#fff0fdb1" , "pro":true },
-  { "name":"xda 2" , "background":"#ff353535", "actionbar_1":"#ff353535", "actionbar_2":"#ff454545", "actionbar_3":"#ff757575", "accent":"#ffe8ad2c" , "pro":false },
+  { "name":"Alive" , "background":"#ff313340", "actionbar_1":"#ff353745", "actionbar_2":"#ff4f4f5a", "actionbar_3":"#ff565662", "accent":"#fff0fdb1" , "pro":true },
+  { "name":"xda 2" , "background":"#ff303030", "actionbar_1":"#ff353535", "actionbar_2":"#ff454545", "actionbar_3":"#ff757575", "accent":"#ffe8ad2c" , "pro":false },
   { "name":"xda 1" , "background":"#ff212121", "actionbar_1":"#ff353535", "actionbar_2":"#ff454545", "actionbar_3":"#ff757575", "accent":"#ffe8ad2c" , "pro":false },
   { "name":"Dorange" , "background":"#ff222528", "actionbar_1":"#ff2a2e30", "actionbar_2":"#ff43494d", "actionbar_3":"#ff495054", "accent":"#ffdc5247" , "pro":false },
   { "name":"McLaren" , "background":"#ff29292e", "actionbar_1":"#ff34343a", "actionbar_2":"#ff4e4e52", "actionbar_3":"#ff7d7d81", "accent":"#ffff8f14" , "pro":true },
