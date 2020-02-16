@@ -5,5 +5,5 @@
   { "name":"Materials" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/materials.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/materials.jpg","pro":false},
   { "name":"McLaren" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/mclaren.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/mclaren.jpg","pro":true},
   { "name":"Hydrogen" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/hydrogen.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/hydrogen.jpg","pro":true},
-  { "name":"Oxygen" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/oxygen.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/oxygen.jpg","pro":false}
+  { "name":"Oxygen OS" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/oxygen.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/oxygen.jpg","pro":false}
 ]}
