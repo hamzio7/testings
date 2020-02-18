@@ -1,0 +1,8 @@
+{"mods":[
+  { "name":"Dock Background", "app":"" , "url":"https://github.com/hamzio7/testings/raw/master/mods/dock_bg.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/dock_bg.jpg"},
+  { "name":"Brighter Folders", "app":"ic" , "url":"https://github.com/hamzio7/testings/raw/master/mods/brightfolder.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/brightfolder.jpg"},
+  { "name":"Round Dial Numbers Light", "app":"com.android.contacts" , "url":"https://github.com/hamzio7/testings/raw/master/mods/iphonenumswhite.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/iphonenumswhite.jpg"},
+  { "name":"Round Dial Numbers", "app":"com.android.contacts" , "url":"https://github.com/hamzio7/testings/raw/master/mods/iphonenums.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/iphonenums.jpg"},
+  { "name":"MIUI Files Icons", "app":"com.huawei.hidisk" , "url":"https://github.com/hamzio7/testings/raw/master/mods/miuicategory.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/miuicategory.jpg"},
+  { "name":"MIUI Seek Bars", "app":"framework-res-hwext" , "url":"https://github.com/hamzio7/testings/raw/master/mods/miuiseekbars.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/miuiseekbars.jpg"}
+]}
