@@ -1,4 +1,5 @@
 {"mods":[
+  { "name":"Brighter Folders", "app":"com.huawei.android.launcher" , "url":"https://github.com/hamzio7/testings/raw/master/mods/dock_bg.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/dock_bg.jpg"},
   { "name":"Brighter Folders", "app":"ic" , "url":"https://github.com/hamzio7/testings/raw/master/mods/brightfolder.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/brightfolder.jpg"},
   { "name":"Round Dial Numbers Light", "app":"com.android.contacts" , "url":"https://github.com/hamzio7/testings/raw/master/mods/iphonenumswhite.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/iphonenumswhite.jpg"},
   { "name":"Round Dial Numbers", "app":"com.android.contacts" , "url":"https://github.com/hamzio7/testings/raw/master/mods/iphonenums.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/iphonenums.jpg"},
