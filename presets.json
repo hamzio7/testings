@@ -1,4 +1,5 @@
 {"presets":[
+  { "name":"Special Blue" , "background":"#ff263238", "actionbar_1":"#ff37474f", "actionbar_2":"#ff455a64", "actionbar_3":"#ff475c66", "accent":"#ff42a5f5" , "pro":true },
   { "name":"Special Red" , "background":"#ff263238", "actionbar_1":"#ff37474f", "actionbar_2":"#ff455a64", "actionbar_3":"#ff475c66", "accent":"#fff44336" , "pro":true },
   { "name":"Luxury" , "background":"#ff191919", "actionbar_1":"#ff212121", "actionbar_2":"#ff333333", "actionbar_3":"#ff525252", "accent":"#ffe0ae91" , "pro":false },
   { "name":"Peafowl" , "background":"#ff282531", "actionbar_1":"#ff2e2a39", "actionbar_2":"#ff3f3a4d", "actionbar_3":"#ff494459", "accent":"#ff9a8ed7" , "pro":false },
