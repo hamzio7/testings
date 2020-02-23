@@ -3,6 +3,20 @@
   { "name":"Airstream", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Airstream.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/Airstream.jpg"},
   { "name":"Aller", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Aller.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/Aller.jpg"},
   { "name":"Amadeus", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Amadeus.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/Amadeus.jpg"},
-  { "name":"Amatic", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Amatic.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/Amatic.jpg"}
+  { "name":"Amatic", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Amatic.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/Amatic.jpg"},
+  { "name":"Amble", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Amble.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/Amble.jpg"},
+  { "name":"Aquiline Two", "url":"https://github.com/hamzio7/testings/raw/master/fonts/AquilineTwo.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/AquilineTwo.jpg"},
+  { "name":"Architects Daughter", "url":"https://github.com/hamzio7/testings/raw/master/fonts/ArchitectsDaughter.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/ArchitectsDaughter.jpg"},
+  { "name":"Arimo", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Arimo.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/Arimo.jpg"},
+  { "name":"Cantarell", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Cantarell.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/Cantarell.jpg"},
+  { "name":"Capsuula", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Capsuula.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/Capsuula.jpg"},
+  { "name":"Carrington", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Carrington.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/Carrington.jpg"},
+  { "name":"Caviar Dreams", "url":"https://github.com/hamzio7/testings/raw/master/fonts/CaviarDreams.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/CaviarDreams.jpg"},
+  { "name":"Cicle Fina", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Cicle_Fina.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/Cicle_Fina.jpg"},
+  { "name":"Cicle Semi", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Cicle_Semi.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/Cicle_Semi.jpg"},
+  { "name":"Comfortaa", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Comfortaa.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/Comfortaa.jpg"},
+  { "name":"Desyrel", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Desyrel.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/Desyrel.jpg"},
+  { "name":"England Hand DB", "url":"https://github.com/hamzio7/testings/raw/master/fonts/England.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/England.jpg"},
+  { "name":"Eraser", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Eraser.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/Eraser.jpg"}
 
 ]}
