@@ -1,3 +1,8 @@
 {"fonts":[
-  { "name":"MIUI Seek Bars", "url":"https://github.com/hamzio7/testings/raw/master/fonts/miuiseekbars.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/font1.jpg"}
+  { "name":"Aaargh", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Aaargh.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/Aaargh.jpg"},
+  { "name":"Airstream", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Airstream.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/Airstream.jpg"},
+  { "name":"Aller", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Aller.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/Aller.jpg"},
+  { "name":"Amadeus", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Amadeus.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/Amadeus.jpg"},
+  { "name":"Amatic", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Amatic.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/Amatic.jpg"}
+
 ]}
