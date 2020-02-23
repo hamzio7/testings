@@ -1,8 +1,8 @@
 {"fonts":[
-  { "name":"Aaargh", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Aaargh.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/Aaargh.jpg"},
-  { "name":"Airstream", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Airstream.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/Airstream.jpg"},
-  { "name":"Aller", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Aller.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/Aller.jpg"},
-  { "name":"Amadeus", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Amadeus.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/Amadeus.jpg"},
-  { "name":"Amatic", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Amatic.ttf" , "preview":"https://github.com/hamzio7/testings/raw/master/fontspreview/Amatic.jpg"}
+  { "name":"Aaargh", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Aaargh"},
+  { "name":"Airstream", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Airstream"},
+  { "name":"Aller", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Aller"},
+  { "name":"Amadeus", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Amadeus"},
+  { "name":"Amatic", "url":"https://github.com/hamzio7/testings/raw/master/fonts/Amatic"}
 
 ]}
