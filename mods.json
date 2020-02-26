@@ -6,5 +6,6 @@
   { "name":"Round Dial Numbers", "app":"com.android.contacts" , "url":"https://github.com/hamzio7/testings/raw/master/mods/iphonenums.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/iphonenums.jpg"},
   { "name":"iOS Files Icons", "app":"com.huawei.hidisk" , "url":"https://github.com/hamzio7/testings/raw/master/mods/category_ios.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/category_ios.jpg"},
   { "name":"MIUI Files Icons", "app":"com.huawei.hidisk" , "url":"https://github.com/hamzio7/testings/raw/master/mods/category_miui.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/category_miui.jpg"},
+  { "name":"i-Special Dividers", "app":"" , "url":"https://github.com/hamzio7/testings/raw/master/mods/div_iSpecial.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/div_iSpecial.jpg"}
   { "name":"MIUI Seek Bars", "app":"" , "url":"https://github.com/hamzio7/testings/raw/master/mods/miuiseekbars.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/miuiseekbars.jpg"}
 ]}
