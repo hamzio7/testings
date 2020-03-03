@@ -5,12 +5,12 @@
   { "name":"Materials McLaren" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/materialsmclaren.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/materialsmclaren.jpg","pro":false},
   { "name":"Materials" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/materials.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/materials.jpg","pro":false},
   { "name":"McLaren" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/mclaren.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/mclaren.jpg","pro":true},
-  { "name":"Oxygen OS" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/oxygen.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/oxygen.jpg","pro":false}
+  { "name":"Oxygen OS" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/oxygen.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/oxygen.jpg","pro":false},
   { "name":"Poco" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/poco.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/poco.jpg","pro":false},
   { "name":"Retro Material" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/retro.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/retro.jpg","pro":false},
   { "name":"Sense" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/sense.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/sense.jpg","pro":false},
   { "name":"Special Blue" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/special_blue.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/special_blue.jpg","pro":true},
   { "name":"Special Colorful" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/special_colorful.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/special_colorful.jpg","pro":false},
   { "name":"Special Pink" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/special_pink.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/special_pink.jpg","pro":true},
-  { "name":"Special Red" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/special_red.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/special_red.jpg","pro":true},
+  { "name":"Special Red" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/special_red.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/special_red.jpg","pro":true}
 ]}
