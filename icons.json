@@ -1,6 +1,6 @@
 {"icons":[
   { "name":"AOSP" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/aosp.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/aosp.jpg","pro":false},
-  { "name":"Fluent Design" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/fluent.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/fluent.jpg","pro":true}
+  { "name":"Fluent Design" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/fluent.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/fluent.jpg","pro":true},
   { "name":"Google Pixel" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/pixel.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/pixel.jpg","pro":false},
   { "name":"Huawei EMUI 10" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/huawei.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/huawei.jpg","pro":false },
   { "name":"Lineage OS" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/lineage.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/lineage.jpg" ,"pro":true},
@@ -16,5 +16,5 @@
   { "name":"iLike" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/i-like.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/ilike.jpg","pro":false},
   { "name":"iOS Black" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/iosblack.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/iosblack.jpg","pro":true},
   { "name":"iOS Midnight" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/iosmidnight.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/iosmidnight.jpg" ,"pro":true},
-  { "name":"iOS" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/ios.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/ios.jpg","pro":false},
+  { "name":"iOS" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/ios.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/ios.jpg","pro":false}
 ]}
