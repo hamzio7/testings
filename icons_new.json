@@ -1,0 +1,20 @@
+{"icons":[
+  { "name":"AOSP" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/aosp.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/aosp.jpg","pro":false},
+  { "name":"Fluent Design" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/fluent.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/fluent.jpg","pro":true}
+  { "name":"Google Pixel" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/pixel.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/pixel.jpg","pro":false},
+  { "name":"Huawei EMUI 10" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/huawei.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/huawei.jpg","pro":false },
+  { "name":"Lineage OS" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/lineage.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/lineage.jpg" ,"pro":true},
+  { "name":"MIUI 11" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/miui.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/miui.jpg","pro":false},
+  { "name":"MiOS" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/mios.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/mios.jpg","pro":true},
+  { "name":"Mixel" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/mixel.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/mixel.jpg","pro":true},
+  { "name":"One UI Dark" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/oneuidark.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/oneuidark.jpg" ,"pro":true},
+  { "name":"One UI Light" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/oneuilight.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/oneuilight.jpg","pro":false},
+  { "name":"One UI" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/oneui.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/oneui.jpg" ,"pro":false},
+  { "name":"Oxygen" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/oneplus.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/oneplus.jpg","pro":true},
+  { "name":"Xperia" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/xperia.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/xperia.jpg","pro":false},
+  { "name":"i-Special" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/iSpecial.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/iSpecial.jpg","pro":false},
+  { "name":"iLike" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/i-like.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/ilike.jpg","pro":false},
+  { "name":"iOS Black" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/iosblack.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/iosblack.jpg","pro":true},
+  { "name":"iOS Midnight" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/iosmidnight.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/iosmidnight.jpg" ,"pro":true},
+  { "name":"iOS" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/ios.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/ios.jpg","pro":false},
+]}
