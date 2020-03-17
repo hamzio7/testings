@@ -1,0 +1,91 @@
+{"theme":[
+
+  { "name":"i-Special"
+  , "base":"#ff212d3b"
+  , "mode":"#ff273545"
+  , "preview_1":"#ff324459"
+  , "preview_2":"#ff324459"
+  , "preview_3":"#ff324459"
+  , "preview_4":"#ff324459"
+  , "preview_5":"#ff324459"
+  , "preview_6":"#ff324459"
+  , "preview_7":"#ff324459"
+  , "actionbar":"#ff3c526b"
+  , "background":"#fff42c49"
+  , "accent":"#fff42c49"
+  , "settings":"#fff42c49"
+  , "systemui":"#fff42c49"
+  , "dialer":"#fff42c49"
+  , "optimzer":"#fff42c49"
+  , "calculator":"#fff42c49"
+  , "num": 7 
+  
+  },
+  
+  { "name":"i-Special"
+  , "base":"#ff212d3b"
+  , "mode":"#ff273545"
+  , "preview_1":"#ff324459"
+  , "preview_2":"#ff324459"
+  , "preview_3":"#ff324459"
+  , "preview_4":"#ff324459"
+  , "preview_5":"#ff324459"
+  , "preview_6":"#ff324459"
+  , "preview_7":"#ff324459"
+  , "actionbar":"#ff3c526b"
+  , "background":"#fff42c49"
+  , "accent":"#fff42c49"
+  , "settings":"#fff42c49"
+  , "systemui":"#fff42c49"
+  , "dialer":"#fff42c49"
+  , "optimzer":"#fff42c49"
+  , "calculator":"#fff42c49"
+  , "num": 7 
+  
+  },
+  
+  { "name":"i-Special"
+  , "base":"#ff212d3b"
+  , "mode":"#ff273545"
+  , "preview_1":"#ff324459"
+  , "preview_2":"#ff324459"
+  , "preview_3":"#ff324459"
+  , "preview_4":"#ff324459"
+  , "preview_5":"#ff324459"
+  , "preview_6":"#ff324459"
+  , "preview_7":"#ff324459"
+  , "actionbar":"#ff3c526b"
+  , "background":"#fff42c49"
+  , "accent":"#fff42c49"
+  , "settings":"#fff42c49"
+  , "systemui":"#fff42c49"
+  , "dialer":"#fff42c49"
+  , "optimzer":"#fff42c49"
+  , "calculator":"#fff42c49"
+  , "num": 7 
+  
+  },
+  
+  { "name":"i-Special"
+  , "base":"#ff212d3b"
+  , "mode":"#ff273545"
+  , "preview_1":"#ff324459"
+  , "preview_2":"#ff324459"
+  , "preview_3":"#ff324459"
+  , "preview_4":"#ff324459"
+  , "preview_5":"#ff324459"
+  , "preview_6":"#ff324459"
+  , "preview_7":"#ff324459"
+  , "actionbar":"#ff3c526b"
+  , "background":"#fff42c49"
+  , "accent":"#fff42c49"
+  , "settings":"#fff42c49"
+  , "systemui":"#fff42c49"
+  , "dialer":"#fff42c49"
+  , "optimzer":"#fff42c49"
+  , "calculator":"#fff42c49"
+  , "num": 7 
+  
+  }
+  
+]}
