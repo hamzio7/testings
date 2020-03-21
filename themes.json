@@ -1,6 +1,6 @@
 {"theme":[
 
-  { "name":"i-Special"
+  { "name":"Theme_1"
   , "base":"dark"
   , "mode":"url"
   
@@ -25,7 +25,7 @@
   },
 
 
-  { "name":"i-Special"
+  { "name":"Theme_2"
   , "base":"dark"
   , "mode":"url"
   
@@ -49,7 +49,7 @@
   
   },
   
-  { "name":"i-Special"
+  { "name":"Theme_3"
   , "base":"#ff212d3b"
   , "mode":"#ff273545"
   
@@ -73,7 +73,7 @@
   
   },
   
-  { "name":"i-Special"
+  { "name":"Theme_4"
   , "base":"#ff212d3b"
   , "mode":"#ff273545"
   
@@ -97,7 +97,7 @@
   
   },
   
-  { "name":"i-Special"
+  { "name":"Theme_5"
   , "base":"#ff212d3b"
   , "mode":"#ff273545"
   
