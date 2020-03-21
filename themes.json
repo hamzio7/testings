@@ -2,7 +2,7 @@
 
   { "name":"Theme_1"
   , "base":"dark"
-  , "mode":"https://github.com/hamzio7/testings/raw/master/mods/category_ios.zip"
+  , "mode":"https://github.com/hamzio7/testings/raw/master/iconpacks/fluent.zip"
   
   , "preview_1":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
   , "preview_2":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
@@ -27,7 +27,7 @@
 
   { "name":"Theme_2"
   , "base":"dark"
-  , "mode":"https://github.com/hamzio7/testings/raw/master/mods/category_ios.zip"
+  , "mode":"https://github.com/hamzio7/testings/raw/master/iconpacks/fluent.zip"
   
   , "preview_1":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
   , "preview_2":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
@@ -51,7 +51,7 @@
   
   { "name":"Theme_3"
   , "base":"#ff212d3b"
-  , "mode":"https://github.com/hamzio7/testings/raw/master/mods/category_ios.zip"
+  , "mode":"https://github.com/hamzio7/testings/raw/master/iconpacks/fluent.zip"
   
   , "preview_1":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
   , "preview_2":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
@@ -75,7 +75,7 @@
   
   { "name":"Theme_4"
   , "base":"#ff212d3b"
-  , "mode":"https://github.com/hamzio7/testings/raw/master/mods/category_ios.zip"
+  , "mode":"https://github.com/hamzio7/testings/raw/master/iconpacks/fluent.zip"
   
   , "preview_1":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
   , "preview_2":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
@@ -99,7 +99,7 @@
   
   { "name":"Theme_5"
   , "base":"#ff212d3b"
-  , "mode":"https://github.com/hamzio7/testings/raw/master/mods/category_ios.zip"
+  , "mode":"https://github.com/hamzio7/testings/raw/master/iconpacks/fluent.zip"
   
   , "preview_1":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
   , "preview_2":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
