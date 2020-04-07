@@ -1,0 +1,124 @@
+{"theme":[
+
+  { "name":"Theme_1"
+  , "base":"dark"
+  , "mode":"https://github.com/hamzio7/testings/raw/master/iconpacks/fluent.zip"
+  
+  , "preview_1":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_2":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_3":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_4":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_5":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_6":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_7":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  
+  , "actionbar":"#ff3c526b"
+  , "background":"#fff42c49"
+  , "accent":"#fff42c49"
+  , "settings":"#fff42c49"
+  , "systemui":"#fff42c49"
+  , "dialer":"#fff42c49"
+  , "optimzer":"#fff42c49"
+  , "calculator":"#fff42c49"
+  , "num": 7 
+  
+  },
+
+
+  { "name":"Theme_2"
+  , "base":"dark"
+  , "mode":"https://github.com/hamzio7/testings/raw/master/iconpacks/fluent.zip"
+  
+  , "preview_1":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_2":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_3":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_4":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_5":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_6":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_7":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  
+  , "actionbar":"#ff3c526b"
+  , "background":"#fff42c49"
+  , "accent":"#fff42c49"
+  , "settings":"#fff42c49"
+  , "systemui":"#fff42c49"
+  , "dialer":"#fff42c49"
+  , "optimzer":"#fff42c49"
+  , "calculator":"#fff42c49"
+  , "num": 7 
+  
+  },
+  
+  { "name":"Theme_3"
+  , "base":"#ff212d3b"
+  , "mode":"https://github.com/hamzio7/testings/raw/master/iconpacks/fluent.zip"
+  
+  , "preview_1":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_2":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_3":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_4":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_5":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_6":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_7":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  
+  , "actionbar":"#ff3c526b"
+  , "background":"#fff42c49"
+  , "accent":"#fff42c49"
+  , "settings":"#fff42c49"
+  , "systemui":"#fff42c49"
+  , "dialer":"#fff42c49"
+  , "optimzer":"#fff42c49"
+  , "calculator":"#fff42c49"
+  , "num": 7 
+  
+  },
+  
+  { "name":"Theme_4"
+  , "base":"#ff212d3b"
+  , "mode":"https://github.com/hamzio7/testings/raw/master/iconpacks/fluent.zip"
+  
+  , "preview_1":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_2":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_3":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_4":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_5":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_6":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_7":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  
+  , "actionbar":"#ff3c526b"
+  , "background":"#fff42c49"
+  , "accent":"#fff42c49"
+  , "settings":"#fff42c49"
+  , "systemui":"#fff42c49"
+  , "dialer":"#fff42c49"
+  , "optimzer":"#fff42c49"
+  , "calculator":"#fff42c49"
+  , "num": 7 
+  
+  },
+  
+  { "name":"Theme_5"
+  , "base":"#ff212d3b"
+  , "mode":"https://github.com/hamzio7/testings/raw/master/iconpacks/fluent.zip"
+  
+  , "preview_1":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_2":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_3":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_4":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_5":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_6":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  , "preview_7":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
+  
+  , "actionbar":"#ff3c526b"
+  , "background":"#fff42c49"
+  , "accent":"#fff42c49"
+  , "settings":"#fff42c49"
+  , "systemui":"#fff42c49"
+  , "dialer":"#fff42c49"
+  , "optimzer":"#fff42c49"
+  , "calculator":"#fff42c49"
+  , "num": 7 
+  
+  }
+  
+]}
