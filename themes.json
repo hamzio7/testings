@@ -3,15 +3,30 @@
   { "name":"Theme_1"
   , "base":"dark"
   , "mode":"https://github.com/hamzio7/testings/raw/master/iconpacks/fluent.zip"
+  ,"previews" : [ 
+    {
+      "link" : "https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg",
+    }
+	,{
+      "link" : "https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg",
+    }
+	,{
+      "link" : "https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg",
+    }
+	,{
+      "link" : "https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg",
+    }
+	,{
+      "link" : "https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg",
+    }
+	,
+	{
+      "link" : "https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg",
+    }
+	
+  ],
   
-  , "preview":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
-  , "preview":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
-  , "preview":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
-  , "preview":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
-  , "preview":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
-  , "preview":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
-  , "preview":"https://raw.githubusercontent.com/hamzio7/testings/master/themes/01/aosp.jpg"
-  
+ 
   , "actionbar":"#ff3c526b"
   , "background":"#fff42c49"
   , "accent":"#fff42c49"
