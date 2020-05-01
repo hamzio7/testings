@@ -1,4 +1,5 @@
 {"presets":[
+  { "name":"MINI Retro" , "background":"#ff303030", "actionbar_1":"#ff414141", "actionbar_2":"#ff515151", "actionbar_3":"#ff616161", "accent":"#ffe2765c" , "pro":true },
   { "name":"HoS" , "background":"#ff1c1f28", "actionbar_1":"#ff2d2f37", "actionbar_2":"#ff30313a", "actionbar_3":"#ff393941", "accent":"#ff7986cb" , "pro":false },
   { "name":"i-Special" , "background":"#ff212d3b", "actionbar_1":"#ff273545", "actionbar_2":"#ff324459", "actionbar_3":"#ff3c526b", "accent":"#fff42c49" , "pro":false },
   { "name":"Special Pink" , "background":"#ff263238", "actionbar_1":"#ff37474f", "actionbar_2":"#ff455a64", "actionbar_3":"#ff475c66", "accent":"#ffce93d8" , "pro":true },

@@ -6,6 +6,7 @@
   { "name":"Huawei EMUI 10" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/huawei.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/huawei.jpg","pro":false },
   { "name":"Lineage OS" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/lineage.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/lineage.jpg" ,"pro":true},
   { "name":"MIUI 11" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/miui.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/miui.jpg","pro":false},
+  { "name":"Mini Retro" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/miniretro.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/miniretro.jpg","pro":true},
   { "name":"MiOS" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/mios.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/mios.jpg","pro":true},
   { "name":"Mixel" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/mixel.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/mixel.jpg","pro":true},
   { "name":"One UI Dark" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/oneuidark.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/oneuidark.jpg" ,"pro":true},
