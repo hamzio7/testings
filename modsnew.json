@@ -7,6 +7,10 @@
   { "name":"Round Dial Numbers", "app":"com.android.contacts" , "url":"https://github.com/hamzio7/testings/raw/master/modsnew/iphonenums.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/iphonenums.jpg"},
   { "name":"iOS Files Icons", "app":"com.huawei.hidisk" , "url":"https://github.com/hamzio7/testings/raw/master/modsnew/category_ios.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/category_ios.jpg"},
   { "name":"MIUI Files Icons", "app":"com.huawei.hidisk" , "url":"https://github.com/hamzio7/testings/raw/master/modsnew/category_miui.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/category_miui.jpg"},
+  { "name":"i-Special Pink Dividers", "app":"" , "url":"https://github.com/hamzio7/testings/raw/master/modsnew/div_iSpecial_pink.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/div_iSpecial_pink.jpg"},
+  { "name":"i-Special Grey Dividers", "app":"" , "url":"https://github.com/hamzio7/testings/raw/master/modsnew/div_iSpecial_grey.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/div_iSpecial_grey.jpg"},
+  { "name":"i-Special Green Dividers", "app":"" , "url":"https://github.com/hamzio7/testings/raw/master/modsnew/div_iSpecial_green.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/div_iSpecial_green.jpg"},
+  { "name":"i-Special Cyan Dividers", "app":"" , "url":"https://github.com/hamzio7/testings/raw/master/modsnew/div_iSpecial_cyan.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/div_iSpecial_cyan.jpg"},
   { "name":"i-Special Dividers", "app":"" , "url":"https://github.com/hamzio7/testings/raw/master/modsnew/div_iSpecial.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/div_iSpecial.jpg"},
   { "name":"MIUI Seek Bars", "app":"" , "url":"https://github.com/hamzio7/testings/raw/master/modsnew/miuiseekbars.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/miuiseekbars.jpg"}
 ]}
