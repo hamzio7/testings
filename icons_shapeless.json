@@ -5,6 +5,8 @@
   { "name":"Materials McLaren" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/materialsmclaren.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/materialsmclaren.jpg","pro":false},
   { "name":"Materials" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/materials.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/materials.jpg","pro":false},
   { "name":"McLaren" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/mclaren.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/mclaren.jpg","pro":true},
+  { "name":"NEU iOS Dark" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/neu_ios_dark.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/neu_ios_dark.jpg","pro":true},
+  { "name":"NEU iOS Light" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/neu_ios_light.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/neu_ios_light.jpg","pro":true},
   { "name":"Oxygen OS" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/oxygen.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/oxygen.jpg","pro":false},
   { "name":"Poco" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/poco.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/poco.jpg","pro":false},
   { "name":"Retro Material" , "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/retro.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/retro.jpg","pro":false},
