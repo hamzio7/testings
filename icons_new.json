@@ -1,4 +1,5 @@
 {"icons":[
+  { "name":"Zen UI" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/zenui.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/zenui.jpg","pro":false},
   { "name":"iOS Sunset" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/ios_sunset.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/ios_sunset.jpg","pro":false},
   { "name":"NEU iOS Dark" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/ios_neu_ad_dark.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/ios_neu_ad_dark.jpg","pro":true},
   { "name":"NEU iOS" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/ios_neu_ad.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/ios_neu_ad.jpg","pro":true},
