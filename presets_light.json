@@ -1,5 +1,3 @@
 {"presets":[
-  { "name":"Retro Material" , "background":"#fffffde7", "actionbar_1":"#ffece1b7", "accent":"#ffe0733a" , "pro":false },
-  { "name":"Google Theme" , "background":"#ffffffff", "actionbar_1":"#ffffffff", "accent":"#ff1a73e8" , "pro":false },
-  { "name":"Windows Theme" , "background":"#ffffffff", "actionbar_1":"#ffffffff", "accent":"#ff03a9f4" , "pro":false }
+  { "name":"Google Theme" , "background":"#ffffffff", "actionbar_1":"#ffffffff", "accent":"#ff009688" , "pro":false }
 ]}
