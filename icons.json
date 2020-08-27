@@ -1,4 +1,5 @@
 {"icons":[
   { "name":"AOSP" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/aosp.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/aosp.jpg","isAdaptive":false},
-  { "name":"DMD Special" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/dmd_special.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/dmd_special.jpg","true":false}
+  { "name":"AOSP" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/aosp.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/aosp.jpg","isAdaptive":false},
+  { "name":"AOSP" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/aosp.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/aosp.jpg","isAdaptive":false}
 ]}
