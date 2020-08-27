@@ -1,0 +1,8 @@
+{"icons":[
+  { "name":"AOSP Adaptive" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/aosp.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/aosp.jpg","isAdaptive":true},
+  { "name":"AOSP Shapeless" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/aosp.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/aosp.jpg","isAdaptive":false}
+]}
+
+{"colors":[
+  { "name":"AOSP" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/aosp.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/aosp.jpg","isAdaptive":false},
+]}
