@@ -13,6 +13,14 @@
 	  { "name":"Google Dark" , "background":"#ff202124", "actionbar_1":"#ff35363a", "actionbar_2":"#ff5f6368", "actionbar_3":"#ff80868b", "accent":"#ff1a73e8" , "pro":false },
 	  { "name":"Google Dark" , "background":"#ff202124", "actionbar_1":"#ff35363a", "actionbar_2":"#ff5f6368", "actionbar_3":"#ff80868b", "accent":"#ff1a73e8" , "pro":false }
 	 
+	  ],
+	
+	"colors_light":[
+
+	  { "name":"Google" , "background":"#ffffffff", "actionbar_1":"#fffafafa","accent":"#ff1a73e8" , "pro":false },
+	  { "name":"Google" , "background":"#ffffffff", "actionbar_1":"#fffafafa","accent":"#ff1a73e8" , "pro":false },
+	  { "name":"Google" , "background":"#ffffffff", "actionbar_1":"#fffafafa","accent":"#ff1a73e8" , "pro":false }
+	 
 	  ]
 	
 	}
