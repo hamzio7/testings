@@ -1,21 +1,4 @@
 {"icons":[
   { "name":"AOSP" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/aosp.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/aosp.jpg","isAdaptive":false},
-  { "name":"DMD Special" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/dmd_special.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/dmd_special.jpg","true":false},
-  { "name":"Fluent Design" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/fluent.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/fluent.jpg","isAdaptive":true},
-  { "name":"Google Pixel" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/pixel.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/pixel.jpg","isAdaptive":false},
-  { "name":"Huawei EMUI 10" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/huawei.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/huawei.jpg","isAdaptive":false },
-  { "name":"Lineage OS" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/lineage.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/lineage.jpg" ,"isAdaptive":true},
-  { "name":"MIUI 11" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/miui.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/miui.jpg","isAdaptive":false},
-  { "name":"MiOS" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/mios.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/mios.jpg","isAdaptive":true},
-  { "name":"Mixel" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/mixel.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/mixel.jpg","isAdaptive":true},
-  { "name":"One UI Dark" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/oneuidark.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/oneuidark.jpg" ,"isAdaptive":true},
-  { "name":"One UI Light" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/oneuilight.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/oneuilight.jpg","isAdaptive":false},
-  { "name":"One UI" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/oneui.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/oneui.jpg" ,"isAdaptive":false},
-  { "name":"Oxygen" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/oneplus.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/oneplus.jpg","isAdaptive":true},
-  { "name":"Xperia" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/xperia.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/xperia.jpg","isAdaptive":false},
-  { "name":"i-Special" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/iSpecial.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/iSpecial.jpg","isAdaptive":false},
-  { "name":"iLike" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/i-like.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/ilike.jpg","isAdaptive":false},
-  { "name":"iOS Black" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/iosblack.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/iosblack.jpg","isAdaptive":true},
-  { "name":"iOS Midnight" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/iosmidnight.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/iosmidnight.jpg" ,"isAdaptive":true},
-  { "name":"iOS" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/ios.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/ios.jpg","isAdaptive":false}
+  { "name":"DMD Special" , "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/dmd_special.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/previews/dmd_special.jpg","true":false}
 ]}
