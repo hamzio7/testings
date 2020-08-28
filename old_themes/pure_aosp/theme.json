@@ -44,7 +44,7 @@
 	"colors":[
 
 	  { 
-	  "name":"Google Dark" ,
+	  "name":"Pixel Dark" ,
 	  "background":"#ff202124",
 	  "actionbar_1":"#ff35363a",
 	  "actionbar_2":"#ff5f6368",
@@ -54,7 +54,7 @@
 	  },
 	  
 	  { 
-	  "name":"Google Dark Grey" ,
+	  "name":"Pixel Dark Teal" ,
 	  "background":"#ff202124",
 	  "actionbar_1":"#ff35363a",
 	  "actionbar_2":"#ff5f6368",
@@ -69,7 +69,7 @@
 	  "actionbar_1":"#ff303030",
 	  "actionbar_2":"#ff505050",
 	  "actionbar_3":"#ff808080",
-	  "accent":"#ff009688" ,
+	  "accent":"#ff8ab4f8" ,
 	  "pro":false
 	  },
 	  
