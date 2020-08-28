@@ -8,11 +8,27 @@
 	  "isAdaptive":true,
 	  "isNew":false
 	  },
-
+	  
 	  { 
 	  "name":"AOSP Shapeless" ,
 	  "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/p_aosp.zip" ,
 	  "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/p_aosp.jpg",
+	  "isAdaptive":false,
+	  "isNew":false
+	  },
+	  
+	  { 
+	  "name":"Pixel Adaptive" ,
+	  "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/pixel.zip" ,
+	  "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/pixel.jpg",
+	  "isAdaptive":true,
+	  "isNew":false
+	  },
+
+	  { 
+	  "name":"Pixel Shapeless" ,
+	  "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/p_pixel.zip" ,
+	  "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/p_pixel.jpg",
 	  "isAdaptive":false,
 	  "isNew":false
 	  }
