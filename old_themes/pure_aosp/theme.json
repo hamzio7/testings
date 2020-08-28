@@ -6,13 +6,17 @@
 	  "name":"AOSP Adaptive" ,
 	  "url":"https://github.com/hamzio7/testings/raw/master/old_themes/pure_aosp/icons_0.zip" ,
 	  "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/aosp.jpg",
-	  "isAdaptive":true},
+	  "isAdaptive":true,
+	  "isNew":true
+	  },
 
 	  { 
 	  "name":"AOSP Shapeless" ,
 	  "url":"https://github.com/hamzio7/testings/raw/master/old_themes/pure_aosp/icons_0.zip" ,
 	  "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/p_aosp.jpg",
-	  "isAdaptive":false}
+	  "isAdaptive":false,
+	  "isNew":false
+	  }
 	  
 	],
 	
