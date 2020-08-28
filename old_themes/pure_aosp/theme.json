@@ -49,27 +49,37 @@
 	  "actionbar_1":"#ff35363a",
 	  "actionbar_2":"#ff5f6368",
 	  "actionbar_3":"#ff80868b",
-	  "accent":"#ff1a73e8" ,
+	  "accent":"#ff8ab4f8" ,
 	  "pro":false
 	  },
 	  
 	  { 
-	  "name":"Google Dark" ,
+	  "name":"Google Dark Grey" ,
 	  "background":"#ff202124",
 	  "actionbar_1":"#ff35363a",
 	  "actionbar_2":"#ff5f6368",
 	  "actionbar_3":"#ff80868b",
-	  "accent":"#ff1a73e8" ,
+	  "accent":"#ff009688" ,
+	  "pro":false
+	  },
+	  
+	  { 
+	  "name":"Google Dark Grey" ,
+	  "background":"#ff202020",
+	  "actionbar_1":"#ff303030",
+	  "actionbar_2":"#ff505050",
+	  "actionbar_3":"#ff808080",
+	  "accent":"#ff009688" ,
 	  "pro":false
 	  },
 	  
 	  { 
 	  "name":"Google Dark",
-	  "background":"#ff202124",
-	  "actionbar_1":"#ff35363a",
-	  "actionbar_2":"#ff5f6368",
-	  "actionbar_3":"#ff80868b",
-	  "accent":"#ff1a73e8" ,
+	  "background":"#ff202020",
+	  "actionbar_1":"#ff303030",
+	  "actionbar_2":"#ff505050",
+	  "actionbar_3":"#ff808080",
+	  "accent":"#ff009688" ,
 	  "pro":false
 	  }
 	 
