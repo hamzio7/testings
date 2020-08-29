@@ -2,9 +2,16 @@
 	
 	"icons":[
 
-	  {	"name":"AOSP Adaptive" ,
-	  "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/aosp.zip" ,
-	  "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/aosp.jpg",
+	  {	"name":"Pixelify Dark Adaptive" ,
+	  "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/pixelify_dark.zip" ,
+	  "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/pixelify_d.jpg",
+	  "isAdaptive":true,
+	  "isNew":false
+	  },
+
+	  {	"name":"Pixel Adaptive" ,
+	  "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/pixel.zip" ,
+	  "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/pixel.jpg",
 	  "isAdaptive":true,
 	  "isNew":false
 	  },
@@ -16,9 +23,10 @@
 	  "isNew":false
 	  },
 	  
-	  {	"name":"Pixel Adaptive" ,
-	  "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/pixel.zip" ,
-	  "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/pixel.jpg",
+	  
+	  {	"name":"AOSP Adaptive" ,
+	  "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/aosp.zip" ,
+	  "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/aosp.jpg",
 	  "isAdaptive":true,
 	  "isNew":false
 	  },
@@ -34,7 +42,7 @@
 
 	"theme_data":[
 	
-	{"data_link":"https://github.com/hamzio7/testings/raw/master/themes/pure_a/theme.zip"}
+	{"data_link":"https://github.com/hamzio7/testings/raw/master/themes/pure_g/theme.zip"}
 	
 	],
 	
