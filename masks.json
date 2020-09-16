@@ -1,13 +1,11 @@
 {	
 	"masks":[
 
-	  {	"mask":"AOSP Adaptive"},
+	  {	"mask":"https://github.com/hamzio7/testings/raw/master/masks/heart.png"},
 	  
-	  { "mask":"AOSP Shapeless"},
+	  { "mask":"https://github.com/hamzio7/testings/raw/master/masks/ver_rec.png"},
 	  
-	  {	"mask":"Pixel Adaptive"},
-
-	  {	"mask":"Pixel Shapeless"}
+	  {	"mask":"https://github.com/hamzio7/testings/raw/master/masks/hor_rec.png"}
 	  
 	]
 	
