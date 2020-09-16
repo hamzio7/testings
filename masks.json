@@ -1,0 +1,14 @@
+{	
+	"masks":[
+
+	  {	"mask":"AOSP Adaptive"},
+	  
+	  { "mask":"AOSP Shapeless"},
+	  
+	  {	"mask":"Pixel Adaptive"},
+
+	  {	"mask":"Pixel Shapeless"}
+	  
+	]
+	
+	}
