@@ -1,7 +1,13 @@
 {	
 	"masks":[
 
+	  {	"mask":"https://github.com/hamzio7/testings/raw/master/masks/miui9.png"},
+	  
 	  {	"mask":"https://github.com/hamzio7/testings/raw/master/masks/heart.png"},
+	  
+	  {	"mask":"https://github.com/hamzio7/testings/raw/master/masks/belle.png"},
+	  
+	  {	"mask":"https://github.com/hamzio7/testings/raw/master/masks/miui.png"},
 	  
 	  {	"mask":"https://github.com/hamzio7/testings/raw/master/masks/hexagon.png"},
 	  
