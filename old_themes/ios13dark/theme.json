@@ -2,14 +2,14 @@
 	
 	"icons":[
 
-	  {	"name":"Pixelify Dark Adaptive" ,
+	  {	"name":"iOS" ,
 	  "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/ios.zip" ,
 	  "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/ios.jpg",
 	  "isAdaptive":true,
 	  "isNew":false
 	  },
 
-	  {	"name":"Pixel Adaptive" ,
+	  {	"name":"iOS Sunset" ,
 	  "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/ios_sunset.zip" ,
 	  "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/ios_sunset.jpg",
 	  "isAdaptive":true,
@@ -18,7 +18,7 @@
 	  
 	  
 	 
-	  {	"name":"AOSP Adaptive" ,
+	  {	"name":"iOS Black" ,
 	  "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/iosblack.zip" ,
 	  "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/iosblack.jpg",
 	  "isAdaptive":true,
