@@ -1,11 +1,11 @@
 {	
 	"icons":[
 
-	  { "name":"Material",
+	  { "name":"material",
 	  "link":"Material",
 	  "isColored":false},
 	  
-	  {	"name":"Material",
+	  {	"name":"material",
 	  "link":"Material",
 	  "isColored":true}
 	  
