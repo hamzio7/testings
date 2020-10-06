@@ -1,0 +1,117 @@
+{
+	
+	"icons":[
+
+	  {	"name":"Pixelify Dark Adaptive" ,
+	  "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/ios.zip" ,
+	  "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/ios.jpg",
+	  "isAdaptive":true,
+	  "isNew":false
+	  },
+
+	  {	"name":"Pixel Adaptive" ,
+	  "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/ios_sunset.zip" ,
+	  "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/ios_sunset.jpg",
+	  "isAdaptive":true,
+	  "isNew":false
+	  },
+	  
+	  
+	 
+	  {	"name":"AOSP Adaptive" ,
+	  "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/iosblack.zip" ,
+	  "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/iosblack.jpg",
+	  "isAdaptive":true,
+	  "isNew":false
+	  },
+
+	  
+	],
+
+	"theme_data":[
+	
+	{"data_link":"https://github.com/hamzio7/testings/raw/master/old_themes/ios13dark/theme.zip"}
+	
+	],
+	
+	"colors":[
+
+	  { 
+	  "name":"Crayola" ,
+	  "background":"#ff1c1c1e",
+	  "actionbar_1":"#ff303032",
+	  "actionbar_2":"#ff404042",
+	  "actionbar_3":"#ff606062",
+	  "accent":"#ff147EFB" ,
+	  "pro":false
+	  },
+	  
+	  { 
+	  "name":"Emerald" ,
+	  "background":"#ff1c1c1e",
+	  "actionbar_1":"#ff303032",
+	  "actionbar_2":"#ff404042",
+	  "actionbar_3":"#ff606062",
+	  "accent":"#ff53D769" ,
+	  "pro":false
+	  },
+	  
+	  { 
+	  "name":"Coral Red" ,
+	  "background":"#ff1c1c1e",
+	  "actionbar_1":"#ff303032",
+	  "actionbar_2":"#ff404042",
+	  "actionbar_3":"#ff606062",
+	  "accent":"#ffFC3D39" ,
+	  "pro":false
+	  },
+	  
+	  { 
+	  "name":"Maya Blue",
+	  "background":"#ff1c1c1e",
+	  "actionbar_1":"#ff303032",
+	  "actionbar_2":"#ff404042",
+	  "actionbar_3":"#ff606062",
+	  "accent":"#ff5FC9F8" ,
+	  "pro":false
+	  }
+	 
+	  ],
+	
+	"colors_light":[
+
+	  { 
+	  "name":"Crayola" ,
+	  "background":"#ffffffff",
+	  "actionbar_1":"#fffafafa",
+	  "accent":"#ff147EFB" ,
+	  "pro":false
+	  },
+	  
+	  { 
+	  "name":"Maya Blue" ,
+	  "background":"#ffffffff",
+	  "actionbar_1":"#fffafafa",
+	  "accent":"#ff5FC9F8" ,
+	  "pro":false
+	  },
+	  
+	  { 
+	  "name":"Coral Red" ,
+	  "background":"#ffffffff",
+	  "actionbar_1":"#fffafafa",
+	  "accent":"#ffFC3D39" ,
+	  "pro":false
+	  },
+	  
+	  { 
+	  "name":"Emerald" , 
+	  "background":"#ffffffff", 
+	  "actionbar_1":"#fffafafa",
+	  "accent":"#ff53D769" , 
+	  "pro":false
+	  }
+	 
+	  ]
+	
+	}
