@@ -5,8 +5,8 @@
 	  "link":"Material",
 	  "isColored":false},
 	  
-	  {	"name":"material",
-	  "link":"Material",
+	  {	"name":"material_outline",
+	  "link":"material_outline",
 	  "isColored":true}
 	  
 	]
