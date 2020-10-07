@@ -1,13 +1,9 @@
 {	
 	"icons":[
 
-	  { "name":"material",
-	  "link":"Material",
-	  "isColored":false},
+	  { "name":"material",	"isColored":false},
 	  
-	  {	"name":"material_outline",
-	  "link":"material_outline",
-	  "isColored":true}
+	  {	"name":"material_outline",	"isColored":true}
 	  
 	]
 	
