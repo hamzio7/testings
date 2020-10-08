@@ -2,7 +2,8 @@
 	"icons":[
 
 	  { "name":"material",	"isColored":false},
-	  
+	  { "name":"oneui",	"isColored":false},
+	  { "name":"oneuic",	"isColored":true},
 	  {	"name":"material_outline",	"isColored":true}
 	  
 	]
