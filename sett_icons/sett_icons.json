@@ -3,7 +3,7 @@
 
 	  { "name":"material",	"isColored":false},
 	  { "name":"oneui",	"isColored":false},
-	  { "name":"oneui",	"isColored":true},
+	  { "name":"oneuic",	"isColored":true},
 	  {	"name":"material_outline",	"isColored":true}
 	  
 	]
