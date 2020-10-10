@@ -1,6 +1,7 @@
 {	
 	"icons":[
 
+	  { "name":"ios",	"isColored":false},
 	  { "name":"material",	"isColored":false},
 	  { "name":"oneui",	"isColored":false},
 	  { "name":"oneuic",	"isColored":true},
