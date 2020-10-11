@@ -1,6 +1,8 @@
 {	
 	"icons":[
 
+	  { "name":"miui_alt",	"isColored":true},
+	  { "name":"miui",	"isColored":false},
 	  { "name":"ios_alt",	"isColored":false},
 	  { "name":"ios",	"isColored":false},
 	  { "name":"material",	"isColored":false},
