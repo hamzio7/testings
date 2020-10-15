@@ -1,8 +1,8 @@
 {	
 	"icons":[
 
-	  { "name":"modern",	"isColored":true},
-	  {	"name":"material_outline",	"isColored":true}
+	  { "name":"miui",	"isColored":true},
+	  {	"name":"ios",	"isColored":true}
 	  
 	]
 	
