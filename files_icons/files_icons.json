@@ -1,8 +1,8 @@
 {	
 	"icons":[
 
-	  { "name":"miui",	"isColored":true},
-	  {	"name":"ios",	"isColored":true}
+	  { "name":"miui",	"isColored":false},
+	  {	"name":"ios",	"isColored":false}
 	  
 	]
 	
