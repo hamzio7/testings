@@ -1,7 +1,10 @@
 {	
 	"icons":[
 
+	  { "name":"dream_alt",	"isColored":true},
+	  { "name":"dream",	"isColored":false},
 	  { "name":"miui",	"isColored":false},
+	  { "name":"ios_alt",	"isColored":true},
 	  {	"name":"ios",	"isColored":false}
 	  
 	]
