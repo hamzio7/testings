@@ -1,5 +1,7 @@
 {"presets":[
-  { "name":"Retro Theme" , "background":"#fffffde7", "actionbar_1":"#ffece1b7", "accent":"#ffe0733a" , "pro":false },
-  { "name":"Google Theme" , "background":"#ffffffff", "actionbar_1":"#ffffffff", "accent":"#ff1a73e8" , "pro":false },
-  { "name":"Windows Theme" , "background":"#ffffffff", "actionbar_1":"#ffffffff", "accent":"#ff03a9f4" , "pro":false }
+{"accent":"#ff009688","actionbar_1":"#ffffffff","background":"#ffffffff","name":"AOSP","pro":false},
+{"accent":"#ff1a73e8","actionbar_1":"#ffffffff","background":"#ffffffff","name":"Google Light","pro":false},
+{"accent":"#ff4285f6","actionbar_1":"#ffffffff","background":"#ffffffff","name":"Pixel","pro":false},
+{"accent":"#ffe0733a","actionbar_1":"#ffece1b7","background":"#fffffde7","name":"Retro Material","pro":false},
+{"accent":"#ff03a9f4","actionbar_1":"#ffffffff","background":"#ffffffff","name":"Windows 10","pro":false}
 ]}

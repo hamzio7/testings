@@ -1,4 +1,29 @@
 {"presets":[
-  { "name":"Google Dark" , "background":"#ff202124", "actionbar_1":"#ff35363a", "actionbar_2":"#ff5f6368", "actionbar_3":"#ff80868b", "accent":"#ff1a73e8" , "pro":false }
-  
+
+{"accent":"#ff009688","actionbar_1":"#ff353535","actionbar_2":"#ff505050","actionbar_3":"#ff808080","background":"#ff202020","name":"AOSP","pro":false},
+{"accent":"#ffff6161","actionbar_1":"#ff353745","actionbar_2":"#ff4f4f5a","actionbar_3":"#ff565662","background":"#ff313340","name":"Alive","pro":true},
+{"accent":"#ff03a9f4","actionbar_1":"#ff424242","actionbar_2":"#ff616161","actionbar_3":"#ff757575","background":"#ff202020","name":"Dark Grey","pro":false},
+{"accent":"#ffdc5247","actionbar_1":"#ff2a2e30","actionbar_2":"#ff43494d","actionbar_3":"#ff495054","background":"#ff222528","name":"Dorange","pro":false},
+{"accent":"#ff1a73e8","actionbar_1":"#ff35363a","actionbar_2":"#ff5f6368","actionbar_3":"#ff80868b","background":"#ff202124","name":"Google Dark","pro":false},
+{"accent":"#ff7986cb","actionbar_1":"#ff2d2f37","actionbar_2":"#ff30313a","actionbar_3":"#ff393941","background":"#ff1c1f28","name":"HoS","pro":false},
+{"accent":"#fff64b29","actionbar_1":"#ff222835","actionbar_2":"#ff303948","actionbar_3":"#ff4d5a70","background":"#ff1b212c","name":"Lumier","pro":true},
+{"accent":"#ffe0ae91","actionbar_1":"#ff212121","actionbar_2":"#ff333333","actionbar_3":"#ff525252","background":"#ff191919","name":"Luxury","pro":false},
+{"accent":"#ffe2765c","actionbar_1":"#ff414141","actionbar_2":"#ff515151","actionbar_3":"#ff616161","background":"#ff303030","name":"MINI Retro","pro":true},
+{"accent":"#ffff8f14","actionbar_1":"#ff34343a","actionbar_2":"#ff4e4e52","actionbar_3":"#ff7d7d81","background":"#ff29292e","name":"McLaren","pro":true},
+{"accent":"#fff06292","actionbar_1":"#ff292b3a","actionbar_2":"#ff3c3f54","actionbar_3":"#ff4e526e","background":"#ff242633","name":"Midnight","pro":true},
+{"accent":"#ff66bb6a","actionbar_1":"#ff2d343c","actionbar_2":"#ff3d4651","actionbar_3":"#ff4e5a68","background":"#ff22272b","name":"Nite","pro":true},
+{"accent":"#ff9a8ed7","actionbar_1":"#ff2e2a39","actionbar_2":"#ff3f3a4d","actionbar_3":"#ff494459","background":"#ff282531","name":"Peafowl","pro":false},
+{"accent":"#ff1a73e8","actionbar_1":"#ff000000","actionbar_2":"#ff333333","actionbar_3":"#ff777777","background":"#ff000000","name":"Pitch Black","pro":false},
+{"accent":"#ff8ab4f8","actionbar_1":"#ff35363a","actionbar_2":"#ff5f6368","actionbar_3":"#ff80868b","background":"#ff202124","name":"Pixel","pro":false},
+{"accent":"#ff34df6b","actionbar_1":"#ff2a3151","actionbar_2":"#ff38416b","actionbar_3":"#ff505d99","background":"#ff0c122f","name":"Retro","pro":true},
+{"accent":"#ff42a5f5","actionbar_1":"#ff37474f","actionbar_2":"#ff455a64","actionbar_3":"#ff475c66","background":"#ff263238","name":"Special Blue","pro":true},
+{"accent":"#ffce93d9","actionbar_1":"#ff37474f","actionbar_2":"#ff455a64","actionbar_3":"#ff475c66","background":"#ff263238","name":"Special Pink","pro":true},
+{"accent":"#fff44336","actionbar_1":"#ff37474f","actionbar_2":"#ff455a64","actionbar_3":"#ff475c66","background":"#ff263238","name":"Special Red","pro":true},
+{"accent":"#fffc8b3d","actionbar_1":"#ff212121","actionbar_2":"#ff313131","actionbar_3":"#ff414141","background":"#ff212121","name":"Sunset","pro":false},
+{"accent":"#ff00b09c","actionbar_1":"#ff222d36","actionbar_2":"#ff354654","actionbar_3":"#ff506a80","background":"#ff101d24","name":"WhatsApp Dark","pro":true},
+{"accent":"#ff5294e2","actionbar_1":"#ff404552","actionbar_2":"#ff545a6b","actionbar_3":"#ff7c818c","background":"#ff383c4e","name":"dArc","pro":false},
+{"accent":"#fff42c49","actionbar_1":"#ff273545","actionbar_2":"#ff324459","actionbar_3":"#ff3c526b","background":"#ff212d3b","name":"i-Special","pro":false},
+{"accent":"#ffe8ad2c","actionbar_1":"#ff353535","actionbar_2":"#ff454545","actionbar_3":"#ff757575","background":"#ff212121","name":"xda 1","pro":false},
+{"accent":"#ffe8ad2c","actionbar_1":"#ff353535","actionbar_2":"#ff454545","actionbar_3":"#ff757575","background":"#ff303030","name":"xda 2","pro":false}  
+
   ]}
