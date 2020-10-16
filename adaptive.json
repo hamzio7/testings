@@ -18,7 +18,7 @@
   { "name":"iosblack" ,"pro":true},
   { "name":"ios_sunset" ,"pro":false},
   { "name":"ios_neu_ad_dark" ,"pro":true},
-  { "name":"ios_neu_ad" ,"pro":false},
+  { "name":"ios_neu_ad" ,"pro":true},
   { "name":"ios" ,"pro":false},
   { "name":"i-like" ,"pro":true},
   { "name":"huawei" ,"pro":false},
