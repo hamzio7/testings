@@ -1,0 +1,21 @@
+{"icons":[
+  { "name":"special_red" ,"pro":true},
+  { "name":"special_pink" ,"pro":true},
+  { "name":"special_colorful" ,"pro":false},
+  { "name":"special_blue" ,"pro":true},
+  { "name":"sense" ,"pro":false},
+  { "name":"retro" ,"pro":false},
+  { "name":"poco" ,"pro":false},
+  { "name":"p_pixel" ,"pro":false},
+  { "name":"p_aosp" ,"pro":false},
+  { "name":"oxygen" ,"pro":false},
+  { "name":"neu_ios_light" ,"pro":true},
+  { "name":"neu_ios_dark" ,"pro":true},
+  { "name":"miui10" ,"pro":false},
+  { "name":"mclaren" ,"pro":true},
+  { "name":"materialsmclaren" ,"pro":false},
+  { "name":"Materials_2" ,"pro":true},
+  { "name":"materials" ,"pro":false},
+  { "name":"hydrogen" ,"pro":true},
+  { "name":"fluent_shapeless" ,"pro":true}
+]}
