@@ -1,0 +1,20 @@
+{	
+	"icons":[
+
+	  { "name":"dream",	"isColored":false},
+	  { "name":"dream_alt",	"isColored":true},
+	  { "name":"material_circle_alt",	"isColored":false},
+	  { "name":"material_circle",	"isColored":true},
+	  { "name":"miui_alt",	"isColored":true},
+	  { "name":"miui",	"isColored":false},
+	  { "name":"ios_alt",	"isColored":false},
+	  { "name":"ios",	"isColored":false},
+	  { "name":"material",	"isColored":false},
+	  { "name":"oneui",	"isColored":false},
+	  { "name":"oneuic",	"isColored":true},
+	  { "name":"modern",	"isColored":true},
+	  {	"name":"material_outline",	"isColored":true}
+	  
+	]
+	
+}
