@@ -1,11 +1,25 @@
 {"mods":[
-  { "name":"Semi-Transparent Volume Bar", "app":"com.android.systemui" , "url":"https://github.com/hamzio7/testings/raw/master/mods/volume_transparent.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/volume_transparent.jpg"},
-  { "name":"Dock Background", "app":"com.huawei.android.launcher" , "url":"https://github.com/hamzio7/testings/raw/master/mods/dock_bg.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/dock_bg.jpg"},
-  { "name":"Brighter Folders", "app":"ic" , "url":"https://github.com/hamzio7/testings/raw/master/mods/brightfolder.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/brightfolder.jpg"},
-  { "name":"Round Dial Numbers Light", "app":"com.android.contacts" , "url":"https://github.com/hamzio7/testings/raw/master/mods/iphonenumswhite.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/iphonenumswhite.jpg"},
-  { "name":"Round Dial Numbers", "app":"com.android.contacts" , "url":"https://github.com/hamzio7/testings/raw/master/mods/iphonenums.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/iphonenums.jpg"},
-  { "name":"iOS Files Icons", "app":"com.huawei.hidisk" , "url":"https://github.com/hamzio7/testings/raw/master/mods/category_ios.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/category_ios.jpg"},
-  { "name":"MIUI Files Icons", "app":"com.huawei.hidisk" , "url":"https://github.com/hamzio7/testings/raw/master/mods/category_miui.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/category_miui.jpg"},
-  { "name":"i-Special Dividers", "app":"" , "url":"https://github.com/hamzio7/testings/raw/master/mods/div_iSpecial.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/div_iSpecial.jpg"},
-  { "name":"MIUI Seek Bars", "app":"" , "url":"https://github.com/hamzio7/testings/raw/master/mods/miuiseekbars.zip" , "preview":"https://github.com/hamzio7/testings/raw/master/modpreviews/miuiseekbars.jpg"}
+
+{"mod":"dock_bg","name":"Dock Background"},
+
+{"mod":"gmail","name":"Gmail Notification Fix"},
+
+{"mod":"miuiseekbars","name":"MIUI Seek Bars"},
+
+{"mod":"volume_transparent","name":"Semi-Transparent Volume Bar"},
+
+{"mod":"volume_dark","name":"Stock Volume Panel (Dark)"},
+
+{"mod":"volume_light","name":"Stock Volume Panel (Light)"},
+
+{"mod":"div_iSpecial_cyan","name":"i-Special Cyan Dividers"},
+
+{"mod":"div_iSpecial","name":"i-Special Dividers"},
+
+{"mod":"div_iSpecial_green","name":"i-Special Green Dividers"},
+
+{"mod":"div_iSpecial_grey","name":"i-Special Grey Dividers"},
+
+{"mod":"div_iSpecial_pink","name":"i-Special Pink Dividers"}
+
 ]}
