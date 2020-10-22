@@ -1,42 +1,103 @@
-{	
-	"themes":[
+{
+	"themes": [
 
-	  {	"name":"Batman","base":"dark","mods":"","skuid":"","preview":"",
-	  
-	  "colors":
-	  
-	  [{"accent":"0",
-	  "actionbar":"1",
-	  "background":"2",
-	  "calculator":"3",
-	  "dialer":"4",
-	  "dialpad":"4",
-	  "optimizer":"4",
-	  "optimizer_icons":"4",
-	  "optimizer_tiles":"4",
-	  "settings":"4",
-	  "settings_icons":"4",
-	  "settings_tiles":"4"},
-	  "systemui":"4"}
-	  
-	  ],
-	  
-	  "previews":
-	  
-	  [
-	  
-	  {"preview":"0"},
-	  {"preview":"1"},
-	  {"preview":"2"},
-	  {"preview":"3"},
-	  {"preview":"4"}
-	  
-	  ]
-	  
+		{
 
-	  
-	  
-	  
+			"name": "Batman",
+			"base": "dark",
+			"mods": "",
+			"skuid": "",
+			"preview": "",
+
+			"colors": [{
+
+				"accent": "0",
+				"actionbar": "1",
+				"background": "2",
+				"calculator": "3",
+				"dialer": "4",
+				"dialpad": "4",
+				"optimizer": "4",
+				"optimizer_icons": "4",
+				"optimizer_tiles": "4",
+				"settings": "4",
+				"settings_icons": "4",
+				"settings_tiles": "4",
+				"systemui": "4"
+
+			}],
+
+
+			"previews": [
+
+				{
+					"preview": "0"
+				},
+				{
+					"preview": "0"
+				},
+				{
+					"preview": "0"
+				},
+				{
+					"preview": "0"
+				},
+				{
+					"preview": "0"
+				}
+
+			]
+		},
+
+		{
+
+			"name": "Batman",
+			"base": "dark",
+			"mods": "",
+			"skuid": "",
+			"preview": "",
+
+			"colors": [{
+
+				"accent": "0",
+				"actionbar": "1",
+				"background": "2",
+				"calculator": "3",
+				"dialer": "4",
+				"dialpad": "4",
+				"optimizer": "4",
+				"optimizer_icons": "4",
+				"optimizer_tiles": "4",
+				"settings": "4",
+				"settings_icons": "4",
+				"settings_tiles": "4",
+				"systemui": "4"
+
+			}],
+
+
+			"previews": [
+
+				{
+					"preview": "0"
+				},
+				{
+					"preview": "0"
+				},
+				{
+					"preview": "0"
+				},
+				{
+					"preview": "0"
+				},
+				{
+					"preview": "0"
+				}
+
+			]
+		}
+
+
 	]
-	
+
 }
