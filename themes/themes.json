@@ -1,26 +1,380 @@
 {"themes": [
 
-		{	"name": "Batman",
-			"theme_folder": "batman",
+		{	"name": "Modern Dark",
+			"theme_folder": "modern",
+			"theme_file": "theme_d",
+			"base": "dark",
+			"skuid": "modern",
+
+			"colors": [{
+
+				"accent": "ababab",
+				"actionbar": "252525",
+				"background": "212121",
+				"calculator": "ababab",
+				"dialer": "ababab",
+				"dialpad": "252525",
+				"optimizer": "ffffff",
+				"optimizer_icons": "212121",
+				"optimizer_tiles": "ffffff",
+				"settings": "ffffff",
+				"settings_icons": "212121",
+				"settings_tiles": "ffffff",
+				"systemui": "ffffff"
+
+			}],
+
+
+			"previews": [
+			
+				{
+					"preview": "00"
+				},{
+					"preview": "01"
+				},{
+					"preview": "02"
+				},{
+					"preview": "03"
+				},{
+					"preview": "04"
+				},{
+					"preview": "05"
+				}
+			]
+		},		{	"name": "Modern",
+			"theme_folder": "modern",
+			"theme_file": "theme",
+			"base": "light",
+			"skuid": "modern",
+
+			"colors": [{
+
+				"accent": "212121",
+				"actionbar": "ffffff",
+				"background": "ffffff",
+				"calculator": "212121",
+				"dialer": "212121",
+				"dialpad": "ffffff",
+				"optimizer": "212121",
+				"optimizer_icons": "ffffff",
+				"optimizer_tiles": "212121",
+				"settings": "212121",
+				"settings_icons": "ffffff",
+				"settings_tiles": "212121",
+				"systemui": "212121"
+
+			}],
+
+
+			"previews": [
+			
+				{
+					"preview": "0"
+				},{
+					"preview": "1"
+				},{
+					"preview": "2"
+				},{
+					"preview": "3"
+				},{
+					"preview": "4"
+				},{
+					"preview": "5"
+				},{
+					"preview": "6"
+				}
+
+			]
+		},			{	"name": "MINI Retro (Square)",
+			"theme_folder": "miniRetro",
+			"theme_file": "miniretro",
+			"base": "dark",
+			"skuid": "miniretro",
+
+			"colors": [{
+
+				"accent": "e2765c",
+				"actionbar": "414141",
+				"background": "303030",
+				"calculator": "e2765c",
+				"dialer": "e2765c",
+				"dialpad": "383838",
+				"optimizer": "e2765c",
+				"optimizer_icons": "414141",
+				"optimizer_tiles": "e2765c",
+				"settings": "e2765c",
+				"settings_icons": "414141",
+				"settings_tiles": "e2765c",
+				"systemui": "e2765c"
+
+			}],
+
+
+			"previews": [
+			
+				{
+					"preview": "0"
+				},
+				{
+					"preview": "1"
+				},
+				{
+					"preview": "2"
+				},
+				{
+					"preview": "3"
+				}
+
+			]
+		},		{	"name": "MINI Retro (Round)",
+			"theme_folder": "miniRetro",
+			"theme_file": "miniretro_r",
+			"base": "dark",
+			"skuid": "miniretro",
+
+			"colors": [{
+
+				"accent": "e2765c",
+				"actionbar": "414141",
+				"background": "303030",
+				"calculator": "e2765c",
+				"dialer": "e2765c",
+				"dialpad": "383838",
+				"optimizer": "e2765c",
+				"optimizer_icons": "414141",
+				"optimizer_tiles": "e2765c",
+				"settings": "e2765c",
+				"settings_icons": "414141",
+				"settings_tiles": "e2765c",
+				"systemui": "e2765c"
+
+			}],
+
+
+			"previews": [
+			
+				{
+					"preview": "0"
+				},
+				{
+					"preview": "4"
+				},
+				{
+					"preview": "2"
+				},
+				{
+					"preview": "3"
+				}
+
+			]
+		},			{	"name": "MD Special",
+			"theme_folder": "md_special",
+			"theme_file": "mds",
+			"base": "dark",
+			"skuid": "free",
+
+			"colors": [{
+
+				"accent": "3ddc84",
+				"actionbar": "313140",
+				"background": "22222c",
+				"calculator": "3ddc84",
+				"dialer": "3ddc84",
+				"dialpad": "313140",
+				"optimizer": "3ddc84",
+				"optimizer_icons": "22222c",
+				"optimizer_tiles": "3ddc84",
+				"settings": "3ddc84",
+				"settings_icons": "22222c",
+				"settings_tiles": "3ddc84",
+				"systemui": "3ddc84"
+
+			}],
+
+
+			"previews": [
+			
+				{
+					"preview": "0"
+				},
+				{
+					"preview": "1"
+				},
+				{
+					"preview": "2"
+				},
+				{
+					"preview": "3"
+				},
+				{
+					"preview": "4"
+				}
+
+			]
+		},		{	"name": "Hello Future",
+			"theme_folder": "hello_future",
+			"theme_file": "hello_future",
+			"base": "light",
+			"skuid": "free",
+
+			"colors": [{
+
+				"accent": "458aff",
+				"actionbar": "ffffff",
+				"background": "ffffff",
+				"calculator": "ffcc00",
+				"dialer": "458aff",
+				"dialpad": "ffffff",
+				"optimizer": "00cc83",
+				"optimizer_icons": "ffffff",
+				"optimizer_tiles": "00cc83",
+				"settings": "458aff",
+				"settings_icons": "ffffff",
+				"settings_tiles": "458aff",
+				"systemui": "458aff"
+
+			}],
+
+
+			"previews": [
+			
+				{
+					"preview": "0"
+				},
+				{
+					"preview": "1"
+				},
+				{
+					"preview": "2"
+				},
+				{
+					"preview": "3"
+				},
+				{
+					"preview": "4"
+				},
+				{
+					"preview": "5"
+				}
+
+			]
+		},		{	"name": "Grey One",
+			"theme_folder": "grey_one",
+			"theme_file": "grey_one",
+			"base": "dark",
+			"skuid": "witcher",
+
+			"colors": [{
+
+				"accent": "95969a",
+				"actionbar": "35363a",
+				"background": "202124",
+				"calculator": "95969a",
+				"dialer": "95969a",
+				"dialpad": "35363a",
+				"optimizer": "95969a",
+				"optimizer_icons": "ffffff",
+				"optimizer_tiles": "95969a",
+				"settings": "95969a",
+				"settings_icons": "ffffff",
+				"settings_tiles": "95969a",
+				"systemui": "95969a"
+
+			}],
+
+
+			"previews": [
+			
+				{
+					"preview": "0"
+				},
+				{
+					"preview": "1"
+				},
+				{
+					"preview": "2"
+				},
+				{
+					"preview": "3"
+				},
+				{
+					"preview": "4"
+				},
+				{
+					"preview": "5"
+				}
+
+			]
+		},		{	"name": "EMUI Vivid",
+			"theme_folder": "emui_vivid",
 			"theme_file": "theme",
 			"base": "dark",
 			"skuid": "free",
 
 			"colors": [{
 
-				"accent": "fec202",
-				"actionbar": "353535",
-				"background": "202020",
-				"calculator": "fec202",
-				"dialer": "fec202",
-				"dialpad": "252525",
-				"optimizer": "fec202",
-				"optimizer_icons": "fec202",
-				"optimizer_tiles": "202020",
-				"settings": "fec202",
-				"settings_icons": "202020",
-				"settings_tiles": "fec202",
-				"systemui": "fec202"
+				"accent": "EFA219",
+				"actionbar": "3E3D4B",
+				"background": "2E2D3B",
+				"calculator": "EFA219",
+				"dialer": "37EDAE",
+				"dialpad": "3E3D4B",
+				"optimizer": "37EDAE",
+				"optimizer_icons": "ffffff",
+				"optimizer_tiles": "37EDAE",
+				"settings": "EF6568",
+				"settings_icons": "ffffff",
+				"settings_tiles": "EF6568",
+				"systemui": "EFA219"
+
+			}],
+
+
+			"previews": [
+			
+				{
+					"preview": "0"
+				},
+				{
+					"preview": "1"
+				},
+				{
+					"preview": "2"
+				},
+				{
+					"preview": "3"
+				},
+				{
+					"preview": "4"
+				},
+				{
+					"preview": "5"
+				}
+
+			]
+		},
+		
+		{	"name": "Coffee Time",
+			"theme_folder": "caffee",
+			"theme_file": "theme",
+			"base": "dark",
+			"skuid": "free",
+
+			"colors": [{
+
+				"accent": "aa7c4d",
+				"actionbar": "362E2A",
+				"background": "2B2420",
+				"calculator": "aa7c4d",
+				"dialer": "aa7c4d",
+				"dialpad": "362E2A",
+				"optimizer": "aa7c4d",
+				"optimizer_icons": "ffffff",
+				"optimizer_tiles": "2B2420",
+				"settings": "aa7c4d",
+				"settings_icons": "ffffff",
+				"settings_tiles": "aa7c4d",
+				"systemui": "aa7c4d"
 
 			}],
 
@@ -49,7 +403,7 @@
 			]
 		},
 
-		{	"name": "Batman",
+			{	"name": "Batman",
 			"theme_folder": "batman",
 			"theme_file": "theme",
 			"base": "dark",
