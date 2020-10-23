@@ -1,33 +1,32 @@
 {"themes": [
 
 		{	"name": "Batman",
-			"theme_folder": "dark",
-			"theme_file": "dark",
+			"theme_folder": "batman",
+			"theme_file": "theme",
 			"base": "dark",
-			"mods": "0",
 			"skuid": "free",
 
 			"colors": [{
 
-				"accent": "0",
-				"actionbar": "1",
-				"background": "2",
-				"calculator": "3",
-				"dialer": "4",
-				"dialpad": "4",
-				"optimizer": "4",
-				"optimizer_icons": "4",
-				"optimizer_tiles": "4",
-				"settings": "4",
-				"settings_icons": "4",
-				"settings_tiles": "4",
+				"accent": "fec202",
+				"actionbar": "353535",
+				"background": "202020",
+				"calculator": "fec202",
+				"dialer": "fec202",
+				"dialpad": "252525",
+				"optimizer": "fec202",
+				"optimizer_icons": "fec202",
+				"optimizer_tiles": "202020",
+				"settings": "fec202",
+				"settings_icons": "202020",
+				"settings_tiles": "fec202",
 				"systemui": "4"
 
 			}],
 
 
 			"previews": [
-
+			
 				{
 					"preview": "0"
 				},
@@ -51,33 +50,32 @@
 		},
 
 		{	"name": "Batman",
-			"theme_folder": "dark",
-			"theme_file": "dark",
+			"theme_folder": "batman",
+			"theme_file": "theme",
 			"base": "dark",
-			"mods": "0",
-			"skuid": "0",
+			"skuid": "free",
 
 			"colors": [{
 
-				"accent": "0",
-				"actionbar": "1",
-				"background": "2",
-				"calculator": "3",
-				"dialer": "4",
-				"dialpad": "4",
-				"optimizer": "4",
-				"optimizer_icons": "4",
-				"optimizer_tiles": "4",
-				"settings": "4",
-				"settings_icons": "4",
-				"settings_tiles": "4",
+				"accent": "fec202",
+				"actionbar": "353535",
+				"background": "202020",
+				"calculator": "fec202",
+				"dialer": "fec202",
+				"dialpad": "252525",
+				"optimizer": "fec202",
+				"optimizer_icons": "fec202",
+				"optimizer_tiles": "202020",
+				"settings": "fec202",
+				"settings_icons": "202020",
+				"settings_tiles": "fec202",
 				"systemui": "4"
 
 			}],
 
 
 			"previews": [
-
+			
 				{
 					"preview": "0"
 				},
