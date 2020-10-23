@@ -1,6 +1,8 @@
 {"themes": [
 
 		{	"name": "Batman",
+			"theme_folder": "dark",
+			"theme_file": "dark",
 			"base": "dark",
 			"mods": "0",
 			"skuid": "free",
@@ -49,6 +51,8 @@
 		},
 
 		{	"name": "Batman",
+			"theme_folder": "dark",
+			"theme_file": "dark",
 			"base": "dark",
 			"mods": "0",
 			"skuid": "0",
