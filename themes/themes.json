@@ -1,1265 +1,1193 @@
-{"themes": [
-
-
-
-		{	"name": "iOS 14 Dark (Free)",
-			"theme_folder": "ios14",
-			"theme_file": "theme_d",
-			"base": "dark",
-			"skuid": "free",
-
-			"colors": [{
-
-				"accent": "147efb",
-				"actionbar": "282a31",
-				"background": "1c1f26",
-				"calculator": "f19b38",
-				"dialer": "147efb",
-				"dialpad": "141414",
-				"optimizer": "147efb",
-				"optimizer_icons": "ffffff",
-				"optimizer_tiles": "147efb",
-				"settings": "147efb",
-				"settings_icons": "ffffff",
-				"settings_tiles": "147efb",
-				"systemui": "147efb"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "000"
-				},{
-					"preview": "001"
-				},{
-					"preview": "002"
-				},{
-					"preview": "03"
-				},{
-					"preview": "04"
-				},{
-					"preview": "05"
-				},{
-					"preview": "06"
-				}
-			]
-		},
-		
-		
-		{	"name": "iOS 14 Dark",
-			"theme_folder": "ios14",
-			"theme_file": "theme_d",
-			"base": "dark",
-			"skuid": "ios14",
-
-			"colors": [{
-
-				"accent": "147efb",
-				"actionbar": "282a31",
-				"background": "1c1f26",
-				"calculator": "f19b38",
-				"dialer": "147efb",
-				"dialpad": "141414",
-				"optimizer": "147efb",
-				"optimizer_icons": "ffffff",
-				"optimizer_tiles": "147efb",
-				"settings": "147efb",
-				"settings_icons": "ffffff",
-				"settings_tiles": "147efb",
-				"systemui": "147efb"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "00"
-				},{
-					"preview": "01"
-				},{
-					"preview": "02"
-				},{
-					"preview": "03"
-				},{
-					"preview": "04"
-				},{
-					"preview": "05"
-				},{
-					"preview": "06"
-				}
-			]
-		},
-		
-		
-
-		{	"name": "iOS Luxury",
-			"theme_folder": "ios_luxury",
-			"theme_file": "ios_luxury",
-			"base": "dark",
-			"skuid": "theme_ios_luxury",
-
-			"colors": [{
-
-				"accent": "edc56e",
-				"actionbar": "4f4f4f",
-				"background": "3c3c3c",
-				"calculator": "edc56e",
-				"dialer": "edc56e",
-				"dialpad": "404040",
-				"optimizer": "edc56e",
-				"optimizer_icons": "3c3c3c",
-				"optimizer_tiles": "edc56e",
-				"settings": "edc56e",
-				"settings_icons": "3c3c3c",
-				"settings_tiles": "edc56e",
-				"systemui": "edc56e"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "0"
-				},{
-					"preview": "home"
-				},{
-					"preview": "settings"
-				},{
-					"preview": "optimizer"
-				},{
-					"preview": "phone"
-				},{
-					"preview": "systemui"
-				}
-			]
-		},
-		
-				
-
-		{	"name": "iOS Midnight",
-			"theme_folder": "ios_midnight",
-			"theme_file": "ios_midnight",
-			"base": "dark",
-			"skuid": "free",
-
-			"colors": [{
-
-				"accent": "f06292",
-				"actionbar": "484c66",
-				"background": "292b3a",
-				"calculator": "f06292",
-				"dialer": "f06292",
-				"dialpad": "141414",
-				"optimizer": "f06292",
-				"optimizer_icons": "ffffff",
-				"optimizer_tiles": "f06292",
-				"settings": "f06292",
-				"settings_icons": "ffffff",
-				"settings_tiles": "f06292",
-				"systemui": "f06292"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "0"
-				},{
-					"preview": "1"
-				},{
-					"preview": "2"
-				},{
-					"preview": "3"
-				},{
-					"preview": "4"
-				}
-			]
-		},
-		
-				
-
-		{	"name": "iOS 14",
-			"theme_folder": "ios14",
-			"theme_file": "theme",
-			"base": "light",
-			"skuid": "free",
-
-			"colors": [{
-
-				"accent": "147efb",
-				"actionbar": "ffffff",
-				"background": "ffffff",
-				"calculator": "f19b38",
-				"dialer": "147efb",
-				"dialpad": "141414",
-				"optimizer": "147efb",
-				"optimizer_icons": "ffffff",
-				"optimizer_tiles": "147efb",
-				"settings": "147efb",
-				"settings_icons": "ffffff",
-				"settings_tiles": "147efb",
-				"systemui": "147efb"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "0"
-				},{
-					"preview": "1"
-				},{
-					"preview": "2"
-				},{
-					"preview": "3"
-				},{
-					"preview": "4"
-				},{
-					"preview": "5"
-				},{
-					"preview": "6"
-				},{
-					"preview": "7"
-				}
-			]
-		},
-		
-		
-
-		{	"name": "iMono",
-			"theme_folder": "i_mono",
-			"theme_file": "iMono",
-			"base": "light",
-			"skuid": "free",
-
-			"colors": [{
-
-				"accent": "909090",
-				"actionbar": "191919",
-				"background": "101010",
-				"calculator": "909090",
-				"dialer": "909090",
-				"dialpad": "141414",
-				"optimizer": "909090",
-				"optimizer_icons": "191919",
-				"optimizer_tiles": "909090",
-				"settings": "909090",
-				"settings_icons": "191919",
-				"settings_tiles": "909090",
-				"systemui": "909090"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "00"
-				},{
-					"preview": "0"
-				},{
-					"preview": "1"
-				},{
-					"preview": "2"
-				},{
-					"preview": "3"
-				},{
-					"preview": "4"
-				},{
-					"preview": "5"
-				}
-			]
-		},
-		
-		
-
-		{	"name": "iCandy",
-			"theme_folder": "iCandy",
-			"theme_file": "theme",
-			"base": "light",
-			"skuid": "free",
-
-			"colors": [{
-
-				"accent": "fd5492",
-				"actionbar": "ffdeea",
-				"background": "ffeef4",
-				"calculator": "fd5492",
-				"dialer": "fd5492",
-				"dialpad": "ffe6ef",
-				"optimizer": "fd5492",
-				"optimizer_icons": "ffffff",
-				"optimizer_tiles": "fd5492",
-				"settings": "fd5492",
-				"settings_icons": "ffffff",
-				"settings_tiles": "fd5492",
-				"systemui": "fd5492"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "0"
-				},{
-					"preview": "1"
-				},{
-					"preview": "2"
-				},{
-					"preview": "3"
-				},{
-					"preview": "4"
-				},{
-					"preview": "5"
-				}
-			]
-		},
-		
-		
-
-		{	"name": "Pure Pixel Dark",
-			"theme_folder": "pure_g",
-			"theme_file": "theme",
-			"base": "dark",
-			"skuid": "free",
-
-			"colors": [{
-
-				"accent": "8ab4f8",
-				"actionbar": "35363a",
-				"background": "202124",
-				"calculator": "8ab4f8",
-				"dialer": "8ab4f8",
-				"dialpad": "303030",
-				"optimizer": "8ab4f8",
-				"optimizer_icons": "202124",
-				"optimizer_tiles": "8ab4f8",
-				"settings": "8ab4f8",
-				"settings_icons": "202124",
-				"settings_tiles": "8ab4f8",
-				"systemui": "8ab4f8"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "00"
-				},{
-					"preview": "1"
-				},{
-					"preview": "2"
-				},{
-					"preview": "33"
-				},{
-					"preview": "44"
-				}
-			]
-		},
-
-		{	"name": "Pure Pixel",
-			"theme_folder": "pure_g",
-			"theme_file": "theme",
-			"base": "light",
-			"skuid": "free",
-
-			"colors": [{
-
-				"accent": "4285f6",
-				"actionbar": "ffffff",
-				"background": "ffffff",
-				"calculator": "4285f6",
-				"dialer": "4285f6",
-				"dialpad": "ffffff",
-				"optimizer": "4285f6",
-				"optimizer_icons": "ffffff",
-				"optimizer_tiles": "4285f6",
-				"settings": "4285f6",
-				"settings_icons": "ffffff",
-				"settings_tiles": "4285f6",
-				"systemui": "4285f6"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "0"
-				},{
-					"preview": "1"
-				},{
-					"preview": "2"
-				},{
-					"preview": "3"
-				},{
-					"preview": "4"
-				}
-			]
-		},
-
-
-		{	"name": "Pure AOSP Dark",
-			"theme_folder": "pure_a",
-			"theme_file": "theme",
-			"base": "dark",
-			"skuid": "free",
-
-			"colors": [{
-
-				"accent": "80cbc4",
-				"actionbar": "353535",
-				"background": "202020",
-				"calculator": "80cbc4",
-				"dialer": "80cbc4",
-				"dialpad": "303030",
-				"optimizer": "80cbc4",
-				"optimizer_icons": "202020",
-				"optimizer_tiles": "80cbc4",
-				"settings": "80cbc4",
-				"settings_icons": "202020",
-				"settings_tiles": "80cbc4",
-				"systemui": "80cbc4"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "00"
-				},{
-					"preview": "1"
-				},{
-					"preview": "2"
-				},{
-					"preview": "33"
-				},{
-					"preview": "44"
-				}
-			]
-		},
-
-		{	"name": "Pure AOSP",
-			"theme_folder": "pure_a",
-			"theme_file": "theme",
-			"base": "light",
-			"skuid": "free",
-
-			"colors": [{
-
-				"accent": "009688",
-				"actionbar": "ffffff",
-				"background": "ffffff",
-				"calculator": "009688",
-				"dialer": "009688",
-				"dialpad": "ffffff",
-				"optimizer": "009688",
-				"optimizer_icons": "ffffff",
-				"optimizer_tiles": "009688",
-				"settings": "009688",
-				"settings_icons": "ffffff",
-				"settings_tiles": "009688",
-				"systemui": "009688"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "0"
-				},{
-					"preview": "1"
-				},{
-					"preview": "2"
-				},{
-					"preview": "3"
-				},{
-					"preview": "4"
-				}
-			]
-		},
-
-
-		{	"name": "OUTLAWS",
-			"theme_folder": "outlaws",
-			"theme_file": "outlaws",
-			"base": "dark",
-			"skuid": "outlaws",
-
-			"colors": [{
-
-				"accent": "cc0204",
-				"actionbar": "0f0f0f",
-				"background": "0f0f0f",
-				"calculator": "cc0204",
-				"dialer": "cc0204",
-				"dialpad": "0f0f0f",
-				"optimizer": "cc0204",
-				"optimizer_icons": "0f0f0f",
-				"optimizer_tiles": "cc0204",
-				"settings": "cc0204",
-				"settings_icons": "0f0f0f",
-				"settings_tiles": "cc0204",
-				"systemui": "cc0204"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "0"
-				},{
-					"preview": "1"
-				},{
-					"preview": "2"
-				},{
-					"preview": "3"
-				},{
-					"preview": "4"
-				}
-			]
-		},
-
-		{	"name": "NEU iOS Dark",
-			"theme_folder": "ios_neu_dark",
-			"theme_file": "ios_neu_dark",
-			"base": "dark",
-			"skuid": "neu_ios",
-
-			"colors": [{
-
-				"accent": "15e3a6",
-				"actionbar": "101010",
-				"background": "101010",
-				"calculator": "15e3a6",
-				"dialer": "15e3a6",
-				"dialpad": "101010",
-				"optimizer": "15e3a6",
-				"optimizer_icons": "ffffff",
-				"optimizer_tiles": "15e3a6",
-				"settings": "15e3a6",
-				"settings_icons": "ffffff",
-				"settings_tiles": "15e3a6",
-				"systemui": "15e3a6"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "0"
-				},{
-					"preview": "1"
-				},{
-					"preview": "2"
-				},{
-					"preview": "3"
-				},{
-					"preview": "4"
-				},{
-					"preview": "5"
-				},{
-					"preview": "6"
-				}
-			]
-		},
-
-
-		{	"name": "NEU iOS",
-			"theme_folder": "ios_neu",
-			"theme_file": "ios_neu",
-			"base": "light",
-			"skuid": "neu_ios",
-
-			"colors": [{
-
-				"accent": "15e3a6",
-				"actionbar": "efefef",
-				"background": "efefef",
-				"calculator": "15e3a6",
-				"dialer": "15e3a6",
-				"dialpad": "efefef",
-				"optimizer": "15e3a6",
-				"optimizer_icons": "efefef",
-				"optimizer_tiles": "15e3a6",
-				"settings": "15e3a6",
-				"settings_icons": "efefef",
-				"settings_tiles": "15e3a6",
-				"systemui": "15e3a6"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "0"
-				},{
-					"preview": "1"
-				},{
-					"preview": "2"
-				},{
-					"preview": "3"
-				},{
-					"preview": "4"
-				},{
-					"preview": "5"
-				},{
-					"preview": "6"
-				}
-			]
-		},
-
-
-		{	"name": "NeuOS Dark",
-			"theme_folder": "neuOS_d",
-			"theme_file": "theme",
-			"base": "dark",
-			"skuid": "neuos",
-
-			"colors": [{
-
-				"accent": "1AD3BF",
-				"actionbar": "353535",
-				"background": "151515",
-				"calculator": "1AD3BF",
-				"dialer": "02a1f9",
-				"dialpad": "202020",
-				"optimizer": "1AD3BF",
-				"optimizer_icons": "151515",
-				"optimizer_tiles": "1AD3BF",
-				"settings": "1AD3BF",
-				"settings_icons": "151515",
-				"settings_tiles": "1AD3BF",
-				"systemui": "1AD3BF"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "0"
-				},{
-					"preview": "1"
-				},{
-					"preview": "2"
-				},{
-					"preview": "3"
-				},{
-					"preview": "4"
-				},{
-					"preview": "5"
-				}
-			]
-		},
-
-
-		{	"name": "NeuOS",
-			"theme_folder": "neuOS",
-			"theme_file": "theme",
-			"base": "light",
-			"skuid": "neuos",
-
-			"colors": [{
-
-				"accent": "1AD3BF",
-				"actionbar": "ffffff",
-				"background": "ffffff",
-				"calculator": "1AD3BF",
-				"dialer": "02a1f9",
-				"dialpad": "ffffff",
-				"optimizer": "1AD3BF",
-				"optimizer_icons": "ffffff",
-				"optimizer_tiles": "1AD3BF",
-				"settings": "1AD3BF",
-				"settings_icons": "ffffff",
-				"settings_tiles": "1AD3BF",
-				"systemui": "1AD3BF"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "0"
-				},{
-					"preview": "1"
-				},{
-					"preview": "2"
-				},{
-					"preview": "3"
-				},{
-					"preview": "4"
-				},{
-					"preview": "5"
-				}
-			]
-		},
-
-
-		{	"name": "NEU Dark",
-			"theme_folder": "neu_dark",
-			"theme_file": "neu_dark",
-			"base": "dark",
-			"skuid": "theme_neu",
-
-			"colors": [{
-
-				"accent": "78909c",
-				"actionbar": "2b363c",
-				"background": "1a2225",
-				"calculator": "78909c",
-				"dialer": "78909c",
-				"dialpad": "1a2225",
-				"optimizer": "78909c",
-				"optimizer_icons": "1a2225",
-				"optimizer_tiles": "78909c",
-				"settings": "78909c",
-				"settings_icons": "1a2225",
-				"settings_tiles": "78909c",
-				"systemui": "78909c"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "0"
-				},{
-					"preview": "1"
-				},{
-					"preview": "2"
-				},{
-					"preview": "3"
-				},{
-					"preview": "4"
-				}
-			]
-		},
-
-
-		{	"name": "NEU",
-			"theme_folder": "neu",
-			"theme_file": "neu",
-			"base": "light",
-			"skuid": "theme_neu",
-
-			"colors": [{
-
-				"accent": "989b9d",
-				"actionbar": "dee2e5",
-				"background": "ecf0f3",
-				"calculator": "989b9d",
-				"dialer": "989b9d",
-				"dialpad": "ecf0f3",
-				"optimizer": "989b9d",
-				"optimizer_icons": "ecf0f3",
-				"optimizer_tiles": "989b9d",
-				"settings": "989b9d",
-				"settings_icons": "ecf0f3",
-				"settings_tiles": "989b9d",
-				"systemui": "989b9d"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "0"
-				},{
-					"preview": "1"
-				},{
-					"preview": "2"
-				},{
-					"preview": "3"
-				},{
-					"preview": "4"
-				}
-			]
-		},
-
-
-		{	"name": "Modern Dark",
-			"theme_folder": "modern",
-			"theme_file": "theme_d",
-			"base": "dark",
-			"skuid": "modern",
-
-			"colors": [{
-
-				"accent": "ababab",
-				"actionbar": "252525",
-				"background": "212121",
-				"calculator": "ababab",
-				"dialer": "ababab",
-				"dialpad": "252525",
-				"optimizer": "ffffff",
-				"optimizer_icons": "212121",
-				"optimizer_tiles": "ffffff",
-				"settings": "ffffff",
-				"settings_icons": "212121",
-				"settings_tiles": "ffffff",
-				"systemui": "ffffff"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "00"
-				},{
-					"preview": "01"
-				},{
-					"preview": "02"
-				},{
-					"preview": "03"
-				},{
-					"preview": "04"
-				},{
-					"preview": "05"
-				}
-			]
-		},
-
-		{	"name": "Modern",
-			"theme_folder": "modern",
-			"theme_file": "theme",
-			"base": "light",
-			"skuid": "modern",
-
-			"colors": [{
-
-				"accent": "212121",
-				"actionbar": "ffffff",
-				"background": "ffffff",
-				"calculator": "212121",
-				"dialer": "212121",
-				"dialpad": "ffffff",
-				"optimizer": "212121",
-				"optimizer_icons": "ffffff",
-				"optimizer_tiles": "212121",
-				"settings": "212121",
-				"settings_icons": "ffffff",
-				"settings_tiles": "212121",
-				"systemui": "212121"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "0"
-				},{
-					"preview": "1"
-				},{
-					"preview": "2"
-				},{
-					"preview": "3"
-				},{
-					"preview": "4"
-				},{
-					"preview": "5"
-				},{
-					"preview": "6"
-				}
-
-			]
-		},	
-
-		{	"name": "MINI Retro (Square)",
-			"theme_folder": "miniRetro",
-			"theme_file": "miniretro",
-			"base": "dark",
-			"skuid": "miniretro",
-
-			"colors": [{
-
-				"accent": "e2765c",
-				"actionbar": "414141",
-				"background": "303030",
-				"calculator": "e2765c",
-				"dialer": "e2765c",
-				"dialpad": "383838",
-				"optimizer": "e2765c",
-				"optimizer_icons": "414141",
-				"optimizer_tiles": "e2765c",
-				"settings": "e2765c",
-				"settings_icons": "414141",
-				"settings_tiles": "e2765c",
-				"systemui": "e2765c"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "0"
-				},
-				{
-					"preview": "1"
-				},
-				{
-					"preview": "2"
-				},
-				{
-					"preview": "3"
-				}
-
-			]
-		},
-
-		{	"name": "MINI Retro (Round)",
-			"theme_folder": "miniRetro",
-			"theme_file": "miniretro_r",
-			"base": "dark",
-			"skuid": "miniretro",
-
-			"colors": [{
-
-				"accent": "e2765c",
-				"actionbar": "414141",
-				"background": "303030",
-				"calculator": "e2765c",
-				"dialer": "e2765c",
-				"dialpad": "383838",
-				"optimizer": "e2765c",
-				"optimizer_icons": "414141",
-				"optimizer_tiles": "e2765c",
-				"settings": "e2765c",
-				"settings_icons": "414141",
-				"settings_tiles": "e2765c",
-				"systemui": "e2765c"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "0"
-				},
-				{
-					"preview": "4"
-				},
-				{
-					"preview": "2"
-				},
-				{
-					"preview": "3"
-				}
-
-			]
-		},
-
-		{	"name": "MD Special",
-			"theme_folder": "md_special",
-			"theme_file": "mds",
-			"base": "dark",
-			"skuid": "free",
-
-			"colors": [{
-
-				"accent": "3ddc84",
-				"actionbar": "313140",
-				"background": "22222c",
-				"calculator": "3ddc84",
-				"dialer": "3ddc84",
-				"dialpad": "313140",
-				"optimizer": "3ddc84",
-				"optimizer_icons": "22222c",
-				"optimizer_tiles": "3ddc84",
-				"settings": "3ddc84",
-				"settings_icons": "22222c",
-				"settings_tiles": "3ddc84",
-				"systemui": "3ddc84"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "0"
-				},
-				{
-					"preview": "1"
-				},
-				{
-					"preview": "2"
-				},
-				{
-					"preview": "3"
-				},
-				{
-					"preview": "4"
-				}
-
-			]
-		},
-
-		{	"name": "Hello Future",
-			"theme_folder": "hello_future",
-			"theme_file": "hello_future",
-			"base": "light",
-			"skuid": "free",
-
-			"colors": [{
-
-				"accent": "458aff",
-				"actionbar": "ffffff",
-				"background": "ffffff",
-				"calculator": "ffcc00",
-				"dialer": "458aff",
-				"dialpad": "ffffff",
-				"optimizer": "00cc83",
-				"optimizer_icons": "ffffff",
-				"optimizer_tiles": "00cc83",
-				"settings": "458aff",
-				"settings_icons": "ffffff",
-				"settings_tiles": "458aff",
-				"systemui": "458aff"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "0"
-				},
-				{
-					"preview": "1"
-				},
-				{
-					"preview": "2"
-				},
-				{
-					"preview": "3"
-				},
-				{
-					"preview": "4"
-				},
-				{
-					"preview": "5"
-				}
-
-			]
-		},
-
-		{	"name": "Grey One",
-			"theme_folder": "grey_one",
-			"theme_file": "grey_one",
-			"base": "dark",
-			"skuid": "witcher",
-
-			"colors": [{
-
-				"accent": "95969a",
-				"actionbar": "35363a",
-				"background": "202124",
-				"calculator": "95969a",
-				"dialer": "95969a",
-				"dialpad": "35363a",
-				"optimizer": "95969a",
-				"optimizer_icons": "ffffff",
-				"optimizer_tiles": "95969a",
-				"settings": "95969a",
-				"settings_icons": "ffffff",
-				"settings_tiles": "95969a",
-				"systemui": "95969a"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "0"
-				},
-				{
-					"preview": "1"
-				},
-				{
-					"preview": "2"
-				},
-				{
-					"preview": "3"
-				},
-				{
-					"preview": "4"
-				},
-				{
-					"preview": "5"
-				}
-
-			]
-		},
-
-		{	"name": "EMUI Vivid",
-			"theme_folder": "emui_vivid",
-			"theme_file": "theme",
-			"base": "dark",
-			"skuid": "free",
-
-			"colors": [{
-
-				"accent": "EFA219",
-				"actionbar": "3E3D4B",
-				"background": "2E2D3B",
-				"calculator": "EFA219",
-				"dialer": "37EDAE",
-				"dialpad": "3E3D4B",
-				"optimizer": "37EDAE",
-				"optimizer_icons": "ffffff",
-				"optimizer_tiles": "37EDAE",
-				"settings": "EF6568",
-				"settings_icons": "ffffff",
-				"settings_tiles": "EF6568",
-				"systemui": "EFA219"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "0"
-				},
-				{
-					"preview": "1"
-				},
-				{
-					"preview": "2"
-				},
-				{
-					"preview": "3"
-				},
-				{
-					"preview": "4"
-				},
-				{
-					"preview": "5"
-				}
-
-			]
-		},
-		
-		{	"name": "Coffee Time",
-			"theme_folder": "caffee",
-			"theme_file": "theme",
-			"base": "dark",
-			"skuid": "free",
-
-			"colors": [{
-
-				"accent": "aa7c4d",
-				"actionbar": "362E2A",
-				"background": "2B2420",
-				"calculator": "aa7c4d",
-				"dialer": "aa7c4d",
-				"dialpad": "362E2A",
-				"optimizer": "aa7c4d",
-				"optimizer_icons": "ffffff",
-				"optimizer_tiles": "2B2420",
-				"settings": "aa7c4d",
-				"settings_icons": "ffffff",
-				"settings_tiles": "aa7c4d",
-				"systemui": "aa7c4d"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "0"
-				},
-				{
-					"preview": "1"
-				},
-				{
-					"preview": "2"
-				},
-				{
-					"preview": "3"
-				},
-				{
-					"preview": "4"
-				},
-				{
-					"preview": "5"
-				}
-
-			]
-		},
-
-		{	"name": "Batman",
-			"theme_folder": "batman",
-			"theme_file": "theme",
-			"base": "dark",
-			"skuid": "free",
-
-			"colors": [{
-
-				"accent": "fec202",
-				"actionbar": "353535",
-				"background": "202020",
-				"calculator": "fec202",
-				"dialer": "fec202",
-				"dialpad": "252525",
-				"optimizer": "fec202",
-				"optimizer_icons": "fec202",
-				"optimizer_tiles": "202020",
-				"settings": "fec202",
-				"settings_icons": "202020",
-				"settings_tiles": "fec202",
-				"systemui": "fec202"
-
-			}],
-
-
-			"previews": [
-			
-				{
-					"preview": "0"
-				},
-				{
-					"preview": "1"
-				},
-				{
-					"preview": "2"
-				},
-				{
-					"preview": "3"
-				},
-				{
-					"preview": "4"
-				},
-				{
-					"preview": "5"
-				}
-
-			]
-		}
-
-
-	]}
+{
+   "themes":[
+      {"name":"iOS 14 Dark (Free)",
+         "theme_folder":"ios14",
+         "theme_file":"theme_d",
+         "base":"dark",
+         "skuid":"free",
+         "colors":[
+            {
+               "accent":"147efb",
+               "actionbar":"282a31",
+               "background":"1c1f26",
+               "calculator":"f19b38",
+               "dialer":"147efb",
+               "dialpad":"141414",
+               "optimizer":"147efb",
+               "optimizer_icons":"ffffff",
+               "optimizer_tiles":"147efb",
+               "settings":"147efb",
+               "settings_icons":"ffffff",
+               "settings_tiles":"147efb",
+               "systemui":"147efb"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"000"
+            },
+            {
+               "preview":"001"
+            },
+            {
+               "preview":"002"
+            },
+            {
+               "preview":"03"
+            },
+            {
+               "preview":"04"
+            },
+            {
+               "preview":"05"
+            },
+            {
+               "preview":"06"
+            }
+         ]
+      },
+      {"name":"iOS 14 Dark",
+         "theme_folder":"ios14",
+         "theme_file":"theme_d",
+         "base":"dark",
+         "skuid":"ios14",
+         "colors":[
+            {
+               "accent":"147efb",
+               "actionbar":"282a31",
+               "background":"1c1f26",
+               "calculator":"f19b38",
+               "dialer":"147efb",
+               "dialpad":"141414",
+               "optimizer":"147efb",
+               "optimizer_icons":"ffffff",
+               "optimizer_tiles":"147efb",
+               "settings":"147efb",
+               "settings_icons":"ffffff",
+               "settings_tiles":"147efb",
+               "systemui":"147efb"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"00"
+            },
+            {
+               "preview":"01"
+            },
+            {
+               "preview":"02"
+            },
+            {
+               "preview":"03"
+            },
+            {
+               "preview":"04"
+            },
+            {
+               "preview":"05"
+            },
+            {
+               "preview":"06"
+            }
+         ]
+      },
+      {"name":"iOS Luxury",
+         "theme_folder":"ios_luxury",
+         "theme_file":"ios_luxury",
+         "base":"dark",
+         "skuid":"theme_ios_luxury",
+         "colors":[
+            {
+               "accent":"edc56e",
+               "actionbar":"4f4f4f",
+               "background":"3c3c3c",
+               "calculator":"edc56e",
+               "dialer":"edc56e",
+               "dialpad":"404040",
+               "optimizer":"edc56e",
+               "optimizer_icons":"3c3c3c",
+               "optimizer_tiles":"edc56e",
+               "settings":"edc56e",
+               "settings_icons":"3c3c3c",
+               "settings_tiles":"edc56e",
+               "systemui":"edc56e"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"0"
+            },
+            {
+               "preview":"home"
+            },
+            {
+               "preview":"settings"
+            },
+            {
+               "preview":"optimizer"
+            },
+            {
+               "preview":"phone"
+            },
+            {
+               "preview":"systemui"
+            }
+         ]
+      },
+      {"name":"iOS Midnight",
+         "theme_folder":"ios_midnight",
+         "theme_file":"ios_midnight",
+         "base":"dark",
+         "skuid":"free",
+         "colors":[
+            {
+               "accent":"f06292",
+               "actionbar":"484c66",
+               "background":"292b3a",
+               "calculator":"f06292",
+               "dialer":"f06292",
+               "dialpad":"141414",
+               "optimizer":"f06292",
+               "optimizer_icons":"ffffff",
+               "optimizer_tiles":"f06292",
+               "settings":"f06292",
+               "settings_icons":"ffffff",
+               "settings_tiles":"f06292",
+               "systemui":"f06292"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"0"
+            },
+            {
+               "preview":"1"
+            },
+            {
+               "preview":"2"
+            },
+            {
+               "preview":"3"
+            },
+            {
+               "preview":"4"
+            }
+         ]
+      },
+      {"name":"iOS 14",
+         "theme_folder":"ios14",
+         "theme_file":"theme",
+         "base":"light",
+         "skuid":"free",
+         "colors":[
+            {
+               "accent":"147efb",
+               "actionbar":"ffffff",
+               "background":"ffffff",
+               "calculator":"f19b38",
+               "dialer":"147efb",
+               "dialpad":"141414",
+               "optimizer":"147efb",
+               "optimizer_icons":"ffffff",
+               "optimizer_tiles":"147efb",
+               "settings":"147efb",
+               "settings_icons":"ffffff",
+               "settings_tiles":"147efb",
+               "systemui":"147efb"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"0"
+            },
+            {
+               "preview":"1"
+            },
+            {
+               "preview":"2"
+            },
+            {
+               "preview":"3"
+            },
+            {
+               "preview":"4"
+            },
+            {
+               "preview":"5"
+            },
+            {
+               "preview":"6"
+            },
+            {
+               "preview":"7"
+            }
+         ]
+      },
+      {"name":"iMono",
+         "theme_folder":"i_mono",
+         "theme_file":"iMono",
+         "base":"light",
+         "skuid":"free",
+         "colors":[
+            {
+               "accent":"909090",
+               "actionbar":"191919",
+               "background":"101010",
+               "calculator":"909090",
+               "dialer":"909090",
+               "dialpad":"141414",
+               "optimizer":"909090",
+               "optimizer_icons":"191919",
+               "optimizer_tiles":"909090",
+               "settings":"909090",
+               "settings_icons":"191919",
+               "settings_tiles":"909090",
+               "systemui":"909090"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"00"
+            },
+            {
+               "preview":"0"
+            },
+            {
+               "preview":"1"
+            },
+            {
+               "preview":"2"
+            },
+            {
+               "preview":"3"
+            },
+            {
+               "preview":"4"
+            },
+            {
+               "preview":"5"
+            }
+         ]
+      },
+      {"name":"iCandy",
+         "theme_folder":"iCandy",
+         "theme_file":"theme",
+         "base":"light",
+         "skuid":"free",
+         "colors":[
+            {
+               "accent":"fd5492",
+               "actionbar":"ffdeea",
+               "background":"ffeef4",
+               "calculator":"fd5492",
+               "dialer":"fd5492",
+               "dialpad":"ffe6ef",
+               "optimizer":"fd5492",
+               "optimizer_icons":"ffffff",
+               "optimizer_tiles":"fd5492",
+               "settings":"fd5492",
+               "settings_icons":"ffffff",
+               "settings_tiles":"fd5492",
+               "systemui":"fd5492"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"0"
+            },
+            {
+               "preview":"1"
+            },
+            {
+               "preview":"2"
+            },
+            {
+               "preview":"3"
+            },
+            {
+               "preview":"4"
+            },
+            {
+               "preview":"5"
+            }
+         ]
+      },
+      {"name":"Pure Pixel Dark",
+         "theme_folder":"pure_g",
+         "theme_file":"theme",
+         "base":"dark",
+         "skuid":"free",
+         "colors":[
+            {
+               "accent":"8ab4f8",
+               "actionbar":"35363a",
+               "background":"202124",
+               "calculator":"8ab4f8",
+               "dialer":"8ab4f8",
+               "dialpad":"303030",
+               "optimizer":"8ab4f8",
+               "optimizer_icons":"202124",
+               "optimizer_tiles":"8ab4f8",
+               "settings":"8ab4f8",
+               "settings_icons":"202124",
+               "settings_tiles":"8ab4f8",
+               "systemui":"8ab4f8"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"00"
+            },
+            {
+               "preview":"1"
+            },
+            {
+               "preview":"2"
+            },
+            {
+               "preview":"33"
+            },
+            {
+               "preview":"44"
+            }
+         ]
+      },
+      {"name":"Pure Pixel",
+         "theme_folder":"pure_g",
+         "theme_file":"theme",
+         "base":"light",
+         "skuid":"free",
+         "colors":[
+            {
+               "accent":"4285f6",
+               "actionbar":"ffffff",
+               "background":"ffffff",
+               "calculator":"4285f6",
+               "dialer":"4285f6",
+               "dialpad":"ffffff",
+               "optimizer":"4285f6",
+               "optimizer_icons":"ffffff",
+               "optimizer_tiles":"4285f6",
+               "settings":"4285f6",
+               "settings_icons":"ffffff",
+               "settings_tiles":"4285f6",
+               "systemui":"4285f6"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"0"
+            },
+            {
+               "preview":"1"
+            },
+            {
+               "preview":"2"
+            },
+            {
+               "preview":"3"
+            },
+            {
+               "preview":"4"
+            }
+         ]
+      },
+      {"name":"Pure AOSP Dark",
+         "theme_folder":"pure_a",
+         "theme_file":"theme",
+         "base":"dark",
+         "skuid":"free",
+         "colors":[
+            {
+               "accent":"80cbc4",
+               "actionbar":"353535",
+               "background":"202020",
+               "calculator":"80cbc4",
+               "dialer":"80cbc4",
+               "dialpad":"303030",
+               "optimizer":"80cbc4",
+               "optimizer_icons":"202020",
+               "optimizer_tiles":"80cbc4",
+               "settings":"80cbc4",
+               "settings_icons":"202020",
+               "settings_tiles":"80cbc4",
+               "systemui":"80cbc4"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"00"
+            },
+            {
+               "preview":"1"
+            },
+            {
+               "preview":"2"
+            },
+            {
+               "preview":"33"
+            },
+            {
+               "preview":"44"
+            }
+         ]
+      },
+      {"name":"Pure AOSP",
+         "theme_folder":"pure_a",
+         "theme_file":"theme",
+         "base":"light",
+         "skuid":"free",
+         "colors":[
+            {
+               "accent":"009688",
+               "actionbar":"ffffff",
+               "background":"ffffff",
+               "calculator":"009688",
+               "dialer":"009688",
+               "dialpad":"ffffff",
+               "optimizer":"009688",
+               "optimizer_icons":"ffffff",
+               "optimizer_tiles":"009688",
+               "settings":"009688",
+               "settings_icons":"ffffff",
+               "settings_tiles":"009688",
+               "systemui":"009688"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"0"
+            },
+            {
+               "preview":"1"
+            },
+            {
+               "preview":"2"
+            },
+            {
+               "preview":"3"
+            },
+            {
+               "preview":"4"
+            }
+         ]
+      },
+      {"name":"OUTLAWS",
+         "theme_folder":"outlaws",
+         "theme_file":"outlaws",
+         "base":"dark",
+         "skuid":"outlaws",
+         "colors":[
+            {
+               "accent":"cc0204",
+               "actionbar":"0f0f0f",
+               "background":"0f0f0f",
+               "calculator":"cc0204",
+               "dialer":"cc0204",
+               "dialpad":"0f0f0f",
+               "optimizer":"cc0204",
+               "optimizer_icons":"0f0f0f",
+               "optimizer_tiles":"cc0204",
+               "settings":"cc0204",
+               "settings_icons":"0f0f0f",
+               "settings_tiles":"cc0204",
+               "systemui":"cc0204"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"0"
+            },
+            {
+               "preview":"1"
+            },
+            {
+               "preview":"2"
+            },
+            {
+               "preview":"3"
+            },
+            {
+               "preview":"4"
+            }
+         ]
+      },
+      {"name":"NEU iOS Dark",
+         "theme_folder":"ios_neu_dark",
+         "theme_file":"ios_neu_dark",
+         "base":"dark",
+         "skuid":"neu_ios",
+         "colors":[
+            {
+               "accent":"15e3a6",
+               "actionbar":"101010",
+               "background":"101010",
+               "calculator":"15e3a6",
+               "dialer":"15e3a6",
+               "dialpad":"101010",
+               "optimizer":"15e3a6",
+               "optimizer_icons":"ffffff",
+               "optimizer_tiles":"15e3a6",
+               "settings":"15e3a6",
+               "settings_icons":"ffffff",
+               "settings_tiles":"15e3a6",
+               "systemui":"15e3a6"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"0"
+            },
+            {
+               "preview":"1"
+            },
+            {
+               "preview":"2"
+            },
+            {
+               "preview":"3"
+            },
+            {
+               "preview":"4"
+            },
+            {
+               "preview":"5"
+            },
+            {
+               "preview":"6"
+            }
+         ]
+      },
+      {"name":"NEU iOS",
+         "theme_folder":"ios_neu",
+         "theme_file":"ios_neu",
+         "base":"light",
+         "skuid":"neu_ios",
+         "colors":[
+            {
+               "accent":"15e3a6",
+               "actionbar":"efefef",
+               "background":"efefef",
+               "calculator":"15e3a6",
+               "dialer":"15e3a6",
+               "dialpad":"efefef",
+               "optimizer":"15e3a6",
+               "optimizer_icons":"efefef",
+               "optimizer_tiles":"15e3a6",
+               "settings":"15e3a6",
+               "settings_icons":"efefef",
+               "settings_tiles":"15e3a6",
+               "systemui":"15e3a6"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"0"
+            },
+            {
+               "preview":"1"
+            },
+            {
+               "preview":"2"
+            },
+            {
+               "preview":"3"
+            },
+            {
+               "preview":"4"
+            },
+            {
+               "preview":"5"
+            },
+            {
+               "preview":"6"
+            }
+         ]
+      },
+      {"name":"NeuOS Dark",
+         "theme_folder":"neuOS_d",
+         "theme_file":"theme",
+         "base":"dark",
+         "skuid":"neuos",
+         "colors":[
+            {
+               "accent":"1AD3BF",
+               "actionbar":"353535",
+               "background":"151515",
+               "calculator":"1AD3BF",
+               "dialer":"02a1f9",
+               "dialpad":"202020",
+               "optimizer":"1AD3BF",
+               "optimizer_icons":"151515",
+               "optimizer_tiles":"1AD3BF",
+               "settings":"1AD3BF",
+               "settings_icons":"151515",
+               "settings_tiles":"1AD3BF",
+               "systemui":"1AD3BF"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"0"
+            },
+            {
+               "preview":"1"
+            },
+            {
+               "preview":"2"
+            },
+            {
+               "preview":"3"
+            },
+            {
+               "preview":"4"
+            },
+            {
+               "preview":"5"
+            }
+         ]
+      },
+      {"name":"NeuOS",
+         "theme_folder":"neuOS",
+         "theme_file":"theme",
+         "base":"light",
+         "skuid":"neuos",
+         "colors":[
+            {
+               "accent":"1AD3BF",
+               "actionbar":"ffffff",
+               "background":"ffffff",
+               "calculator":"1AD3BF",
+               "dialer":"02a1f9",
+               "dialpad":"ffffff",
+               "optimizer":"1AD3BF",
+               "optimizer_icons":"ffffff",
+               "optimizer_tiles":"1AD3BF",
+               "settings":"1AD3BF",
+               "settings_icons":"ffffff",
+               "settings_tiles":"1AD3BF",
+               "systemui":"1AD3BF"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"0"
+            },
+            {
+               "preview":"1"
+            },
+            {
+               "preview":"2"
+            },
+            {
+               "preview":"3"
+            },
+            {
+               "preview":"4"
+            },
+            {
+               "preview":"5"
+            }
+         ]
+      },
+      {"name":"NEU Dark",
+         "theme_folder":"neu_dark",
+         "theme_file":"neu_dark",
+         "base":"dark",
+         "skuid":"theme_neu",
+         "colors":[
+            {
+               "accent":"78909c",
+               "actionbar":"2b363c",
+               "background":"1a2225",
+               "calculator":"78909c",
+               "dialer":"78909c",
+               "dialpad":"1a2225",
+               "optimizer":"78909c",
+               "optimizer_icons":"1a2225",
+               "optimizer_tiles":"78909c",
+               "settings":"78909c",
+               "settings_icons":"1a2225",
+               "settings_tiles":"78909c",
+               "systemui":"78909c"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"0"
+            },
+            {
+               "preview":"1"
+            },
+            {
+               "preview":"2"
+            },
+            {
+               "preview":"3"
+            },
+            {
+               "preview":"4"
+            }
+         ]
+      },
+      {"name":"NEU",
+         "theme_folder":"neu",
+         "theme_file":"neu",
+         "base":"light",
+         "skuid":"theme_neu",
+         "colors":[
+            {
+               "accent":"989b9d",
+               "actionbar":"dee2e5",
+               "background":"ecf0f3",
+               "calculator":"989b9d",
+               "dialer":"989b9d",
+               "dialpad":"ecf0f3",
+               "optimizer":"989b9d",
+               "optimizer_icons":"ecf0f3",
+               "optimizer_tiles":"989b9d",
+               "settings":"989b9d",
+               "settings_icons":"ecf0f3",
+               "settings_tiles":"989b9d",
+               "systemui":"989b9d"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"0"
+            },
+            {
+               "preview":"1"
+            },
+            {
+               "preview":"2"
+            },
+            {
+               "preview":"3"
+            },
+            {
+               "preview":"4"
+            }
+         ]
+      },
+      {"name":"Modern Dark",
+         "theme_folder":"modern",
+         "theme_file":"theme_d",
+         "base":"dark",
+         "skuid":"modern",
+         "colors":[
+            {
+               "accent":"ababab",
+               "actionbar":"252525",
+               "background":"212121",
+               "calculator":"ababab",
+               "dialer":"ababab",
+               "dialpad":"252525",
+               "optimizer":"ffffff",
+               "optimizer_icons":"212121",
+               "optimizer_tiles":"ffffff",
+               "settings":"ffffff",
+               "settings_icons":"212121",
+               "settings_tiles":"ffffff",
+               "systemui":"ffffff"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"00"
+            },
+            {
+               "preview":"01"
+            },
+            {
+               "preview":"02"
+            },
+            {
+               "preview":"03"
+            },
+            {
+               "preview":"04"
+            },
+            {
+               "preview":"05"
+            }
+         ]
+      },
+      {"name":"Modern",
+         "theme_folder":"modern",
+         "theme_file":"theme",
+         "base":"light",
+         "skuid":"modern",
+         "colors":[
+            {
+               "accent":"212121",
+               "actionbar":"ffffff",
+               "background":"ffffff",
+               "calculator":"212121",
+               "dialer":"212121",
+               "dialpad":"ffffff",
+               "optimizer":"212121",
+               "optimizer_icons":"ffffff",
+               "optimizer_tiles":"212121",
+               "settings":"212121",
+               "settings_icons":"ffffff",
+               "settings_tiles":"212121",
+               "systemui":"212121"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"0"
+            },
+            {
+               "preview":"1"
+            },
+            {
+               "preview":"2"
+            },
+            {
+               "preview":"3"
+            },
+            {
+               "preview":"4"
+            },
+            {
+               "preview":"5"
+            },
+            {
+               "preview":"6"
+            }
+         ]
+      },
+      {"name":"MINI Retro (Square)",
+         "theme_folder":"miniRetro",
+         "theme_file":"miniretro",
+         "base":"dark",
+         "skuid":"miniretro",
+         "colors":[
+            {
+               "accent":"e2765c",
+               "actionbar":"414141",
+               "background":"303030",
+               "calculator":"e2765c",
+               "dialer":"e2765c",
+               "dialpad":"383838",
+               "optimizer":"e2765c",
+               "optimizer_icons":"414141",
+               "optimizer_tiles":"e2765c",
+               "settings":"e2765c",
+               "settings_icons":"414141",
+               "settings_tiles":"e2765c",
+               "systemui":"e2765c"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"0"
+            },
+            {
+               "preview":"1"
+            },
+            {
+               "preview":"2"
+            },
+            {
+               "preview":"3"
+            }
+         ]
+      },
+      {"name":"MINI Retro (Round)",
+         "theme_folder":"miniRetro",
+         "theme_file":"miniretro_r",
+         "base":"dark",
+         "skuid":"miniretro",
+         "colors":[
+            {
+               "accent":"e2765c",
+               "actionbar":"414141",
+               "background":"303030",
+               "calculator":"e2765c",
+               "dialer":"e2765c",
+               "dialpad":"383838",
+               "optimizer":"e2765c",
+               "optimizer_icons":"414141",
+               "optimizer_tiles":"e2765c",
+               "settings":"e2765c",
+               "settings_icons":"414141",
+               "settings_tiles":"e2765c",
+               "systemui":"e2765c"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"0"
+            },
+            {
+               "preview":"4"
+            },
+            {
+               "preview":"2"
+            },
+            {
+               "preview":"3"
+            }
+         ]
+      },
+      {"name":"MD Special",
+         "theme_folder":"md_special",
+         "theme_file":"mds",
+         "base":"dark",
+         "skuid":"free",
+         "colors":[
+            {
+               "accent":"3ddc84",
+               "actionbar":"313140",
+               "background":"22222c",
+               "calculator":"3ddc84",
+               "dialer":"3ddc84",
+               "dialpad":"313140",
+               "optimizer":"3ddc84",
+               "optimizer_icons":"22222c",
+               "optimizer_tiles":"3ddc84",
+               "settings":"3ddc84",
+               "settings_icons":"22222c",
+               "settings_tiles":"3ddc84",
+               "systemui":"3ddc84"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"0"
+            },
+            {
+               "preview":"1"
+            },
+            {
+               "preview":"2"
+            },
+            {
+               "preview":"3"
+            },
+            {
+               "preview":"4"
+            }
+         ]
+      },
+      {"name":"Hello Future",
+         "theme_folder":"hello_future",
+         "theme_file":"hello_future",
+         "base":"light",
+         "skuid":"free",
+         "colors":[
+            {
+               "accent":"458aff",
+               "actionbar":"ffffff",
+               "background":"ffffff",
+               "calculator":"ffcc00",
+               "dialer":"458aff",
+               "dialpad":"ffffff",
+               "optimizer":"00cc83",
+               "optimizer_icons":"ffffff",
+               "optimizer_tiles":"00cc83",
+               "settings":"458aff",
+               "settings_icons":"ffffff",
+               "settings_tiles":"458aff",
+               "systemui":"458aff"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"0"
+            },
+            {
+               "preview":"1"
+            },
+            {
+               "preview":"2"
+            },
+            {
+               "preview":"3"
+            },
+            {
+               "preview":"4"
+            },
+            {
+               "preview":"5"
+            }
+         ]
+      },
+      {"name":"Grey One",
+         "theme_folder":"grey_one",
+         "theme_file":"grey_one",
+         "base":"dark",
+         "skuid":"witcher",
+         "colors":[
+            {
+               "accent":"95969a",
+               "actionbar":"35363a",
+               "background":"202124",
+               "calculator":"95969a",
+               "dialer":"95969a",
+               "dialpad":"35363a",
+               "optimizer":"95969a",
+               "optimizer_icons":"ffffff",
+               "optimizer_tiles":"95969a",
+               "settings":"95969a",
+               "settings_icons":"ffffff",
+               "settings_tiles":"95969a",
+               "systemui":"95969a"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"0"
+            },
+            {
+               "preview":"1"
+            },
+            {
+               "preview":"2"
+            },
+            {
+               "preview":"3"
+            },
+            {
+               "preview":"4"
+            },
+            {
+               "preview":"5"
+            }
+         ]
+      },
+      {"name":"EMUI Vivid",
+         "theme_folder":"emui_vivid",
+         "theme_file":"theme",
+         "base":"dark",
+         "skuid":"free",
+         "colors":[
+            {
+               "accent":"EFA219",
+               "actionbar":"3E3D4B",
+               "background":"2E2D3B",
+               "calculator":"EFA219",
+               "dialer":"37EDAE",
+               "dialpad":"3E3D4B",
+               "optimizer":"37EDAE",
+               "optimizer_icons":"ffffff",
+               "optimizer_tiles":"37EDAE",
+               "settings":"EF6568",
+               "settings_icons":"ffffff",
+               "settings_tiles":"EF6568",
+               "systemui":"EFA219"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"0"
+            },
+            {
+               "preview":"1"
+            },
+            {
+               "preview":"2"
+            },
+            {
+               "preview":"3"
+            },
+            {
+               "preview":"4"
+            },
+            {
+               "preview":"5"
+            }
+         ]
+      },
+      {"name":"Coffee Time",
+         "theme_folder":"caffee",
+         "theme_file":"theme",
+         "base":"dark",
+         "skuid":"free",
+         "colors":[
+            {
+               "accent":"aa7c4d",
+               "actionbar":"362E2A",
+               "background":"2B2420",
+               "calculator":"aa7c4d",
+               "dialer":"aa7c4d",
+               "dialpad":"362E2A",
+               "optimizer":"aa7c4d",
+               "optimizer_icons":"ffffff",
+               "optimizer_tiles":"2B2420",
+               "settings":"aa7c4d",
+               "settings_icons":"ffffff",
+               "settings_tiles":"aa7c4d",
+               "systemui":"aa7c4d"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"0"
+            },
+            {
+               "preview":"1"
+            },
+            {
+               "preview":"2"
+            },
+            {
+               "preview":"3"
+            },
+            {
+               "preview":"4"
+            },
+            {
+               "preview":"5"
+            }
+         ]
+      },
+      {"name":"Batman",
+         "theme_folder":"batman",
+         "theme_file":"theme",
+         "base":"dark",
+         "skuid":"free",
+         "colors":[
+            {
+               "accent":"fec202",
+               "actionbar":"353535",
+               "background":"202020",
+               "calculator":"fec202",
+               "dialer":"fec202",
+               "dialpad":"252525",
+               "optimizer":"fec202",
+               "optimizer_icons":"fec202",
+               "optimizer_tiles":"202020",
+               "settings":"fec202",
+               "settings_icons":"202020",
+               "settings_tiles":"fec202",
+               "systemui":"fec202"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"0"
+            },
+            {
+               "preview":"1"
+            },
+            {
+               "preview":"2"
+            },
+            {
+               "preview":"3"
+            },
+            {
+               "preview":"4"
+            },
+            {
+               "preview":"5"
+            }
+         ]
+      }
+   ]
+}
