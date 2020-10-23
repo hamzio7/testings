@@ -1,12 +1,9 @@
-{
-	"themes": [
+{"themes": [
 
-		{
-
-			"name": "Batman",
+		{	"name": "Batman",
 			"base": "dark",
 			"mods": "0",
-			"skuid": "0",
+			"skuid": "free",
 
 			"colors": [{
 
@@ -33,24 +30,25 @@
 					"preview": "0"
 				},
 				{
-					"preview": "0"
+					"preview": "1"
 				},
 				{
-					"preview": "0"
+					"preview": "2"
 				},
 				{
-					"preview": "0"
+					"preview": "3"
 				},
 				{
-					"preview": "0"
+					"preview": "4"
+				},
+				{
+					"preview": "5"
 				}
 
 			]
 		},
 
-		{
-
-			"name": "Batman",
+		{	"name": "Batman",
 			"base": "dark",
 			"mods": "0",
 			"skuid": "0",
@@ -80,22 +78,23 @@
 					"preview": "0"
 				},
 				{
-					"preview": "0"
+					"preview": "1"
 				},
 				{
-					"preview": "0"
+					"preview": "2"
 				},
 				{
-					"preview": "0"
+					"preview": "3"
 				},
 				{
-					"preview": "0"
+					"preview": "4"
+				},
+				{
+					"preview": "5"
 				}
 
 			]
 		}
 
 
-	]
-
-}
+	]}
