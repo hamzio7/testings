@@ -2,7 +2,7 @@
    "themes":[
       {"name":"iOS 14 Dark (Free)",
          "theme_folder":"ios14",
-         "theme_file":"theme_d",
+         "theme_file":"theme_d_alt",
          "base":"dark",
          "skuid":"free",
          "colors":[
@@ -12,7 +12,7 @@
                "background":"1c1f26",
                "calculator":"f19b38",
                "dialer":"147efb",
-               "dialpad":"141414",
+               "dialpad":"282a31",
                "optimizer":"147efb",
                "optimizer_icons":"ffffff",
                "optimizer_tiles":"147efb",
@@ -58,7 +58,7 @@
                "background":"1c1f26",
                "calculator":"f19b38",
                "dialer":"147efb",
-               "dialpad":"141414",
+               "dialpad":"282a31",
                "optimizer":"147efb",
                "optimizer_icons":"ffffff",
                "optimizer_tiles":"147efb",
