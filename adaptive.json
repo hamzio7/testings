@@ -1,4 +1,5 @@
 {"icons":[
+  { "name":"morphy" ,"pro":true},
   { "name":"dream_p" ,"pro":false},
   { "name":"dream" ,"pro":false},
   { "name":"zenui" ,"pro":false},
