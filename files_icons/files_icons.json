@@ -1,6 +1,7 @@
 {	
 	"icons":[
 
+	  { "name":"morphy",	"isColored":false},
 	  { "name":"material_alt",	"isColored":true},
 	  { "name":"material",	"isColored":false},
 	  { "name":"dream_alt",	"isColored":true},
