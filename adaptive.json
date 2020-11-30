@@ -1,6 +1,10 @@
 {"icons":[
   { "name":"outlines" ,"pro":false},
   { "name":"flaty" ,"pro":false},
+  { "name":"morphos_bc" ,"pro":true},
+  { "name":"morphos_black" ,"pro":false},
+  { "name":"morphos_wc" ,"pro":true},
+  { "name":"morphos_white" ,"pro":false},
   { "name":"morphy" ,"pro":true},
   { "name":"dream_p" ,"pro":false},
   { "name":"dream" ,"pro":false},
