@@ -1,5 +1,48 @@
 {
    "themes":[
+      {"name":"One UI 3",
+         "theme_folder":"oneui",
+         "theme_file":"theme",
+         "base":"light",
+         "skuid":"free",
+         "colors":[
+            {
+               "accent":"2e65f3",
+               "actionbar":"f2f2f2",
+               "background":"ffffff",
+               "calculator":"ffcc00",
+               "dialer":"15b76c",
+               "dialpad":"ffffff",
+               "optimizer":"2e65f3",
+               "optimizer_icons":"ffffff",
+               "optimizer_tiles":"2e65f3",
+               "settings":"2e65f3",
+               "settings_icons":"ffffff",
+               "settings_tiles":"2e65f3",
+               "systemui":"2e65f3"
+            }
+         ],
+         "previews":[
+            {
+               "preview":"0"
+            },
+            {
+               "preview":"1"
+            },
+            {
+               "preview":"2"
+            },
+            {
+               "preview":"3"
+            },
+            {
+               "preview":"4"
+            },
+            {
+               "preview":"5"
+            }
+         ]
+      },
       {"name":"iOS 14 Dark (Free)",
          "theme_folder":"ios14",
          "theme_file":"theme_d_alt",
