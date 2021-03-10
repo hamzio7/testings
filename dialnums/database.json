@@ -1,6 +1,8 @@
 {	
 	"icons":[
 
+	  { "name":"mor_dark",	"isColored":false},
+	  { "name":"mor_light",	"isColored":false},
 	  { "name":"ioslight",	"isColored":false},
 	  {	"name":"iosdark",	"isColored":false}
 	  
