@@ -1,6 +1,7 @@
 {	
 	"icons":[
 
+	  { "name":"frost",	"isColored":false},
 	  { "name":"ios_lines",	"isColored":true},
 	  { "name":"morphy",	"isColored":false},
 	  { "name":"dream",	"isColored":false},
