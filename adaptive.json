@@ -1,4 +1,5 @@
 {"icons":[
+  { "name":"eleven" ,"pro":true},
   { "name":"pebble" ,"pro":false},
   { "name":"nebula" ,"pro":true},
   { "name":"emui11" ,"pro":false},
