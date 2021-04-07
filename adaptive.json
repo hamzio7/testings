@@ -1,4 +1,6 @@
 {"icons":[
+  { "name":"hotred" ,"pro":true},
+  { "name":"cyberpunk" ,"pro":true},
   { "name":"eleven" ,"pro":true},
   { "name":"pebble" ,"pro":false},
   { "name":"nebula" ,"pro":true},

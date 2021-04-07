@@ -1,4 +1,5 @@
 {"icons":[
+  { "name":"oppo_material" ,"pro":false},
   { "name":"frost" ,"pro":true},
   { "name":"special_red" ,"pro":true},
   { "name":"special_pink" ,"pro":true},
