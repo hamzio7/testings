@@ -1,4 +1,5 @@
 {"icons":[
+  { "name":"minios" ,"pro":false},
   { "name":"hotred" ,"pro":true},
   { "name":"cyberpunk" ,"pro":true},
   { "name":"eleven" ,"pro":true},
