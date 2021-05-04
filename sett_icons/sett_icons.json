@@ -1,6 +1,8 @@
 {	
 	"icons":[
 
+	  { "name":"coloros",	"isColored":false},
+	  { "name":"coloros_b",	"isColored":true},
 	  { "name":"twelve_b",	"isColored":true},
 	  { "name":"twelve",	"isColored":false},
 	  { "name":"frost",	"isColored":false},
