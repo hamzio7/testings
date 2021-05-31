@@ -1,0 +1,69 @@
+{
+   "themes":[
+      {"name":"Coffee Time",
+	     "category":[ 0,1,2,3,4,5 ],
+         "theme_folder":"caffee",
+         "theme_file":"theme",
+         "base":"dark",
+         "previews":"05",
+		 "theme_id":"mythemeid",
+         "skuid":"free",
+         "colors":[
+            {
+               "accent":"fec202",
+               "actionbar":"353535",
+               "background":"202020",
+               "calculator":"fec202",
+               "dialer":"fec202",
+               "dialpad":"252525",
+               "optimizer":"fec202",
+               "optimizer_icons":"fec202",
+               "optimizer_tiles":"202020",
+               "settings":"fec202",
+               "settings_icons":"202020",
+               "settings_tiles":"fec202",
+			   "dialenums":"fec202",
+               "folder":"fec202",
+               "cal_date":"fec202",
+               "cal_bg":"fec202",
+               "nots_bg":"fec202",
+               "systemui_off":"fec202",
+               "systemui":"fec202"
+            }
+         ],
+
+      },
+      {"name":"Batman",
+	     "category":[ 0,1,2,3,4,5 ],
+         "theme_folder":"batman",
+         "theme_file":"theme",
+         "base":"dark",
+		 "previews":"5",
+		 "theme_id":"mythemeid",
+         "skuid":"free",
+         "colors":[
+            {
+               "accent":"fec202",
+               "actionbar":"353535",
+               "background":"202020",
+               "calculator":"fec202",
+               "dialer":"fec202",
+               "dialpad":"252525",
+               "optimizer":"fec202",
+               "optimizer_icons":"fec202",
+               "optimizer_tiles":"202020",
+               "settings":"fec202",
+               "settings_icons":"202020",
+               "settings_tiles":"fec202",
+			   "dialenums":"fec202",
+               "folder":"fec202",
+               "cal_date":"fec202",
+               "cal_bg":"fec202",
+               "nots_bg":"fec202",
+               "systemui_off":"fec202",
+               "systemui":"fec202"
+            }
+         ],
+      }
+   ]
+}
