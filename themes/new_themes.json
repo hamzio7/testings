@@ -4,11 +4,8 @@
          "name":"Coffee Time",
          "category":[
             0,
-            1,
-            2,
-            3,
-            4,
-            5
+            2
+            
          ],
          "theme_folder":"caffee",
          "theme_file":"theme",
@@ -45,11 +42,7 @@
          "name":"Batman",
          "category":[
             0,
-            1,
-            2,
-            3,
-            4,
-            5
+            1
          ],
          "theme_folder":"batman",
          "theme_file":"theme",
