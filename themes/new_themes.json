@@ -82,5 +82,21 @@
             }
          ]
       }
-   ]
+],"categories":[
+
+{"category":"All","thumbnail":"cat_all","cat_num":0},
+
+{"category":"Dark","thumbnail":"cat_dark","cat_num":1},
+
+{"category":"Light","thumbnail":"cat_light","cat_num":2},
+
+{"category":"Video Games","thumbnail":"cat_games","cat_num":3},
+
+{"category":"Nature","thumbnail":"cat_nature","cat_num":4},
+
+{"category":"For Girls","thumbnail":"cat_girls","cat_num":5},
+
+{"category":"Operation Systems","thumbnail":"cat_os","cat_num":6}
+
+]
 }
