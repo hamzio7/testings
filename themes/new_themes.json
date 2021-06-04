@@ -30,7 +30,7 @@
             }
         ],
         "name":"Android 12",
-        "previews":"5",
+        "previews":"0",
         "skuid":"free",
         "theme_file":"Android12/theme",
         "theme_folder":"Android12/theme",
@@ -66,7 +66,7 @@
             }
         ],
         "name":"Delight Dark",
-        "previews":"5",
+        "previews":"0",
         "skuid":"delight",
         "theme_file":"delight/theme_d",
         "theme_folder":"delight/theme_d",
@@ -102,7 +102,7 @@
             }
         ],
         "name":"Android 12 Dark",
-        "previews":"5",
+        "previews":"0",
         "skuid":"free",
         "theme_file":"Android12/theme_b",
         "theme_folder":"Android12/theme_b",
@@ -138,7 +138,7 @@
             }
         ],
         "name":"Delight",
-        "previews":"5",
+        "previews":"0",
         "skuid":"free",
         "theme_file":"delight/theme",
         "theme_folder":"delight/theme",
@@ -174,7 +174,7 @@
             }
         ],
         "name":"WatchDogs",
-        "previews":"5",
+        "previews":"0",
         "skuid":"free",
         "theme_file":"watchdogs/theme",
         "theme_folder":"watchdogs/theme",
@@ -210,7 +210,7 @@
             }
         ],
         "name":"POCO Dark",
-        "previews":"5",
+        "previews":"0",
         "skuid":"free",
         "theme_file":"poco/theme",
         "theme_folder":"poco/theme",
@@ -246,7 +246,7 @@
             }
         ],
         "name":"Cyberpunk 2077",
-        "previews":"5",
+        "previews":"0",
         "skuid":"cyberpunk",
         "theme_file":"cyberpunk/theme",
         "theme_folder":"cyberpunk/theme",
@@ -282,7 +282,7 @@
             }
         ],
         "name":"Harmony OS Dark",
-        "previews":"5",
+        "previews":"0",
         "skuid":"harmony",
         "theme_file":"harmony/theme",
         "theme_folder":"harmony/theme",
@@ -318,7 +318,7 @@
             }
         ],
         "name":"Cyberpunk 2077 Black",
-        "previews":"5",
+        "previews":"0",
         "skuid":"cyberpunk",
         "theme_file":"cyberpunk/theme_b",
         "theme_folder":"cyberpunk/theme_b",
@@ -354,7 +354,7 @@
             }
         ],
         "name":"iCandy",
-        "previews":"5",
+        "previews":"0",
         "skuid":"free",
         "theme_file":"iCandy/theme",
         "theme_folder":"iCandy/theme",
@@ -390,7 +390,7 @@
             }
         ],
         "name":"Pure Pixel",
-        "previews":"5",
+        "previews":"0",
         "skuid":"free",
         "theme_file":"pure_g/theme",
         "theme_folder":"pure_g/theme",
@@ -426,7 +426,7 @@
             }
         ],
         "name":"EMUI Vivid",
-        "previews":"5",
+        "previews":"0",
         "skuid":"free",
         "theme_file":"emui_vivid/theme",
         "theme_folder":"emui_vivid/theme",
@@ -462,7 +462,7 @@
             }
         ],
         "name":"OUTLAWS",
-        "previews":"5",
+        "previews":"0",
         "skuid":"outlaws",
         "theme_file":"outlaws/outlaws",
         "theme_folder":"outlaws/outlaws",
@@ -498,7 +498,7 @@
             }
         ],
         "name":"NEU iOS",
-        "previews":"5",
+        "previews":"0",
         "skuid":"neu_ios",
         "theme_file":"ios_neu/ios_neu",
         "theme_folder":"ios_neu/ios_neu",
@@ -534,7 +534,7 @@
             }
         ],
         "name":"MINI Retro (Square)",
-        "previews":"5",
+        "previews":"0",
         "skuid":"miniretro",
         "theme_file":"miniRetro/miniretro",
         "theme_folder":"miniRetro/miniretro",
@@ -570,7 +570,7 @@
             }
         ],
         "name":"iOS 14",
-        "previews":"5",
+        "previews":"0",
         "skuid":"free",
         "theme_file":"ios14/theme",
         "theme_folder":"ios14/theme",
@@ -606,7 +606,7 @@
             }
         ],
         "name":"XONE",
-        "previews":"5",
+        "previews":"0",
         "skuid":"free",
         "theme_file":"xone/theme",
         "theme_folder":"xone/theme",
@@ -642,7 +642,7 @@
             }
         ],
         "name":"NeuOS",
-        "previews":"5",
+        "previews":"0",
         "skuid":"neuos",
         "theme_file":"neuOS/theme",
         "theme_folder":"neuOS/theme",
@@ -678,7 +678,7 @@
             }
         ],
         "name":"Grey One",
-        "previews":"5",
+        "previews":"0",
         "skuid":"free",
         "theme_file":"grey_one/grey_one",
         "theme_folder":"grey_one/grey_one",
@@ -714,7 +714,7 @@
             }
         ],
         "name":"Frosted",
-        "previews":"5",
+        "previews":"0",
         "skuid":"frosted",
         "theme_file":"frosted/theme",
         "theme_folder":"frosted/theme",
@@ -750,7 +750,7 @@
             }
         ],
         "name":"Modern Dark",
-        "previews":"5",
+        "previews":"0",
         "skuid":"modern",
         "theme_file":"modern/theme_d",
         "theme_folder":"modern/theme_d",
@@ -786,7 +786,7 @@
             }
         ],
         "name":"iMono",
-        "previews":"5",
+        "previews":"0",
         "skuid":"free",
         "theme_file":"i_mono/iMono",
         "theme_folder":"i_mono/iMono",
@@ -822,7 +822,7 @@
             }
         ],
         "name":"Pure AOSP",
-        "previews":"5",
+        "previews":"0",
         "skuid":"free",
         "theme_file":"pure_a/theme",
         "theme_folder":"pure_a/theme",
@@ -858,7 +858,7 @@
             }
         ],
         "name":"NeuOS Dark",
-        "previews":"5",
+        "previews":"0",
         "skuid":"neuos",
         "theme_file":"neuOS_d/theme",
         "theme_folder":"neuOS_d/theme",
@@ -894,7 +894,7 @@
             }
         ],
         "name":"HotRed ColorOS",
-        "previews":"5",
+        "previews":"0",
         "skuid":"coloros",
         "theme_file":"coloros/theme_c",
         "theme_folder":"coloros/theme_c",
@@ -930,7 +930,7 @@
             }
         ],
         "name":"HotRed Alternative",
-        "previews":"5",
+        "previews":"0",
         "skuid":"coloros",
         "theme_file":"coloros/theme_a",
         "theme_folder":"coloros/theme_a",
@@ -966,7 +966,7 @@
             }
         ],
         "name":"NEU",
-        "previews":"5",
+        "previews":"0",
         "skuid":"theme_neu",
         "theme_file":"neu/neu",
         "theme_folder":"neu/neu",
@@ -1002,7 +1002,7 @@
             }
         ],
         "name":"Modern",
-        "previews":"5",
+        "previews":"0",
         "skuid":"modern",
         "theme_file":"modern/theme",
         "theme_folder":"modern/theme",
@@ -1038,7 +1038,7 @@
             }
         ],
         "name":"MorphOS Light",
-        "previews":"5",
+        "previews":"0",
         "skuid":"morphos_light",
         "theme_file":"morphos_light/theme_d",
         "theme_folder":"morphos_light/theme_d",
@@ -1074,7 +1074,7 @@
             }
         ],
         "name":"MD Special",
-        "previews":"5",
+        "previews":"0",
         "skuid":"free",
         "theme_file":"md_special/mds",
         "theme_folder":"md_special/mds",
@@ -1110,7 +1110,7 @@
             }
         ],
         "name":"iOS 14 Dark (Free)",
-        "previews":"5",
+        "previews":"0",
         "skuid":"free",
         "theme_file":"ios14/theme_d_alt",
         "theme_folder":"ios14/theme_d_alt",
@@ -1146,7 +1146,7 @@
             }
         ],
         "name":"iOS Midnight",
-        "previews":"5",
+        "previews":"0",
         "skuid":"free",
         "theme_file":"ios_midnight/ios_midnight",
         "theme_folder":"ios_midnight/ios_midnight",
@@ -1182,7 +1182,7 @@
             }
         ],
         "name":"One UI 3 Dark",
-        "previews":"5",
+        "previews":"0",
         "skuid":"free",
         "theme_file":"oneui/theme_d",
         "theme_folder":"oneui/theme_d",
@@ -1218,7 +1218,7 @@
             }
         ],
         "name":"MorphOS Colorful",
-        "previews":"5",
+        "previews":"0",
         "skuid":"morphos_simple",
         "theme_file":"morphos_simple/theme_d",
         "theme_folder":"morphos_simple/theme_d",
@@ -1254,7 +1254,7 @@
             }
         ],
         "name":"MINI Retro (Round)",
-        "previews":"5",
+        "previews":"0",
         "skuid":"miniretro",
         "theme_file":"miniRetro/miniretro_r",
         "theme_folder":"miniRetro/miniretro_r",
@@ -1290,7 +1290,7 @@
             }
         ],
         "name":"iOS Luxury",
-        "previews":"5",
+        "previews":"0",
         "skuid":"free",
         "theme_file":"ios_luxury/ios_luxury",
         "theme_folder":"ios_luxury/ios_luxury",
@@ -1326,7 +1326,7 @@
             }
         ],
         "name":"One UI 3",
-        "previews":"5",
+        "previews":"0",
         "skuid":"free",
         "theme_file":"oneui/theme",
         "theme_folder":"oneui/theme",
@@ -1362,7 +1362,7 @@
             }
         ],
         "name":"Starry",
-        "previews":"5",
+        "previews":"0",
         "skuid":"starry",
         "theme_file":"starry/theme",
         "theme_folder":"starry/theme",
@@ -1398,7 +1398,7 @@
             }
         ],
         "name":"Coffee Time",
-        "previews":"5",
+        "previews":"0",
         "skuid":"free",
         "theme_file":"caffee/theme",
         "theme_folder":"caffee/theme",
@@ -1434,7 +1434,7 @@
             }
         ],
         "name":"Lovely Sunset",
-        "previews":"5",
+        "previews":"0",
         "skuid":"lovely",
         "theme_file":"lovely/theme",
         "theme_folder":"lovely/theme",
@@ -1470,7 +1470,7 @@
             }
         ],
         "name":"Pure AOSP Dark",
-        "previews":"5",
+        "previews":"0",
         "skuid":"free",
         "theme_file":"pure_a/theme",
         "theme_folder":"pure_a/theme",
@@ -1506,7 +1506,7 @@
             }
         ],
         "name":"NEU iOS Dark",
-        "previews":"5",
+        "previews":"0",
         "skuid":"neu_ios",
         "theme_file":"ios_neu_dark/ios_neu_dark",
         "theme_folder":"ios_neu_dark/ios_neu_dark",
@@ -1542,7 +1542,7 @@
             }
         ],
         "name":"MorphOS",
-        "previews":"5",
+        "previews":"0",
         "skuid":"morphos_simple",
         "theme_file":"morphos_simple/theme",
         "theme_folder":"morphos_simple/theme",
@@ -1578,7 +1578,7 @@
             }
         ],
         "name":"ColorOS Material Dark",
-        "previews":"5",
+        "previews":"0",
         "skuid":"coloros",
         "theme_file":"coloros/theme_d",
         "theme_folder":"coloros/theme_d",
@@ -1614,7 +1614,7 @@
             }
         ],
         "name":"MorphOS BW",
-        "previews":"5",
+        "previews":"0",
         "skuid":"morphos_light",
         "theme_file":"morphos_light/theme",
         "theme_folder":"morphos_light/theme",
@@ -1650,7 +1650,7 @@
             }
         ],
         "name":"Hello Future (MIUI 12)",
-        "previews":"5",
+        "previews":"0",
         "skuid":"free",
         "theme_file":"hello_future/hello_future",
         "theme_folder":"hello_future/hello_future",
@@ -1686,7 +1686,7 @@
             }
         ],
         "name":"ColorOS Material",
-        "previews":"5",
+        "previews":"0",
         "skuid":"free",
         "theme_file":"coloros/theme",
         "theme_folder":"coloros/theme",
@@ -1722,7 +1722,7 @@
             }
         ],
         "name":"Batman",
-        "previews":"5",
+        "previews":"0",
         "skuid":"free",
         "theme_file":"batman/theme",
         "theme_folder":"batman/theme",
@@ -1758,7 +1758,7 @@
             }
         ],
         "name":"iOS 14 Dark",
-        "previews":"5",
+        "previews":"0",
         "skuid":"ios14",
         "theme_file":"ios14/theme_d",
         "theme_folder":"ios14/theme_d",
@@ -1794,7 +1794,7 @@
             }
         ],
         "name":"Pure Pixel Dark",
-        "previews":"5",
+        "previews":"0",
         "skuid":"free",
         "theme_file":"pure_g/theme",
         "theme_folder":"pure_g/theme",
@@ -1830,7 +1830,7 @@
             }
         ],
         "name":"NEU Dark",
-        "previews":"5",
+        "previews":"0",
         "skuid":"theme_neu",
         "theme_file":"neu_dark",
         "theme_folder":"neu_dark",
