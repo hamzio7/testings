@@ -36,41 +36,6 @@
        "theme_file" : "theme" ,
        "theme_folder" : "poco" ,
        "theme_id" : "ELb6aq2Rucglk0OkGM54"
-    },      {
-       "base" : "dark" ,
-       "category":[
-            0,
-            1,6,4
-        ],
-       "colors":[
-            {
-               "accent" : "ff0c84ff" ,
-               "actionbar" : "ff202020" ,
-               "background" : "ff151515" ,
-               "cal_bg" : "ff151515" ,
-               "cal_date" : "ff0c84ff" ,
-               "calculator" : "ff0c84ff" ,
-               "dialenums" : "ff0c84ff" ,
-               "dialer" : "ff0c84ff" ,
-               "dialpad" : "ff202020" ,
-               "folder" : "ff151515" ,
-               "nots_bg" : "ff202020" ,
-               "optimizer" : "ff0c84ff" ,
-               "optimizer_icons" : "ffffffff" ,
-               "optimizer_tiles" : "ff0c84ff" ,
-               "settings" : "ff0c84ff" ,
-               "settings_icons" : "ffffffff" ,
-               "settings_tiles" : "ff0c84ff" ,
-               "systemui" : "ff0c84ff" ,
-               "systemui_off" : "ff202020"
-            }
-        ],
-       "name" : "POCO Dark" ,
-       "previews" : "5" ,
-       "skuid" : "free" ,
-       "theme_file" : "theme" ,
-       "theme_folder" : "poco" ,
-       "theme_id" : "ELb6aq2Rucglk0OkGM54"
     },
     {
        "base" : "dark" ,
