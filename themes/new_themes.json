@@ -2,6 +2,79 @@
   "themes":[
   
       {
+       "base" : "light" ,
+       "category":[
+            0,
+            2,6
+        ],
+       "colors":[
+            {
+               "accent" : "ff2196f3" ,
+               "actionbar" : "fff5f5f5" ,
+               "background" : "ffffffff" ,
+               "cal_bg" : "ffffffff" ,
+               "cal_date" : "ff2196f3" ,
+               "calculator" : "ff2196f3" ,
+               "dialenums" : "ffffffff" ,
+               "dialer" : "ff2196f3" ,
+               "dialpad" : "fff5f5f5" ,
+               "folder" : "ffffffff" ,
+               "nots_bg" : "fff5f5f5" ,
+               "optimizer" : "ff2196f3" ,
+               "optimizer_icons" : "ffffffff" ,
+               "optimizer_tiles" : "ff2196f3" ,
+               "settings" : "ff2196f3" ,
+               "settings_icons" : "ffffffff" ,
+               "settings_tiles" : "ff2196f3" ,
+               "systemui" : "ff2196f3" ,
+               "systemui_off" : "fff5f5f5"
+            }
+        ],
+       "name" : "Windows 11" ,
+       "previews" : "6" ,
+       "skuid" : "free" ,
+       "theme_file" : "theme" ,
+       "theme_folder" : "win11" ,
+       "theme_id" : "LEmajfrNN6dhoHN8Xbb3"
+    },
+      {
+       "base" : "dark" ,
+       "category":[
+            0,
+            1,6
+        ],
+       "colors":[
+            {
+               "accent" : "ff2196f3" ,
+               "actionbar" : "ff051225" ,
+               "background" : "ff030b1a" ,
+               "cal_bg" : "ff030b1a" ,
+               "cal_date" : "ff2196f3" ,
+               "calculator" : "ff2196f3" ,
+               "dialenums" : "ffffffff" ,
+               "dialer" : "ff2196f3" ,
+               "dialpad" : "ff051225" ,
+               "folder" : "ff030b1a" ,
+               "nots_bg" : "ff051225" ,
+               "optimizer" : "ff2196f3" ,
+               "optimizer_icons" : "ffffffff" ,
+               "optimizer_tiles" : "ff2196f3" ,
+               "settings" : "ff2196f3" ,
+               "settings_icons" : "ffffffff" ,
+               "settings_tiles" : "ff2196f3" ,
+               "systemui" : "ff2196f3" ,
+               "systemui_off" : "ff051225"
+            }
+        ],
+       "name" : "Windows 11 Dark" ,
+       "previews" : "06" ,
+       "skuid" : "win11" ,
+       "theme_file" : "theme_b" ,
+       "theme_folder" : "win11" ,
+       "theme_id" : "rAaFLLP1EtW48dxHdNzk"
+    },
+
+	{
        "base" : "dark" ,
        "category":[
             0,
