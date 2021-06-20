@@ -15,7 +15,7 @@
                "cal_bg" : "ffffffff" ,
                "cal_date" : "ff2196f3" ,
                "calculator" : "ff2196f3" ,
-               "dialenums" : "ffffffff" ,
+               "dialenums" : "ff000000" ,
                "dialer" : "ff2196f3" ,
                "dialpad" : "fff5f5f5" ,
                "folder" : "ffffffff" ,
