@@ -1,6 +1,7 @@
 {	
 	"icons":[
 
+	  { "name":"fluent",	"isColored":true},
 	  { "name":"coloros",	"isColored":false},
 	  { "name":"coloros_b",	"isColored":true},
 	  { "name":"twelve_b",	"isColored":true},
