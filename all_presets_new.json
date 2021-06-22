@@ -1,5 +1,6 @@
 {"presets_dark":[
 
+{"accent":"#ff03a9f4","actionbar_1":"#ff101726","actionbar_2":"#ff1d2431","actionbar_3":"#ff332a27","background":"#ff292f3c","name":"Fluent Dark","pro":true},
 {"accent":"#ff7f6263","actionbar_1":"#ff1d1a19","actionbar_2":"#ff211b19","actionbar_3":"#ff332a27","background":"#ff110e0d","name":"Coffee","pro":false},
 {"accent":"#ff009688","actionbar_1":"#ff353535","actionbar_2":"#ff505050","actionbar_3":"#ff808080","background":"#ff202020","name":"AOSP","pro":false},
 {"accent":"#ffff6161","actionbar_1":"#ff353745","actionbar_2":"#ff4f4f5a","actionbar_3":"#ff565662","background":"#ff313340","name":"Alive","pro":true},
