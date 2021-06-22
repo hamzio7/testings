@@ -1,6 +1,7 @@
 {	
 	"icons":[
 
+	  { "name":"fluent",	"isColored":false},
 	  { "name":"morphy",	"isColored":false},
 	  { "name":"material_alt",	"isColored":true},
 	  { "name":"material",	"isColored":false},
