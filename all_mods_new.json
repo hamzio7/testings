@@ -24,6 +24,8 @@
 
 ], "settings_icons":[
 
+	  { "name":"fluent",	"isColored":true},
+	  { "name":"fluent_fill",	"isColored":true},
 	  { "name":"coloros",	"isColored":false},
 	  { "name":"coloros_b",	"isColored":true},
 	  { "name":"twelve_b",	"isColored":true},
