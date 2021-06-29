@@ -5,6 +5,41 @@
        "base" : "light" ,
        "category":[
             0,
+            2,4
+        ],
+       "colors":[
+            {
+               "accent" : "ff00bfa5" ,
+               "actionbar" : "ffefefeb" ,
+               "background" : "fffbfbf7" ,
+               "cal_bg" : "ffffffff" ,
+               "cal_date" : "ff00bfa5" ,
+               "calculator" : "ff00bfa5" ,
+               "dialenums" : "ff000000" ,
+               "dialer" : "ff00bfa5" ,
+               "dialpad" : "fff9f9f5" ,
+               "folder" : "ffffffff" ,
+               "nots_bg" : "fffbfbf7" ,
+               "optimizer" : "ff00bfa5" ,
+               "optimizer_icons" : "ffffffff" ,
+               "optimizer_tiles" : "ff00bfa5" ,
+               "settings" : "ff00bfa5" ,
+               "settings_icons" : "ffffffff" ,
+               "settings_tiles" : "ff00bfa5" ,
+               "systemui" : "ff00bfa5" ,
+               "systemui_off" : "fffbfbf7"
+            }
+        ],
+       "name" : "Hello Summer" ,
+       "previews" : "5" ,
+       "skuid" : "free" ,
+       "theme_file" : "theme" ,
+       "theme_folder" : "seasons" ,
+       "theme_id" : "CLFK7NTvtMYVtzFu6XQn"
+    },      {
+       "base" : "light" ,
+       "category":[
+            0,
             2,6
         ],
        "colors":[
