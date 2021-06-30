@@ -1,4 +1,5 @@
 {"adaptive":[
+  { "name":"material" ,"pro":false},
   { "name":"poco_new" ,"pro":false},
   { "name":"harmony_dark" ,"pro":true},
   { "name":"harmony" ,"pro":false},
