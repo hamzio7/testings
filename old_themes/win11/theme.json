@@ -1,0 +1,127 @@
+{
+	
+	"icons":[
+
+	  {	"name":"Dream" ,
+	  "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/dream.zip" ,
+	  "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/dream.jpg",
+	  "isAdaptive":true,
+	  "isNew":false
+	  },
+	  
+	  {	"name":"Dream Pixeled" ,
+	  "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/dream_p.zip" ,
+	  "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/dream_p.jpg",
+	  "isAdaptive":true,
+	  "isNew":false
+	  },
+	  
+	  {	"name":"Pixelify Dark Adaptive" ,
+	  "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/pixelify_dark.zip" ,
+	  "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/pixelify_d.jpg",
+	  "isAdaptive":true,
+	  "isNew":false
+	  },
+
+	  {	"name":"Pixel Adaptive" ,
+	  "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/pixel.zip" ,
+	  "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/pixel.jpg",
+	  "isAdaptive":true,
+	  "isNew":false
+	  },
+	  
+	  { "name":"AOSP Shapeless" ,
+	  "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/p_aosp.zip" ,
+	  "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/p_aosp.jpg",
+	  "isAdaptive":false,
+	  "isNew":false
+	  },
+	  
+	  
+	  {	"name":"AOSP Adaptive" ,
+	  "url":"https://github.com/hamzio7/testings/raw/master/iconpacks/aosp.zip" ,
+	  "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/aosp.jpg",
+	  "isAdaptive":true,
+	  "isNew":false
+	  },
+
+	  {	"name":"Pixel Shapeless" ,
+	  "url":"https://github.com/hamzio7/testings/raw/master/icons_shapeless/p_pixel.zip" ,
+	  "preview":"https://github.com/hamzio7/testings/raw/master/previews_new/p_pixel.jpg",
+	  "isAdaptive":false,
+	  "isNew":false
+	  }
+	  
+	],
+
+	"theme_data":[
+	
+	{"data_link":"https://github.com/hamzio7/testings/raw/master/old_themes/dream_pixel/theme.zip"}
+	
+	],
+	
+	"colors":[
+
+	  { 
+	  "name":"Pixel Dark" ,
+	  "background":"#ff202124",
+	  "actionbar_1":"#ff35363a",
+	  "actionbar_2":"#ff5f6368",
+	  "actionbar_3":"#ff80868b",
+	  "accent":"#ff8ab4f8" ,
+	  "pro":false
+	  },
+	  
+	  { 
+	  "name":"Pixel Dark Teal" ,
+	  "background":"#ff202124",
+	  "actionbar_1":"#ff35363a",
+	  "actionbar_2":"#ff5f6368",
+	  "actionbar_3":"#ff80868b",
+	  "accent":"#ff009688" ,
+	  "pro":false
+	  },
+	  
+	  { 
+	  "name":"Google Dark Grey" ,
+	  "background":"#ff202020",
+	  "actionbar_1":"#ff303030",
+	  "actionbar_2":"#ff505050",
+	  "actionbar_3":"#ff808080",
+	  "accent":"#ff8ab4f8" ,
+	  "pro":false
+	  },
+	  
+	  { 
+	  "name":"Google Dark",
+	  "background":"#ff202020",
+	  "actionbar_1":"#ff303030",
+	  "actionbar_2":"#ff505050",
+	  "actionbar_3":"#ff808080",
+	  "accent":"#ff009688" ,
+	  "pro":false
+	  }
+	 
+	  ],
+	
+	"colors_light":[
+
+	  { 
+	  "name":"Google" ,
+	  "background":"#ffffffff",
+	  "actionbar_1":"#fffafafa",
+	  "accent":"#ff1a73e8" ,
+	  "pro":false
+	  },
+	  
+	  { 
+	  "name":"Google" , 
+	  "background":"#ffffffff", 
+	  "actionbar_1":"#fffafafa",
+	  "accent":"#ff009688" , 
+	  "pro":false
+	  }
+	 
+	  ]
+	
+	}
