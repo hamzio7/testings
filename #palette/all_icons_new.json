@@ -1,0 +1,97 @@
+{"adaptive":[
+  { "name":"material" , "isAdaptive":true ,"pro":false},
+  { "name":"poco_new" , "isAdaptive":true ,"pro":false},
+  { "name":"harmony_dark" , "isAdaptive":true ,"pro":true},
+  { "name":"harmony" , "isAdaptive":true ,"pro":false},
+  { "name":"oneui_new" , "isAdaptive":true ,"pro":false},
+  { "name":"pixel_new" , "isAdaptive":true ,"pro":false},
+  { "name":"minios" , "isAdaptive":true ,"pro":false},
+  { "name":"hotred" , "isAdaptive":true ,"pro":true},
+  { "name":"cyberpunk" , "isAdaptive":true ,"pro":true},
+  { "name":"eleven" , "isAdaptive":true ,"pro":true},
+  { "name":"pebble" , "isAdaptive":true ,"pro":false},
+  { "name":"nebula" , "isAdaptive":true ,"pro":true},
+  { "name":"emui11" , "isAdaptive":true ,"pro":false},
+  { "name":"outlines" , "isAdaptive":true ,"pro":false},
+  { "name":"flaty" , "isAdaptive":true ,"pro":false},
+  { "name":"morphos_bc" , "isAdaptive":true ,"pro":true},
+  { "name":"morphos_black" , "isAdaptive":true ,"pro":false},
+  { "name":"morphos_wc" , "isAdaptive":true ,"pro":true},
+  { "name":"morphos_white" , "isAdaptive":true ,"pro":false},
+  { "name":"morphy" , "isAdaptive":true ,"pro":true},
+  { "name":"dream_p" , "isAdaptive":true ,"pro":false},
+  { "name":"dream" , "isAdaptive":true ,"pro":false},
+  { "name":"zenui" , "isAdaptive":true ,"pro":false},
+  { "name":"xperia" , "isAdaptive":true ,"pro":false},
+  { "name":"pixelify_dark" , "isAdaptive":true ,"pro":false},
+  { "name":"pixel" , "isAdaptive":true ,"pro":false},
+  { "name":"oneuilight" , "isAdaptive":true ,"pro":false},
+  { "name":"oneuidark" , "isAdaptive":true ,"pro":true},
+  { "name":"oneui" , "isAdaptive":true ,"pro":false},
+  { "name":"oneplus" , "isAdaptive":true ,"pro":true},
+  { "name":"mixel" , "isAdaptive":true ,"pro":true},
+  { "name":"miui" , "isAdaptive":true ,"pro":false},
+  { "name":"mios" , "isAdaptive":true ,"pro":true},
+  { "name":"miniretro" , "isAdaptive":true ,"pro":true},
+  { "name":"lineage" , "isAdaptive":true ,"pro":true},
+  { "name":"lewa" , "isAdaptive":true ,"pro":false},
+  { "name":"iSpecial" , "isAdaptive":true ,"pro":false},
+  { "name":"iosmidnight" , "isAdaptive":true ,"pro":false},
+  { "name":"iosblack" , "isAdaptive":true ,"pro":true},
+  { "name":"ios_sunset" , "isAdaptive":true ,"pro":false},
+  { "name":"ios_neu_ad_dark" , "isAdaptive":true ,"pro":true},
+  { "name":"ios_neu_ad" , "isAdaptive":true ,"pro":true},
+  { "name":"ios" , "isAdaptive":true ,"pro":false},
+  { "name":"i-like" , "isAdaptive":true ,"pro":true},
+  { "name":"huawei" , "isAdaptive":true ,"pro":false},
+  { "name":"grey_one" , "isAdaptive":true ,"pro":true},
+  { "name":"aosp" , "isAdaptive":true ,"pro":false},
+  { "name":"colorful_night" , "isAdaptive":true ,"pro":true},
+  { "name":"dmd_special" , "isAdaptive":true ,"pro":true},
+  { "name":"fluent" , "isAdaptive":true ,"pro":true}
+],
+
+"shapeless":[
+  { "name":"oppo_material" , "isAdaptive":false ,"pro":false},
+  { "name":"frost" , "isAdaptive":false ,"pro":true},
+  { "name":"special_red" , "isAdaptive":false ,"pro":true},
+  { "name":"special_pink" , "isAdaptive":false ,"pro":true},
+  { "name":"special_colorful" , "isAdaptive":false ,"pro":false},
+  { "name":"special_blue" , "isAdaptive":false ,"pro":true},
+  { "name":"sense" , "isAdaptive":false ,"pro":false},
+  { "name":"retro" , "isAdaptive":false ,"pro":false},
+  { "name":"poco" , "isAdaptive":false ,"pro":false},
+  { "name":"p_pixel" , "isAdaptive":false ,"pro":false},
+  { "name":"p_aosp" , "isAdaptive":false ,"pro":false},
+  { "name":"oxygen" , "isAdaptive":false ,"pro":false},
+  { "name":"neu_ios_light" , "isAdaptive":false ,"pro":true},
+  { "name":"neu_ios_dark" , "isAdaptive":false ,"pro":true},
+  { "name":"miui10" , "isAdaptive":false ,"pro":false},
+  { "name":"mclaren" , "isAdaptive":false ,"pro":true},
+  { "name":"materialsmclaren" , "isAdaptive":false ,"pro":false},
+  { "name":"Materials_2" , "isAdaptive":false ,"pro":true},
+  { "name":"materials" , "isAdaptive":false ,"pro":false},
+  { "name":"hydrogen" , "isAdaptive":false ,"pro":true},
+  { "name":"fluent_shapeless" , "isAdaptive":false ,"pro":true}
+],
+
+"masks":[
+
+	  {	"mask":"https://github.com/hamzio7/testings/raw/master/masks/miui9.png"},
+	  
+	  {	"mask":"https://github.com/hamzio7/testings/raw/master/masks/heart.png"},
+	  
+	  {	"mask":"https://github.com/hamzio7/testings/raw/master/masks/belle.png"},
+	  
+	  {	"mask":"https://github.com/hamzio7/testings/raw/master/masks/miui.png"},
+	  
+	  {	"mask":"https://github.com/hamzio7/testings/raw/master/masks/hexagon.png"},
+	  
+	  {	"mask":"https://github.com/hamzio7/testings/raw/master/masks/hexagon_2.png"},
+	  
+	  { "mask":"https://github.com/hamzio7/testings/raw/master/masks/ver_rec.png"},
+	  
+	  {	"mask":"https://github.com/hamzio7/testings/raw/master/masks/hor_rec.png"}
+	  
+	]
+}
