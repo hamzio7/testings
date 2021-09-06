@@ -1,11 +1,11 @@
 {"adaptive":[
   { "name":"material" , "isNew":true , "isThemed":true ,"isAdaptive":true ,"pro":false},
-  { "name":"fluent" , "isNew":false , "isThemed":false ,"isAdaptive":true ,"pro":true}
+  { "name":"oneui_new" , "isNew":false , "isThemed":false ,"isAdaptive":true ,"pro":true}
 ],
 
 "shapeless":[
-  { "name":"hydrogen" , "isNew":true , "isThemed":true ,"isAdaptive":false ,"pro":true},
-  { "name":"fluent_shapeless" , "isNew":true , "isThemed":true ,"isAdaptive":false ,"pro":true}
+  { "name":"default" , "isNew":true , "isThemed":true ,"isAdaptive":false ,"pro":true},
+  { "name":"android_12" , "isNew":true , "isThemed":true ,"isAdaptive":false ,"pro":true}
 ],
 
 "masks":[
