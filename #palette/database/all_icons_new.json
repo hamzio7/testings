@@ -1,11 +1,15 @@
 {"adaptive":[
-  { "name":"material" , "isNew":true , "isThemed":true ,"isAdaptive":true ,"pro":false},
-  { "name":"oneui_new" , "isNew":false , "isThemed":false ,"isAdaptive":true ,"pro":true}
+
+  { "name":"material" , "isNew":false , "isThemed":false  ,"pro":false},
+  { "name":"oneui_new" , "isNew":false , "isThemed":false  ,"pro":true}
+  
 ],
 
 "shapeless":[
-  { "name":"default" , "isNew":true , "isThemed":true ,"isAdaptive":false ,"pro":true},
-  { "name":"android_12" , "isNew":true , "isThemed":true ,"isAdaptive":false ,"pro":true}
+
+  { "name":"default" , "isNew":true , "isThemed":true  ,"pro":true},
+  { "name":"android_12" , "isNew":true , "isThemed":true  ,"pro":true}
+  
 ],
 
 "masks":[
