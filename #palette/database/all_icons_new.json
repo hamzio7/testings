@@ -1,15 +1,15 @@
 {"adaptive":[
 
-  { "name":"material" , "isNew":false , "isThemed":false  ,"pro":false},
-  { "name":"oneui_new" , "isNew":false , "isThemed":false  ,"pro":true}
+  { "name":"material" , "isNew":false , "isThemed":false  ,"isPro":false},
+  { "name":"oneui_new" , "isNew":false , "isThemed":false  ,"isPro":true}
   
 ],
 
 "shapeless":[
 
-  { "name":"default" , "isNew":true , "isThemed":true  ,"pro":false},
-  { "name":"android_12" , "isNew":true , "isThemed":true  ,"pro":false},
-  { "name":"fluent" , "isNew":true , "isThemed":true  ,"pro":false}
+  { "name":"default" , "isNew":true , "isThemed":true  ,"isPro":false},
+  { "name":"android_12" , "isNew":true , "isThemed":true  ,"isPro":false},
+  { "name":"fluent" , "isNew":true , "isThemed":true  ,"isPro":false}
   
 ],
 
