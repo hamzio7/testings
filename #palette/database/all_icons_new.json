@@ -1,7 +1,7 @@
 {"adaptive":[
 
   { "name":"material" , "isNew":false , "isThemed":false  ,"isPro":false},
-  { "name":"oneui_new" , "isNew":false , "isThemed":false  ,"isPro":true}
+  { "name":"oneui_new" , "isNew":false , "isThemed":false  ,"isPro":false}
   
 ],
 
