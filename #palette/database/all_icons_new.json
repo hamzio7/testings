@@ -8,6 +8,7 @@
 "shapeless":[
 
   { "name":"default" , "isNew":true , "isThemed":true  ,"isPro":false},
+  { "name":"one" , "isNew":true , "isThemed":true  ,"isPro":false},
   { "name":"android_12" , "isNew":true , "isThemed":true  ,"isPro":false},
   { "name":"fluent" , "isNew":true , "isThemed":true  ,"isPro":false}
   
