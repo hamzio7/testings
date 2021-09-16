@@ -1,8 +1,19 @@
-{ "settings_icons":[
+{ 	"settings_icons":[
 
-	  { "name":"default",	"isColored":true}
+	  { "name":"default",	"isColored":true},
+	  { "name":"coloros",	"isColored":true},
+	  { "name":"dream",	"isColored":true},
+	  { "name":"fluent",	"isColored":true},
+	  { "name":"fluent_fill",	"isColored":true},
+	  { "name":"material_outline",	"isColored":true},
+	  { "name":"miui",	"isColored":true},
+	  { "name":"oneui",	"isColored":true},
+	  { "name":"plumpy",	"isColored":true},
+	  { "name":"modern",	"isColored":true}
 	  
-],"files_icons":[
+],
+
+	"files_icons":[
 
 	  { "name":"fluent",	"isColored":false}
 	  
