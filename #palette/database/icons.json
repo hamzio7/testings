@@ -1,6 +1,7 @@
 {"adaptive":[
 
   { "name":"aosp" , "isNew":false , "isThemed":false  ,"isPro":false},
+  { "name":"ophium" , "isNew":false , "isThemed":true  ,"isPro":false},
   { "name":"colorful_night" , "isNew":false , "isThemed":false  ,"isPro":false},
   { "name":"eleven" , "isNew":false , "isThemed":false  ,"isPro":false},
   { "name":"emui11" , "isNew":false , "isThemed":false  ,"isPro":false},
