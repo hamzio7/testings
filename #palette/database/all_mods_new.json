@@ -1,6 +1,8 @@
 { 	"settings_icons":[
 
 	  { "name":"default",	"isColored":true},
+	  { "name":"ophium_s",	"isColored":true},
+	  { "name":"ophium_flat_s",	"isColored":true},
 	  { "name":"you",	"isColored":true},
 	  { "name":"coloros",	"isColored":true},
 	  { "name":"dream",	"isColored":true},
