@@ -1,6 +1,7 @@
 { 	"settings_icons":[
 
 	  { "name":"default",	"isColored":true},
+	  { "name":"you",	"isColored":true},
 	  { "name":"coloros",	"isColored":true},
 	  { "name":"dream",	"isColored":true},
 	  { "name":"fluent",	"isColored":true},
