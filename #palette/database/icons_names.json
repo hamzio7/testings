@@ -173,7 +173,7 @@
   
   { "name":"signal" ,"packages":["org.thoughtcrime.securesms"]},
   
-  { "name":"telegramx" ,"packages":["Ford", "BMW", "Fiat"]}
+  { "name":"telegramx" ,"packages":["Ford", "BMW", "Fiat"]},
   
   { "name":"meet" ,"packages":["com.google.android.apps.meetings"]},
   
