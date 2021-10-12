@@ -5,96 +5,178 @@
   
   { "name":"pmap" ,"packages":["com.huawei.maps.app"]},
   
-  { "name":"assistant" ,"packages":["Ford", "BMW", "Fiat"]},
+  { "name":"assistant" ,"packages":["com.huawei.intelligent"]},
   
-  { "name":"psearch" ,"packages":["Ford", "BMW", "Fiat"]},
+  { "name":"psearch" ,"packages":["com.huawei.search", "com.huawei.hwsearch"]},
   
-  { "name":"calculator" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"camera" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"clock" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"compass" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"contacts" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"downloads" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"email" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"files" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"gallery" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"games" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"music" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"notes" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"recorder" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"settings" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"shop" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"sim" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"sms" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"sysman" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"videos" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"weather" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"themes" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"tips" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"mirror" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"calendar" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"remote" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"flash" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"backup" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"clone" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"health" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"support" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"mask" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"folder" ,"packages":["Ford", "BMW", "Fiat"]},
+  { "name":"calculator" ,"packages":["com.android.calculator2", "com.miui.calculator", "com.google.android.calculator"]},
   
-  { "name":"google" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"youtube" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"whatsapp" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"store" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"opera" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"maps" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"meet" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"insta" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"gmail" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"aosp" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"es" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"signal" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"adm" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"zoom" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"duo" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"facebook" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"messanger" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"photos" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"playmusic" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"playgames" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"snapseed" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"console" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"spotify" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"gboard" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"keep" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"lens" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"translate" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"drive" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"share" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"chrome" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"soundhound" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"reddit" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"pinterest" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"mx" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"zoom" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"proton" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"whatsappb" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"dribble" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"behance" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"github" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"excel" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"word" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"powerpoint" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"skype" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"skydrive" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"todo" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"office" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"soundcloud" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"vlc" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"linkdin" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"snapchat" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"twitch" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"tweet" ,"packages":["Ford", "BMW", "Fiat"]},
-  { "name":"telegram" ,"packages":["Ford", "BMW", "Fiat"]}
+  { "name":"camera" ,"packages":["com.android.camera", "com.google.android.GoogleCamera", "com.huawei.camera"]},
+  
+  { "name":"clock" ,"packages":["com.android.deskclock", "com.huawei.deskclock"]},
+  
+  { "name":"compass" ,"packages":["com.miui.compass", "com.huawei.compass"]},
+  
+  { "name":"contacts" ,"packages":["com.android.contacts", "com.android.providers.contacts", "com.google.android.contacts"]},
+  
+  { "name":"downloads" ,"packages":["com.android.documentsui", "com.android.providers.downloads", "com.android.providers.downloads.ui"]},
+  
+  { "name":"email" ,"packages":["com.android.email", "com.huawei.email"]},
+  
+  { "name":"files" ,"packages":["com.android.fileexplorer", "com.huawei.hidisk"]},
+  
+  { "name":"gallery" ,"packages":["com.android.gallery3d.app.FreeShareItem", "com.android.gallery3d.app.PhotoShareItem", "com.android.gallery3d", "com.miui.gallery"]},
+  
+  { "name":"games" ,"packages":["com.xiaomi.gamecenter.pad", "com.xiaomi.gamecenter", "com.huawei.gameassistant", "com.huawei.gamebox.global", "com.huawei.gamebox", "com.huawei.gamecenter"]},
+  
+  { "name":"music" ,"packages":["com.miui.player", "com.android.music", "com.sonyericsson.music", "com.android.mediacenter"]},
+  
+  { "name":"notes" ,"packages":["com.huawei.notepad", "com.miui.notes"]},
+  
+  { "name":"recorder" ,"packages":["com.android.soundrecorder"]},
+  
+  { "name":"settings" ,"packages":["com.android.settings"]},
+  
+  { "name":"shop" ,"packages":["com.huawei.appmarket", "com.xiaomi.market", "com.xiaomi.shop.activity.MainTabActivity", "com.xiaomi.shop", "com.miui.supermarket"]},
+  
+  { "name":"sim" ,"packages":["com.android.stk.cu.2", "com.android.stk.cu", "com.android.stk", "com.android.stk.StkLauncherActivity", "com.android.stk.StkLauncherActivity2", "com.android.stk.StkLauncherActivityII"]},
+  
+  { "name":"sms" ,"packages":["com.android.mms", "com.google.android.apps.messaging"]},
+  
+  { "name":"sysman" ,"packages":["com.miui.securitycenter", "com.miui.securitycenter.MainActivity", "com.miui.securitycenter.Main", "com.huawei.trustspace", "com.huawei.systemmanager"]},
+  
+  { "name":"videos" ,"packages":["com.huawei.himovie.overseas", "com.huawei.himovie", "com.huawei.hwvplayer", "com.huawei.hwvplayer.youku", "com.miui.video", "com.miui.videoplayer", "com.tiantian.android.player.video"]},
+  
+  { "name":"weather" ,"packages":["com.miui.weather2", "com.huawei.android.totemweatherapp", "com.huawei.android.totemweather"]},
+  
+  { "name":"themes" ,"packages":["com.android.thememanager", "com.huawei.android.thememanager"]},
+  
+  { "name":"tips" ,"packages":["com.huawei.android.tips", "com.huawei.tips", "com.huawei.tipsove"]},
+  
+  { "name":"mirror" ,"packages":["com.android.hwmirror.Mirror", "com.android.hwmirror", "com.android.mirror"]},
+  
+  { "name":"calendar" ,"packages":["com.android.calendar", "com.google.android.calendar"]},
+  
+  { "name":"remote" ,"packages":["com.duokan.phone.remotecontroller", "com.huawei.android.remotecontroller"]},
+  
+  { "name":"flash" ,"packages":["com.android.systemui.flashlight.FlashlightActivity"]},
+  
+  { "name":"backup" ,"packages":["com.huawei.KoBackup"]},
+  
+  { "name":"clone" ,"packages":["com.hicloud.android.clone"]},
+  
+  { "name":"health" ,"packages":["com.huawei.health", "com.mi.health", "com.xiaomi.hm.health"]},
+  
+  { "name":"support" ,"packages":["com.huawei.phoneservice", "com.mi.misupport", "com.miui.bugreport"]},
+  
+  { "name":"mask" ,"packages":["icon_mask", "icon_pattern"]},
+  
+  { "name":"folder" ,"packages":["portal_ring_inner_holo"]},
+  
+  { "name":"google" ,"packages":["com.google.android.googlequicksearchbox"]},
+  
+  { "name":"youtube" ,"packages":["com.google.android.youtube"]},
+  
+  { "name":"whatsapp" ,"packages":["com.whatsapp"]},
+  
+  { "name":"store" ,"packages":["com.android.vending"]},
+  
+  { "name":"opera" ,"packages":["com.opera.browser"]},
+  
+  { "name":"maps" ,"packages":["com.google.android.apps.maps"]},
+  
+  { "name":"insta" ,"packages":["com.instagram.android"]},
+  
+  { "name":"gmail" ,"packages":["com.google.android.gm"]},
+  
+  { "name":"firefox" ,"packages":["org.mozilla.firefox"]},
+  
+  { "name":"es" ,"packages":["com.estrongs.android.pop", "com.estrongs.android.pop.pro"]},
+  
+  { "name":"telegram" ,"packages":["org.telegram.messenger"]},
+  
+  { "name":"tweet" ,"packages":["com.twitter.android", "com.twitter.android.lite"]},
+  
+  { "name":"twitch" ,"packages":["tv.twitch.android.app"]},
+
+  { "name":"snapchat" ,"packages":["com.snapchat.android"]},
+  
+  { "name":"linkedin" ,"packages":["com.linkedin.android"]},
+  
+  { "name":"vcl" ,"packages":["org.videolan.vlc"]},
+  
+  { "name":"soundcloud" ,"packages":["com.soundcloud.android"]},
+  
+  { "name":"office" ,"packages":["com.microsoft.office.officehubrow"]},
+  
+  { "name":"todo" ,"packages":["com.microsoft.todos"]},
+  
+  { "name":"skydrive" ,"packages":["com.microsoft.skydrive"]},
+  
+  { "name":"skype" ,"packages":["com.skype.raider", "com.skype.m2", "com.microsoft.office.lync15"]},
+  
+  { "name":"powerpoint" ,"packages":["com.microsoft.office.powerpoint"]},
+  
+  { "name":"word" ,"packages":["com.microsoft.office.word"]},
+  
+  { "name":"excel" ,"packages":["com.microsoft.office.excel"]},
+  
+  { "name":"github" ,"packages":["com.github.android"]},
+  
+  { "name":"behance" ,"packages":["com.behance.behance"]},
+  
+  { "name":"dribble" ,"packages":["mathieumaree.rippple"]},
+  
+  { "name":"whatsappb" ,"packages":["com.whatsapp.w4b"]},
+  
+  { "name":"proton" ,"packages":["ch.protonvpn.android"]},
+  
+  { "name":"zoom" ,"packages":["us.zoom.videomeetings"]},
+  
+  { "name":"mx" ,"packages":["com.mxtech.videoplayer.pro", "com.mxtech.videoplayer.ad"]},
+  
+  { "name":"pinterest" ,"packages":["com.pinterest"]},
+  
+  { "name":"reddit" ,"packages":["com.reddit.frontpage"]},
+  
+  { "name":"soundhound" ,"packages":["com.melodis.midomiMusicIdentifier.freemium", "com.melodis.midomiMusicIdentifier"]},
+  
+  { "name":"share" ,"packages":["com.xiaomi.midrop"]},
+  
+  { "name":"drive" ,"packages":["com.google.android.apps.docs"]},
+  
+  { "name":"translate" ,"packages":["com.google.android.apps.translate"]},
+  
+  { "name":"lens" ,"packages":["com.google.ar.lens"]},
+  
+  { "name":"keep" ,"packages":["com.google.android.keep"]},
+  
+  { "name":"gboard" ,"packages":["com.google.android.inputmethod.latin"]},
+  
+  { "name":"spotify" ,"packages":["com.spotify.music"]},
+  
+  { "name":"console" ,"packages":["com.google.android.apps.playconsole"]},
+  
+  { "name":"snapseed" ,"packages":["com.niksoftware.snapseed"]},
+  
+  { "name":"playgames" ,"packages":["com.google.android.play.games"]},
+  
+  { "name":"playmusic" ,"packages":["com.google.android.music"]},
+  
+  { "name":"photos" ,"packages":["com.google.android.apps.photos", "com.google.android.apps.photos.phone.PhotosLauncherActivity", "com.google.android.apps.photos.home.HomeActivity"]},
+  
+  { "name":"messanger" ,"packages":["com.facebook.mlite", "com.facebook.orca"]},
+  
+  { "name":"facebook" ,"packages":["com.facebook.katana"]},
+  
+  { "name":"adm" ,"packages":["com.dv.adm", "com.dv.adm.pay"]},
+  
+  { "name":"signal" ,"packages":["org.thoughtcrime.securesms"]},
+  
+  { "name":"telegramx" ,"packages":["Ford", "BMW", "Fiat"]}
+  
+  { "name":"meet" ,"packages":["com.google.android.apps.meetings"]},
+  
+  { "name":"duo" ,"packages":["com.google.android.apps.tachyon", "com.google.android.apps.tachyon.MainActivity"]},
 ]
 }
