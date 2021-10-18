@@ -1,4 +1,4 @@
-{"adaptive":[
+{"apps":[
   { "name":"phone" ,"packages":["com.android.phone", "com.android.contacts.activities.TwelveKeyDialer", "com.android.contacts.activities.DialtactsActivity", "com.google.android.dialer"]},
   
   { "name":"browser" ,"packages":["com.android.browser", "com.huawei.android.browser", "com.huawei.browser"]},
