@@ -177,6 +177,6 @@
   
   { "name":"meet" ,"packages":["com.google.android.apps.meetings"]},
   
-  { "name":"duo" ,"packages":["com.google.android.apps.tachyon", "com.google.android.apps.tachyon.MainActivity"]},
+  { "name":"duo" ,"packages":["com.google.android.apps.tachyon", "com.google.android.apps.tachyon.MainActivity"]}
 ]
 }
