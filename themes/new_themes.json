@@ -9,6 +9,76 @@
         ],
        "colors":[
             {
+               "accent" : "ffd39355" ,
+               "actionbar" : "fffad9b6" ,
+               "background" : "fffce6cf" ,
+               "cal_bg" : "fffce6cf" ,
+               "cal_date" : "ffd39355" ,
+               "calculator" : "ffd39355" ,
+               "dialenums" : "ffd39355" ,
+               "dialer" : "ffd39355" ,
+               "dialpad" : "fffce6cf" ,
+               "folder" : "fffce6cf" ,
+               "nots_bg" : "fffce6cf" ,
+               "optimizer" : "ffd39355" ,
+               "optimizer_icons" : "ffffffff" ,
+               "optimizer_tiles" : "ffd39355" ,
+               "settings" : "ffd39355" ,
+               "settings_icons" : "ffffffff" ,
+               "settings_tiles" : "ffd39355" ,
+               "systemui" : "ffd39355" ,
+               "systemui_off" : "fffce6cf"
+            }
+        ],
+       "name" : "MaterialYou Orange" ,
+       "previews" : "5" ,
+       "skuid" : "free" ,
+       "theme_file" : "theme" ,
+       "theme_folder" : "myouorange" ,
+       "theme_id" : "CLFK7NTvtMYVtzFu6XQn"
+    },      {
+       "base" : "light" ,
+       "category":[
+            0,
+            2,4
+        ],
+       "colors":[
+            {
+               "accent" : "ffa2b176" ,
+               "actionbar" : "ffe1e8c9" ,
+               "background" : "ffebf0da" ,
+               "cal_bg" : "ffebf0da" ,
+               "cal_date" : "ffa2b176" ,
+               "calculator" : "ffa2b176" ,
+               "dialenums" : "ffa2b176" ,
+               "dialer" : "ffa2b176" ,
+               "dialpad" : "ffebf0da" ,
+               "folder" : "ffebf0da" ,
+               "nots_bg" : "ffebf0da" ,
+               "optimizer" : "ffa2b176" ,
+               "optimizer_icons" : "ffffffff" ,
+               "optimizer_tiles" : "ffa2b176" ,
+               "settings" : "ffa2b176" ,
+               "settings_icons" : "ffffffff" ,
+               "settings_tiles" : "ffa2b176" ,
+               "systemui" : "ffa2b176" ,
+               "systemui_off" : "ffebf0da"
+            }
+        ],
+       "name" : "MaterialYou Green" ,
+       "previews" : "5" ,
+       "skuid" : "free" ,
+       "theme_file" : "theme" ,
+       "theme_folder" : "myougreen" ,
+       "theme_id" : "CLFK7NTvtMYVtzFu6XQn"
+    },      {
+       "base" : "light" ,
+       "category":[
+            0,
+            2,4
+        ],
+       "colors":[
+            {
                "accent" : "ff00bfa5" ,
                "actionbar" : "ffefefeb" ,
                "background" : "fffbfbf7" ,
