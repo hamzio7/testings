@@ -97,6 +97,7 @@
 	
 		"dialer":[
 
+	  { "name":"moonbeam",	"isColored":true},
 	  { "name":"anticfont",	"isColored":true},
 	  { "name":"mor_dark",	"isColored":false},
 	  { "name":"mor_light",	"isColored":false},
