@@ -1,0 +1,122 @@
+{"mods":[
+
+{"mod":"dock_bg","name":"Dock Background"},
+
+{"mod":"gmail","name":"Gmail Notification Fix"},
+
+{"mod":"miuiseekbars","name":"MIUI Seek Bars"},
+
+{"mod":"volume_transparent","name":"Semi-Transparent Volume Bar"},
+
+{"mod":"volume_dark","name":"Stock Volume Panel (Dark)"},
+
+{"mod":"volume_light","name":"Stock Volume Panel (Light)"},
+
+{"mod":"div_iSpecial_cyan","name":"i-Special Cyan Dividers"},
+
+{"mod":"div_iSpecial","name":"i-Special Dividers"},
+
+{"mod":"div_iSpecial_green","name":"i-Special Green Dividers"},
+
+{"mod":"div_iSpecial_grey","name":"i-Special Grey Dividers"},
+
+{"mod":"div_iSpecial_pink","name":"i-Special Pink Dividers"}
+
+], "settings_icons":[
+
+	  { "name":"plumpy",	"isColored":true},
+	  { "name":"fluent",	"isColored":true},
+	  { "name":"fluent_fill",	"isColored":true},
+	  { "name":"coloros",	"isColored":false},
+	  { "name":"coloros_b",	"isColored":true},
+	  { "name":"twelve_b",	"isColored":true},
+	  { "name":"twelve",	"isColored":false},
+	  { "name":"frost",	"isColored":false},
+	  { "name":"ios_lines",	"isColored":true},
+	  { "name":"morphy",	"isColored":false},
+	  { "name":"dream",	"isColored":false},
+	  { "name":"dream_alt",	"isColored":true},
+	  { "name":"material_circle_alt",	"isColored":false},
+	  { "name":"material_circle",	"isColored":true},
+	  { "name":"miui_alt",	"isColored":true},
+	  { "name":"miui",	"isColored":false},
+	  { "name":"ios_alt",	"isColored":false},
+	  { "name":"ios",	"isColored":false},
+	  { "name":"material",	"isColored":false},
+	  { "name":"oneui",	"isColored":false},
+	  { "name":"oneuic",	"isColored":true},
+	  { "name":"modern",	"isColored":true},
+	  {	"name":"material_outline",	"isColored":true}
+	  
+],
+
+"fonts":[
+  { "name":"Aaargh", "url":"Aaargh"},
+  { "name":"Airstream", "url":"Airstream"},
+  { "name":"Aller", "url":"Aller"},
+  { "name":"Amadeus", "url":"Amadeus"},
+  { "name":"Amatic", "url":"Amatic"},
+  { "name":"Amble", "url":"Amble"},
+  { "name":"Aquiline Two", "url":"AquilineTwo"},
+  { "name":"Architects Daughter", "url":"ArchitectsDaughter"},
+  { "name":"Arimo", "url":"Arimo"},
+  { "name":"Cantarell", "url":"Cantarell"},
+  { "name":"Capsuula", "url":"Capsuula"},
+  { "name":"Carrington", "url":"Carrington"},
+  { "name":"Caviar Dreams", "url":"CaviarDreams"},
+  { "name":"Cicle Fina", "url":"Cicle_Fina"},
+  { "name":"Cicle Semi", "url":"Cicle_Semi"},
+  { "name":"Comfortaa", "url":"Comfortaa"},
+  { "name":"Desyrel", "url":"Desyrel"},
+  { "name":"England Hand DB", "url":"England"},
+  { "name":"Eraser", "url":"Eraser"},
+  { "name":"Fontleroy Brown", "url":"FontleroyBrown"},
+  { "name":"Huawei Font", "url":"HuaweiFont"},
+  { "name":"Freebooter script", "url":"Freebooterscript"},
+  { "name":"Josefin Sans", "url":"JosefinSans"},
+  { "name":"Josefin Slab", "url":"JosefinSlab"},
+  { "name":"Journal", "url":"Journal"},
+  { "name":"Kristi", "url":"Kristi"},
+  { "name":"Lane", "url":"Lane"},
+  { "name":"Maven Pro", "url":"MavenPro"},
+  { "name":"Montez", "url":"Montez"},
+  { "name":"Mountains of Christmas", "url":"MountainsofChristmas"},
+  { "name":"Muli", "url":"Muli"},
+  { "name":"Mutlu", "url":"Mutlu"},
+  { "name":"Nobile", "url":"Nobile"},
+  { "name":"Open Sans", "url":"OpenSans"},
+  { "name":"Orbitron", "url":"England"},
+  { "name":"Pacifico", "url":"Pacifico"},
+  { "name":"PT", "url":"PT"},
+  { "name":"Qwigley", "url":"Qwigley"},
+  { "name":"San Francisco", "url":"SanFrancisco"},
+  { "name":"Raleway", "url":"Raleway"},
+  { "name":"Riesling", "url":"Riesling"}
+  
+],
+	
+		"dialer":[
+
+	  { "name":"anticfont",	"isColored":true},
+	  { "name":"mor_dark",	"isColored":false},
+	  { "name":"mor_light",	"isColored":false},
+	  { "name":"ioslight",	"isColored":false},
+	  {	"name":"iosdark",	"isColored":false}
+	  
+],
+
+	"files_icons":[
+
+	  { "name":"fluent",	"isColored":false},
+	  { "name":"morphy",	"isColored":false},
+	  { "name":"material_alt",	"isColored":true},
+	  { "name":"material",	"isColored":false},
+	  { "name":"dream_alt",	"isColored":true},
+	  { "name":"dream",	"isColored":false},
+	  { "name":"miui",	"isColored":false},
+	  { "name":"ios_alt",	"isColored":true},
+	  {	"name":"ios",	"isColored":false}
+	  
+	]
+
+}
