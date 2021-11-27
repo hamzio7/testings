@@ -131,7 +131,7 @@
   
   { "name":"proton" ,"packages":["ch.protonvpn.android"]},
   
-  { "name":"zoom" ,"packages":["us.zoom.videomeetings"]},
+  { "name":"zoom" ,"packages":["us.zoom.videomeetings","us.zoom.videomeetings4intune"]},
   
   { "name":"mx" ,"packages":["com.mxtech.videoplayer.pro", "com.mxtech.videoplayer.ad"]},
   
@@ -145,12 +145,6 @@
   
   { "name":"drive" ,"packages":["com.google.android.apps.docs"]},
   
-  { "name":"translate" ,"packages":["com.google.android.apps.translate"]},
-  
-  { "name":"lens" ,"packages":["com.google.ar.lens"]},
-  
-  { "name":"keep" ,"packages":["com.google.android.keep"]},
-  
   { "name":"gboard" ,"packages":["com.google.android.inputmethod.latin"]},
   
   { "name":"spotify" ,"packages":["com.spotify.music"]},
@@ -158,8 +152,6 @@
   { "name":"console" ,"packages":["com.google.android.apps.playconsole"]},
   
   { "name":"snapseed" ,"packages":["com.niksoftware.snapseed"]},
-  
-  { "name":"playgames" ,"packages":["com.google.android.play.games"]},
   
   { "name":"playmusic" ,"packages":["com.google.android.music"]},
   
@@ -175,8 +167,80 @@
   
   { "name":"telegramx" ,"packages":["org.thunderdog.challegram"]},
   
-  { "name":"meet" ,"packages":["com.google.android.apps.meetings"]},
+  { "name":"palette" ,"packages":["h7.hamzio.palette"]},
   
-  { "name":"duo" ,"packages":["com.google.android.apps.tachyon", "com.google.android.apps.tachyon.MainActivity"]}
+  { "name":"whatsappb" ,"packages":["com.whatsapp.w4b"]},
+  
+  { "name":"hbooks" ,"packages":["hbooks"]},
+  
+  
+  { "name":"applemusic" ,"packages":["com.apple.android.music"]},
+  
+  { "name":"gandroidauto" ,"packages":["com.google.android.projection.gearhead"]},
+  
+  { "name":"gbooks" ,"packages":["com.google.android.apps.books"]},
+  
+  { "name":"gduo" ,"packages":["com.google.android.apps.tachyon", "com.google.android.apps.tachyon.MainActivity"]},
+  
+  { "name":"gdocs" ,"packages":["com.google.android.apps.docs.editors.docs", "com.google.android.apps.docs.app.NewMainProxyActivity"]},
+  
+  { "name":"gsheets" ,"packages":["com.google.android.apps.docs.editors.sheets"]},
+  
+  { "name":"gslides" ,"packages":["com.google.android.apps.docs.editors.slides"]},
+  
+  { "name":"gfiles" ,"packages":["com.google.android.apps.nbu.files", "com.google.android.apps.nbu.files.home.HomeActivity"]},
+  
+  { "name":"gfit" ,"packages":["com.google.android.apps.fitness"]},
+  
+  { "name":"ghome" ,"packages":["com.google.android.apps.chromecast.app"]},
+  
+  { "name":"gkeep" ,"packages":["com.google.android.keep"]},
+  
+  { "name":"glens" ,"packages":["com.google.ar.lens"]},
+  
+  { "name":"gmeet" ,"packages":["com.google.android.apps.meetings"]},
+  
+  { "name":"gnews" ,"packages":["com.google.android.apps.magazines"]},
+  
+  { "name":"gone" ,"packages":["com.google.android.apps.subscriptions.red"]},
+  
+  { "name":"gpay" ,"packages":["com.google.android.apps.nbu.paisa.user","com.google.android.apps.nbu.paisa.user.launcher.LauncherActivity"]},
+  
+  { "name":"gtranslate" ,"packages":["com.google.android.apps.translate"]},
+  
+  { "name":"gtv" ,"packages":["com.google.android.videos"]},
+  
+  { "name":"playgames" ,"packages":["com.google.android.play.games"]},
+  
+  { "name":"youtubem" ,"packages":["com.google.android.apps.youtube.music"]},
+  
+ 
+  { "name":"netflix" ,"packages":["com.netflix.mediaclient","com.netflix.mediaclient.ui.launch.UIWebViewActivity"]},
+  
+  { "name":"soundcloud" ,"packages":["com.soundcloud.android"]},
+  
+  { "name":"tiktok" ,"packages":["com.zhiliaoapp.musically"]},
+  
+  { "name":"dropbox" ,"packages":["com.dropbox.android"]},
+  
+  { "name":"shareit" ,"packages":["shareit.lite","com.lenovo.anyshare.gps"]},
+  
+  { "name":"protonvpn" ,"packages":["ch.protonvpn.android"]},
+  
+  { "name":"openvpn" ,"packages":["net.openvpn.openvpn"]},
+  
+  
+  { "name":"clashof" ,"packages":["com.supercell.clashofclans"]},
+  
+  { "name":"brawlstars" ,"packages":["com.supercell.brawlstars"]},
+  
+  { "name":"clashroyale" ,"packages":["com.supercell.clashroyale"]},
+  
+  { "name":"pubg" ,"packages":["com.tencent.ig","com.pubg.newstate","com.tencent.iglite"]},
+  
+  { "name":"callofd" ,"packages":["com.activision.callofduty.shooter"]},
+  
+  { "name":"minecraft" ,"packages":["com.mojang.minecraftpe"]}
+  
 ]
 }
