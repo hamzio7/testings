@@ -1,6 +1,41 @@
 {
   "themes":[
-  
+      {
+       "base" : "light" ,
+       "category":[
+            0,
+            2,6
+        ],
+       "colors":[
+            {
+               "accent" : "ff458aff" ,
+               "actionbar" : "fffafafa" ,
+               "background" : "ffffffff" ,
+               "cal_bg" : "ffffffff" ,
+               "cal_date" : "ff458aff" ,
+               "calculator" : "ffffcc00" ,
+               "dialenums" : "ff458aff" ,
+               "dialer" : "ff458aff" ,
+               "dialpad" : "ffffffff" ,
+               "folder" : "ffffffff" ,
+               "nots_bg" : "ffffffff" ,
+               "optimizer" : "ff00cc83" ,
+               "optimizer_icons" : "ffffffff" ,
+               "optimizer_tiles" : "ff00cc83" ,
+               "settings" : "ff458aff" ,
+               "settings_icons" : "ffffffff" ,
+               "settings_tiles" : "ff458aff" ,
+               "systemui" : "ff458aff" ,
+               "systemui_off" : "ffffffff"
+            }
+        ],
+       "name" : "MIUI 13" ,
+       "previews" : "5" ,
+       "skuid" : "free" ,
+       "theme_file" : "theme" ,
+       "theme_folder" : "miui13" ,
+       "theme_id" : "fzaMFvxl7tp2Q600KluA"
+    },
       {
        "base" : "light" ,
        "category":[
