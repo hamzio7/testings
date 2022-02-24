@@ -219,6 +219,8 @@
  
   { "name":"netflix" ,"packages":["com.netflix.mediaclient","com.netflix.mediaclient.ui.launch.UIWebViewActivity"]},
   
+  { "name":"disney" ,"packages":["com.soundcloud.android"]},
+  
   { "name":"soundcloud" ,"packages":["com.soundcloud.android"]},
   
   { "name":"tiktok" ,"packages":["com.zhiliaoapp.musically"]},
@@ -227,9 +229,16 @@
   
   { "name":"shareit" ,"packages":["shareit.lite","com.lenovo.anyshare.gps"]},
   
-  { "name":"protonvpn" ,"packages":["ch.protonvpn.android"]},
   
   { "name":"openvpn" ,"packages":["net.openvpn.openvpn"]},
+  
+  { "name":"slack" ,"packages":["com.Slack"]},
+  
+  { "name":"discord" ,"packages":["com.discord"]},
+  
+  { "name":"viber" ,"packages":["com.viber.voip"]},
+  
+  { "name":"paypal" ,"packages":["com.paypal.android.p2pmobile" , "com.paypal.merchant.client"]},
   
   
   { "name":"clashof" ,"packages":["com.supercell.clashofclans"]},
@@ -243,6 +252,5 @@
   { "name":"callofd" ,"packages":["com.activision.callofduty.shooter"]},
   
   { "name":"minecraft" ,"packages":["com.mojang.minecraftpe"]}
-  
 ]
 }
