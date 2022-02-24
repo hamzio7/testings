@@ -219,7 +219,7 @@
  
   { "name":"netflix" ,"packages":["com.netflix.mediaclient","com.netflix.mediaclient.ui.launch.UIWebViewActivity"]},
   
-  { "name":"disney" ,"packages":["com.soundcloud.android"]},
+  { "name":"disney" ,"packages":["com.disney.disneyplus"]},
   
   { "name":"soundcloud" ,"packages":["com.soundcloud.android"]},
   
