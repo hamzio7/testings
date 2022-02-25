@@ -24,6 +24,7 @@
 "shapeless":[
 
   { "name":"default" , "isNew":true , "isThemed":true  ,"isPro":false},
+  { "name":"ios_p" , "isNew":true , "isThemed":true  ,"isPro":true},
   { "name":"eleven_p" , "isNew":true , "isThemed":true  ,"isPro":false},
   { "name":"you" , "isNew":true , "isThemed":true  ,"isPro":false},
   { "name":"one" , "isNew":true , "isThemed":true  ,"isPro":false},
