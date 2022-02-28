@@ -145,13 +145,9 @@
   
   { "name":"drive" ,"packages":["com.google.android.apps.docs"]},
   
-  { "name":"gboard" ,"packages":["com.google.android.inputmethod.latin"]},
-  
   { "name":"spotify" ,"packages":["com.spotify.music"]},
   
   { "name":"console" ,"packages":["com.google.android.apps.playconsole"]},
-  
-  { "name":"snapseed" ,"packages":["com.niksoftware.snapseed"]},
   
   { "name":"playmusic" ,"packages":["com.google.android.music"]},
   
@@ -171,10 +167,15 @@
   
   { "name":"whatsappb" ,"packages":["com.whatsapp.w4b"]},
   
-  { "name":"hbooks" ,"packages":["hbooks"]},
+  
+  { "name":"hbooks" ,"packages":["com.huawei.hwread.dz" , "com.huawei.hwread.al" , "com.huawei.hwireader" , "com.huawei.hnreader"]},
+  
+  { "name":"hcloud" ,"packages":["com.huawei.accountagent" ]},
   
   
-  { "name":"applemusic" ,"packages":["com.apple.android.music"]},
+  
+  
+ 
   
   { "name":"gandroidauto" ,"packages":["com.google.android.projection.gearhead"]},
   
@@ -214,16 +215,28 @@
   
   { "name":"playgames" ,"packages":["com.google.android.play.games"]},
   
+  { "name":"snapseed" ,"packages":["com.niksoftware.snapseed"]},
+  
+  { "name":"gchat" ,"packages":["com.google.android.apps.dynamite"]},
+  
+  { "name":"gboard" ,"packages":["com.google.android.inputmethod.latin"]},
+  
+  
+  
   { "name":"youtubem" ,"packages":["com.google.android.apps.youtube.music"]},
   
- 
+  { "name":"youtube_vanced" ,"packages":["com.vanced.android.youtube"]},
+  
+  { "name":"youtube_vancedm" ,"packages":["com.vanced.android.apps.youtube.music"]},
+  
+  
+  { "name":"applemusic" ,"packages":["com.apple.android.music"]},
+  
   { "name":"netflix" ,"packages":["com.netflix.mediaclient","com.netflix.mediaclient.ui.launch.UIWebViewActivity"]},
   
   { "name":"disney" ,"packages":["com.disney.disneyplus"]},
   
   { "name":"soundcloud" ,"packages":["com.soundcloud.android"]},
-  
-  { "name":"tiktok" ,"packages":["com.zhiliaoapp.musically"]},
   
   { "name":"dropbox" ,"packages":["com.dropbox.android"]},
   
@@ -231,6 +244,8 @@
   
   
   { "name":"openvpn" ,"packages":["net.openvpn.openvpn"]},
+  
+  { "name":"nordvpn" ,"packages":["com.nordvpn.android"]},
   
   { "name":"slack" ,"packages":["com.Slack"]},
   
@@ -240,17 +255,81 @@
   
   { "name":"paypal" ,"packages":["com.paypal.android.p2pmobile" , "com.paypal.merchant.client"]},
   
+  { "name":"edge" ,"packages":["com.microsoft.emmx"]},
   
-  { "name":"clashof" ,"packages":["com.supercell.clashofclans"]},
+  { "name":"amazon_prime" ,"packages":["com.amazon.avod.thirdpartyclient"]},
+  
+  { "name":"shazam" ,"packages":["com.shazam.android"]},
+  
+  { "name":"waze" ,"packages":["com.waze"]},
+  
+  { "name":"plus_messenger" ,"packages":["org.telegram.plus"]},
+  
+  { "name":"todoist" ,"packages":["com.todoist"]},
+  
+  { "name":"uber" ,"packages":["com.ubercab"]},
+  
+  { "name":"duolingo" ,"packages":["com.duolingo"]},
+  
+  { "name":"pocket" ,"packages":["com.ideashower.readitlater.pro"]},
+  
+  { "name":"airbnb" ,"packages":["com.airbnb.android"]},
+  
+  
+  
+  
+  { "name":"bazaar" ,"packages":["com.farsitel.bazaar"]},
+  
+  { "name":"ap" ,"packages":["com.sibche.aspardproject.app"]},
+  
+  { "name":"hamrah_card" ,"packages":["com.adpdigital.mbs.ayande"]},
+  
+  { "name":"snapp" ,"packages":["cab.snapp.passenger.play" , "com.ubercab.driver" ]},
+  
+  
+  
+  
+  
+  
+  { "name":"tiktok" ,"packages":["com.zhiliaoapp.musically" , "com.ss.android.ugc.aweme" , "com.ss.android.ugc.aweme.lite"]},
+  
+  { "name":"kwai" ,"packages":["com.smile.gifmaker" , "com.kuaishou.nebula" , "com.kwai.kuaishou.video.live"]},
+  
+  { "name":"wechat" ,"packages":["com.tencent.mm"]},
+  
+  { "name":"uc_browser" ,"packages":["com.ucturbo" , "com.uc.browser.en" , "com.UCMobile.intl" , "com.UCMobile" , "com.uc.browser.hd"]},
+  
+  { "name":"weibo" ,"packages":["com.weico.international" , "com.sina.weibo"]},
+  
+  { "name":"baidu" ,"packages":["com.baidu.searchbox"]},
+  
+  { "name":"qq" ,"packages":["com.tencent.mobileqq"]},
+  
+  { "name":"qqmusic" ,"packages":["com.tencent.qqmusic"]},
+  
+  { "name":"tencent_video" ,"packages":["com.tencent.qqlive"]},
+  
+  { "name":"qq_browser" ,"packages":["com.tencent.mtt"]},
+  
+  { "name":"alipay" , "packages":["com.eg.android.AlipayGphone" , "hk.alipay.wallet"]},
+  
+  
+  
+  
+  { "name":"clashof" ,"packages":["com.supercell.clashofclans" ]},
   
   { "name":"brawlstars" ,"packages":["com.supercell.brawlstars"]},
   
   { "name":"clashroyale" ,"packages":["com.supercell.clashroyale"]},
   
-  { "name":"pubg" ,"packages":["com.tencent.ig","com.pubg.newstate","com.tencent.iglite"]},
+  { "name":"pubg" ,"packages":["com.tencent.ig","com.pubg.newstate","com.tencent.iglite" ,"com.tencent.tmgp.pubgmhd"]},
   
-  { "name":"callofd" ,"packages":["com.activision.callofduty.shooter"]},
+  { "name":"callofd" ,"packages":["com.activision.callofduty.shooter" , "com.tencent.tmgp.cod"]},
   
-  { "name":"minecraft" ,"packages":["com.mojang.minecraftpe"]}
+  { "name":"minecraft" ,"packages":["com.mojang.minecraftpe" , "com.netease.mc.mi"]},
+  
+  { "name":"genshin_impact" ,"packages":["com.miHoYo.GenshinImpact" , "com.miHoYo.ys.mi" ]},
+  
+  { "name":"fortnite" ,"packages":["com.mojang.minecraftpe" , "com.netease.mc.mi"]}
 ]
 }
