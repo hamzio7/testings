@@ -81,7 +81,7 @@
   
   { "name":"store" ,"packages":["com.android.vending"]},
   
-  { "name":"opera" ,"packages":["com.opera.browser"]},
+  { "name":"opera" ,"packages":["com.opera.browser" , "com.opera.mini.native" , "com.opera.touch"]},
   
   { "name":"maps" ,"packages":["com.google.android.apps.maps"]},
   
