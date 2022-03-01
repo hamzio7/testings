@@ -275,6 +275,9 @@
   
   { "name":"airbnb" ,"packages":["com.airbnb.android"]},
   
+  { "name":"inshot" ,"packages":["com.camerasideas.instashot"]},
+  
+  
   
   
   
