@@ -278,6 +278,23 @@
   { "name":"inshot" ,"packages":["com.camerasideas.instashot"]},
   
   
+  { "name":"truecaller" ,"packages":["com.truecaller"]},
+  
+  { "name":"vk" ,"packages":["com.vkontakte.android"]},
+  
+  { "name":"line" ,"packages":["jp.naver.line.android"]},
+  
+  { "name":"vimeo" ,"packages":["com.vimeo.android.videoapp" , "com.vimeocreate.videoeditor.moviemaker"]},
+  
+  { "name":"deviantart" ,"packages":["com.deviantart.android.damobile"]},
+  
+  { "name":"ebay" ,"packages":["com.ebay.mobile"]},
+  
+  { "name":"amazon_shopping" ,"packages":["com.amazon.mShop.android.shopping"]},
+  
+  { "name":"walmart" ,"packages":["com.walmart.android"]},
+  
+  
   
   
   
