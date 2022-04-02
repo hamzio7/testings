@@ -1,9 +1,11 @@
 { 	"settings_icons":[
 
 	  { "name":"default",	"isColored":true},
+	  { "name":"you",	"isColored":true},
+          { "name":"boldy",	"isColored":true},
+          { "name":"boldy_g",	"isColored":true},
 	  { "name":"ophium_s",	"isColored":true},
 	  { "name":"ophium_flat_s",	"isColored":true},
-	  { "name":"you",	"isColored":true},
 	  { "name":"coloros",	"isColored":true},
 	  { "name":"dream",	"isColored":true},
 	  { "name":"fluent",	"isColored":true},
