@@ -43,6 +43,8 @@
   
   { "name":"sim" ,"packages":["com.android.stk.cu.2", "com.android.stk.cu", "com.android.stk", "com.android.stk.StkLauncherActivity", "com.android.stk.StkLauncherActivity2", "com.android.stk.StkLauncherActivityII"]},
   
+  { "name":"sim2" ,"packages":["com.android.stk.cu.2", "com.android.stk.StkLauncherActivity2", "com.android.stk.StkLauncherActivityII"]},
+  
   { "name":"sms" ,"packages":["com.android.mms", "com.google.android.apps.messaging"]},
   
   { "name":"sysman" ,"packages":["com.miui.securitycenter", "com.miui.securitycenter.MainActivity", "com.miui.securitycenter.Main", "com.huawei.trustspace", "com.huawei.systemmanager"]},
