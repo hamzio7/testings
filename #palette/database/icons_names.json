@@ -3,6 +3,8 @@
   
   { "name":"browser" ,"packages":["com.android.browser", "com.huawei.android.browser", "com.huawei.browser"]},
   
+  { "name":"find" ,"packages":["com.huawei.android.findmyphone"]},
+  
   { "name":"pmap" ,"packages":["com.huawei.maps.app"]},
   
   { "name":"assistant" ,"packages":["com.huawei.intelligent"]},
@@ -96,9 +98,8 @@
   { "name":"telegram" ,"packages":["org.telegram.messenger"]},
   
   { "name":"tweet" ,"packages":["com.twitter.android", "com.twitter.android.lite"]},
-  
   { "name":"twitch" ,"packages":["tv.twitch.android.app"]},
-
+  
   { "name":"snapchat" ,"packages":["com.snapchat.android"]},
   
   { "name":"linkedin" ,"packages":["com.linkedin.android"]},
@@ -167,15 +168,9 @@
   
   { "name":"whatsappb" ,"packages":["com.whatsapp.w4b"]},
   
-  
   { "name":"hbooks" ,"packages":["com.huawei.hwread.dz" , "com.huawei.hwread.al" , "com.huawei.hwireader" , "com.huawei.hnreader"]},
   
-  { "name":"hcloud" ,"packages":["com.huawei.accountagent" ]},
-  
-  
-  
-  
- 
+  { "name":"hcloud" ,"packages":["com.huawei.accountagent", "com.huawei.hicloud" ]},
   
   { "name":"gandroidauto" ,"packages":["com.google.android.projection.gearhead"]},
   
@@ -221,14 +216,11 @@
   
   { "name":"gboard" ,"packages":["com.google.android.inputmethod.latin"]},
   
-  
-  
   { "name":"youtubem" ,"packages":["com.google.android.apps.youtube.music"]},
   
   { "name":"youtube_vanced" ,"packages":["com.vanced.android.youtube"]},
   
   { "name":"youtube_vancedm" ,"packages":["com.vanced.android.apps.youtube.music"]},
-  
   
   { "name":"applemusic" ,"packages":["com.apple.android.music"]},
   
@@ -241,7 +233,6 @@
   { "name":"dropbox" ,"packages":["com.dropbox.android"]},
   
   { "name":"shareit" ,"packages":["shareit.lite","com.lenovo.anyshare.gps"]},
-  
   
   { "name":"openvpn" ,"packages":["net.openvpn.openvpn"]},
   
@@ -277,7 +268,6 @@
   
   { "name":"inshot" ,"packages":["com.camerasideas.instashot"]},
   
-  
   { "name":"truecaller" ,"packages":["com.truecaller"]},
   
   { "name":"vk" ,"packages":["com.vkontakte.android"]},
@@ -294,10 +284,6 @@
   
   { "name":"walmart" ,"packages":["com.walmart.android"]},
   
-  
-  
-  
-  
   { "name":"bazaar" ,"packages":["com.farsitel.bazaar"]},
   
   { "name":"ap" ,"packages":["com.sibche.aspardproject.app"]},
@@ -305,11 +291,6 @@
   { "name":"hamrah_card" ,"packages":["com.adpdigital.mbs.ayande"]},
   
   { "name":"snapp" ,"packages":["cab.snapp.passenger.play" , "com.ubercab.driver" ]},
-  
-  
-  
-  
-  
   
   { "name":"tiktok" ,"packages":["com.zhiliaoapp.musically" , "com.ss.android.ugc.aweme" , "com.ss.android.ugc.aweme.lite"]},
   
@@ -332,9 +313,6 @@
   { "name":"qq_browser" ,"packages":["com.tencent.mtt"]},
   
   { "name":"alipay" , "packages":["com.eg.android.AlipayGphone" , "hk.alipay.wallet"]},
-  
-  
-  
   
   { "name":"clashof" ,"packages":["com.supercell.clashofclans" ]},
   
