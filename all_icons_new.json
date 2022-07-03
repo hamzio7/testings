@@ -1,4 +1,5 @@
 {"adaptive":[
+  { "name":"ios" ,"pro":false},
   { "name":"miui13" ,"pro":true},
   { "name":"material" ,"pro":false},
   { "name":"poco_new" ,"pro":false},
@@ -42,7 +43,6 @@
   { "name":"ios_sunset" ,"pro":false},
   { "name":"ios_neu_ad_dark" ,"pro":true},
   { "name":"ios_neu_ad" ,"pro":true},
-  { "name":"ios" ,"pro":false},
   { "name":"i-like" ,"pro":true},
   { "name":"huawei" ,"pro":false},
   { "name":"grey_one" ,"pro":true},
