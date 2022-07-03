@@ -67,6 +67,8 @@
   
   { "name":"meetime" ,"packages":["com.huawei.meetime","com.huawei.hwvoipservice"]},
   
+  { "name":"clip" ,"packages":["com.huawei.videoeditor"]},
+  
   { "name":"backup" ,"packages":["com.huawei.KoBackup"]},
   
   { "name":"clone" ,"packages":["com.hicloud.android.clone"]},
