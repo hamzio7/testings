@@ -65,6 +65,8 @@
   
   { "name":"flash" ,"packages":["com.android.systemui.flashlight.FlashlightActivity"]},
   
+  { "name":"meetime" ,"packages":["com.huawei.meetime","com.huawei.hwvoipservice"]},
+  
   { "name":"backup" ,"packages":["com.huawei.KoBackup"]},
   
   { "name":"clone" ,"packages":["com.hicloud.android.clone"]},
