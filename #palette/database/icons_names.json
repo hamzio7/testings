@@ -83,13 +83,21 @@
   
   { "name":"google" ,"packages":["com.google.android.googlequicksearchbox"]},
   
+  { "name":"admob" ,"packages":["com.google.android.apps.ads.admob"]},
+  
+  { "name":"gwent" ,"packages":["com.cdprojektred.gwent"]},
+  
   { "name":"youtube" ,"packages":["com.google.android.youtube"]},
   
   { "name":"whatsapp" ,"packages":["com.whatsapp"]},
   
+  { "name":"officesuite" ,"packages":["com.mobisystems.office"]},
+  
   { "name":"store" ,"packages":["com.android.vending"]},
   
   { "name":"opera" ,"packages":["com.opera.browser" , "com.opera.mini.native" , "com.opera.touch"]},
+  
+  { "name":"operat" ,"packages":["com.opera.touch"]},
   
   { "name":"maps" ,"packages":["com.google.android.apps.maps"]},
   
@@ -195,6 +203,11 @@
   { "name":"gfit" ,"packages":["com.google.android.apps.fitness"]},
   
   { "name":"chrome" ,"packages":["com.android.chrome", "com.chrome.beta"]},
+  
+  
+  { "name":"lightroom" ,"packages":["com.adobe.lrmobile"]},
+  
+  { "name":"chrome_beta" ,"packages":["com.chrome.beta"]},
   
   { "name":"ghome" ,"packages":["com.google.android.apps.chromecast.app"]},
   
