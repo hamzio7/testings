@@ -3,11 +3,13 @@
   
   { "name":"browser" ,"packages":["com.android.browser", "com.huawei.android.browser", "com.huawei.browser"]},
   
-  { "name":"find" ,"packages":["com.huawei.android.findmyphone"]},
+  { "name":"find" ,"packages":["com.huawei.android.findmyphone","com.google.android.apps.adm"]},
   
   { "name":"pmap" ,"packages":["com.huawei.maps.app"]},
   
   { "name":"assistant" ,"packages":["com.huawei.intelligent"]},
+  
+  { "name":"hcenter" ,"packages":["com.huawei.mycenter"]},
   
   { "name":"psearch" ,"packages":["com.huawei.search", "com.huawei.hwsearch"]},
   
@@ -59,7 +61,13 @@
   
   { "name":"mirror" ,"packages":["com.android.hwmirror.Mirror", "com.android.hwmirror", "com.android.mirror"]},
   
-  { "name":"calendar" ,"packages":["com.android.calendar", "com.google.android.calendar"]},
+  { "name":"gassistant" ,"packages":["com.google.android.apps.googleassistant"]},
+  
+  { "name":"gcloud" ,"packages":["com.google.android.apps.cloudconsole"]},
+  
+  { "name":"calendar" ,"packages":["com.android.calendar"]},
+
+  { "name":"gcalendar" ,"packages":["com.google.android.calendar"]},
   
   { "name":"remote" ,"packages":["com.duokan.phone.remotecontroller", "com.huawei.android.remotecontroller"]},
   
@@ -89,6 +97,8 @@
   
   { "name":"youtube" ,"packages":["com.google.android.youtube"]},
   
+  { "name":"ytstudio" ,"packages":["com.google.android.apps.youtube.creator"]},
+  
   { "name":"whatsapp" ,"packages":["com.whatsapp"]},
   
   { "name":"officesuite" ,"packages":["com.mobisystems.office"]},
@@ -101,7 +111,7 @@
   
   { "name":"maps" ,"packages":["com.google.android.apps.maps"]},
   
-  { "name":"insta" ,"packages":["com.instagram.android"]},
+  { "name":"insta" ,"packages":["com.instagram.android","com.instagram.lite"]},
   
   { "name":"gmail" ,"packages":["com.google.android.gm"]},
   
@@ -112,6 +122,7 @@
   { "name":"telegram" ,"packages":["org.telegram.messenger"]},
   
   { "name":"tweet" ,"packages":["com.twitter.android", "com.twitter.android.lite"]},
+  
   { "name":"twitch" ,"packages":["tv.twitch.android.app"]},
   
   { "name":"snapchat" ,"packages":["com.snapchat.android"]},
@@ -170,7 +181,9 @@
   
   { "name":"messanger" ,"packages":["com.facebook.mlite", "com.facebook.orca"]},
   
-  { "name":"facebook" ,"packages":["com.facebook.katana"]},
+  { "name":"messanger_lite" ,"packages":["com.facebook.mlite"]},
+  
+  { "name":"facebook" ,"packages":["com.facebook.lite","com.facebook.katana"]},
   
   { "name":"adm" ,"packages":["com.dv.adm", "com.dv.adm.pay"]},
   
@@ -200,14 +213,49 @@
   
   { "name":"gfiles" ,"packages":["com.google.android.apps.nbu.files", "com.google.android.apps.nbu.files.home.HomeActivity"]},
   
+  { "name":"gfamily" ,"packages":["com.google.android.apps.kids.familylink"]},
+  
+  { "name":"gphotoscan" ,"packages":["com.google.android.apps.photos.scanner"]},
+  
+  { "name":"ggallery" ,"packages":["com.google.android.apps.photosgo"]},
+  
   { "name":"gfit" ,"packages":["com.google.android.apps.fitness"]},
   
-  { "name":"chrome" ,"packages":["com.android.chrome", "com.chrome.beta"]},
+  { "name":"gcroud" ,"packages":["com.google.android.apps.village.boond"]},
   
+  { "name":"gfi" ,"packages":["com.google.android.apps.tycho"]},
   
+  { "name":"gtask" ,"packages":["com.google.android.apps.tasks"]},
+  
+  { "name":"gremote" ,"packages":["com.google.chromeremotedesktop"]},
+  
+  { "name":"ghealth" ,"packages":["com.google.android.apps.healthdata"]},
+  
+  { "name":"gcloudsearch" ,"packages":["com.google.enterprise.topaz.mobile.android"]},
+  
+  { "name":"castbox" ,"packages":["fm.castbox.audiobook.radio.podcast"]},
+  
+  { "name":"gpodcasts" ,"packages":["com.google.android.apps.podcasts"]},
+  
+  { "name":"gwallet" ,"packages":["com.google.android.apps.walletnfcrel"]},
+  
+  { "name":"gpixelbuds" ,"packages":["com.google.android.apps.wearables.maestro.companion"]},
+  
+  { "name":"gwearable" ,"packages":["com.google.android.wearable.app"]},
+  
+  { "name":"chrome" ,"packages":["com.android.chrome"]},
+  
+  { "name":"hfans" ,"packages":["com.huawei.fans"]},
+  
+  { "name":"gearth" ,"packages":["com.google.earth"]},
+ 
   { "name":"lightroom" ,"packages":["com.adobe.lrmobile"]},
   
   { "name":"chrome_beta" ,"packages":["com.chrome.beta"]},
+  
+  { "name":"chrome_dev" ,"packages":["com.chrome.dev"]},
+  
+  { "name":"chrome_can" ,"packages":["com.chrome.canary"]},
   
   { "name":"ghome" ,"packages":["com.google.android.apps.chromecast.app"]},
   
