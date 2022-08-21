@@ -8,6 +8,41 @@
         ],
        "colors":[
             {
+               "accent" : "ffff6200" ,
+               "actionbar" : "ff1f1f1f" ,
+               "background" : "ff1a1a1a" ,
+               "cal_bg" : "ff1a1a1a" ,
+               "cal_date" : "ffffffff" ,
+               "calculator" : "ffff6200" ,
+               "dialenums" : "ffffffff" ,
+               "dialer" : "ffff6200" ,
+               "dialpad" : "ff1f1f1f" ,
+               "folder" : "ff1a1a1a" ,
+               "nots_bg" : "ff1a1a1a" ,
+               "optimizer" : "ffff6200" ,
+               "optimizer_icons" : "ffffffff" ,
+               "optimizer_tiles" : "ffff6200" ,
+               "settings" : "ffff6200" ,
+               "settings_icons" : "ffffffff" ,
+               "settings_tiles" : "ffff6200" ,
+               "systemui" : "ffff6200" ,
+               "systemui_off" : "ffffffff"
+            }
+        ],
+       "name" : "XP Dark" ,
+       "previews" : "7" ,
+       "skuid" : "xperia" ,
+       "theme_file" : "theme" ,
+       "theme_folder" : "xp" ,
+       "theme_id" : "fzaMFvxl7tp2Q600KluA"
+    },      {
+       "base" : "dark" ,
+       "category":[
+            0,
+            1,6
+        ],
+       "colors":[
+            {
                "accent" : "ff9a9ab0" ,
                "actionbar" : "ff1f1f28" ,
                "background" : "ff16161d" ,
