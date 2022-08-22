@@ -1,6 +1,43 @@
 {
   "themes":[
       {
+       "base" : "light" ,
+       "category":[
+            0,
+            2,
+			4,
+			5
+        ],
+       "colors":[
+            {
+               "accent" : "ff8f5de5" ,
+               "actionbar" : "fffcfcfc" ,
+               "background" : "ffffffff" ,
+               "cal_bg" : "ffffffff" ,
+               "cal_date" : "ff000000" ,
+               "calculator" : "ff8f5de5" ,
+               "dialenums" : "ff000000" ,
+               "dialer" : "ff8f5de5" ,
+               "dialpad" : "fffcfcfc" ,
+               "folder" : "ffffffff" ,
+               "nots_bg" : "ffffffff" ,
+               "optimizer" : "ff8f5de5" ,
+               "optimizer_icons" : "ffffffff" ,
+               "optimizer_tiles" : "ff8f5de5" ,
+               "settings" : "ff8f5de5" ,
+               "settings_icons" : "ffffffff" ,
+               "settings_tiles" : "ff8f5de5" ,
+               "systemui" : "ff8f5de5" ,
+               "systemui_off" : "ffffffff"
+            }
+        ],
+       "name" : "XP Light" ,
+       "previews" : "05" ,
+       "skuid" : "xperia" ,
+       "theme_file" : "theme_b" ,
+       "theme_folder" : "xp" ,
+       "theme_id" : "fzaMFvxl7tp2Q600KluA"
+    }, {
        "base" : "dark" ,
        "category":[
             0,
