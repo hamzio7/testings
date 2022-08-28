@@ -1,4 +1,5 @@
 {"adaptive":[
+  { "name":"magic" ,"pro":false},
   { "name":"ios" ,"pro":false},
   { "name":"miui13" ,"pro":true},
   { "name":"material" ,"pro":false},
