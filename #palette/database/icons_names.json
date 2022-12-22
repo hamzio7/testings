@@ -441,13 +441,6 @@
             ]
         },
         {
-            "name": "gduo",
-            "packages": [
-                "com.google.android.apps.tachyon",
-                "com.google.android.apps.tachyon.MainActivity"
-            ]
-        },
-        {
             "name": "gearth",
             "packages": [
                 "com.google.earth"
@@ -530,7 +523,9 @@
         {
             "name": "gmeet",
             "packages": [
-                "com.google.android.apps.meetings"
+                "com.google.android.apps.meetings",
+				"com.google.android.apps.tachyon",
+                "com.google.android.apps.tachyon.MainActivity"
             ]
         },
         {
@@ -825,10 +820,9 @@
             ]
         },
         {
-            "name": "netflix",
+            "name": "notion",
             "packages": [
-                "com.netflix.mediaclient",
-                "com.netflix.mediaclient.ui.launch.UIWebViewActivity"
+                "notion.id"
             ]
         },
         {
@@ -999,7 +993,8 @@
         {
             "name": "radio",
             "packages": [
-                "com.huawei.android.FMRadio"
+                "com.huawei.android.FMRadio",
+				"com.hihonor.android.fmradio"
             ]
         },
         {
