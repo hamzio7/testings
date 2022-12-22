@@ -318,8 +318,8 @@
             "name": "files",
             "packages": [
                 "com.android.fileexplorer",
-                "com.hihonor.filemanager",
-                "com.huawei.hidisk"
+                "com.hihonor.filemanager"
+                
             ]
         },
         {
@@ -644,7 +644,8 @@
             "name": "hcloud",
             "packages": [
                 "com.huawei.accountagent",
-                "com.huawei.hicloud"
+                "com.huawei.hicloud",
+				"com.huawei.hidisk"
             ]
         },
         {
@@ -806,10 +807,10 @@
                 "com.mxtech.videoplayer.pro"
             ]
         },
-        {
-            "name": "mycenter",
+		{
+            "name": "myhonor",
             "packages": [
-                "com.huawei.mycenter"
+                "com.hihonor.phoneservice"
             ]
         },
         {
@@ -997,6 +998,12 @@
 				"com.hihonor.android.fmradio"
             ]
         },
+		{
+            "name": "winrar",
+            "packages": [
+				"com.rarlab.rar"
+            ]
+        },
         {
             "name": "recorder",
             "packages": [
@@ -1129,7 +1136,7 @@
         {
             "name": "snapp",
             "packages": [
-                "cab.snapp.passenger.play",
+                "cab.snapp.passenger",
                 "com.ubercab.driver"
             ]
         },
@@ -1179,7 +1186,7 @@
         {
             "name": "support",
             "packages": [
-                "com.hihonor.phoneservice",
+                "com.huawei.mycenter",
                 "com.huawei.phoneservice",
                 "com.mi.misupport",
                 "com.miui.bugreport"
@@ -1240,7 +1247,8 @@
             "packages": [
                 "com.ss.android.ugc.aweme",
                 "com.ss.android.ugc.aweme.lite",
-                "com.zhiliaoapp.musically"
+                "com.zhiliaoapp.musically",
+				"com.zhiliaoapp.musically.go"
             ]
         },
         {
