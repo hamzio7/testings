@@ -128,7 +128,8 @@
             "packages": [
                 "com.android.camera",
                 "com.google.android.GoogleCamera",
-                "com.huawei.camera"
+                "com.huawei.camera",
+				"com.hihonor.camera"
             ]
         },
         {
@@ -373,7 +374,9 @@
                 "com.huawei.gamebox.global",
                 "com.huawei.gamecenter",
                 "com.xiaomi.gamecenter",
-                "com.xiaomi.gamecenter.pad"
+                "com.xiaomi.gamecenter.pad",
+				"com.hihonor.gamecenter"
+				
             ]
         },
         {
@@ -654,13 +657,32 @@
             "packages": [
                 "com.huawei.health",
                 "com.mi.health",
-                "com.xiaomi.hm.health"
+                "com.xiaomi.hm.health",
+				"com.hihonor.health"
             ]
         },
         {
             "name": "hfans",
             "packages": [
                 "com.huawei.fans"
+            ]
+        },
+        {
+            "name": "honorclub",
+            "packages": [
+                "com.hihonor.community"
+            ]
+        },
+	    {
+            "name": "honor_store",
+            "packages": [
+                "com.hihonor.hstore.global"
+            ]
+        },
+			    {
+            "name": "honor_ai_space",
+            "packages": [
+                "com.hihonor.magichome"
             ]
         },
         {
@@ -803,6 +825,13 @@
             ]
         },
         {
+            "name": "netflix",
+            "packages": [
+                "com.netflix.mediaclient",
+                "com.netflix.mediaclient.ui.launch.UIWebViewActivity"
+            ]
+        },
+        {
             "name": "nordvpn",
             "packages": [
                 "com.nordvpn.android"
@@ -854,7 +883,13 @@
             "packages": [
                 "h7.hamzio.palette"
             ]
+        },        {
+            "name": "peafowl",
+            "packages": [
+                "h7.hamzio.emuithemeotg"
+            ]
         },
+	
         {
             "name": "paypal",
             "packages": [
@@ -1020,7 +1055,9 @@
                 "com.miui.supermarket",
                 "com.xiaomi.market",
                 "com.xiaomi.shop",
-                "com.xiaomi.shop.activity.MainTabActivity"
+                "com.xiaomi.shop.activity.MainTabActivity",
+				"com.hihonor.appmarket"
+				
             ]
         },
         {
@@ -1170,6 +1207,12 @@
                 "org.telegram.messenger"
             ]
         },
+	    {
+            "name": "tradingview",
+            "packages": [
+                "com.tradingview.tradingviewapp"
+            ]
+        },
         {
             "name": "telegramx",
             "packages": [
@@ -1307,7 +1350,7 @@
         {
             "name": "vmall",
             "packages": [
-                "com.hihonor.hstore.global",
+
                 "com.hihonor.vmall",
                 "com.huawei.vmall",
                 "com.vmall.client"
