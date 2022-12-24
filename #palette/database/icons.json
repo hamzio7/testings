@@ -1,7 +1,8 @@
 {"adaptive":[
 
-  { "name":"aosp" , "isNew":false , "isThemed":false, "isColored":false, "isDark":false  ,"isPro":false},
+  { "name":"ophium_light" , "isNew":true , "isThemed":false, "isColored":true, "isDark":true  ,"isPro":false},
   { "name":"ophium" , "isNew":true , "isThemed":false, "isColored":true, "isDark":true  ,"isPro":true},
+  { "name":"aosp" , "isNew":false , "isThemed":false, "isColored":false, "isDark":false  ,"isPro":false},
   { "name":"colorful_night" , "isNew":false , "isThemed":false, "isColored":false, "isDark":false  ,"isPro":false},
   { "name":"eleven" , "isNew":false , "isThemed":false, "isColored":false, "isDark":false  ,"isPro":false},
   { "name":"emui11" , "isNew":false , "isThemed":false, "isColored":false, "isDark":false  ,"isPro":false},

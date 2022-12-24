@@ -768,6 +768,13 @@
                 "com.facebook.orca"
             ]
         },
+		{
+            "name": "mega",
+            "packages": [
+                "nz.mega.android",
+                "mega.privacy.android.app"
+            ]
+        },
         {
             "name": "messanger_lite",
             "packages": [
