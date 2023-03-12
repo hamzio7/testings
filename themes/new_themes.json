@@ -38,6 +38,38 @@
       "category": [0, 2, 4, 5],
       "colors": [
         {
+          "accent": "ff2e40ea",
+          "actionbar": "fff5f5f5",
+          "background": "ffffffff",
+          "cal_bg": "ffffffff",
+          "cal_date": "ff000000",
+          "calculator": "ff2e40ea",
+          "dialenums": "ff000000",
+          "dialer": "ff2e40ea",
+          "dialpad": "ffffffff",
+          "folder": "ffffffff",
+          "nots_bg": "ffffffff",
+          "optimizer": "ff2e40ea",
+          "optimizer_icons": "ffffffff",
+          "optimizer_tiles": "ff2e40ea",
+          "settings": "ff2e40ea",
+          "settings_icons": "ffffffff",
+          "settings_tiles": "ff2e40ea",
+          "systemui": "ff2e40ea",
+          "systemui_off": "ffffffff"
+        }
+      ],
+      "name": "ColorOS 13",
+      "previews": "04",
+      "skuid": "coloros13",
+      "theme_file": "theme_b",
+      "theme_folder": "coloros13",
+      "theme_id": "fzaMFvxl7tp2Q600KluA"
+    },{
+      "base": "light",
+      "category": [0, 2, 4, 5],
+      "colors": [
+        {
           "accent": "ff8f5de5",
           "actionbar": "fffcfcfc",
           "background": "ffffffff",
