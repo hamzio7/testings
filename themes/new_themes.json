@@ -5,6 +5,71 @@
       "category": [0, 1, 6],
       "colors": [
         {
+          "accent": "ff29a84d",
+          "actionbar": "ff202020",
+          "background": "ff010101",
+          "cal_bg": "ff010101",
+          "cal_date": "ffffffff",
+          "calculator": "ff29a84d",
+          "dialenums": "ffffffff",
+          "dialer": "ff29a84d",
+          "dialpad": "ff010101",
+          "folder": "ffffffff",
+          "nots_bg": "ff010101",
+          "optimizer": "ff29a84d",
+          "optimizer_icons": "ffffffff",
+          "optimizer_tiles": "ff5867ee",
+          "settings": "ff29a84d",
+          "settings_icons": "ffffffff",
+          "settings_tiles": "ff29a84d",
+          "systemui": "ff29a84d",
+          "systemui_off": "ffffffff"
+        }
+      ],
+      "name": "OxygenOS 13 Dark",
+      "previews": "4",
+      "skuid": "oxygenos13",
+      "theme_file": "theme",
+      "theme_folder": "oxygenos13",
+      "theme_id": "fzaMFvxl7tp2Q600KluA"
+    },
+    {
+      "base": "light",
+      "category": [0, 2, 4, 5],
+      "colors": [
+        {
+          "accent": "ff2e8cfe",
+          "actionbar": "fff5f5f5",
+          "background": "ffffffff",
+          "cal_bg": "ffffffff",
+          "cal_date": "ff000000",
+          "calculator": "ff2e8cfe",
+          "dialenums": "ff000000",
+          "dialer": "ff2e8cfe",
+          "dialpad": "ffffffff",
+          "folder": "ffffffff",
+          "nots_bg": "ffffffff",
+          "optimizer": "ff2e8cfe",
+          "optimizer_icons": "ffffffff",
+          "optimizer_tiles": "ff2e8cfe",
+          "settings": "ff2e8cfe",
+          "settings_icons": "ffffffff",
+          "settings_tiles": "ff2e8cfe",
+          "systemui": "ff2e8cfe",
+          "systemui_off": "ffffffff"
+        }
+      ],
+      "name": "OxygenOS 13",
+      "previews": "04",
+      "skuid": "oxygenos13",
+      "theme_file": "theme_b",
+      "theme_folder": "oxygenos13",
+      "theme_id": "fzaMFvxl7tp2Q600KluA"
+    },{
+      "base": "dark",
+      "category": [0, 1, 6],
+      "colors": [
+        {
           "accent": "ff5867ee",
           "actionbar": "ff202020",
           "background": "ff010101",
