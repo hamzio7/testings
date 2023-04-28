@@ -73,6 +73,7 @@
   { "name":"miui10" ,"pro":false},
   { "name":"mclaren" ,"pro":true},
   { "name":"materialsmclaren" ,"pro":false},
+  { "name":"materials_2" ,"pro":true},
   { "name":"materials" ,"pro":false},
   { "name":"hydrogen" ,"pro":true},
   { "name":"fluent_shapeless" ,"pro":true}
