@@ -52,7 +52,7 @@
   { "_id":"aosp" ,"pro":false},
   { "_id":"colorful_night" ,"pro":true},
   { "_id":"dmd_special" ,"pro":true},
-  { "_id":"fluent" ,"pro":true}
+  { "_id":"fluent_adaptive" ,"pro":true}
 ],
 
 "shapeless":[
