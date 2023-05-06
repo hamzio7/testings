@@ -318,8 +318,9 @@
             "name": "files",
             "packages": [
                 "com.android.fileexplorer",
-                "com.hihonor.filemanager"
-                
+                "com.hihonor.filemanager",
+                "com.huawei.hidisk",
+                "com.huawei.filemanager"
             ]
         },
         {
@@ -376,7 +377,7 @@
                 "com.xiaomi.gamecenter",
                 "com.xiaomi.gamecenter.pad",
 				"com.hihonor.gamecenter"
-				
+
             ]
         },
         {
@@ -644,8 +645,7 @@
             "name": "hcloud",
             "packages": [
                 "com.huawei.accountagent",
-                "com.huawei.hicloud",
-				"com.huawei.hidisk"
+                "com.huawei.hicloud"
             ]
         },
         {
@@ -891,7 +891,7 @@
                 "h7.hamzio.emuithemeotg"
             ]
         },
-	
+
         {
             "name": "paypal",
             "packages": [
@@ -1066,7 +1066,7 @@
                 "com.xiaomi.shop",
                 "com.xiaomi.shop.activity.MainTabActivity",
 				"com.hihonor.appmarket"
-				
+
             ]
         },
         {
