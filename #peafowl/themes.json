@@ -182,7 +182,7 @@
   {
     "theme_name": "ColorOS 13",
     "theme_base": "light",
-    "folder_name": "coloros13",
+    "folder_name": "colorostherteen",
     "category": [0, 2, 4, 5],
     "colors": {
       "accent": "ff2e40ea",
@@ -228,7 +228,7 @@
   {
     "theme_name": "ColorOS 13 Dark",
     "theme_base": "dark",
-    "folder_name": "coloros13dark",
+    "folder_name": "colorostherteendark",
     "category": [0, 1, 6],
     "colors": {
       "accent": "ff5867ee",
