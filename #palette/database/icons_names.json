@@ -1095,7 +1095,7 @@
   ],
   "files": [
     {
-      "icon": "music",
+      "name": "music",
       "packages": [
         "category_icon_music",
         "hidisk_category_icon_music",
@@ -1103,7 +1103,7 @@
       ]
     },
     {
-      "icon": "lock",
+      "name": "lock",
       "packages": [
         "hidisk_ic_file_cabinet_normal",
         "ic_local_confidential_normal_new",
@@ -1112,7 +1112,7 @@
       ]
     },
     {
-      "icon": "pic",
+      "name": "pic",
       "packages": [
         "category_icon_image",
         "hidisk_category_icon_image",
@@ -1120,11 +1120,11 @@
       ]
     },
     {
-      "icon": "recent",
+      "name": "recent",
       "packages": ["category_icon_recent", "category_icon_recent_new"]
     },
     {
-      "icon": "zip",
+      "name": "zip",
       "packages": [
         "category_icon_compress",
         "hidisk_category_icon_compress",
@@ -1132,7 +1132,7 @@
       ]
     },
     {
-      "icon": "not",
+      "name": "not",
       "packages": [
         "category_icon_document",
         "hidisk_category_icon_document",
@@ -1140,7 +1140,7 @@
       ]
     },
     {
-      "icon": "vid",
+      "name": "vid",
       "packages": [
         "category_icon_video",
         "hidisk_category_icon_video",
@@ -1148,7 +1148,7 @@
       ]
     },
     {
-      "icon": "fav",
+      "name": "fav",
       "packages": [
         "category_icon_favorite",
         "hidisk_category_icon_favorite",
@@ -1156,7 +1156,7 @@
       ]
     },
     {
-      "icon": "apps",
+      "name": "apps",
       "packages": [
         "category_icon_application",
         "hidisk_category_icon_application_new",
