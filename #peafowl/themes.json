@@ -1796,7 +1796,7 @@
   {
     "theme_name": "NeuOS",
     "theme_base": "light",
-    "folder_name": "neuos",
+    "folder_name": "neu_os",
     "category": [0, 2],
     "colors": {
       "accent": "ff1AD3BF",
@@ -1846,7 +1846,7 @@
   {
     "theme_name": "NeuOS Dark",
     "theme_base": "dark",
-    "folder_name": "neuosdark",
+    "folder_name": "neu_osdark",
     "category": [0, 1],
     "colors": {
       "accent": "ff1AD3BF",
