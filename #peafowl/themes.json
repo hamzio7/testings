@@ -1,3082 +1,3121 @@
-[
-  {
-    "theme_name": "Android 12",
-    "theme_base": "light",
-    "folder_name": "androidtwelve",
-    "category": [0, 2, 6, 4],
-    "colors": {
-      "accent": "ff1a73e9",
-      "actionbar": "fff0f0ee",
-      "background": "fff0f0ee",
-      "cal_bg": "fff0f0ee",
-      "cal_date": "ff1a73e9",
-      "calculator": "ff1a73e9",
-      "dialenums": "ff1a73e9",
-      "dialer": "ff1a73e9",
-      "dialpad": "fff0f0ee",
-      "folder": "fff0f0ee",
-      "nots_bg": "fff0f0ee",
-      "optimizer": "ff1a73e9",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff1a73e9",
-      "settings": "ff1a73e9",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff1a73e9",
-      "systemui": "ff1a73e9",
-      "systemui_off": "fff0f0ee"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 424117
-      },
-      {
-        "name": "icons",
-        "size": 402892
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 69066
-      },
-      {
-        "name": "set",
-        "size": 255905
-      }
-    ]
-  },
-  {
-    "theme_name": "Android 12 Dark",
-    "theme_base": "dark",
-    "folder_name": "androidtwelvedark",
-    "category": [0, 1, 6, 4],
-    "colors": {
-      "accent": "ff89b4f8",
-      "actionbar": "ff303030",
-      "background": "ff303030",
-      "cal_bg": "ff303030",
-      "cal_date": "ff89b4f8",
-      "calculator": "ff89b4f8",
-      "dialenums": "ff89b4f8",
-      "dialer": "ff89b4f8",
-      "dialpad": "ff303030",
-      "folder": "ff303030",
-      "nots_bg": "ff303030",
-      "optimizer": "ff89b4f8",
-      "optimizer_icons": "ff303030",
-      "optimizer_tiles": "ff89b4f8",
-      "settings": "ff89b4f8",
-      "settings_icons": "ff303030",
-      "settings_tiles": "ff89b4f8",
-      "systemui": "ff89b4f8",
-      "systemui_off": "ff303030"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 483556
-      },
-      {
-        "name": "icons",
-        "size": 402892
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 70684
-      },
-      {
-        "name": "set",
-        "size": 324077
-      }
-    ]
-  },
-  {
-    "theme_name": "Batman",
-    "theme_base": "dark",
-    "folder_name": "batman",
-    "category": [0, 1, 3],
-    "colors": {
-      "accent": "ffFEC107",
-      "actionbar": "ff353535",
-      "background": "ff202020",
-      "cal_bg": "ff202020",
-      "cal_date": "ffFEC107",
-      "calculator": "ffFEC107",
-      "dialenums": "ffFEC107",
-      "dialer": "ffFEC107",
-      "dialpad": "ff303030",
-      "folder": "ff202020",
-      "nots_bg": "ff353535",
-      "optimizer": "ffFEC107",
-      "optimizer_icons": "ff202020",
-      "optimizer_tiles": "ffFEC107",
-      "settings": "ffFEC107",
-      "settings_icons": "ff202020",
-      "settings_tiles": "ffFEC107",
-      "systemui": "ffFEC107",
-      "systemui_off": "ff303030"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 359918
-      },
-      {
-        "name": "icons",
-        "size": 275203
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 33334
-      }
-    ]
-  },
-  {
-    "theme_name": "Coffee Time",
-    "theme_base": "dark",
-    "folder_name": "coffetime",
-    "category": [0, 1, 5],
-    "colors": {
-      "accent": "ffaa7c4d",
-      "actionbar": "ff362E2A",
-      "background": "ff2B2420",
-      "cal_bg": "ff2B2420",
-      "cal_date": "ffaa7c4d",
-      "calculator": "ffaa7c4d",
-      "dialenums": "ffaa7c4d",
-      "dialer": "ffaa7c4d",
-      "dialpad": "ff362E2A",
-      "folder": "ff2B2420",
-      "nots_bg": "ff362E2A",
-      "optimizer": "ffaa7c4d",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ffaa7c4d",
-      "settings": "ffaa7c4d",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ffaa7c4d",
-      "systemui": "ffaa7c4d",
-      "systemui_off": "ff362E2A"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "files",
-        "size": 49195
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 418772
-      },
-      {
-        "name": "icons",
-        "size": 359667
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 85530
-      }
-    ]
-  },
-  {
-    "theme_name": "ColorOS 13",
-    "theme_base": "light",
-    "folder_name": "colorostherteen",
-    "category": [0, 2, 4, 5],
-    "colors": {
-      "accent": "ff2e40ea",
-      "actionbar": "fff5f5f5",
-      "background": "ffffffff",
-      "cal_bg": "ffffffff",
-      "cal_date": "ff000000",
-      "calculator": "ff2e40ea",
-      "dialenums": "ff000000",
-      "dialer": "ff2e40ea",
-      "dialpad": "ffffffff",
-      "folder": "ffffffff",
-      "nots_bg": "ffffffff",
-      "optimizer": "ff2e40ea",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff2e40ea",
-      "settings": "ff2e40ea",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff2e40ea",
-      "systemui": "ff2e40ea",
-      "systemui_off": "ffffffff"
-    },
-    "sku": "coloros13",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 491876
-      },
-      {
-        "name": "icons",
-        "size": 665069
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 59170
-      },
-      {
-        "name": "set",
-        "size": 348002
-      }
-    ]
-  },
-  {
-    "theme_name": "ColorOS 13 Dark",
-    "theme_base": "dark",
-    "folder_name": "colorostherteendark",
-    "category": [0, 1, 6],
-    "colors": {
-      "accent": "ff5867ee",
-      "actionbar": "ff202020",
-      "background": "ff010101",
-      "cal_bg": "ff010101",
-      "cal_date": "ffffffff",
-      "calculator": "ff5867ee",
-      "dialenums": "ffffffff",
-      "dialer": "ff5867ee",
-      "dialpad": "ff010101",
-      "folder": "ffffffff",
-      "nots_bg": "ff010101",
-      "optimizer": "ff5867ee",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff5867ee",
-      "settings": "ff5867ee",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff5867ee",
-      "systemui": "ff5867ee",
-      "systemui_off": "ffffffff"
-    },
-    "sku": "coloros13",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 530071
-      },
-      {
-        "name": "icons",
-        "size": 665069
-      },
-      {
-        "name": "phone",
-        "size": 50582
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 55512
-      },
-      {
-        "name": "set",
-        "size": 348002
-      }
-    ]
-  },
-  {
-    "theme_name": "ColorOS Material",
-    "theme_base": "light",
-    "folder_name": "colorosmaterial",
-    "category": [0, 2, 6],
-    "colors": {
-      "accent": "ff2ad181",
-      "actionbar": "fffafafa",
-      "background": "ffffffff",
-      "cal_bg": "ffffffff",
-      "cal_date": "ff2ad181",
-      "calculator": "ff2accd1",
-      "dialenums": "ff2ad181",
-      "dialer": "ff2ad181",
-      "dialpad": "fffafafa",
-      "folder": "ffffffff",
-      "nots_bg": "fffafafa",
-      "optimizer": "ff2ad181",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff2ad181",
-      "settings": "ff2ad181",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff2ad181",
-      "systemui": "ff2ad181",
-      "systemui_off": "fffafafa"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 2150716
-      },
-      {
-        "name": "icons",
-        "size": 451413
-      },
-      {
-        "name": "phone",
-        "size": 50131
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 40682
-      },
-      {
-        "name": "set",
-        "size": 198111
-      }
-    ]
-  },
-  {
-    "theme_name": "ColorOS Material Dark",
-    "theme_base": "dark",
-    "folder_name": "colorosmaterialdark",
-    "category": [0, 1, 6, 4],
-    "colors": {
-      "accent": "ff2ad181",
-      "actionbar": "ff252525",
-      "background": "ff212121",
-      "cal_bg": "ff212121",
-      "cal_date": "ff2ad181",
-      "calculator": "ff2accd1",
-      "dialenums": "ff2ad181",
-      "dialer": "ff2ad181",
-      "dialpad": "ff252525",
-      "folder": "ff212121",
-      "nots_bg": "ff252525",
-      "optimizer": "ff2ad181",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff2ad181",
-      "settings": "ff2ad181",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff2ad181",
-      "systemui": "ff2ad181",
-      "systemui_off": "ff252525"
-    },
-    "sku": "coloros",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 1023171
-      },
-      {
-        "name": "icons",
-        "size": 451413
-      },
-      {
-        "name": "phone",
-        "size": 50582
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 41243
-      },
-      {
-        "name": "set",
-        "size": 198111
-      }
-    ]
-  },
-  {
-    "theme_name": "Cyberpunk 2077",
-    "theme_base": "dark",
-    "folder_name": "cyberpunk",
-    "category": [0, 1, 3],
-    "colors": {
-      "accent": "ff00bcd4",
-      "actionbar": "ff181818",
-      "background": "ff151515",
-      "cal_bg": "ff151515",
-      "cal_date": "ff00bcd4",
-      "calculator": "ff00bcd4",
-      "dialenums": "ff00bcd4",
-      "dialer": "ff00bcd4",
-      "dialpad": "ff181818",
-      "folder": "ff151515",
-      "nots_bg": "ff181818",
-      "optimizer": "ff00bcd4",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff00bcd4",
-      "settings": "ff00bcd4",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff00bcd4",
-      "systemui": "ff00bcd4",
-      "systemui_off": "ff181818"
-    },
-    "sku": "cyberpunk",
-    "contents": [
-      {
-        "name": "file",
-        "size": 122250
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 497159
-      },
-      {
-        "name": "icons",
-        "size": 411329
-      },
-      {
-        "name": "phone",
-        "size": 30676
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 75897
-      },
-      {
-        "name": "set",
-        "size": 458912
-      }
-    ]
-  },
-  {
-    "theme_name": "Cyberpunk 2077 Black",
-    "theme_base": "dark",
-    "folder_name": "cyberpunkblack",
-    "category": [0, 1, 3],
-    "colors": {
-      "accent": "ff00bcd4",
-      "actionbar": "ff050505",
-      "background": "ff010101",
-      "cal_bg": "ff010101",
-      "cal_date": "ff00bcd4",
-      "calculator": "ff00bcd4",
-      "dialenums": "ff00bcd4",
-      "dialer": "ff00bcd4",
-      "dialpad": "ff050505",
-      "folder": "ff010101",
-      "nots_bg": "ff050505",
-      "optimizer": "ff00bcd4",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff00bcd4",
-      "settings": "ff00bcd4",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff00bcd4",
-      "systemui": "ff00bcd4",
-      "systemui_off": "ff050505"
-    },
-    "sku": "cyberpunk",
-    "contents": [
-      {
-        "name": "file",
-        "size": 122250
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 216349
-      },
-      {
-        "name": "icons",
-        "size": 410345
-      },
-      {
-        "name": "phone",
-        "size": 30207
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 75827
-      },
-      {
-        "name": "set",
-        "size": 457727
-      }
-    ]
-  },
-  {
-    "theme_name": "Delight",
-    "theme_base": "light",
-    "folder_name": "delighted",
-    "category": [0, 2],
-    "colors": {
-      "accent": "ffFB4656",
-      "actionbar": "fff2f3f5",
-      "background": "fff2f3f5",
-      "cal_bg": "fff2f3f5",
-      "cal_date": "ffFB4656",
-      "calculator": "ffFB4656",
-      "dialenums": "ffFB4656",
-      "dialer": "ffFB4656",
-      "dialpad": "fff2f3f5",
-      "folder": "fff2f3f5",
-      "nots_bg": "fff2f3f5",
-      "optimizer": "ffFB4656",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ffFB4656",
-      "settings": "ffFB4656",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ffFB4656",
-      "systemui": "ffFB4656",
-      "systemui_off": "fff2f3f5"
-    },
-    "sku": "delight",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 49491
-      },
-      {
-        "name": "icons",
-        "size": 722120
-      },
-      {
-        "name": "phone",
-        "size": 414950
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 63083
-      },
-      {
-        "name": "set",
-        "size": 463102
-      }
-    ]
-  },
-  {
-    "theme_name": "Delight Dark",
-    "theme_base": "dark",
-    "folder_name": "delightdark",
-    "category": [0, 1],
-    "colors": {
-      "accent": "ffFF4954",
-      "actionbar": "ff242833",
-      "background": "ff242833",
-      "cal_bg": "ff242833",
-      "cal_date": "ffFF4954",
-      "calculator": "ffFF4954",
-      "dialenums": "ffFF4954",
-      "dialer": "ffFF4954",
-      "dialpad": "ff242833",
-      "folder": "ff242833",
-      "nots_bg": "ff242833",
-      "optimizer": "ffFF4954",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ffFF4954",
-      "settings": "ffFF4954",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ffFF4954",
-      "systemui": "ffFF4954",
-      "systemui_off": "ff242833"
-    },
-    "sku": "delight",
-    "contents": [
-      {
-        "name": "file",
-        "size": 152340
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 173319
-      },
-      {
-        "name": "icons",
-        "size": 677001
-      },
-      {
-        "name": "phone",
-        "size": 281659
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 49707
-      },
-      {
-        "name": "set",
-        "size": 381004
-      }
-    ]
-  },
-  {
-    "theme_name": "EMUI Vivid",
-    "theme_base": "dark",
-    "folder_name": "emuivivid",
-    "category": [0, 1, 6],
-    "colors": {
-      "accent": "ffEFA219",
-      "actionbar": "ff3E3D4B",
-      "background": "ff2E2D3B",
-      "cal_bg": "ff2E2D3B",
-      "cal_date": "ffEFA219",
-      "calculator": "ffEFA219",
-      "dialenums": "ff37EDAE",
-      "dialer": "ff37EDAE",
-      "dialpad": "ff3E3D4B",
-      "folder": "ff2E2D3B",
-      "nots_bg": "ff3E3D4B",
-      "optimizer": "ff37EDAE",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff37EDAE",
-      "settings": "ffEF6568",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ffEF6568",
-      "systemui": "ffEFA219",
-      "systemui_off": "ff3E3D4B"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 576028
-      },
-      {
-        "name": "icons",
-        "size": 474743
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 109138
-      }
-    ]
-  },
-  {
-    "theme_name": "Frosted",
-    "theme_base": "light",
-    "folder_name": "frosted",
-    "category": [0, 2],
-    "colors": {
-      "accent": "ff21B3F5",
-      "actionbar": "ffffffff",
-      "background": "ffffffff",
-      "cal_bg": "ffffffff",
-      "cal_date": "ff21B3F5",
-      "calculator": "ff21B3F5",
-      "dialenums": "ff21B3F5",
-      "dialer": "ff21B3F5",
-      "dialpad": "ffffffff",
-      "folder": "ffffffff",
-      "nots_bg": "ffffffff",
-      "optimizer": "ff21B3F5",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff21B3F5",
-      "settings": "ff21B3F5",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff21B3F5",
-      "systemui": "ff21B3F5",
-      "systemui_off": "ffffffff"
-    },
-    "sku": "frosted",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 307814
-      },
-      {
-        "name": "icons",
-        "size": 556157
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 84754
-      },
-      {
-        "name": "set",
-        "size": 386800
-      }
-    ]
-  },
-  {
-    "theme_name": "Grey One",
-    "theme_base": "dark",
-    "folder_name": "greyone",
-    "category": [0, 1, 3],
-    "colors": {
-      "accent": "ff95969a",
-      "actionbar": "ff35363a",
-      "background": "ff202124",
-      "cal_bg": "ff202124",
-      "cal_date": "ff95969a",
-      "calculator": "ff95969a",
-      "dialenums": "ff95969a",
-      "dialer": "ff95969a",
-      "dialpad": "ff35363a",
-      "folder": "ff202124",
-      "nots_bg": "ff35363a",
-      "optimizer": "ff95969a",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff95969a",
-      "settings": "ff95969a",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff35363a",
-      "systemui": "ff95969a",
-      "systemui_off": "ff35363a"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "file",
-        "size": 49190
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 387748
-      },
-      {
-        "name": "icons",
-        "size": 372112
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 73460
-      }
-    ]
-  },
-  {
-    "theme_name": "Harmony OS Dark",
-    "theme_base": "dark",
-    "folder_name": "harmonyosdark",
-    "category": [0, 1, 6],
-    "colors": {
-      "accent": "ff7986cc",
-      "actionbar": "ff21212e",
-      "background": "ff21212e",
-      "cal_bg": "ff21212e",
-      "cal_date": "ff7986cc",
-      "calculator": "ff7986cc",
-      "dialenums": "ff7986cc",
-      "dialer": "ff7986cc",
-      "dialpad": "ff21212e",
-      "folder": "ff21212e",
-      "nots_bg": "ff21212e",
-      "optimizer": "ff7986cc",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff7986cc",
-      "settings": "ff7986cc",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff7986cc",
-      "systemui": "ff7986cc",
-      "systemui_off": "ff21212e"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 312451
-      },
-      {
-        "name": "icons",
-        "size": 849744
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 32833
-      }
-    ]
-  },
-  {
-    "theme_name": "Hello Summer",
-    "theme_base": "dark",
-    "folder_name": "hellosummer",
-    "category": [0, 2, 6],
-    "colors": {
-      "accent": "ff00bfa5",
-      "actionbar": "ffefefeb",
-      "background": "fffbfbf7",
-      "cal_bg": "ffffffff",
-      "cal_date": "ff00bfa5",
-      "calculator": "ff00bfa5",
-      "dialenums": "ff000000",
-      "dialer": "ff00bfa5",
-      "dialpad": "fff9f9f5",
-      "folder": "ffffffff",
-      "nots_bg": "fffbfbf7",
-      "optimizer": "ff00bfa5",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff00bfa5",
-      "settings": "ff00bfa5",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff00bfa5",
-      "systemui": "ff00bfa5",
-      "systemui_off": "fffbfbf7"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "file",
-        "size": 46603
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 1409729
-      },
-      {
-        "name": "icons",
-        "size": 423503
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 203577
-      },
-      {
-        "name": "set_col",
-        "size": 320259
-      }
-    ]
-  },
-  {
-    "theme_name": "HotRed Alternative",
-    "theme_base": "dark",
-    "folder_name": "hotredalternative",
-    "category": [0, 1],
-    "colors": {
-      "accent": "ffea3447",
-      "actionbar": "ff151515",
-      "background": "ff101010",
-      "cal_bg": "ff101010",
-      "cal_date": "ffea3447",
-      "calculator": "ffea3447",
-      "dialenums": "ffea3447",
-      "dialer": "ffea3447",
-      "dialpad": "ff151515",
-      "folder": "ff101010",
-      "nots_bg": "ff151515",
-      "optimizer": "ffea3447",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ffea3447",
-      "settings": "ffea3447",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ffea3447",
-      "systemui": "ffea3447",
-      "systemui_off": "ff151515"
-    },
-    "sku": "coloros",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 451183
-      },
-      {
-        "name": "icons",
-        "size": 520817
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 56310
-      },
-      {
-        "name": "set_col",
-        "size": 192829
-      }
-    ]
-  },
-  {
-    "theme_name": "HotRed ColorOS",
-    "theme_base": "dark",
-    "folder_name": "hotredcoloros",
-    "category": [0, 1],
-    "colors": {
-      "accent": "ffea3447",
-      "actionbar": "ff151515",
-      "background": "ff101010",
-      "cal_bg": "ff101010",
-      "cal_date": "ffea3447",
-      "calculator": "ffea3447",
-      "dialenums": "ffea3447",
-      "dialer": "ffea3447",
-      "dialpad": "ff151515",
-      "folder": "ff101010",
-      "nots_bg": "ff151515",
-      "optimizer": "ffea3447",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ffea3447",
-      "settings": "ffea3447",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ffea3447",
-      "systemui": "ffea3447",
-      "systemui_off": "ff151515"
-    },
-    "sku": "coloros",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 451183
-      },
-      {
-        "name": "icons",
-        "size": 312392
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 56310
-      },
-      {
-        "name": "set_col",
-        "size": 194452
-      }
-    ]
-  },
-  {
-    "theme_name": "Lovely Sunset",
-    "theme_base": "dark",
-    "folder_name": "lovelysunset",
-    "category": [0, 1, 5],
-    "colors": {
-      "accent": "ffe3cba7",
-      "actionbar": "ff4c4d47",
-      "background": "ff4c4d47",
-      "cal_bg": "ff4c4d47",
-      "cal_date": "ffe3cba7",
-      "calculator": "ffe3cba7",
-      "dialenums": "ffe3cba7",
-      "dialer": "ffe3cba7",
-      "dialpad": "ff4c4d47",
-      "folder": "ff4c4d47",
-      "nots_bg": "ff4c4d47",
-      "optimizer": "ffe3cba7",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ffe3cba7",
-      "settings": "ffe3cba7",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ffe3cba7",
-      "systemui": "ffe3cba7",
-      "systemui_off": "ff4c4d47"
-    },
-    "sku": "lovely",
-    "contents": [
-      {
-        "name": "file",
-        "size": 100247
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 714886
-      },
-      {
-        "name": "icons",
-        "size": 652845
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 97423
-      },
-      {
-        "name": "set",
-        "size": 90125
-      }
-    ]
-  },
-  {
-    "theme_name": "MD Special",
-    "theme_base": "dark",
-    "folder_name": "mdspecial",
-    "category": [0, 1],
-    "colors": {
-      "accent": "ff3ddc84",
-      "actionbar": "ff313140",
-      "background": "ff22222c",
-      "cal_bg": "ff22222c",
-      "cal_date": "ff3ddc84",
-      "calculator": "ff3ddc84",
-      "dialenums": "ff3ddc84",
-      "dialer": "ff3ddc84",
-      "dialpad": "ff252530",
-      "folder": "ff22222c",
-      "nots_bg": "ff313140",
-      "optimizer": "ff3ddc84",
-      "optimizer_icons": "ff22222c",
-      "optimizer_tiles": "ff3ddc84",
-      "settings": "ff3ddc84",
-      "settings_icons": "ff22222c",
-      "settings_tiles": "ff3ddc84",
-      "systemui": "ff3ddc84",
-      "systemui_off": "ff252530"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 231806
-      },
-      {
-        "name": "icons",
-        "size": 591931
-      },
-      {
-        "name": "phone",
-        "size": 89387
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 23951
-      }
-    ]
-  },
-  {
-    "theme_name": "MINI Retro (Round)",
-    "theme_base": "dark",
-    "folder_name": "miniretroround",
-    "category": [0, 1, 4],
-    "colors": {
-      "accent": "ffe2765c",
-      "actionbar": "ff414141",
-      "background": "ff303030",
-      "cal_bg": "ff303030",
-      "cal_date": "ffe2765c",
-      "calculator": "ffe2765c",
-      "dialenums": "ffe2765c",
-      "dialer": "ffe2765c",
-      "dialpad": "ff383838",
-      "folder": "ff303030",
-      "nots_bg": "ff414141",
-      "optimizer": "ffe2765c",
-      "optimizer_icons": "ff414141",
-      "optimizer_tiles": "ffe2765c",
-      "settings": "ffe2765c",
-      "settings_icons": "ff414141",
-      "settings_tiles": "ffe2765c",
-      "systemui": "ffe2765c",
-      "systemui_off": "ff383838"
-    },
-    "sku": "miniretro",
-    "contents": [
-      {
-        "name": "file",
-        "size": 52092
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 236118
-      },
-      {
-        "name": "icons",
-        "size": 231507
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 37650
-      }
-    ]
-  },
-  {
-    "theme_name": "MINI Retro (Square)",
-    "theme_base": "dark",
-    "folder_name": "miniretrosquare",
-    "category": [0, 1, 4],
-    "colors": {
-      "accent": "ffe2765c",
-      "actionbar": "ff414141",
-      "background": "ff303030",
-      "cal_bg": "ff303030",
-      "cal_date": "ffe2765c",
-      "calculator": "ffe2765c",
-      "dialenums": "ffe2765c",
-      "dialer": "ffe2765c",
-      "dialpad": "ff383838",
-      "folder": "ff303030",
-      "nots_bg": "ff414141",
-      "optimizer": "ffe2765c",
-      "optimizer_icons": "ff414141",
-      "optimizer_tiles": "ffe2765c",
-      "settings": "ffe2765c",
-      "settings_icons": "ff414141",
-      "settings_tiles": "ffe2765c",
-      "systemui": "ffe2765c",
-      "systemui_off": "ff383838"
-    },
-    "sku": "miniretro",
-    "contents": [
-      {
-        "name": "file",
-        "size": 52092
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 236118
-      },
-      {
-        "name": "icons",
-        "size": 103085
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 37650
-      }
-    ]
-  },
-  {
-    "theme_name": "MIUI 13",
-    "theme_base": "light",
-    "folder_name": "miuitherteen",
-    "category": [0, 2, 6],
-    "colors": {
-      "accent": "ff458aff",
-      "actionbar": "fffafafa",
-      "background": "ffffffff",
-      "cal_bg": "ffffffff",
-      "cal_date": "ff458aff",
-      "calculator": "ffffcc00",
-      "dialenums": "ff458aff",
-      "dialer": "ff458aff",
-      "dialpad": "ffffffff",
-      "folder": "ffffffff",
-      "nots_bg": "ffffffff",
-      "optimizer": "ff00cc83",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff00cc83",
-      "settings": "ff458aff",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff458aff",
-      "systemui": "ff458aff",
-      "systemui_off": "ffffffff"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 421545
-      },
-      {
-        "name": "icons",
-        "size": 206538
-      },
-      {
-        "name": "phone",
-        "size": 39193
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 68392
-      },
-      {
-        "name": "set",
-        "size": 110849
-      }
-    ]
-  },
-  {
-    "theme_name": "MIUI 13 Dark",
-    "theme_base": "dark",
-    "folder_name": "miuitherteendark",
-    "category": [0, 1, 6],
-    "colors": {
-      "accent": "ff9a9ab0",
-      "actionbar": "ff1f1f28",
-      "background": "ff16161d",
-      "cal_bg": "ff16161d",
-      "cal_date": "ffffffff",
-      "calculator": "ff9a9ab0",
-      "dialenums": "ff9a9ab0",
-      "dialer": "ff9a9ab0",
-      "dialpad": "ff1f1f28",
-      "folder": "ff16161d",
-      "nots_bg": "ff16161d",
-      "optimizer": "ff9a9ab0",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff9a9ab0",
-      "settings": "ff9a9ab0",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff9a9ab0",
-      "systemui": "ff9a9ab0",
-      "systemui_off": "ffffffff"
-    },
-    "sku": "miui13",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 439419
-      },
-      {
-        "name": "icons",
-        "size": 556400
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 71514
-      },
-      {
-        "name": "set_col",
-        "size": 130173
-      }
-    ]
-  },
-  {
-    "theme_name": "MaterialYou Green",
-    "theme_base": "light",
-    "folder_name": "materialyougreen",
-    "category": [0, 2, 4],
-    "colors": {
-      "accent": "ffa2b176",
-      "actionbar": "ffe1e8c9",
-      "background": "ffebf0da",
-      "cal_bg": "ffebf0da",
-      "cal_date": "ffa2b176",
-      "calculator": "ffa2b176",
-      "dialenums": "ffa2b176",
-      "dialer": "ffa2b176",
-      "dialpad": "ffebf0da",
-      "folder": "ffebf0da",
-      "nots_bg": "ffebf0da",
-      "optimizer": "ffa2b176",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ffa2b176",
-      "settings": "ffa2b176",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ffa2b176",
-      "systemui": "ffa2b176",
-      "systemui_off": "ffebf0da"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 463840
-      },
-      {
-        "name": "icons",
-        "size": 438087
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 59102
-      },
-      {
-        "name": "set",
-        "size": 160884
-      }
-    ]
-  },
-  {
-    "theme_name": "MaterialYou Orange",
-    "theme_base": "light",
-    "folder_name": "materialyouorange",
-    "category": [0, 2, 4],
-    "colors": {
-      "accent": "ffd39355",
-      "actionbar": "fffad9b6",
-      "background": "fffce6cf",
-      "cal_bg": "fffce6cf",
-      "cal_date": "ffd39355",
-      "calculator": "ffd39355",
-      "dialenums": "ffd39355",
-      "dialer": "ffd39355",
-      "dialpad": "fffce6cf",
-      "folder": "fffce6cf",
-      "nots_bg": "fffce6cf",
-      "optimizer": "ffd39355",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ffd39355",
-      "settings": "ffd39355",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ffd39355",
-      "systemui": "ffd39355",
-      "systemui_off": "fffce6cf"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 441230
-      },
-      {
-        "name": "icons",
-        "size": 434000
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 54503
-      },
-      {
-        "name": "set",
-        "size": 159173
-      }
-    ]
-  },
-  {
-    "theme_name": "Modern",
-    "theme_base": "light",
-    "folder_name": "modern",
-    "category": [0, 2],
-    "colors": {
-      "accent": "ff212121",
-      "actionbar": "ffffffff",
-      "background": "ffffffff",
-      "cal_bg": "ffffffff",
-      "cal_date": "ff212121",
-      "calculator": "ff212121",
-      "dialenums": "ff212121",
-      "dialer": "ff212121",
-      "dialpad": "ffffffff",
-      "folder": "ffffffff",
-      "nots_bg": "ffffffff",
-      "optimizer": "ff212121",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff212121",
-      "settings": "ff212121",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff212121",
-      "systemui": "ff212121",
-      "systemui_off": "ffffffff"
-    },
-    "sku": "modern",
-    "contents": [
-      {
-        "name": "file",
-        "size": 18572
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 180224
-      },
-      {
-        "name": "icons",
-        "size": 346974
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 58557
-      },
-      {
-        "name": "set",
-        "size": 38850
-      }
-    ]
-  },
-  {
-    "theme_name": "Modern Dark",
-    "theme_base": "dark",
-    "folder_name": "moderndark",
-    "category": [0, 1],
-    "colors": {
-      "accent": "ffababab",
-      "actionbar": "ff252525",
-      "background": "ff212121",
-      "cal_bg": "ff212121",
-      "cal_date": "ffababab",
-      "calculator": "ffababab",
-      "dialenums": "ffababab",
-      "dialer": "ffababab",
-      "dialpad": "ff252525",
-      "folder": "ff212121",
-      "nots_bg": "ff252525",
-      "optimizer": "ffffffff",
-      "optimizer_icons": "ff212121",
-      "optimizer_tiles": "ffffffff",
-      "settings": "ffffffff",
-      "settings_icons": "ff212121",
-      "settings_tiles": "ffffffff",
-      "systemui": "ffffffff",
-      "systemui_off": "ff252525"
-    },
-    "sku": "modern",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 56553
-      },
-      {
-        "name": "icons",
-        "size": 518619
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 29545
-      },
-      {
-        "name": "set",
-        "size": 37873
-      }
-    ]
-  },
-  {
-    "theme_name": "MorphOS BW",
-    "theme_base": "dark",
-    "folder_name": "morphosdarkbw",
-    "category": [0, 1],
-    "colors": {
-      "accent": "ffa0a0a0",
-      "actionbar": "ff414141",
-      "background": "ff303030",
-      "cal_bg": "ff303030",
-      "cal_date": "ffa0a0a0",
-      "calculator": "ffa0a0a0",
-      "dialenums": "ffa0a0a0",
-      "dialer": "ffa0a0a0",
-      "dialpad": "ff353535",
-      "folder": "ff303030",
-      "nots_bg": "ff414141",
-      "optimizer": "ffa0a0a0",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ffa0a0a0",
-      "settings": "ffa0a0a0",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ffa0a0a0",
-      "systemui": "ffa0a0a0",
-      "systemui_off": "ff353535"
-    },
-    "sku": "morphos_simple",
-    "contents": [
-      {
-        "name": "file",
-        "size": 107722
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 523698
-      },
-      {
-        "name": "icons",
-        "size": 693000
-      },
-      {
-        "name": "phone",
-        "size": 138708
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 57233
-      },
-      {
-        "name": "set",
-        "size": 252237
-      }
-    ]
-  },
-  {
-    "theme_name": "MorphOS Colorful",
-    "theme_base": "dark",
-    "folder_name": "morphosdarkcolorful",
-    "category": [0, 1],
-    "colors": {
-      "accent": "ff42a5f5",
-      "actionbar": "ff414141",
-      "background": "ff303030",
-      "cal_bg": "ff303030",
-      "cal_date": "ff42a5f5",
-      "calculator": "ffff9800",
-      "dialenums": "ff00c853",
-      "dialer": "ff00c853",
-      "dialpad": "ff353535",
-      "folder": "ff303030",
-      "nots_bg": "ff414141",
-      "optimizer": "ff7986cb",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff7986cb",
-      "settings": "ff42a5f5",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff42a5f5",
-      "systemui": "ff42a5f5",
-      "systemui_off": "ff353535"
-    },
-    "sku": "morphos_simple",
-    "contents": [
-      {
-        "name": "file",
-        "size": 117472
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 538074
-      },
-      {
-        "name": "icons",
-        "size": 542846
-      },
-      {
-        "name": "phone",
-        "size": 138708
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 65477
-      },
-      {
-        "name": "set",
-        "size": 226293
-      }
-    ]
-  },
-  {
-    "theme_name": "MorphOS Light BW",
-    "theme_base": "light",
-    "folder_name": "morphosbw",
-    "category": [0, 2],
-    "colors": {
-      "accent": "ffa0a0a0",
-      "actionbar": "fff7f7f7",
-      "background": "ffffffff",
-      "cal_bg": "ffffffff",
-      "cal_date": "ffa0a0a0",
-      "calculator": "ff404040",
-      "dialenums": "ff404040",
-      "dialer": "ff404040",
-      "dialpad": "fff7f7f7",
-      "folder": "ffffffff",
-      "nots_bg": "fff7f7f7",
-      "optimizer": "ffa0a0a0",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ffa0a0a0",
-      "settings": "ffa0a0a0",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ffa0a0a0",
-      "systemui": "ff404040",
-      "systemui_off": "fff7f7f7"
-    },
-    "sku": "morphos_light",
-    "contents": [
-      {
-        "name": "file",
-        "size": 87193
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 181054
-      },
-      {
-        "name": "icons",
-        "size": 764389
-      },
-      {
-        "name": "phone",
-        "size": 133566
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 67873
-      },
-      {
-        "name": "set",
-        "size": 245542
-      }
-    ]
-  },
-  {
-    "theme_name": "MorphOS Light Colorful",
-    "theme_base": "light",
-    "folder_name": "morphoscolorful",
-    "category": [0, 2],
-    "colors": {
-      "accent": "ff42a5f5",
-      "actionbar": "fff7f7f7",
-      "background": "ffffff",
-      "cal_bg": "ffffff",
-      "cal_date": "ff42a5f5",
-      "calculator": "ffff9800",
-      "dialenums": "ff00c853",
-      "dialer": "ff00c853",
-      "dialpad": "fff7f7f7",
-      "folder": "ffffff",
-      "nots_bg": "fff7f7f7",
-      "optimizer": "ff5c6bc0",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff5c6bc0",
-      "settings": "ff42a5f5",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff42a5f5",
-      "systemui": "ff42a5f5",
-      "systemui_off": "fff7f7f7"
-    },
-    "sku": "morphos_light",
-    "contents": [
-      {
-        "name": "file",
-        "size": 105568
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 252469
-      },
-      {
-        "name": "icons",
-        "size": 901628
-      },
-      {
-        "name": "phone",
-        "size": 133566
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 59829
-      },
-      {
-        "name": "set",
-        "size": 215034
-      }
-    ]
-  },
-  {
-    "theme_name": "NEU",
-    "theme_base": "light",
-    "folder_name": "neu",
-    "category": [0, 2],
-    "colors": {
-      "accent": "ff989b9d",
-      "actionbar": "ffdee2e5",
-      "background": "ffecf0f3",
-      "cal_bg": "ffecf0f3",
-      "cal_date": "ff989b9d",
-      "calculator": "ff989b9d",
-      "dialenums": "ff989b9d",
-      "dialer": "ff989b9d",
-      "dialpad": "ffecf0f3",
-      "folder": "ffecf0f3",
-      "nots_bg": "ffdee2e5",
-      "optimizer": "ff989b9d",
-      "optimizer_icons": "ffecf0f3",
-      "optimizer_tiles": "ff989b9d",
-      "settings": "ff989b9d",
-      "settings_icons": "ffecf0f3",
-      "settings_tiles": "ff989b9d",
-      "systemui": "ff989b9d",
-      "systemui_off": "ffecf0f3"
-    },
-    "sku": "theme_neu",
-    "contents": [
-      {
-        "name": "file",
-        "size": 136823
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 58912
-      },
-      {
-        "name": "icons",
-        "size": 353914
-      },
-      {
-        "name": "phone",
-        "size": 407497
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 15733
-      }
-    ]
-  },
-  {
-    "theme_name": "NEU Dark",
-    "theme_base": "dark",
-    "folder_name": "neudark",
-    "category": [0, 1],
-    "colors": {
-      "accent": "ff78909c",
-      "actionbar": "ff2b363c",
-      "background": "ff1a2225",
-      "cal_bg": "ff1a2225",
-      "cal_date": "ff78909c",
-      "calculator": "ff78909c",
-      "dialenums": "ff78909c",
-      "dialer": "ff78909c",
-      "dialpad": "ff1a2225",
-      "folder": "ff1a2225",
-      "nots_bg": "ff2b363c",
-      "optimizer": "ff78909c",
-      "optimizer_icons": "ff1a2225",
-      "optimizer_tiles": "ff78909c",
-      "settings": "ff78909c",
-      "settings_icons": "ff1a2225",
-      "settings_tiles": "ff78909c",
-      "systemui": "ff78909c",
-      "systemui_off": "ff1a2225"
-    },
-    "sku": "theme_neu",
-    "contents": [
-      {
-        "name": "file",
-        "size": 123658
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 63128
-      },
-      {
-        "name": "icons",
-        "size": 414746
-      },
-      {
-        "name": "phone",
-        "size": 329950
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 15206
-      }
-    ]
-  },
-  {
-    "theme_name": "NEU iOS",
-    "theme_base": "light",
-    "folder_name": "neuios",
-    "category": [0, 2],
-    "colors": {
-      "accent": "ff15e3a6",
-      "actionbar": "ffefefef",
-      "background": "ffefefef",
-      "cal_bg": "ffefefef",
-      "cal_date": "ff15e3a6",
-      "calculator": "ff15e3a6",
-      "dialenums": "ff15e3a6",
-      "dialer": "ff15e3a6",
-      "dialpad": "ffefefef",
-      "folder": "ffefefef",
-      "nots_bg": "ffefefef",
-      "optimizer": "ff15e3a6",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff15e3a6",
-      "settings": "ff15e3a6",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff15e3a6",
-      "systemui": "ff15e3a6",
-      "systemui_off": "ffefefef"
-    },
-    "sku": "neu_ios",
-    "contents": [
-      {
-        "name": "file",
-        "size": 100971
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 393443
-      },
-      {
-        "name": "icons",
-        "size": 718560
-      },
-      {
-        "name": "phone",
-        "size": 406636
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 24047
-      }
-    ]
-  },
-  {
-    "theme_name": "NEU iOS Dark",
-    "theme_base": "dark",
-    "folder_name": "neuiosdark",
-    "category": [0, 1],
-    "colors": {
-      "accent": "ff15e3a6",
-      "actionbar": "ff101010",
-      "background": "ff101010",
-      "cal_bg": "ff101010",
-      "cal_date": "ff15e3a6",
-      "calculator": "ff15e3a6",
-      "dialenums": "ff15e3a6",
-      "dialer": "ff15e3a6",
-      "dialpad": "ff101010",
-      "folder": "ff101010",
-      "nots_bg": "ff101010",
-      "optimizer": "ff15e3a6",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff15e3a6",
-      "settings": "ff15e3a6",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff15e3a6",
-      "systemui": "ff15e3a6",
-      "systemui_off": "ff101010"
-    },
-    "sku": "neu_ios",
-    "contents": [
-      {
-        "name": "file",
-        "size": 120122
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 395058
-      },
-      {
-        "name": "icons",
-        "size": 734008
-      },
-      {
-        "name": "phone",
-        "size": 448626
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 23813
-      }
-    ]
-  },
-  {
-    "theme_name": "NeuOS",
-    "theme_base": "light",
-    "folder_name": "neu_os",
-    "category": [0, 2],
-    "colors": {
-      "accent": "ff1AD3BF",
-      "actionbar": "ffffffff",
-      "background": "ffffffff",
-      "cal_bg": "ffffffff",
-      "cal_date": "ff1AD3BF",
-      "calculator": "ff1AD3BF",
-      "dialenums": "ff02a1f9",
-      "dialer": "ff02a1f9",
-      "dialpad": "ffffffff",
-      "folder": "ffffffff",
-      "nots_bg": "ffffffff",
-      "optimizer": "ff1AD3BF",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff1AD3BF",
-      "settings": "ff1AD3BF",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff1AD3BF",
-      "systemui": "ff1AD3BF",
-      "systemui_off": "ffffffff"
-    },
-    "sku": "neuos",
-    "contents": [
-      {
-        "name": "file",
-        "size": 114812
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 738648
-      },
-      {
-        "name": "icons",
-        "size": 1446119
-      },
-      {
-        "name": "phone",
-        "size": 162141
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 91520
-      }
-    ]
-  },
-  {
-    "theme_name": "NeuOS Dark",
-    "theme_base": "dark",
-    "folder_name": "neu_osdark",
-    "category": [0, 1],
-    "colors": {
-      "accent": "ff1AD3BF",
-      "actionbar": "ff353535",
-      "background": "ff151515",
-      "cal_bg": "ff151515",
-      "cal_date": "ff1AD3BF",
-      "calculator": "ff1AD3BF",
-      "dialenums": "ff1AD3BF",
-      "dialer": "ff1AD3BF",
-      "dialpad": "ff202020",
-      "folder": "ff151515",
-      "nots_bg": "ff353535",
-      "optimizer": "ff1AD3BF",
-      "optimizer_icons": "ff202020",
-      "optimizer_tiles": "ff1AD3BF",
-      "settings": "ff1AD3BF",
-      "settings_icons": "ff151515",
-      "settings_tiles": "ff1AD3BF",
-      "systemui": "ff1AD3BF",
-      "systemui_off": "ff202020"
-    },
-    "sku": "neuos",
-    "contents": [
-      {
-        "name": "file",
-        "size": 114812
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 597302
-      },
-      {
-        "name": "icons",
-        "size": 1520069
-      },
-      {
-        "name": "phone",
-        "size": 162141
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 192576
-      }
-    ]
-  },
-  {
-    "theme_name": "OUTLAWS",
-    "theme_base": "dark",
-    "folder_name": "outlaws",
-    "category": [0, 1, 3],
-    "colors": {
-      "accent": "ffcc0204",
-      "actionbar": "ff0f0f0f",
-      "background": "ff0f0f0f",
-      "cal_bg": "ff0f0f0f",
-      "cal_date": "ffcc0204",
-      "calculator": "ffcc0204",
-      "dialenums": "ffcc0204",
-      "dialer": "ffcc0204",
-      "dialpad": "ff0f0f0f",
-      "folder": "ff0f0f0f",
-      "nots_bg": "ff0f0f0f",
-      "optimizer": "ffcc0204",
-      "optimizer_icons": "ff0f0f0f",
-      "optimizer_tiles": "ffcc0204",
-      "settings": "ffcc0204",
-      "settings_icons": "ff0f0f0f",
-      "settings_tiles": "ffcc0204",
-      "systemui": "ffcc0204",
-      "systemui_off": "ff0f0f0f"
-    },
-    "sku": "outlaws",
-    "contents": [
-      {
-        "name": "file",
-        "size": 51482
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 347239
-      },
-      {
-        "name": "icons",
-        "size": 163820
-      },
-      {
-        "name": "phone",
-        "size": 86371
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 184858
-      }
-    ]
-  },
-  {
-    "theme_name": "One UI 3",
-    "theme_base": "light",
-    "folder_name": "oneuithree",
-    "category": [0, 2, 6],
-    "colors": {
-      "accent": "ff2e65f3",
-      "actionbar": "fff2f2f2",
-      "background": "ffffff",
-      "cal_bg": "ffffff",
-      "cal_date": "ff2e65f3",
-      "calculator": "ff2e65f3",
-      "dialenums": "ff15b76c",
-      "dialer": "ff15b76c",
-      "dialpad": "ffffff",
-      "folder": "ffffff",
-      "nots_bg": "fff2f2f2",
-      "optimizer": "ff2e65f3",
-      "optimizer_icons": "ffffff",
-      "optimizer_tiles": "ff2e65f3",
-      "settings": "ff2e65f3",
-      "settings_icons": "ffffff",
-      "settings_tiles": "ff2e65f3",
-      "systemui": "ff2e65f3",
-      "systemui_off": "ffffff"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 612163
-      },
-      {
-        "name": "icons",
-        "size": 338635
-      },
-      {
-        "name": "phone",
-        "size": 50131
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 63039
-      },
-      {
-        "name": "set",
-        "size": 87749
-      }
-    ]
-  },
-  {
-    "theme_name": "One UI 3 Dark",
-    "theme_base": "dark",
-    "folder_name": "oneuthreedark",
-    "category": [0, 1, 6],
-    "colors": {
-      "accent": "ff2e65f3",
-      "actionbar": "ff171717",
-      "background": "ff101010",
-      "cal_bg": "ff101010",
-      "cal_date": "ff2e65f3",
-      "calculator": "ffffc107",
-      "dialenums": "ff15b76c",
-      "dialer": "ff15b76c",
-      "dialpad": "ff171717",
-      "folder": "ff101010",
-      "nots_bg": "ff171717",
-      "optimizer": "ff2e65f3",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff2e65f3",
-      "settings": "ff2e65f3",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff2e65f3",
-      "systemui": "ff2e65f3",
-      "systemui_off": "ff171717"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 1046138
-      },
-      {
-        "name": "icons",
-        "size": 338635
-      },
-      {
-        "name": "phone",
-        "size": 50582
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 77287
-      },
-      {
-        "name": "set",
-        "size": 87749
-      }
-    ]
-  },
-  {
-    "theme_name": "OxygenOS 13",
-    "theme_base": "light",
-    "folder_name": "oxygenostherteen",
-    "category": [0, 2, 4, 5],
-    "colors": {
-      "accent": "ff2e8cfe",
-      "actionbar": "fff5f5f5",
-      "background": "ffffffff",
-      "cal_bg": "ffffffff",
-      "cal_date": "ff000000",
-      "calculator": "ff2e8cfe",
-      "dialenums": "ff000000",
-      "dialer": "ff2e8cfe",
-      "dialpad": "ffffffff",
-      "folder": "ffffffff",
-      "nots_bg": "ffffffff",
-      "optimizer": "ff2e8cfe",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff2e8cfe",
-      "settings": "ff2e8cfe",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff2e8cfe",
-      "systemui": "ff2e8cfe",
-      "systemui_off": "ffffffff"
-    },
-    "sku": "oxygenos13",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 88399
-      },
-      {
-        "name": "icons",
-        "size": 665863
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 50405
-      },
-      {
-        "name": "set",
-        "size": 311992
-      }
-    ]
-  },
-  {
-    "theme_name": "OxygenOS 13 Dark",
-    "theme_base": "dark",
-    "folder_name": "oxygenostherteendark",
-    "category": [0, 1, 6],
-    "colors": {
-      "accent": "ff29a84d",
-      "actionbar": "ff202020",
-      "background": "ff010101",
-      "cal_bg": "ff010101",
-      "cal_date": "ffffffff",
-      "calculator": "ff29a84d",
-      "dialenums": "ffffffff",
-      "dialer": "ff29a84d",
-      "dialpad": "ff010101",
-      "folder": "ffffffff",
-      "nots_bg": "ff010101",
-      "optimizer": "ff29a84d",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff5867ee",
-      "settings": "ff29a84d",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff29a84d",
-      "systemui": "ff29a84d",
-      "systemui_off": "ffffffff"
-    },
-    "sku": "oxygenos13",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 88399
-      },
-      {
-        "name": "icons",
-        "size": 665863
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 49526
-      },
-      {
-        "name": "set",
-        "size": 311992
-      }
-    ]
-  },
-  {
-    "theme_name": "POCO Dark",
-    "theme_base": "dark",
-    "folder_name": "pocodark",
-    "category": [0, 1, 6, 4],
-    "colors": {
-      "accent": "ff0c84ff",
-      "actionbar": "ff202020",
-      "background": "ff151515",
-      "cal_bg": "ff151515",
-      "cal_date": "ff0c84ff",
-      "calculator": "ff0c84ff",
-      "dialenums": "ff0c84ff",
-      "dialer": "ff0c84ff",
-      "dialpad": "ff202020",
-      "folder": "ff151515",
-      "nots_bg": "ff202020",
-      "optimizer": "ff0c84ff",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff0c84ff",
-      "settings": "ff0c84ff",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff0c84ff",
-      "systemui": "ff0c84ff",
-      "systemui_off": "ff202020"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 983170
-      },
-      {
-        "name": "icons",
-        "size": 751375
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 45427
-      },
-      {
-        "name": "set",
-        "size": 131838
-      }
-    ]
-  },
-  {
-    "theme_name": "Pure AOSP",
-    "theme_base": "light",
-    "folder_name": "pureaosp",
-    "category": [0, 2, 6, 4],
-    "colors": {
-      "accent": "ff009688",
-      "actionbar": "ffffffff",
-      "background": "ffffffff",
-      "cal_bg": "ffffffff",
-      "cal_date": "ff009688",
-      "calculator": "ff009688",
-      "dialenums": "ff009688",
-      "dialer": "ff009688",
-      "dialpad": "ffffffff",
-      "folder": "ffffffff",
-      "nots_bg": "ffffffff",
-      "optimizer": "ff009688",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff009688",
-      "settings": "ff009688",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff009688",
-      "systemui": "ff009688",
-      "systemui_off": "ffffffff"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 286354
-      },
-      {
-        "name": "icons",
-        "size": 738210
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 158258
-      }
-    ]
-  },
-  {
-    "theme_name": "Pure AOSP Dark",
-    "theme_base": "dark",
-    "folder_name": "pureaospdark",
-    "category": [0, 1, 6, 4],
-    "colors": {
-      "accent": "ff80cbc4",
-      "actionbar": "ff353535",
-      "background": "ff202020",
-      "cal_bg": "ff202020",
-      "cal_date": "ff80cbc4",
-      "calculator": "ff80cbc4",
-      "dialenums": "ff80cbc4",
-      "dialer": "ff80cbc4",
-      "dialpad": "ff303030",
-      "folder": "ff202020",
-      "nots_bg": "ff353535",
-      "optimizer": "ff80cbc4",
-      "optimizer_icons": "ff202020",
-      "optimizer_tiles": "ff80cbc4",
-      "settings": "ff80cbc4",
-      "settings_icons": "ff202020",
-      "settings_tiles": "ff80cbc4",
-      "systemui": "ff80cbc4",
-      "systemui_off": "ff303030"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 286354
-      },
-      {
-        "name": "icons",
-        "size": 738210
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 163501
-      }
-    ]
-  },
-  {
-    "theme_name": "Pure Pixel",
-    "theme_base": "light",
-    "folder_name": "purepixel",
-    "category": [0, 2, 6, 4],
-    "colors": {
-      "accent": "ff4285f6",
-      "actionbar": "ffffffff",
-      "background": "ffffffff",
-      "cal_bg": "ffffffff",
-      "cal_date": "ff4285f6",
-      "calculator": "ff4285f6",
-      "dialenums": "ff4285f6",
-      "dialer": "ff4285f6",
-      "dialpad": "ffffffff",
-      "folder": "ffffffff",
-      "nots_bg": "ffffffff",
-      "optimizer": "ff4285f6",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff4285f6",
-      "settings": "ff4285f6",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff4285f6",
-      "systemui": "ff4285f6",
-      "systemui_off": "ffffffff"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 235356
-      },
-      {
-        "name": "icons",
-        "size": 733116
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 161512
-      }
-    ]
-  },
-  {
-    "theme_name": "Pure Pixel Dark",
-    "theme_base": "dark",
-    "folder_name": "purepixeldark",
-    "category": [0, 1, 6, 4],
-    "colors": {
-      "accent": "ff8ab4f8",
-      "actionbar": "ff35363a",
-      "background": "ff202124",
-      "cal_bg": "ff202124",
-      "cal_date": "ff8ab4f8",
-      "calculator": "ff8ab4f8",
-      "dialenums": "ff8ab4f8",
-      "dialer": "ff8ab4f8",
-      "dialpad": "ff35363a",
-      "folder": "ff202124",
-      "nots_bg": "ff35363a",
-      "optimizer": "ff8ab4f8",
-      "optimizer_icons": "ff202124",
-      "optimizer_tiles": "ff8ab4f8",
-      "settings": "ff8ab4f8",
-      "settings_icons": "ff202124",
-      "settings_tiles": "ff8ab4f8",
-      "systemui": "ff8ab4f8",
-      "systemui_off": "ff35363a"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 235356
-      },
-      {
-        "name": "icons",
-        "size": 733116
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 160389
-      }
-    ]
-  },
-  {
-    "theme_name": "Starry",
-    "theme_base": "dark",
-    "folder_name": "starry",
-    "category": [0, 1, 4],
-    "colors": {
-      "accent": "ff7986cb",
-      "actionbar": "ff11162a",
-      "background": "ff11162a",
-      "cal_bg": "ff11162a",
-      "cal_date": "ff7986cb",
-      "calculator": "ff7986cb",
-      "dialenums": "ff7986cb",
-      "dialer": "ff7986cb",
-      "dialpad": "ff11162a",
-      "folder": "ff11162a",
-      "nots_bg": "ff11162a",
-      "optimizer": "ff7986cb",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff7986cb",
-      "settings": "ff7986cb",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff7986cb",
-      "systemui": "ff7986cb",
-      "systemui_off": "ff11162a"
-    },
-    "sku": "starry",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 1364420
-      },
-      {
-        "name": "icons",
-        "size": 294014
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 73430
-      },
-      {
-        "name": "set",
-        "size": 81966
-      }
-    ]
-  },
-  {
-    "theme_name": "Hello Future",
-    "theme_base": "dark",
-    "folder_name": "hellofuture",
-    "category": [0, 2, 6],
-    "colors": {
-      "accent": "ff458aff",
-      "actionbar": "ffffffff",
-      "background": "ffffffff",
-      "cal_bg": "ffffffff",
-      "cal_date": "ff458aff",
-      "calculator": "ffffcc00",
-      "dialenums": "ff458aff",
-      "dialer": "ff458aff",
-      "dialpad": "ffffffff",
-      "folder": "ffffffff",
-      "nots_bg": "ffffffff",
-      "optimizer": "ff00cc83",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff00cc83",
-      "settings": "ff458aff",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff458aff",
-      "systemui": "ff458aff",
-      "systemui_off": "ffffffff"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 212135
-      },
-      {
-        "name": "icons",
-        "size": 501632
-      },
-      {
-        "name": "phone",
-        "size": 39193
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 27095
-      }
-    ]
-  },
-  {
-    "theme_name": "WatchDogs",
-    "theme_base": "dark",
-    "folder_name": "watchdogs",
-    "category": [0, 1, 3],
-    "colors": {
-      "accent": "ff00bcd4",
-      "actionbar": "ff050505",
-      "background": "ff010101",
-      "cal_bg": "ff010101",
-      "cal_date": "ff00bcd4",
-      "calculator": "ff00bcd4",
-      "dialenums": "ff00bcd4",
-      "dialer": "ff00bcd4",
-      "dialpad": "ff050505",
-      "folder": "ff010101",
-      "nots_bg": "ff050505",
-      "optimizer": "ff00bcd4",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff00bcd4",
-      "settings": "ff00bcd4",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff00bcd4",
-      "systemui": "ff00bcd4",
-      "systemui_off": "ff050505"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "file",
-        "size": 144748
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 442444
-      },
-      {
-        "name": "icons",
-        "size": 157906
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 75352
-      },
-      {
-        "name": "set",
-        "size": 188668
-      }
-    ]
-  },
-  {
-    "theme_name": "Windows 11",
-    "theme_base": "light",
-    "folder_name": "windowseleven",
-    "category": [0, 2, 6],
-    "colors": {
-      "accent": "ff2196f3",
-      "actionbar": "fff5f5f5",
-      "background": "ffffffff",
-      "cal_bg": "ffffffff",
-      "cal_date": "ff2196f3",
-      "calculator": "ff2196f3",
-      "dialenums": "ff000000",
-      "dialer": "ff2196f3",
-      "dialpad": "fff5f5f5",
-      "folder": "ffffffff",
-      "nots_bg": "fff5f5f5",
-      "optimizer": "ff2196f3",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff2196f3",
-      "settings": "ff2196f3",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff2196f3",
-      "systemui": "ff2196f3",
-      "systemui_off": "fff5f5f5"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "file",
-        "size": 88070
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 634078
-      },
-      {
-        "name": "icons",
-        "size": 447266
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 64599
-      },
-      {
-        "name": "set",
-        "size": 312577
-      }
-    ]
-  },
-  {
-    "theme_name": "Windows 11 Dark",
-    "theme_base": "dark",
-    "folder_name": "windowselevendark",
-    "category": [0, 1, 6],
-    "colors": {
-      "accent": "ff2196f3",
-      "actionbar": "ff051225",
-      "background": "ff030b1a",
-      "cal_bg": "ff030b1a",
-      "cal_date": "ff2196f3",
-      "calculator": "ff2196f3",
-      "dialenums": "ffffffff",
-      "dialer": "ff2196f3",
-      "dialpad": "ff051225",
-      "folder": "ff030b1a",
-      "nots_bg": "ff051225",
-      "optimizer": "ff2196f3",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff2196f3",
-      "settings": "ff2196f3",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff2196f3",
-      "systemui": "ff2196f3",
-      "systemui_off": "ff051225"
-    },
-    "sku": "win11",
-    "contents": [
-      {
-        "name": "file",
-        "size": 88070
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 587447
-      },
-      {
-        "name": "icons",
-        "size": 447266
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 64028
-      },
-      {
-        "name": "set",
-        "size": 312577
-      }
-    ]
-  },
-  {
-    "theme_name": "XONE",
-    "theme_base": "dark",
-    "folder_name": "xone",
-    "category": [0, 1, 5],
-    "colors": {
-      "accent": "ffFF80AB",
-      "actionbar": "ff2D2833",
-      "background": "ff211D25",
-      "cal_bg": "ff211D25",
-      "cal_date": "ffFF80AB",
-      "calculator": "ffFF80AB",
-      "dialenums": "ffFF80AB",
-      "dialer": "ffFF80AB",
-      "dialpad": "ff2D2833",
-      "folder": "ff211D25",
-      "nots_bg": "ff2D2833",
-      "optimizer": "ffFF80AB",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ffFF80AB",
-      "settings": "ffFF80AB",
-      "settings_icons": "ffFFFFFF",
-      "settings_tiles": "ffFF80AB",
-      "systemui": "ffFF80AB",
-      "systemui_off": "ff2D2833"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 693645
-      },
-      {
-        "name": "icons",
-        "size": 414416
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 79557
-      },
-      {
-        "name": "set",
-        "size": 140564
-      }
-    ]
-  },
-  {
-    "theme_name": "XP Dark",
-    "theme_base": "dark",
-    "folder_name": "xpdark",
-    "category": [0, 1, 6],
-    "colors": {
-      "accent": "ffff6200",
-      "actionbar": "ff1f1f1f",
-      "background": "ff1a1a1a",
-      "cal_bg": "ff1a1a1a",
-      "cal_date": "ffffffff",
-      "calculator": "ffff6200",
-      "dialenums": "ffffffff",
-      "dialer": "ffff6200",
-      "dialpad": "ff1f1f1f",
-      "folder": "ff1a1a1a",
-      "nots_bg": "ff1a1a1a",
-      "optimizer": "ffff6200",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ffff6200",
-      "settings": "ffff6200",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ffff6200",
-      "systemui": "ffff6200",
-      "systemui_off": "ffffffff"
-    },
-    "sku": "xperia",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 137613
-      },
-      {
-        "name": "icons",
-        "size": 1150370
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 60038
-      },
-      {
-        "name": "set",
-        "size": 300062
-      }
-    ]
-  },
-  {
-    "theme_name": "XP Light",
-    "theme_base": "light",
-    "folder_name": "xp",
-    "category": [0, 2, 4, 5],
-    "colors": {
-      "accent": "ff8f5de5",
-      "actionbar": "fffcfcfc",
-      "background": "ffffffff",
-      "cal_bg": "ffffffff",
-      "cal_date": "ff000000",
-      "calculator": "ff8f5de5",
-      "dialenums": "ff000000",
-      "dialer": "ff8f5de5",
-      "dialpad": "fffcfcfc",
-      "folder": "ffffffff",
-      "nots_bg": "ffffffff",
-      "optimizer": "ff8f5de5",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff8f5de5",
-      "settings": "ff8f5de5",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff8f5de5",
-      "systemui": "ff8f5de5",
-      "systemui_off": "ffffffff"
-    },
-    "sku": "xperia",
-    "contents": [
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 124211
-      },
-      {
-        "name": "icons",
-        "size": 350025
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 65721
-      },
-      {
-        "name": "set",
-        "size": 356185
-      }
-    ]
-  },
-  {
-    "theme_name": "iCandy",
-    "theme_base": "light",
-    "folder_name": "icandy",
-    "category": [0, 2, 5],
-    "colors": {
-      "accent": "fffd5492",
-      "actionbar": "ffffdeea",
-      "background": "ffffeef4",
-      "cal_bg": "ffffeef4",
-      "cal_date": "fffd5492",
-      "calculator": "fffd5492",
-      "dialenums": "fffd5492",
-      "dialer": "fffd5492",
-      "dialpad": "ffffe6ef",
-      "folder": "ffffeef4",
-      "nots_bg": "ffffdeea",
-      "optimizer": "fffd5492",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "fffd5492",
-      "settings": "fffd5492",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "fffd5492",
-      "systemui": "fffd5492",
-      "systemui_off": "ffffe6ef"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "file",
-        "size": 114812
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 438474
-      },
-      {
-        "name": "icons",
-        "size": 450260
-      },
-      {
-        "name": "mod",
-        "size": 3138
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 67066
-      }
-    ]
-  },
-  {
-    "theme_name": "iMono",
-    "theme_base": "dark",
-    "folder_name": "imono",
-    "category": [0, 1],
-    "colors": {
-      "accent": "ff909090",
-      "actionbar": "ff191919",
-      "background": "ff101010",
-      "cal_bg": "ff101010",
-      "cal_date": "ff909090",
-      "calculator": "ff909090",
-      "dialenums": "ff909090",
-      "dialer": "ff909090",
-      "dialpad": "ff141414",
-      "folder": "ff101010",
-      "nots_bg": "ff191919",
-      "optimizer": "ff909090",
-      "optimizer_icons": "ff191919",
-      "optimizer_tiles": "ff909090",
-      "settings": "ff909090",
-      "settings_icons": "ff191919",
-      "settings_tiles": "ff909090",
-      "systemui": "ff909090",
-      "systemui_off": "ff141414"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "file",
-        "size": 43627
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 255130
-      },
-      {
-        "name": "icons",
-        "size": 479546
-      },
-      {
-        "name": "phone",
-        "size": 93295
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 58983
-      }
-    ]
-  },
-  {
-    "theme_name": "iOS 14",
-    "theme_base": "light",
-    "folder_name": "iosfourteen",
-    "category": [0, 2, 6],
-    "colors": {
-      "accent": "ff147efb",
-      "actionbar": "ffffffff",
-      "background": "ffffffff",
-      "cal_bg": "ffffffff",
-      "cal_date": "ff147efb",
-      "calculator": "fff19b38",
-      "dialenums": "ff147efb",
-      "dialer": "ff147efb",
-      "dialpad": "ffffffff",
-      "folder": "ffffffff",
-      "nots_bg": "ffffffff",
-      "optimizer": "ff147efb",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff147efb",
-      "settings": "ff147efb",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff147efb",
-      "systemui": "ff147efb",
-      "systemui_off": "ffffffff"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "file",
-        "size": 114812
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 253703
-      },
-      {
-        "name": "icons",
-        "size": 432950
-      },
-      {
-        "name": "phone",
-        "size": 92209
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 71288
-      }
-    ]
-  },
-  {
-    "theme_name": "iOS 14 Dark",
-    "theme_base": "dark",
-    "folder_name": "iosfourteendark",
-    "category": [0, 1, 6],
-    "colors": {
-      "accent": "ff147efb",
-      "actionbar": "ff282a31",
-      "background": "ff1c1f26",
-      "cal_bg": "ff1c1f26",
-      "cal_date": "ff147efb",
-      "calculator": "ff147efb",
-      "dialenums": "ff147efb",
-      "dialer": "ff147efb",
-      "dialpad": "ff20232a",
-      "folder": "ff1c1f26",
-      "nots_bg": "ff282a31",
-      "optimizer": "ff147efb",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff147efb",
-      "settings": "ff147efb",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff147efb",
-      "systemui": "ff147efb",
-      "systemui_off": "ff20232a"
-    },
-    "sku": "ios14",
-    "contents": [
-      {
-        "name": "file",
-        "size": 114812
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 289344
-      },
-      {
-        "name": "icons",
-        "size": 655976
-      },
-      {
-        "name": "phone",
-        "size": 93295
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 61680
-      }
-    ]
-  },
-  {
-    "theme_name": "iOS 14 Dark (Free)",
-    "theme_base": "dark",
-    "folder_name": "iosfourteendarkfree",
-    "category": [0, 1, 6],
-    "colors": {
-      "accent": "ff147efb",
-      "actionbar": "ff282a31",
-      "background": "ff1c1f26",
-      "cal_bg": "ff1c1f26",
-      "cal_date": "ff147efb",
-      "calculator": "ff147efb",
-      "dialenums": "ff147efb",
-      "dialer": "ff147efb",
-      "dialpad": "ff20232a",
-      "folder": "ff1c1f26",
-      "nots_bg": "ff282a31",
-      "optimizer": "ff147efb",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "ff147efb",
-      "settings": "ff147efb",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "ff147efb",
-      "systemui": "ff147efb",
-      "systemui_off": "ff20232a"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "file",
-        "size": 114812
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 289344
-      },
-      {
-        "name": "icons",
-        "size": 432950
-      },
-      {
-        "name": "phone",
-        "size": 93295
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 68420
-      }
-    ]
-  },
-  {
-    "theme_name": "iOS Luxury",
-    "theme_base": "dark",
-    "folder_name": "iosluxury",
-    "category": [0, 1],
-    "colors": {
-      "accent": "ffedc56e",
-      "actionbar": "ff4f4f4f",
-      "background": "ff3c3c3c",
-      "cal_bg": "ff3c3c3c",
-      "cal_date": "ffedc56e",
-      "calculator": "ffedc56e",
-      "dialenums": "ffedc56e",
-      "dialer": "ffedc56e",
-      "dialpad": "ff404040",
-      "folder": "ff3c3c3c",
-      "nots_bg": "ff4f4f4f",
-      "optimizer": "ffedc56e",
-      "optimizer_icons": "ff3c3c3c",
-      "optimizer_tiles": "ffedc56e",
-      "settings": "ffedc56e",
-      "settings_icons": "ff3c3c3c",
-      "settings_tiles": "ffedc56e",
-      "systemui": "ffedc56e",
-      "systemui_off": "ff404040"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "file",
-        "size": 46780
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 91565
-      },
-      {
-        "name": "icons",
-        "size": 1073428
-      },
-      {
-        "name": "phone",
-        "size": 91999
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 35121
-      }
-    ]
-  },
-  {
-    "theme_name": "iOS Midnight",
-    "theme_base": "dark",
-    "folder_name": "iosmidnight",
-    "category": [0, 1, 5],
-    "colors": {
-      "accent": "fff06292",
-      "actionbar": "ff484c66",
-      "background": "ff292b3a",
-      "cal_bg": "ff292b3a",
-      "cal_date": "fff06292",
-      "calculator": "fff06292",
-      "dialenums": "fff06292",
-      "dialer": "fff06292",
-      "dialpad": "ff35374a",
-      "folder": "ff292b3a",
-      "nots_bg": "ff484c66",
-      "optimizer": "fff06292",
-      "optimizer_icons": "ffffffff",
-      "optimizer_tiles": "fff06292",
-      "settings": "fff06292",
-      "settings_icons": "ffffffff",
-      "settings_tiles": "fff06292",
-      "systemui": "fff06292",
-      "systemui_off": "ff35374a"
-    },
-    "sku": "free",
-    "contents": [
-      {
-        "name": "file",
-        "size": 73283
-      },
-      {
-        "name": "home_wallpaper_0.jpg",
-        "size": 186346
-      },
-      {
-        "name": "icons",
-        "size": 876732
-      },
-      {
-        "name": "phone",
-        "size": 203827
-      },
-      {
-        "name": "preview_icons_0.jpg",
-        "size": 20840
-      }
-    ]
-  }
-]
+{
+  "themes": [
+    {
+      "theme_name": "Android 12",
+      "theme_base": "light",
+      "folder_name": "androidtwelve",
+      "category": [0, 2, 6, 4],
+      "colors": {
+        "accent": "ff1a73e9",
+        "actionbar": "fff0f0ee",
+        "background": "fff0f0ee",
+        "cal_bg": "fff0f0ee",
+        "cal_date": "ff1a73e9",
+        "calculator": "ff1a73e9",
+        "dialenums": "ff1a73e9",
+        "dialer": "ff1a73e9",
+        "dialpad": "fff0f0ee",
+        "folder": "fff0f0ee",
+        "nots_bg": "fff0f0ee",
+        "optimizer": "ff1a73e9",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff1a73e9",
+        "settings": "ff1a73e9",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff1a73e9",
+        "systemui": "ff1a73e9",
+        "systemui_off": "fff0f0ee"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 424117
+        },
+        {
+          "name": "icons",
+          "size": 402892
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 69066
+        },
+        {
+          "name": "set",
+          "size": 255905
+        }
+      ]
+    },
+    {
+      "theme_name": "Android 12 Dark",
+      "theme_base": "dark",
+      "folder_name": "androidtwelvedark",
+      "category": [0, 1, 6, 4],
+      "colors": {
+        "accent": "ff89b4f8",
+        "actionbar": "ff303030",
+        "background": "ff303030",
+        "cal_bg": "ff303030",
+        "cal_date": "ff89b4f8",
+        "calculator": "ff89b4f8",
+        "dialenums": "ff89b4f8",
+        "dialer": "ff89b4f8",
+        "dialpad": "ff303030",
+        "folder": "ff303030",
+        "nots_bg": "ff303030",
+        "optimizer": "ff89b4f8",
+        "optimizer_icons": "ff303030",
+        "optimizer_tiles": "ff89b4f8",
+        "settings": "ff89b4f8",
+        "settings_icons": "ff303030",
+        "settings_tiles": "ff89b4f8",
+        "systemui": "ff89b4f8",
+        "systemui_off": "ff303030"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 483556
+        },
+        {
+          "name": "icons",
+          "size": 402892
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 70684
+        },
+        {
+          "name": "set",
+          "size": 324077
+        }
+      ]
+    },
+    {
+      "theme_name": "Batman",
+      "theme_base": "dark",
+      "folder_name": "batman",
+      "category": [0, 1, 3],
+      "colors": {
+        "accent": "ffFEC107",
+        "actionbar": "ff353535",
+        "background": "ff202020",
+        "cal_bg": "ff202020",
+        "cal_date": "ffFEC107",
+        "calculator": "ffFEC107",
+        "dialenums": "ffFEC107",
+        "dialer": "ffFEC107",
+        "dialpad": "ff303030",
+        "folder": "ff202020",
+        "nots_bg": "ff353535",
+        "optimizer": "ffFEC107",
+        "optimizer_icons": "ff202020",
+        "optimizer_tiles": "ffFEC107",
+        "settings": "ffFEC107",
+        "settings_icons": "ff202020",
+        "settings_tiles": "ffFEC107",
+        "systemui": "ffFEC107",
+        "systemui_off": "ff303030"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 359918
+        },
+        {
+          "name": "icons",
+          "size": 275203
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 33334
+        }
+      ]
+    },
+    {
+      "theme_name": "Coffee Time",
+      "theme_base": "dark",
+      "folder_name": "coffetime",
+      "category": [0, 1, 5],
+      "colors": {
+        "accent": "ffaa7c4d",
+        "actionbar": "ff362E2A",
+        "background": "ff2B2420",
+        "cal_bg": "ff2B2420",
+        "cal_date": "ffaa7c4d",
+        "calculator": "ffaa7c4d",
+        "dialenums": "ffaa7c4d",
+        "dialer": "ffaa7c4d",
+        "dialpad": "ff362E2A",
+        "folder": "ff2B2420",
+        "nots_bg": "ff362E2A",
+        "optimizer": "ffaa7c4d",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ffaa7c4d",
+        "settings": "ffaa7c4d",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ffaa7c4d",
+        "systemui": "ffaa7c4d",
+        "systemui_off": "ff362E2A"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "files",
+          "size": 49195
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 418772
+        },
+        {
+          "name": "icons",
+          "size": 359667
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 85530
+        }
+      ]
+    },
+    {
+      "theme_name": "ColorOS 13",
+      "theme_base": "light",
+      "folder_name": "colorostherteen",
+      "category": [0, 2, 4, 5],
+      "colors": {
+        "accent": "ff2e40ea",
+        "actionbar": "fff5f5f5",
+        "background": "ffffffff",
+        "cal_bg": "ffffffff",
+        "cal_date": "ff000000",
+        "calculator": "ff2e40ea",
+        "dialenums": "ff000000",
+        "dialer": "ff2e40ea",
+        "dialpad": "ffffffff",
+        "folder": "ffffffff",
+        "nots_bg": "ffffffff",
+        "optimizer": "ff2e40ea",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff2e40ea",
+        "settings": "ff2e40ea",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff2e40ea",
+        "systemui": "ff2e40ea",
+        "systemui_off": "ffffffff"
+      },
+      "sku": "coloros13",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 491876
+        },
+        {
+          "name": "icons",
+          "size": 665069
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 59170
+        },
+        {
+          "name": "set",
+          "size": 348002
+        }
+      ]
+    },
+    {
+      "theme_name": "ColorOS 13 Dark",
+      "theme_base": "dark",
+      "folder_name": "colorostherteendark",
+      "category": [0, 1, 6],
+      "colors": {
+        "accent": "ff5867ee",
+        "actionbar": "ff202020",
+        "background": "ff010101",
+        "cal_bg": "ff010101",
+        "cal_date": "ffffffff",
+        "calculator": "ff5867ee",
+        "dialenums": "ffffffff",
+        "dialer": "ff5867ee",
+        "dialpad": "ff010101",
+        "folder": "ffffffff",
+        "nots_bg": "ff010101",
+        "optimizer": "ff5867ee",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff5867ee",
+        "settings": "ff5867ee",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff5867ee",
+        "systemui": "ff5867ee",
+        "systemui_off": "ffffffff"
+      },
+      "sku": "coloros13",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 530071
+        },
+        {
+          "name": "icons",
+          "size": 665069
+        },
+        {
+          "name": "phone",
+          "size": 50582
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 55512
+        },
+        {
+          "name": "set",
+          "size": 348002
+        }
+      ]
+    },
+    {
+      "theme_name": "ColorOS Material",
+      "theme_base": "light",
+      "folder_name": "colorosmaterial",
+      "category": [0, 2, 6],
+      "colors": {
+        "accent": "ff2ad181",
+        "actionbar": "fffafafa",
+        "background": "ffffffff",
+        "cal_bg": "ffffffff",
+        "cal_date": "ff2ad181",
+        "calculator": "ff2accd1",
+        "dialenums": "ff2ad181",
+        "dialer": "ff2ad181",
+        "dialpad": "fffafafa",
+        "folder": "ffffffff",
+        "nots_bg": "fffafafa",
+        "optimizer": "ff2ad181",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff2ad181",
+        "settings": "ff2ad181",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff2ad181",
+        "systemui": "ff2ad181",
+        "systemui_off": "fffafafa"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 2150716
+        },
+        {
+          "name": "icons",
+          "size": 451413
+        },
+        {
+          "name": "phone",
+          "size": 50131
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 40682
+        },
+        {
+          "name": "set",
+          "size": 198111
+        }
+      ]
+    },
+    {
+      "theme_name": "ColorOS Material Dark",
+      "theme_base": "dark",
+      "folder_name": "colorosmaterialdark",
+      "category": [0, 1, 6, 4],
+      "colors": {
+        "accent": "ff2ad181",
+        "actionbar": "ff252525",
+        "background": "ff212121",
+        "cal_bg": "ff212121",
+        "cal_date": "ff2ad181",
+        "calculator": "ff2accd1",
+        "dialenums": "ff2ad181",
+        "dialer": "ff2ad181",
+        "dialpad": "ff252525",
+        "folder": "ff212121",
+        "nots_bg": "ff252525",
+        "optimizer": "ff2ad181",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff2ad181",
+        "settings": "ff2ad181",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff2ad181",
+        "systemui": "ff2ad181",
+        "systemui_off": "ff252525"
+      },
+      "sku": "coloros",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 1023171
+        },
+        {
+          "name": "icons",
+          "size": 451413
+        },
+        {
+          "name": "phone",
+          "size": 50582
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 41243
+        },
+        {
+          "name": "set",
+          "size": 198111
+        }
+      ]
+    },
+    {
+      "theme_name": "Cyberpunk 2077",
+      "theme_base": "dark",
+      "folder_name": "cyberpunk",
+      "category": [0, 1, 3],
+      "colors": {
+        "accent": "ff00bcd4",
+        "actionbar": "ff181818",
+        "background": "ff151515",
+        "cal_bg": "ff151515",
+        "cal_date": "ff00bcd4",
+        "calculator": "ff00bcd4",
+        "dialenums": "ff00bcd4",
+        "dialer": "ff00bcd4",
+        "dialpad": "ff181818",
+        "folder": "ff151515",
+        "nots_bg": "ff181818",
+        "optimizer": "ff00bcd4",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff00bcd4",
+        "settings": "ff00bcd4",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff00bcd4",
+        "systemui": "ff00bcd4",
+        "systemui_off": "ff181818"
+      },
+      "sku": "cyberpunk",
+      "contents": [
+        {
+          "name": "file",
+          "size": 122250
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 497159
+        },
+        {
+          "name": "icons",
+          "size": 411329
+        },
+        {
+          "name": "phone",
+          "size": 30676
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 75897
+        },
+        {
+          "name": "set",
+          "size": 458912
+        }
+      ]
+    },
+    {
+      "theme_name": "Cyberpunk 2077 Black",
+      "theme_base": "dark",
+      "folder_name": "cyberpunkblack",
+      "category": [0, 1, 3],
+      "colors": {
+        "accent": "ff00bcd4",
+        "actionbar": "ff050505",
+        "background": "ff010101",
+        "cal_bg": "ff010101",
+        "cal_date": "ff00bcd4",
+        "calculator": "ff00bcd4",
+        "dialenums": "ff00bcd4",
+        "dialer": "ff00bcd4",
+        "dialpad": "ff050505",
+        "folder": "ff010101",
+        "nots_bg": "ff050505",
+        "optimizer": "ff00bcd4",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff00bcd4",
+        "settings": "ff00bcd4",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff00bcd4",
+        "systemui": "ff00bcd4",
+        "systemui_off": "ff050505"
+      },
+      "sku": "cyberpunk",
+      "contents": [
+        {
+          "name": "file",
+          "size": 122250
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 216349
+        },
+        {
+          "name": "icons",
+          "size": 410345
+        },
+        {
+          "name": "phone",
+          "size": 30207
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 75827
+        },
+        {
+          "name": "set",
+          "size": 457727
+        }
+      ]
+    },
+    {
+      "theme_name": "Delight",
+      "theme_base": "light",
+      "folder_name": "delighted",
+      "category": [0, 2],
+      "colors": {
+        "accent": "ffFB4656",
+        "actionbar": "fff2f3f5",
+        "background": "fff2f3f5",
+        "cal_bg": "fff2f3f5",
+        "cal_date": "ffFB4656",
+        "calculator": "ffFB4656",
+        "dialenums": "ffFB4656",
+        "dialer": "ffFB4656",
+        "dialpad": "fff2f3f5",
+        "folder": "fff2f3f5",
+        "nots_bg": "fff2f3f5",
+        "optimizer": "ffFB4656",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ffFB4656",
+        "settings": "ffFB4656",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ffFB4656",
+        "systemui": "ffFB4656",
+        "systemui_off": "fff2f3f5"
+      },
+      "sku": "delight",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 49491
+        },
+        {
+          "name": "icons",
+          "size": 722120
+        },
+        {
+          "name": "phone",
+          "size": 414950
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 63083
+        },
+        {
+          "name": "set",
+          "size": 463102
+        }
+      ]
+    },
+    {
+      "theme_name": "Delight Dark",
+      "theme_base": "dark",
+      "folder_name": "delightdark",
+      "category": [0, 1],
+      "colors": {
+        "accent": "ffFF4954",
+        "actionbar": "ff242833",
+        "background": "ff242833",
+        "cal_bg": "ff242833",
+        "cal_date": "ffFF4954",
+        "calculator": "ffFF4954",
+        "dialenums": "ffFF4954",
+        "dialer": "ffFF4954",
+        "dialpad": "ff242833",
+        "folder": "ff242833",
+        "nots_bg": "ff242833",
+        "optimizer": "ffFF4954",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ffFF4954",
+        "settings": "ffFF4954",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ffFF4954",
+        "systemui": "ffFF4954",
+        "systemui_off": "ff242833"
+      },
+      "sku": "delight",
+      "contents": [
+        {
+          "name": "file",
+          "size": 152340
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 173319
+        },
+        {
+          "name": "icons",
+          "size": 677001
+        },
+        {
+          "name": "phone",
+          "size": 281659
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 49707
+        },
+        {
+          "name": "set",
+          "size": 381004
+        }
+      ]
+    },
+    {
+      "theme_name": "EMUI Vivid",
+      "theme_base": "dark",
+      "folder_name": "emuivivid",
+      "category": [0, 1, 6],
+      "colors": {
+        "accent": "ffEFA219",
+        "actionbar": "ff3E3D4B",
+        "background": "ff2E2D3B",
+        "cal_bg": "ff2E2D3B",
+        "cal_date": "ffEFA219",
+        "calculator": "ffEFA219",
+        "dialenums": "ff37EDAE",
+        "dialer": "ff37EDAE",
+        "dialpad": "ff3E3D4B",
+        "folder": "ff2E2D3B",
+        "nots_bg": "ff3E3D4B",
+        "optimizer": "ff37EDAE",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff37EDAE",
+        "settings": "ffEF6568",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ffEF6568",
+        "systemui": "ffEFA219",
+        "systemui_off": "ff3E3D4B"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 576028
+        },
+        {
+          "name": "icons",
+          "size": 474743
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 109138
+        }
+      ]
+    },
+    {
+      "theme_name": "Frosted",
+      "theme_base": "light",
+      "folder_name": "frosted",
+      "category": [0, 2],
+      "colors": {
+        "accent": "ff21B3F5",
+        "actionbar": "ffffffff",
+        "background": "ffffffff",
+        "cal_bg": "ffffffff",
+        "cal_date": "ff21B3F5",
+        "calculator": "ff21B3F5",
+        "dialenums": "ff21B3F5",
+        "dialer": "ff21B3F5",
+        "dialpad": "ffffffff",
+        "folder": "ffffffff",
+        "nots_bg": "ffffffff",
+        "optimizer": "ff21B3F5",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff21B3F5",
+        "settings": "ff21B3F5",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff21B3F5",
+        "systemui": "ff21B3F5",
+        "systemui_off": "ffffffff"
+      },
+      "sku": "frosted",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 307814
+        },
+        {
+          "name": "icons",
+          "size": 556157
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 84754
+        },
+        {
+          "name": "set",
+          "size": 386800
+        }
+      ]
+    },
+    {
+      "theme_name": "Grey One",
+      "theme_base": "dark",
+      "folder_name": "greyone",
+      "category": [0, 1, 3],
+      "colors": {
+        "accent": "ff95969a",
+        "actionbar": "ff35363a",
+        "background": "ff202124",
+        "cal_bg": "ff202124",
+        "cal_date": "ff95969a",
+        "calculator": "ff95969a",
+        "dialenums": "ff95969a",
+        "dialer": "ff95969a",
+        "dialpad": "ff35363a",
+        "folder": "ff202124",
+        "nots_bg": "ff35363a",
+        "optimizer": "ff95969a",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff95969a",
+        "settings": "ff95969a",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff35363a",
+        "systemui": "ff95969a",
+        "systemui_off": "ff35363a"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "file",
+          "size": 49190
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 387748
+        },
+        {
+          "name": "icons",
+          "size": 372112
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 73460
+        }
+      ]
+    },
+    {
+      "theme_name": "Harmony OS Dark",
+      "theme_base": "dark",
+      "folder_name": "harmonyosdark",
+      "category": [0, 1, 6],
+      "colors": {
+        "accent": "ff7986cc",
+        "actionbar": "ff21212e",
+        "background": "ff21212e",
+        "cal_bg": "ff21212e",
+        "cal_date": "ff7986cc",
+        "calculator": "ff7986cc",
+        "dialenums": "ff7986cc",
+        "dialer": "ff7986cc",
+        "dialpad": "ff21212e",
+        "folder": "ff21212e",
+        "nots_bg": "ff21212e",
+        "optimizer": "ff7986cc",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff7986cc",
+        "settings": "ff7986cc",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff7986cc",
+        "systemui": "ff7986cc",
+        "systemui_off": "ff21212e"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 312451
+        },
+        {
+          "name": "icons",
+          "size": 849744
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 32833
+        }
+      ]
+    },
+    {
+      "theme_name": "Hello Summer",
+      "theme_base": "dark",
+      "folder_name": "hellosummer",
+      "category": [0, 2, 6],
+      "colors": {
+        "accent": "ff00bfa5",
+        "actionbar": "ffefefeb",
+        "background": "fffbfbf7",
+        "cal_bg": "ffffffff",
+        "cal_date": "ff00bfa5",
+        "calculator": "ff00bfa5",
+        "dialenums": "ff000000",
+        "dialer": "ff00bfa5",
+        "dialpad": "fff9f9f5",
+        "folder": "ffffffff",
+        "nots_bg": "fffbfbf7",
+        "optimizer": "ff00bfa5",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff00bfa5",
+        "settings": "ff00bfa5",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff00bfa5",
+        "systemui": "ff00bfa5",
+        "systemui_off": "fffbfbf7"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "file",
+          "size": 46603
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 1409729
+        },
+        {
+          "name": "icons",
+          "size": 423503
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 203577
+        },
+        {
+          "name": "set_col",
+          "size": 320259
+        }
+      ]
+    },
+    {
+      "theme_name": "HotRed Alternative",
+      "theme_base": "dark",
+      "folder_name": "hotredalternative",
+      "category": [0, 1],
+      "colors": {
+        "accent": "ffea3447",
+        "actionbar": "ff151515",
+        "background": "ff101010",
+        "cal_bg": "ff101010",
+        "cal_date": "ffea3447",
+        "calculator": "ffea3447",
+        "dialenums": "ffea3447",
+        "dialer": "ffea3447",
+        "dialpad": "ff151515",
+        "folder": "ff101010",
+        "nots_bg": "ff151515",
+        "optimizer": "ffea3447",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ffea3447",
+        "settings": "ffea3447",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ffea3447",
+        "systemui": "ffea3447",
+        "systemui_off": "ff151515"
+      },
+      "sku": "coloros",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 451183
+        },
+        {
+          "name": "icons",
+          "size": 520817
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 56310
+        },
+        {
+          "name": "set_col",
+          "size": 192829
+        }
+      ]
+    },
+    {
+      "theme_name": "HotRed ColorOS",
+      "theme_base": "dark",
+      "folder_name": "hotredcoloros",
+      "category": [0, 1],
+      "colors": {
+        "accent": "ffea3447",
+        "actionbar": "ff151515",
+        "background": "ff101010",
+        "cal_bg": "ff101010",
+        "cal_date": "ffea3447",
+        "calculator": "ffea3447",
+        "dialenums": "ffea3447",
+        "dialer": "ffea3447",
+        "dialpad": "ff151515",
+        "folder": "ff101010",
+        "nots_bg": "ff151515",
+        "optimizer": "ffea3447",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ffea3447",
+        "settings": "ffea3447",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ffea3447",
+        "systemui": "ffea3447",
+        "systemui_off": "ff151515"
+      },
+      "sku": "coloros",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 451183
+        },
+        {
+          "name": "icons",
+          "size": 312392
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 56310
+        },
+        {
+          "name": "set_col",
+          "size": 194452
+        }
+      ]
+    },
+    {
+      "theme_name": "Lovely Sunset",
+      "theme_base": "dark",
+      "folder_name": "lovelysunset",
+      "category": [0, 1, 5],
+      "colors": {
+        "accent": "ffe3cba7",
+        "actionbar": "ff4c4d47",
+        "background": "ff4c4d47",
+        "cal_bg": "ff4c4d47",
+        "cal_date": "ffe3cba7",
+        "calculator": "ffe3cba7",
+        "dialenums": "ffe3cba7",
+        "dialer": "ffe3cba7",
+        "dialpad": "ff4c4d47",
+        "folder": "ff4c4d47",
+        "nots_bg": "ff4c4d47",
+        "optimizer": "ffe3cba7",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ffe3cba7",
+        "settings": "ffe3cba7",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ffe3cba7",
+        "systemui": "ffe3cba7",
+        "systemui_off": "ff4c4d47"
+      },
+      "sku": "lovely",
+      "contents": [
+        {
+          "name": "file",
+          "size": 100247
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 714886
+        },
+        {
+          "name": "icons",
+          "size": 652845
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 97423
+        },
+        {
+          "name": "set",
+          "size": 90125
+        }
+      ]
+    },
+    {
+      "theme_name": "MD Special",
+      "theme_base": "dark",
+      "folder_name": "mdspecial",
+      "category": [0, 1],
+      "colors": {
+        "accent": "ff3ddc84",
+        "actionbar": "ff313140",
+        "background": "ff22222c",
+        "cal_bg": "ff22222c",
+        "cal_date": "ff3ddc84",
+        "calculator": "ff3ddc84",
+        "dialenums": "ff3ddc84",
+        "dialer": "ff3ddc84",
+        "dialpad": "ff252530",
+        "folder": "ff22222c",
+        "nots_bg": "ff313140",
+        "optimizer": "ff3ddc84",
+        "optimizer_icons": "ff22222c",
+        "optimizer_tiles": "ff3ddc84",
+        "settings": "ff3ddc84",
+        "settings_icons": "ff22222c",
+        "settings_tiles": "ff3ddc84",
+        "systemui": "ff3ddc84",
+        "systemui_off": "ff252530"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 231806
+        },
+        {
+          "name": "icons",
+          "size": 591931
+        },
+        {
+          "name": "phone",
+          "size": 89387
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 23951
+        }
+      ]
+    },
+    {
+      "theme_name": "MINI Retro (Round)",
+      "theme_base": "dark",
+      "folder_name": "miniretroround",
+      "category": [0, 1, 4],
+      "colors": {
+        "accent": "ffe2765c",
+        "actionbar": "ff414141",
+        "background": "ff303030",
+        "cal_bg": "ff303030",
+        "cal_date": "ffe2765c",
+        "calculator": "ffe2765c",
+        "dialenums": "ffe2765c",
+        "dialer": "ffe2765c",
+        "dialpad": "ff383838",
+        "folder": "ff303030",
+        "nots_bg": "ff414141",
+        "optimizer": "ffe2765c",
+        "optimizer_icons": "ff414141",
+        "optimizer_tiles": "ffe2765c",
+        "settings": "ffe2765c",
+        "settings_icons": "ff414141",
+        "settings_tiles": "ffe2765c",
+        "systemui": "ffe2765c",
+        "systemui_off": "ff383838"
+      },
+      "sku": "miniretro",
+      "contents": [
+        {
+          "name": "file",
+          "size": 52092
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 236118
+        },
+        {
+          "name": "icons",
+          "size": 231507
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 37650
+        }
+      ]
+    },
+    {
+      "theme_name": "MINI Retro (Square)",
+      "theme_base": "dark",
+      "folder_name": "miniretrosquare",
+      "category": [0, 1, 4],
+      "colors": {
+        "accent": "ffe2765c",
+        "actionbar": "ff414141",
+        "background": "ff303030",
+        "cal_bg": "ff303030",
+        "cal_date": "ffe2765c",
+        "calculator": "ffe2765c",
+        "dialenums": "ffe2765c",
+        "dialer": "ffe2765c",
+        "dialpad": "ff383838",
+        "folder": "ff303030",
+        "nots_bg": "ff414141",
+        "optimizer": "ffe2765c",
+        "optimizer_icons": "ff414141",
+        "optimizer_tiles": "ffe2765c",
+        "settings": "ffe2765c",
+        "settings_icons": "ff414141",
+        "settings_tiles": "ffe2765c",
+        "systemui": "ffe2765c",
+        "systemui_off": "ff383838"
+      },
+      "sku": "miniretro",
+      "contents": [
+        {
+          "name": "file",
+          "size": 52092
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 236118
+        },
+        {
+          "name": "icons",
+          "size": 103085
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 37650
+        }
+      ]
+    },
+    {
+      "theme_name": "MIUI 13",
+      "theme_base": "light",
+      "folder_name": "miuitherteen",
+      "category": [0, 2, 6],
+      "colors": {
+        "accent": "ff458aff",
+        "actionbar": "fffafafa",
+        "background": "ffffffff",
+        "cal_bg": "ffffffff",
+        "cal_date": "ff458aff",
+        "calculator": "ffffcc00",
+        "dialenums": "ff458aff",
+        "dialer": "ff458aff",
+        "dialpad": "ffffffff",
+        "folder": "ffffffff",
+        "nots_bg": "ffffffff",
+        "optimizer": "ff00cc83",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff00cc83",
+        "settings": "ff458aff",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff458aff",
+        "systemui": "ff458aff",
+        "systemui_off": "ffffffff"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 421545
+        },
+        {
+          "name": "icons",
+          "size": 206538
+        },
+        {
+          "name": "phone",
+          "size": 39193
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 68392
+        },
+        {
+          "name": "set",
+          "size": 110849
+        }
+      ]
+    },
+    {
+      "theme_name": "MIUI 13 Dark",
+      "theme_base": "dark",
+      "folder_name": "miuitherteendark",
+      "category": [0, 1, 6],
+      "colors": {
+        "accent": "ff9a9ab0",
+        "actionbar": "ff1f1f28",
+        "background": "ff16161d",
+        "cal_bg": "ff16161d",
+        "cal_date": "ffffffff",
+        "calculator": "ff9a9ab0",
+        "dialenums": "ff9a9ab0",
+        "dialer": "ff9a9ab0",
+        "dialpad": "ff1f1f28",
+        "folder": "ff16161d",
+        "nots_bg": "ff16161d",
+        "optimizer": "ff9a9ab0",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff9a9ab0",
+        "settings": "ff9a9ab0",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff9a9ab0",
+        "systemui": "ff9a9ab0",
+        "systemui_off": "ffffffff"
+      },
+      "sku": "miui13",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 439419
+        },
+        {
+          "name": "icons",
+          "size": 556400
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 71514
+        },
+        {
+          "name": "set_col",
+          "size": 130173
+        }
+      ]
+    },
+    {
+      "theme_name": "MaterialYou Green",
+      "theme_base": "light",
+      "folder_name": "materialyougreen",
+      "category": [0, 2, 4],
+      "colors": {
+        "accent": "ffa2b176",
+        "actionbar": "ffe1e8c9",
+        "background": "ffebf0da",
+        "cal_bg": "ffebf0da",
+        "cal_date": "ffa2b176",
+        "calculator": "ffa2b176",
+        "dialenums": "ffa2b176",
+        "dialer": "ffa2b176",
+        "dialpad": "ffebf0da",
+        "folder": "ffebf0da",
+        "nots_bg": "ffebf0da",
+        "optimizer": "ffa2b176",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ffa2b176",
+        "settings": "ffa2b176",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ffa2b176",
+        "systemui": "ffa2b176",
+        "systemui_off": "ffebf0da"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 463840
+        },
+        {
+          "name": "icons",
+          "size": 438087
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 59102
+        },
+        {
+          "name": "set",
+          "size": 160884
+        }
+      ]
+    },
+    {
+      "theme_name": "MaterialYou Orange",
+      "theme_base": "light",
+      "folder_name": "materialyouorange",
+      "category": [0, 2, 4],
+      "colors": {
+        "accent": "ffd39355",
+        "actionbar": "fffad9b6",
+        "background": "fffce6cf",
+        "cal_bg": "fffce6cf",
+        "cal_date": "ffd39355",
+        "calculator": "ffd39355",
+        "dialenums": "ffd39355",
+        "dialer": "ffd39355",
+        "dialpad": "fffce6cf",
+        "folder": "fffce6cf",
+        "nots_bg": "fffce6cf",
+        "optimizer": "ffd39355",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ffd39355",
+        "settings": "ffd39355",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ffd39355",
+        "systemui": "ffd39355",
+        "systemui_off": "fffce6cf"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 441230
+        },
+        {
+          "name": "icons",
+          "size": 434000
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 54503
+        },
+        {
+          "name": "set",
+          "size": 159173
+        }
+      ]
+    },
+    {
+      "theme_name": "Modern",
+      "theme_base": "light",
+      "folder_name": "modern",
+      "category": [0, 2],
+      "colors": {
+        "accent": "ff212121",
+        "actionbar": "ffffffff",
+        "background": "ffffffff",
+        "cal_bg": "ffffffff",
+        "cal_date": "ff212121",
+        "calculator": "ff212121",
+        "dialenums": "ff212121",
+        "dialer": "ff212121",
+        "dialpad": "ffffffff",
+        "folder": "ffffffff",
+        "nots_bg": "ffffffff",
+        "optimizer": "ff212121",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff212121",
+        "settings": "ff212121",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff212121",
+        "systemui": "ff212121",
+        "systemui_off": "ffffffff"
+      },
+      "sku": "modern",
+      "contents": [
+        {
+          "name": "file",
+          "size": 18572
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 180224
+        },
+        {
+          "name": "icons",
+          "size": 346974
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 58557
+        },
+        {
+          "name": "set",
+          "size": 38850
+        }
+      ]
+    },
+    {
+      "theme_name": "Modern Dark",
+      "theme_base": "dark",
+      "folder_name": "moderndark",
+      "category": [0, 1],
+      "colors": {
+        "accent": "ffababab",
+        "actionbar": "ff252525",
+        "background": "ff212121",
+        "cal_bg": "ff212121",
+        "cal_date": "ffababab",
+        "calculator": "ffababab",
+        "dialenums": "ffababab",
+        "dialer": "ffababab",
+        "dialpad": "ff252525",
+        "folder": "ff212121",
+        "nots_bg": "ff252525",
+        "optimizer": "ffffffff",
+        "optimizer_icons": "ff212121",
+        "optimizer_tiles": "ffffffff",
+        "settings": "ffffffff",
+        "settings_icons": "ff212121",
+        "settings_tiles": "ffffffff",
+        "systemui": "ffffffff",
+        "systemui_off": "ff252525"
+      },
+      "sku": "modern",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 56553
+        },
+        {
+          "name": "icons",
+          "size": 518619
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 29545
+        },
+        {
+          "name": "set",
+          "size": 37873
+        }
+      ]
+    },
+    {
+      "theme_name": "MorphOS BW",
+      "theme_base": "dark",
+      "folder_name": "morphosdarkbw",
+      "category": [0, 1],
+      "colors": {
+        "accent": "ffa0a0a0",
+        "actionbar": "ff414141",
+        "background": "ff303030",
+        "cal_bg": "ff303030",
+        "cal_date": "ffa0a0a0",
+        "calculator": "ffa0a0a0",
+        "dialenums": "ffa0a0a0",
+        "dialer": "ffa0a0a0",
+        "dialpad": "ff353535",
+        "folder": "ff303030",
+        "nots_bg": "ff414141",
+        "optimizer": "ffa0a0a0",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ffa0a0a0",
+        "settings": "ffa0a0a0",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ffa0a0a0",
+        "systemui": "ffa0a0a0",
+        "systemui_off": "ff353535"
+      },
+      "sku": "morphos_simple",
+      "contents": [
+        {
+          "name": "file",
+          "size": 107722
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 523698
+        },
+        {
+          "name": "icons",
+          "size": 693000
+        },
+        {
+          "name": "phone",
+          "size": 138708
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 57233
+        },
+        {
+          "name": "set",
+          "size": 252237
+        }
+      ]
+    },
+    {
+      "theme_name": "MorphOS Colorful",
+      "theme_base": "dark",
+      "folder_name": "morphosdarkcolorful",
+      "category": [0, 1],
+      "colors": {
+        "accent": "ff42a5f5",
+        "actionbar": "ff414141",
+        "background": "ff303030",
+        "cal_bg": "ff303030",
+        "cal_date": "ff42a5f5",
+        "calculator": "ffff9800",
+        "dialenums": "ff00c853",
+        "dialer": "ff00c853",
+        "dialpad": "ff353535",
+        "folder": "ff303030",
+        "nots_bg": "ff414141",
+        "optimizer": "ff7986cb",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff7986cb",
+        "settings": "ff42a5f5",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff42a5f5",
+        "systemui": "ff42a5f5",
+        "systemui_off": "ff353535"
+      },
+      "sku": "morphos_simple",
+      "contents": [
+        {
+          "name": "file",
+          "size": 117472
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 538074
+        },
+        {
+          "name": "icons",
+          "size": 542846
+        },
+        {
+          "name": "phone",
+          "size": 138708
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 65477
+        },
+        {
+          "name": "set",
+          "size": 226293
+        }
+      ]
+    },
+    {
+      "theme_name": "MorphOS Light BW",
+      "theme_base": "light",
+      "folder_name": "morphosbw",
+      "category": [0, 2],
+      "colors": {
+        "accent": "ffa0a0a0",
+        "actionbar": "fff7f7f7",
+        "background": "ffffffff",
+        "cal_bg": "ffffffff",
+        "cal_date": "ffa0a0a0",
+        "calculator": "ff404040",
+        "dialenums": "ff404040",
+        "dialer": "ff404040",
+        "dialpad": "fff7f7f7",
+        "folder": "ffffffff",
+        "nots_bg": "fff7f7f7",
+        "optimizer": "ffa0a0a0",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ffa0a0a0",
+        "settings": "ffa0a0a0",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ffa0a0a0",
+        "systemui": "ff404040",
+        "systemui_off": "fff7f7f7"
+      },
+      "sku": "morphos_light",
+      "contents": [
+        {
+          "name": "file",
+          "size": 87193
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 181054
+        },
+        {
+          "name": "icons",
+          "size": 764389
+        },
+        {
+          "name": "phone",
+          "size": 133566
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 67873
+        },
+        {
+          "name": "set",
+          "size": 245542
+        }
+      ]
+    },
+    {
+      "theme_name": "MorphOS Light Colorful",
+      "theme_base": "light",
+      "folder_name": "morphoscolorful",
+      "category": [0, 2],
+      "colors": {
+        "accent": "ff42a5f5",
+        "actionbar": "fff7f7f7",
+        "background": "ffffff",
+        "cal_bg": "ffffff",
+        "cal_date": "ff42a5f5",
+        "calculator": "ffff9800",
+        "dialenums": "ff00c853",
+        "dialer": "ff00c853",
+        "dialpad": "fff7f7f7",
+        "folder": "ffffff",
+        "nots_bg": "fff7f7f7",
+        "optimizer": "ff5c6bc0",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff5c6bc0",
+        "settings": "ff42a5f5",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff42a5f5",
+        "systemui": "ff42a5f5",
+        "systemui_off": "fff7f7f7"
+      },
+      "sku": "morphos_light",
+      "contents": [
+        {
+          "name": "file",
+          "size": 105568
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 252469
+        },
+        {
+          "name": "icons",
+          "size": 901628
+        },
+        {
+          "name": "phone",
+          "size": 133566
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 59829
+        },
+        {
+          "name": "set",
+          "size": 215034
+        }
+      ]
+    },
+    {
+      "theme_name": "NEU",
+      "theme_base": "light",
+      "folder_name": "neu",
+      "category": [0, 2],
+      "colors": {
+        "accent": "ff989b9d",
+        "actionbar": "ffdee2e5",
+        "background": "ffecf0f3",
+        "cal_bg": "ffecf0f3",
+        "cal_date": "ff989b9d",
+        "calculator": "ff989b9d",
+        "dialenums": "ff989b9d",
+        "dialer": "ff989b9d",
+        "dialpad": "ffecf0f3",
+        "folder": "ffecf0f3",
+        "nots_bg": "ffdee2e5",
+        "optimizer": "ff989b9d",
+        "optimizer_icons": "ffecf0f3",
+        "optimizer_tiles": "ff989b9d",
+        "settings": "ff989b9d",
+        "settings_icons": "ffecf0f3",
+        "settings_tiles": "ff989b9d",
+        "systemui": "ff989b9d",
+        "systemui_off": "ffecf0f3"
+      },
+      "sku": "theme_neu",
+      "contents": [
+        {
+          "name": "file",
+          "size": 136823
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 58912
+        },
+        {
+          "name": "icons",
+          "size": 353914
+        },
+        {
+          "name": "phone",
+          "size": 407497
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 15733
+        }
+      ]
+    },
+    {
+      "theme_name": "NEU Dark",
+      "theme_base": "dark",
+      "folder_name": "neudark",
+      "category": [0, 1],
+      "colors": {
+        "accent": "ff78909c",
+        "actionbar": "ff2b363c",
+        "background": "ff1a2225",
+        "cal_bg": "ff1a2225",
+        "cal_date": "ff78909c",
+        "calculator": "ff78909c",
+        "dialenums": "ff78909c",
+        "dialer": "ff78909c",
+        "dialpad": "ff1a2225",
+        "folder": "ff1a2225",
+        "nots_bg": "ff2b363c",
+        "optimizer": "ff78909c",
+        "optimizer_icons": "ff1a2225",
+        "optimizer_tiles": "ff78909c",
+        "settings": "ff78909c",
+        "settings_icons": "ff1a2225",
+        "settings_tiles": "ff78909c",
+        "systemui": "ff78909c",
+        "systemui_off": "ff1a2225"
+      },
+      "sku": "theme_neu",
+      "contents": [
+        {
+          "name": "file",
+          "size": 123658
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 63128
+        },
+        {
+          "name": "icons",
+          "size": 414746
+        },
+        {
+          "name": "phone",
+          "size": 329950
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 15206
+        }
+      ]
+    },
+    {
+      "theme_name": "NEU iOS",
+      "theme_base": "light",
+      "folder_name": "neuios",
+      "category": [0, 2],
+      "colors": {
+        "accent": "ff15e3a6",
+        "actionbar": "ffefefef",
+        "background": "ffefefef",
+        "cal_bg": "ffefefef",
+        "cal_date": "ff15e3a6",
+        "calculator": "ff15e3a6",
+        "dialenums": "ff15e3a6",
+        "dialer": "ff15e3a6",
+        "dialpad": "ffefefef",
+        "folder": "ffefefef",
+        "nots_bg": "ffefefef",
+        "optimizer": "ff15e3a6",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff15e3a6",
+        "settings": "ff15e3a6",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff15e3a6",
+        "systemui": "ff15e3a6",
+        "systemui_off": "ffefefef"
+      },
+      "sku": "neu_ios",
+      "contents": [
+        {
+          "name": "file",
+          "size": 100971
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 393443
+        },
+        {
+          "name": "icons",
+          "size": 718560
+        },
+        {
+          "name": "phone",
+          "size": 406636
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 24047
+        }
+      ]
+    },
+    {
+      "theme_name": "NEU iOS Dark",
+      "theme_base": "dark",
+      "folder_name": "neuiosdark",
+      "category": [0, 1],
+      "colors": {
+        "accent": "ff15e3a6",
+        "actionbar": "ff101010",
+        "background": "ff101010",
+        "cal_bg": "ff101010",
+        "cal_date": "ff15e3a6",
+        "calculator": "ff15e3a6",
+        "dialenums": "ff15e3a6",
+        "dialer": "ff15e3a6",
+        "dialpad": "ff101010",
+        "folder": "ff101010",
+        "nots_bg": "ff101010",
+        "optimizer": "ff15e3a6",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff15e3a6",
+        "settings": "ff15e3a6",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff15e3a6",
+        "systemui": "ff15e3a6",
+        "systemui_off": "ff101010"
+      },
+      "sku": "neu_ios",
+      "contents": [
+        {
+          "name": "file",
+          "size": 120122
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 395058
+        },
+        {
+          "name": "icons",
+          "size": 734008
+        },
+        {
+          "name": "phone",
+          "size": 448626
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 23813
+        }
+      ]
+    },
+    {
+      "theme_name": "NeuOS",
+      "theme_base": "light",
+      "folder_name": "neu_os",
+      "category": [0, 2],
+      "colors": {
+        "accent": "ff1AD3BF",
+        "actionbar": "ffffffff",
+        "background": "ffffffff",
+        "cal_bg": "ffffffff",
+        "cal_date": "ff1AD3BF",
+        "calculator": "ff1AD3BF",
+        "dialenums": "ff02a1f9",
+        "dialer": "ff02a1f9",
+        "dialpad": "ffffffff",
+        "folder": "ffffffff",
+        "nots_bg": "ffffffff",
+        "optimizer": "ff1AD3BF",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff1AD3BF",
+        "settings": "ff1AD3BF",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff1AD3BF",
+        "systemui": "ff1AD3BF",
+        "systemui_off": "ffffffff"
+      },
+      "sku": "neuos",
+      "contents": [
+        {
+          "name": "file",
+          "size": 114812
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 738648
+        },
+        {
+          "name": "icons",
+          "size": 1446119
+        },
+        {
+          "name": "phone",
+          "size": 162141
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 91520
+        }
+      ]
+    },
+    {
+      "theme_name": "NeuOS Dark",
+      "theme_base": "dark",
+      "folder_name": "neu_osdark",
+      "category": [0, 1],
+      "colors": {
+        "accent": "ff1AD3BF",
+        "actionbar": "ff353535",
+        "background": "ff151515",
+        "cal_bg": "ff151515",
+        "cal_date": "ff1AD3BF",
+        "calculator": "ff1AD3BF",
+        "dialenums": "ff1AD3BF",
+        "dialer": "ff1AD3BF",
+        "dialpad": "ff202020",
+        "folder": "ff151515",
+        "nots_bg": "ff353535",
+        "optimizer": "ff1AD3BF",
+        "optimizer_icons": "ff202020",
+        "optimizer_tiles": "ff1AD3BF",
+        "settings": "ff1AD3BF",
+        "settings_icons": "ff151515",
+        "settings_tiles": "ff1AD3BF",
+        "systemui": "ff1AD3BF",
+        "systemui_off": "ff202020"
+      },
+      "sku": "neuos",
+      "contents": [
+        {
+          "name": "file",
+          "size": 114812
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 597302
+        },
+        {
+          "name": "icons",
+          "size": 1520069
+        },
+        {
+          "name": "phone",
+          "size": 162141
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 192576
+        }
+      ]
+    },
+    {
+      "theme_name": "OUTLAWS",
+      "theme_base": "dark",
+      "folder_name": "outlaws",
+      "category": [0, 1, 3],
+      "colors": {
+        "accent": "ffcc0204",
+        "actionbar": "ff0f0f0f",
+        "background": "ff0f0f0f",
+        "cal_bg": "ff0f0f0f",
+        "cal_date": "ffcc0204",
+        "calculator": "ffcc0204",
+        "dialenums": "ffcc0204",
+        "dialer": "ffcc0204",
+        "dialpad": "ff0f0f0f",
+        "folder": "ff0f0f0f",
+        "nots_bg": "ff0f0f0f",
+        "optimizer": "ffcc0204",
+        "optimizer_icons": "ff0f0f0f",
+        "optimizer_tiles": "ffcc0204",
+        "settings": "ffcc0204",
+        "settings_icons": "ff0f0f0f",
+        "settings_tiles": "ffcc0204",
+        "systemui": "ffcc0204",
+        "systemui_off": "ff0f0f0f"
+      },
+      "sku": "outlaws",
+      "contents": [
+        {
+          "name": "file",
+          "size": 51482
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 347239
+        },
+        {
+          "name": "icons",
+          "size": 163820
+        },
+        {
+          "name": "phone",
+          "size": 86371
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 184858
+        }
+      ]
+    },
+    {
+      "theme_name": "One UI 3",
+      "theme_base": "light",
+      "folder_name": "oneuithree",
+      "category": [0, 2, 6],
+      "colors": {
+        "accent": "ff2e65f3",
+        "actionbar": "fff2f2f2",
+        "background": "ffffff",
+        "cal_bg": "ffffff",
+        "cal_date": "ff2e65f3",
+        "calculator": "ff2e65f3",
+        "dialenums": "ff15b76c",
+        "dialer": "ff15b76c",
+        "dialpad": "ffffff",
+        "folder": "ffffff",
+        "nots_bg": "fff2f2f2",
+        "optimizer": "ff2e65f3",
+        "optimizer_icons": "ffffff",
+        "optimizer_tiles": "ff2e65f3",
+        "settings": "ff2e65f3",
+        "settings_icons": "ffffff",
+        "settings_tiles": "ff2e65f3",
+        "systemui": "ff2e65f3",
+        "systemui_off": "ffffff"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 612163
+        },
+        {
+          "name": "icons",
+          "size": 338635
+        },
+        {
+          "name": "phone",
+          "size": 50131
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 63039
+        },
+        {
+          "name": "set",
+          "size": 87749
+        }
+      ]
+    },
+    {
+      "theme_name": "One UI 3 Dark",
+      "theme_base": "dark",
+      "folder_name": "oneuthreedark",
+      "category": [0, 1, 6],
+      "colors": {
+        "accent": "ff2e65f3",
+        "actionbar": "ff171717",
+        "background": "ff101010",
+        "cal_bg": "ff101010",
+        "cal_date": "ff2e65f3",
+        "calculator": "ffffc107",
+        "dialenums": "ff15b76c",
+        "dialer": "ff15b76c",
+        "dialpad": "ff171717",
+        "folder": "ff101010",
+        "nots_bg": "ff171717",
+        "optimizer": "ff2e65f3",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff2e65f3",
+        "settings": "ff2e65f3",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff2e65f3",
+        "systemui": "ff2e65f3",
+        "systemui_off": "ff171717"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 1046138
+        },
+        {
+          "name": "icons",
+          "size": 338635
+        },
+        {
+          "name": "phone",
+          "size": 50582
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 77287
+        },
+        {
+          "name": "set",
+          "size": 87749
+        }
+      ]
+    },
+    {
+      "theme_name": "OxygenOS 13",
+      "theme_base": "light",
+      "folder_name": "oxygenostherteen",
+      "category": [0, 2, 4, 5],
+      "colors": {
+        "accent": "ff2e8cfe",
+        "actionbar": "fff5f5f5",
+        "background": "ffffffff",
+        "cal_bg": "ffffffff",
+        "cal_date": "ff000000",
+        "calculator": "ff2e8cfe",
+        "dialenums": "ff000000",
+        "dialer": "ff2e8cfe",
+        "dialpad": "ffffffff",
+        "folder": "ffffffff",
+        "nots_bg": "ffffffff",
+        "optimizer": "ff2e8cfe",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff2e8cfe",
+        "settings": "ff2e8cfe",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff2e8cfe",
+        "systemui": "ff2e8cfe",
+        "systemui_off": "ffffffff"
+      },
+      "sku": "oxygenos13",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 88399
+        },
+        {
+          "name": "icons",
+          "size": 665863
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 50405
+        },
+        {
+          "name": "set",
+          "size": 311992
+        }
+      ]
+    },
+    {
+      "theme_name": "OxygenOS 13 Dark",
+      "theme_base": "dark",
+      "folder_name": "oxygenostherteendark",
+      "category": [0, 1, 6],
+      "colors": {
+        "accent": "ff29a84d",
+        "actionbar": "ff202020",
+        "background": "ff010101",
+        "cal_bg": "ff010101",
+        "cal_date": "ffffffff",
+        "calculator": "ff29a84d",
+        "dialenums": "ffffffff",
+        "dialer": "ff29a84d",
+        "dialpad": "ff010101",
+        "folder": "ffffffff",
+        "nots_bg": "ff010101",
+        "optimizer": "ff29a84d",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff5867ee",
+        "settings": "ff29a84d",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff29a84d",
+        "systemui": "ff29a84d",
+        "systemui_off": "ffffffff"
+      },
+      "sku": "oxygenos13",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 88399
+        },
+        {
+          "name": "icons",
+          "size": 665863
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 49526
+        },
+        {
+          "name": "set",
+          "size": 311992
+        }
+      ]
+    },
+    {
+      "theme_name": "POCO Dark",
+      "theme_base": "dark",
+      "folder_name": "pocodark",
+      "category": [0, 1, 6, 4],
+      "colors": {
+        "accent": "ff0c84ff",
+        "actionbar": "ff202020",
+        "background": "ff151515",
+        "cal_bg": "ff151515",
+        "cal_date": "ff0c84ff",
+        "calculator": "ff0c84ff",
+        "dialenums": "ff0c84ff",
+        "dialer": "ff0c84ff",
+        "dialpad": "ff202020",
+        "folder": "ff151515",
+        "nots_bg": "ff202020",
+        "optimizer": "ff0c84ff",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff0c84ff",
+        "settings": "ff0c84ff",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff0c84ff",
+        "systemui": "ff0c84ff",
+        "systemui_off": "ff202020"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 983170
+        },
+        {
+          "name": "icons",
+          "size": 751375
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 45427
+        },
+        {
+          "name": "set",
+          "size": 131838
+        }
+      ]
+    },
+    {
+      "theme_name": "Pure AOSP",
+      "theme_base": "light",
+      "folder_name": "pureaosp",
+      "category": [0, 2, 6, 4],
+      "colors": {
+        "accent": "ff009688",
+        "actionbar": "ffffffff",
+        "background": "ffffffff",
+        "cal_bg": "ffffffff",
+        "cal_date": "ff009688",
+        "calculator": "ff009688",
+        "dialenums": "ff009688",
+        "dialer": "ff009688",
+        "dialpad": "ffffffff",
+        "folder": "ffffffff",
+        "nots_bg": "ffffffff",
+        "optimizer": "ff009688",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff009688",
+        "settings": "ff009688",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff009688",
+        "systemui": "ff009688",
+        "systemui_off": "ffffffff"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 286354
+        },
+        {
+          "name": "icons",
+          "size": 738210
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 158258
+        }
+      ]
+    },
+    {
+      "theme_name": "Pure AOSP Dark",
+      "theme_base": "dark",
+      "folder_name": "pureaospdark",
+      "category": [0, 1, 6, 4],
+      "colors": {
+        "accent": "ff80cbc4",
+        "actionbar": "ff353535",
+        "background": "ff202020",
+        "cal_bg": "ff202020",
+        "cal_date": "ff80cbc4",
+        "calculator": "ff80cbc4",
+        "dialenums": "ff80cbc4",
+        "dialer": "ff80cbc4",
+        "dialpad": "ff303030",
+        "folder": "ff202020",
+        "nots_bg": "ff353535",
+        "optimizer": "ff80cbc4",
+        "optimizer_icons": "ff202020",
+        "optimizer_tiles": "ff80cbc4",
+        "settings": "ff80cbc4",
+        "settings_icons": "ff202020",
+        "settings_tiles": "ff80cbc4",
+        "systemui": "ff80cbc4",
+        "systemui_off": "ff303030"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 286354
+        },
+        {
+          "name": "icons",
+          "size": 738210
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 163501
+        }
+      ]
+    },
+    {
+      "theme_name": "Pure Pixel",
+      "theme_base": "light",
+      "folder_name": "purepixel",
+      "category": [0, 2, 6, 4],
+      "colors": {
+        "accent": "ff4285f6",
+        "actionbar": "ffffffff",
+        "background": "ffffffff",
+        "cal_bg": "ffffffff",
+        "cal_date": "ff4285f6",
+        "calculator": "ff4285f6",
+        "dialenums": "ff4285f6",
+        "dialer": "ff4285f6",
+        "dialpad": "ffffffff",
+        "folder": "ffffffff",
+        "nots_bg": "ffffffff",
+        "optimizer": "ff4285f6",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff4285f6",
+        "settings": "ff4285f6",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff4285f6",
+        "systemui": "ff4285f6",
+        "systemui_off": "ffffffff"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 235356
+        },
+        {
+          "name": "icons",
+          "size": 733116
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 161512
+        }
+      ]
+    },
+    {
+      "theme_name": "Pure Pixel Dark",
+      "theme_base": "dark",
+      "folder_name": "purepixeldark",
+      "category": [0, 1, 6, 4],
+      "colors": {
+        "accent": "ff8ab4f8",
+        "actionbar": "ff35363a",
+        "background": "ff202124",
+        "cal_bg": "ff202124",
+        "cal_date": "ff8ab4f8",
+        "calculator": "ff8ab4f8",
+        "dialenums": "ff8ab4f8",
+        "dialer": "ff8ab4f8",
+        "dialpad": "ff35363a",
+        "folder": "ff202124",
+        "nots_bg": "ff35363a",
+        "optimizer": "ff8ab4f8",
+        "optimizer_icons": "ff202124",
+        "optimizer_tiles": "ff8ab4f8",
+        "settings": "ff8ab4f8",
+        "settings_icons": "ff202124",
+        "settings_tiles": "ff8ab4f8",
+        "systemui": "ff8ab4f8",
+        "systemui_off": "ff35363a"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 235356
+        },
+        {
+          "name": "icons",
+          "size": 733116
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 160389
+        }
+      ]
+    },
+    {
+      "theme_name": "Starry",
+      "theme_base": "dark",
+      "folder_name": "starry",
+      "category": [0, 1, 4],
+      "colors": {
+        "accent": "ff7986cb",
+        "actionbar": "ff11162a",
+        "background": "ff11162a",
+        "cal_bg": "ff11162a",
+        "cal_date": "ff7986cb",
+        "calculator": "ff7986cb",
+        "dialenums": "ff7986cb",
+        "dialer": "ff7986cb",
+        "dialpad": "ff11162a",
+        "folder": "ff11162a",
+        "nots_bg": "ff11162a",
+        "optimizer": "ff7986cb",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff7986cb",
+        "settings": "ff7986cb",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff7986cb",
+        "systemui": "ff7986cb",
+        "systemui_off": "ff11162a"
+      },
+      "sku": "starry",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 1364420
+        },
+        {
+          "name": "icons",
+          "size": 294014
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 73430
+        },
+        {
+          "name": "set",
+          "size": 81966
+        }
+      ]
+    },
+    {
+      "theme_name": "Hello Future",
+      "theme_base": "dark",
+      "folder_name": "hellofuture",
+      "category": [0, 2, 6],
+      "colors": {
+        "accent": "ff458aff",
+        "actionbar": "ffffffff",
+        "background": "ffffffff",
+        "cal_bg": "ffffffff",
+        "cal_date": "ff458aff",
+        "calculator": "ffffcc00",
+        "dialenums": "ff458aff",
+        "dialer": "ff458aff",
+        "dialpad": "ffffffff",
+        "folder": "ffffffff",
+        "nots_bg": "ffffffff",
+        "optimizer": "ff00cc83",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff00cc83",
+        "settings": "ff458aff",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff458aff",
+        "systemui": "ff458aff",
+        "systemui_off": "ffffffff"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 212135
+        },
+        {
+          "name": "icons",
+          "size": 501632
+        },
+        {
+          "name": "phone",
+          "size": 39193
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 27095
+        }
+      ]
+    },
+    {
+      "theme_name": "WatchDogs",
+      "theme_base": "dark",
+      "folder_name": "watchdogs",
+      "category": [0, 1, 3],
+      "colors": {
+        "accent": "ff00bcd4",
+        "actionbar": "ff050505",
+        "background": "ff010101",
+        "cal_bg": "ff010101",
+        "cal_date": "ff00bcd4",
+        "calculator": "ff00bcd4",
+        "dialenums": "ff00bcd4",
+        "dialer": "ff00bcd4",
+        "dialpad": "ff050505",
+        "folder": "ff010101",
+        "nots_bg": "ff050505",
+        "optimizer": "ff00bcd4",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff00bcd4",
+        "settings": "ff00bcd4",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff00bcd4",
+        "systemui": "ff00bcd4",
+        "systemui_off": "ff050505"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "file",
+          "size": 144748
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 442444
+        },
+        {
+          "name": "icons",
+          "size": 157906
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 75352
+        },
+        {
+          "name": "set",
+          "size": 188668
+        }
+      ]
+    },
+    {
+      "theme_name": "Windows 11",
+      "theme_base": "light",
+      "folder_name": "windowseleven",
+      "category": [0, 2, 6],
+      "colors": {
+        "accent": "ff2196f3",
+        "actionbar": "fff5f5f5",
+        "background": "ffffffff",
+        "cal_bg": "ffffffff",
+        "cal_date": "ff2196f3",
+        "calculator": "ff2196f3",
+        "dialenums": "ff000000",
+        "dialer": "ff2196f3",
+        "dialpad": "fff5f5f5",
+        "folder": "ffffffff",
+        "nots_bg": "fff5f5f5",
+        "optimizer": "ff2196f3",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff2196f3",
+        "settings": "ff2196f3",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff2196f3",
+        "systemui": "ff2196f3",
+        "systemui_off": "fff5f5f5"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "file",
+          "size": 88070
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 634078
+        },
+        {
+          "name": "icons",
+          "size": 447266
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 64599
+        },
+        {
+          "name": "set",
+          "size": 312577
+        }
+      ]
+    },
+    {
+      "theme_name": "Windows 11 Dark",
+      "theme_base": "dark",
+      "folder_name": "windowselevendark",
+      "category": [0, 1, 6],
+      "colors": {
+        "accent": "ff2196f3",
+        "actionbar": "ff051225",
+        "background": "ff030b1a",
+        "cal_bg": "ff030b1a",
+        "cal_date": "ff2196f3",
+        "calculator": "ff2196f3",
+        "dialenums": "ffffffff",
+        "dialer": "ff2196f3",
+        "dialpad": "ff051225",
+        "folder": "ff030b1a",
+        "nots_bg": "ff051225",
+        "optimizer": "ff2196f3",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff2196f3",
+        "settings": "ff2196f3",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff2196f3",
+        "systemui": "ff2196f3",
+        "systemui_off": "ff051225"
+      },
+      "sku": "win11",
+      "contents": [
+        {
+          "name": "file",
+          "size": 88070
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 587447
+        },
+        {
+          "name": "icons",
+          "size": 447266
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 64028
+        },
+        {
+          "name": "set",
+          "size": 312577
+        }
+      ]
+    },
+    {
+      "theme_name": "XONE",
+      "theme_base": "dark",
+      "folder_name": "xone",
+      "category": [0, 1, 5],
+      "colors": {
+        "accent": "ffFF80AB",
+        "actionbar": "ff2D2833",
+        "background": "ff211D25",
+        "cal_bg": "ff211D25",
+        "cal_date": "ffFF80AB",
+        "calculator": "ffFF80AB",
+        "dialenums": "ffFF80AB",
+        "dialer": "ffFF80AB",
+        "dialpad": "ff2D2833",
+        "folder": "ff211D25",
+        "nots_bg": "ff2D2833",
+        "optimizer": "ffFF80AB",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ffFF80AB",
+        "settings": "ffFF80AB",
+        "settings_icons": "ffFFFFFF",
+        "settings_tiles": "ffFF80AB",
+        "systemui": "ffFF80AB",
+        "systemui_off": "ff2D2833"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 693645
+        },
+        {
+          "name": "icons",
+          "size": 414416
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 79557
+        },
+        {
+          "name": "set",
+          "size": 140564
+        }
+      ]
+    },
+    {
+      "theme_name": "XP Dark",
+      "theme_base": "dark",
+      "folder_name": "xpdark",
+      "category": [0, 1, 6],
+      "colors": {
+        "accent": "ffff6200",
+        "actionbar": "ff1f1f1f",
+        "background": "ff1a1a1a",
+        "cal_bg": "ff1a1a1a",
+        "cal_date": "ffffffff",
+        "calculator": "ffff6200",
+        "dialenums": "ffffffff",
+        "dialer": "ffff6200",
+        "dialpad": "ff1f1f1f",
+        "folder": "ff1a1a1a",
+        "nots_bg": "ff1a1a1a",
+        "optimizer": "ffff6200",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ffff6200",
+        "settings": "ffff6200",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ffff6200",
+        "systemui": "ffff6200",
+        "systemui_off": "ffffffff"
+      },
+      "sku": "xperia",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 137613
+        },
+        {
+          "name": "icons",
+          "size": 1150370
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 60038
+        },
+        {
+          "name": "set",
+          "size": 300062
+        }
+      ]
+    },
+    {
+      "theme_name": "XP Light",
+      "theme_base": "light",
+      "folder_name": "xp",
+      "category": [0, 2, 4, 5],
+      "colors": {
+        "accent": "ff8f5de5",
+        "actionbar": "fffcfcfc",
+        "background": "ffffffff",
+        "cal_bg": "ffffffff",
+        "cal_date": "ff000000",
+        "calculator": "ff8f5de5",
+        "dialenums": "ff000000",
+        "dialer": "ff8f5de5",
+        "dialpad": "fffcfcfc",
+        "folder": "ffffffff",
+        "nots_bg": "ffffffff",
+        "optimizer": "ff8f5de5",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff8f5de5",
+        "settings": "ff8f5de5",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff8f5de5",
+        "systemui": "ff8f5de5",
+        "systemui_off": "ffffffff"
+      },
+      "sku": "xperia",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 124211
+        },
+        {
+          "name": "icons",
+          "size": 350025
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 65721
+        },
+        {
+          "name": "set",
+          "size": 356185
+        }
+      ]
+    },
+    {
+      "theme_name": "iCandy",
+      "theme_base": "light",
+      "folder_name": "icandy",
+      "category": [0, 2, 5],
+      "colors": {
+        "accent": "fffd5492",
+        "actionbar": "ffffdeea",
+        "background": "ffffeef4",
+        "cal_bg": "ffffeef4",
+        "cal_date": "fffd5492",
+        "calculator": "fffd5492",
+        "dialenums": "fffd5492",
+        "dialer": "fffd5492",
+        "dialpad": "ffffe6ef",
+        "folder": "ffffeef4",
+        "nots_bg": "ffffdeea",
+        "optimizer": "fffd5492",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "fffd5492",
+        "settings": "fffd5492",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "fffd5492",
+        "systemui": "fffd5492",
+        "systemui_off": "ffffe6ef"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "file",
+          "size": 114812
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 438474
+        },
+        {
+          "name": "icons",
+          "size": 450260
+        },
+        {
+          "name": "mod",
+          "size": 3138
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 67066
+        }
+      ]
+    },
+    {
+      "theme_name": "iMono",
+      "theme_base": "dark",
+      "folder_name": "imono",
+      "category": [0, 1],
+      "colors": {
+        "accent": "ff909090",
+        "actionbar": "ff191919",
+        "background": "ff101010",
+        "cal_bg": "ff101010",
+        "cal_date": "ff909090",
+        "calculator": "ff909090",
+        "dialenums": "ff909090",
+        "dialer": "ff909090",
+        "dialpad": "ff141414",
+        "folder": "ff101010",
+        "nots_bg": "ff191919",
+        "optimizer": "ff909090",
+        "optimizer_icons": "ff191919",
+        "optimizer_tiles": "ff909090",
+        "settings": "ff909090",
+        "settings_icons": "ff191919",
+        "settings_tiles": "ff909090",
+        "systemui": "ff909090",
+        "systemui_off": "ff141414"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "file",
+          "size": 43627
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 255130
+        },
+        {
+          "name": "icons",
+          "size": 479546
+        },
+        {
+          "name": "phone",
+          "size": 93295
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 58983
+        }
+      ]
+    },
+    {
+      "theme_name": "iOS 14",
+      "theme_base": "light",
+      "folder_name": "iosfourteen",
+      "category": [0, 2, 6],
+      "colors": {
+        "accent": "ff147efb",
+        "actionbar": "ffffffff",
+        "background": "ffffffff",
+        "cal_bg": "ffffffff",
+        "cal_date": "ff147efb",
+        "calculator": "fff19b38",
+        "dialenums": "ff147efb",
+        "dialer": "ff147efb",
+        "dialpad": "ffffffff",
+        "folder": "ffffffff",
+        "nots_bg": "ffffffff",
+        "optimizer": "ff147efb",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff147efb",
+        "settings": "ff147efb",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff147efb",
+        "systemui": "ff147efb",
+        "systemui_off": "ffffffff"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "file",
+          "size": 114812
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 253703
+        },
+        {
+          "name": "icons",
+          "size": 432950
+        },
+        {
+          "name": "phone",
+          "size": 92209
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 71288
+        }
+      ]
+    },
+    {
+      "theme_name": "iOS 14 Dark",
+      "theme_base": "dark",
+      "folder_name": "iosfourteendark",
+      "category": [0, 1, 6],
+      "colors": {
+        "accent": "ff147efb",
+        "actionbar": "ff282a31",
+        "background": "ff1c1f26",
+        "cal_bg": "ff1c1f26",
+        "cal_date": "ff147efb",
+        "calculator": "ff147efb",
+        "dialenums": "ff147efb",
+        "dialer": "ff147efb",
+        "dialpad": "ff20232a",
+        "folder": "ff1c1f26",
+        "nots_bg": "ff282a31",
+        "optimizer": "ff147efb",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff147efb",
+        "settings": "ff147efb",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff147efb",
+        "systemui": "ff147efb",
+        "systemui_off": "ff20232a"
+      },
+      "sku": "ios14",
+      "contents": [
+        {
+          "name": "file",
+          "size": 114812
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 289344
+        },
+        {
+          "name": "icons",
+          "size": 655976
+        },
+        {
+          "name": "phone",
+          "size": 93295
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 61680
+        }
+      ]
+    },
+    {
+      "theme_name": "iOS 14 Dark (Free)",
+      "theme_base": "dark",
+      "folder_name": "iosfourteendarkfree",
+      "category": [0, 1, 6],
+      "colors": {
+        "accent": "ff147efb",
+        "actionbar": "ff282a31",
+        "background": "ff1c1f26",
+        "cal_bg": "ff1c1f26",
+        "cal_date": "ff147efb",
+        "calculator": "ff147efb",
+        "dialenums": "ff147efb",
+        "dialer": "ff147efb",
+        "dialpad": "ff20232a",
+        "folder": "ff1c1f26",
+        "nots_bg": "ff282a31",
+        "optimizer": "ff147efb",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff147efb",
+        "settings": "ff147efb",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff147efb",
+        "systemui": "ff147efb",
+        "systemui_off": "ff20232a"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "file",
+          "size": 114812
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 289344
+        },
+        {
+          "name": "icons",
+          "size": 432950
+        },
+        {
+          "name": "phone",
+          "size": 93295
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 68420
+        }
+      ]
+    },
+    {
+      "theme_name": "iOS Luxury",
+      "theme_base": "dark",
+      "folder_name": "iosluxury",
+      "category": [0, 1],
+      "colors": {
+        "accent": "ffedc56e",
+        "actionbar": "ff4f4f4f",
+        "background": "ff3c3c3c",
+        "cal_bg": "ff3c3c3c",
+        "cal_date": "ffedc56e",
+        "calculator": "ffedc56e",
+        "dialenums": "ffedc56e",
+        "dialer": "ffedc56e",
+        "dialpad": "ff404040",
+        "folder": "ff3c3c3c",
+        "nots_bg": "ff4f4f4f",
+        "optimizer": "ffedc56e",
+        "optimizer_icons": "ff3c3c3c",
+        "optimizer_tiles": "ffedc56e",
+        "settings": "ffedc56e",
+        "settings_icons": "ff3c3c3c",
+        "settings_tiles": "ffedc56e",
+        "systemui": "ffedc56e",
+        "systemui_off": "ff404040"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "file",
+          "size": 46780
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 91565
+        },
+        {
+          "name": "icons",
+          "size": 1073428
+        },
+        {
+          "name": "phone",
+          "size": 91999
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 35121
+        }
+      ]
+    },
+    {
+      "theme_name": "iOS Midnight",
+      "theme_base": "dark",
+      "folder_name": "iosmidnight",
+      "category": [0, 1, 5],
+      "colors": {
+        "accent": "fff06292",
+        "actionbar": "ff484c66",
+        "background": "ff292b3a",
+        "cal_bg": "ff292b3a",
+        "cal_date": "fff06292",
+        "calculator": "fff06292",
+        "dialenums": "fff06292",
+        "dialer": "fff06292",
+        "dialpad": "ff35374a",
+        "folder": "ff292b3a",
+        "nots_bg": "ff484c66",
+        "optimizer": "fff06292",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "fff06292",
+        "settings": "fff06292",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "fff06292",
+        "systemui": "fff06292",
+        "systemui_off": "ff35374a"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "file",
+          "size": 73283
+        },
+        {
+          "name": "home_wallpaper_0.jpg",
+          "size": 186346
+        },
+        {
+          "name": "icons",
+          "size": 876732
+        },
+        {
+          "name": "phone",
+          "size": 203827
+        },
+        {
+          "name": "preview_icons_0.jpg",
+          "size": 20840
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "category": "All",
+      "thumbnail": "cat_all",
+      "cat_num": 0
+    },
+    {
+      "category": "Dark",
+      "thumbnail": "cat_dark",
+      "cat_num": 1
+    },
+    {
+      "category": "Light",
+      "thumbnail": "cat_light",
+      "cat_num": 2
+    },
+    {
+      "category": "Gaming",
+      "thumbnail": "cat_games",
+      "cat_num": 3
+    },
+    {
+      "category": "Nature",
+      "thumbnail": "cat_nature",
+      "cat_num": 4
+    },
+    {
+      "category": "Cute",
+      "thumbnail": "cat_girls",
+      "cat_num": 5
+    },
+    {
+      "category": "Operation Systems",
+      "thumbnail": "cat_os",
+      "cat_num": 6
+    }
+  ]
+}
