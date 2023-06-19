@@ -1,4 +1,5 @@
 {"adaptive":[
+  { "adaptive":true, "_id":"googlify" ,"pro":false},
   { "adaptive":true, "_id":"oneui_five" ,"pro":true},
   { "adaptive":true, "_id":"magic_2" ,"pro":false},
   { "adaptive":true, "_id":"magic" ,"pro":false},
