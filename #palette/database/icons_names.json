@@ -541,6 +541,9 @@
     {
       "name": "mask",
       "packages": ["icon_mask", "icon_pattern"]
+    },    {
+      "name": "icon_border",
+      "packages": ["icon_border"]
     },
     {
       "name": "measure",
