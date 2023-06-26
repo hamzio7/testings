@@ -12,16 +12,16 @@
             ],
             "colors": {
                 "accent": "ff1a73e9",
-                "actionbar": "fff0f0ee",
-                "background": "fff0f0ee",
-                "cal_bg": "fff0f0ee",
+                "actionbar": "fff0f0f3",
+                "background": "fff0f0f3",
+                "cal_bg": "fff0f0f3",
                 "cal_date": "ff1a73e9",
                 "calculator": "ff1a73e9",
                 "dialenums": "ff1a73e9",
                 "dialer": "ff1a73e9",
-                "dialpad": "fff0f0ee",
-                "folder": "fff0f0ee",
-                "nots_bg": "fff0f0ee",
+                "dialpad": "fff0f0f3",
+                "folder": "fff0f0f3",
+                "nots_bg": "fff0f0f3",
                 "optimizer": "ff1a73e9",
                 "optimizer_icons": "ffffffff",
                 "optimizer_tiles": "ff1a73e9",
@@ -29,7 +29,7 @@
                 "settings_icons": "ffffffff",
                 "settings_tiles": "ff1a73e9",
                 "systemui": "ff1a73e9",
-                "systemui_off": "fff0f0ee"
+                "systemui_off": "fff0f0f3"
             },
             "sku": "free",
             "contents": [
