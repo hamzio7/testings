@@ -1,10 +1,68 @@
 {
   "themes": [
     {
+      "theme_name": "Pastel",
+      "theme_base": "light",
+      "folder_name": "pastel",
+      "category": [
+        0,
+        2,
+        6,
+        4
+      ],
+      "colors": {
+        "accent": "ff7da7d9",
+        "actionbar": "fff0f0f3",
+        "background": "fff0f0f3",
+        "cal_bg": "fff0f0f3",
+        "cal_date": "ff7da7d9",
+        "calculator": "ff7da7d9",
+        "dialenums": "ff7da7d9",
+        "dialer": "ff7da7d9",
+        "dialpad": "fff0f0f3",
+        "folder": "fff0f0f3",
+        "nots_bg": "fff0f0f3",
+        "optimizer": "ff7da7d9",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff7da7d9",
+        "settings": "ff7da7d9",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff7da7d9",
+        "systemui": "ff7da7d9",
+        "systemui_off": "fff0f0f3"
+      },
+      "sku": "pastel",
+      "contents": [
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
+      ]
+    },
+    {
       "theme_name": "Android 12",
       "theme_base": "light",
       "folder_name": "androidtwelve",
-      "category": [0, 2, 6, 4],
+      "category": [
+        0,
+        2,
+        6,
+        4
+      ],
       "colors": {
         "accent": "ff1a73e9",
         "actionbar": "fff0f0ee",
@@ -28,17 +86,30 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
       ]
     },
     {
       "theme_name": "Android 12 Dark",
       "theme_base": "dark",
       "folder_name": "androidtwelvedark",
-      "category": [0, 1, 6, 4],
+      "category": [
+        0,
+        1,
+        6,
+        4
+      ],
       "colors": {
         "accent": "ff89b4f8",
         "actionbar": "ff303030",
@@ -62,17 +133,29 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
       ]
     },
     {
       "theme_name": "Batman",
       "theme_base": "dark",
       "folder_name": "batman",
-      "category": [0, 1, 3],
+      "category": [
+        0,
+        1,
+        3
+      ],
       "colors": {
         "accent": "ffFEC107",
         "actionbar": "ff353535",
@@ -96,16 +179,26 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     },
     {
       "theme_name": "Coffee Time",
       "theme_base": "dark",
       "folder_name": "coffetime",
-      "category": [0, 1, 5],
+      "category": [
+        0,
+        1,
+        5
+      ],
       "colors": {
         "accent": "ffaa7c4d",
         "actionbar": "ff362E2A",
@@ -129,17 +222,30 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "files" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "files"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     },
     {
       "theme_name": "ColorOS 13",
       "theme_base": "light",
       "folder_name": "colorostherteen",
-      "category": [0, 2, 4, 5],
+      "category": [
+        0,
+        2,
+        4,
+        5
+      ],
       "colors": {
         "accent": "ff2e40ea",
         "actionbar": "fff5f5f5",
@@ -163,17 +269,29 @@
       },
       "sku": "coloros13",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
       ]
     },
     {
       "theme_name": "ColorOS 13 Dark",
       "theme_base": "dark",
       "folder_name": "colorostherteendark",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff5867ee",
         "actionbar": "ff202020",
@@ -197,18 +315,32 @@
       },
       "sku": "coloros13",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
       ]
     },
     {
       "theme_name": "ColorOS Material",
       "theme_base": "light",
       "folder_name": "colorosmaterial",
-      "category": [0, 2, 6],
+      "category": [
+        0,
+        2,
+        6
+      ],
       "colors": {
         "accent": "ff2ad181",
         "actionbar": "fffafafa",
@@ -232,18 +364,33 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
       ]
     },
     {
       "theme_name": "ColorOS Material Dark",
       "theme_base": "dark",
       "folder_name": "colorosmaterialdark",
-      "category": [0, 1, 6, 4],
+      "category": [
+        0,
+        1,
+        6,
+        4
+      ],
       "colors": {
         "accent": "ff2ad181",
         "actionbar": "ff252525",
@@ -267,18 +414,32 @@
       },
       "sku": "coloros",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
       ]
     },
     {
       "theme_name": "Cyberpunk 2077",
       "theme_base": "dark",
       "folder_name": "cyberpunk",
-      "category": [0, 1, 3],
+      "category": [
+        0,
+        1,
+        3
+      ],
       "colors": {
         "accent": "ff00bcd4",
         "actionbar": "ff181818",
@@ -302,19 +463,35 @@
       },
       "sku": "cyberpunk",
       "contents": [
-        { "name": "file" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set" }
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
       ]
     },
     {
       "theme_name": "Cyberpunk 2077 Black",
       "theme_base": "dark",
       "folder_name": "cyberpunkblack",
-      "category": [0, 1, 3],
+      "category": [
+        0,
+        1,
+        3
+      ],
       "colors": {
         "accent": "ff00bcd4",
         "actionbar": "ff050505",
@@ -338,19 +515,34 @@
       },
       "sku": "cyberpunk",
       "contents": [
-        { "name": "file" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set" }
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
       ]
     },
     {
       "theme_name": "Delight",
       "theme_base": "light",
       "folder_name": "delighted",
-      "category": [0, 2],
+      "category": [
+        0,
+        2
+      ],
       "colors": {
         "accent": "ffFB4656",
         "actionbar": "fff2f3f5",
@@ -374,18 +566,31 @@
       },
       "sku": "delight",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
       ]
     },
     {
       "theme_name": "Delight Dark",
       "theme_base": "dark",
       "folder_name": "delightdark",
-      "category": [0, 1],
+      "category": [
+        0,
+        1
+      ],
       "colors": {
         "accent": "ffFF4954",
         "actionbar": "ff242833",
@@ -409,19 +614,35 @@
       },
       "sku": "delight",
       "contents": [
-        { "name": "file" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set" }
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
       ]
     },
     {
       "theme_name": "EMUI Vivid",
       "theme_base": "dark",
       "folder_name": "emuivivid",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ffEFA219",
         "actionbar": "ff3E3D4B",
@@ -445,16 +666,25 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     },
     {
       "theme_name": "Frosted",
       "theme_base": "light",
       "folder_name": "frosted",
-      "category": [0, 2],
+      "category": [
+        0,
+        2
+      ],
       "colors": {
         "accent": "ff21B3F5",
         "actionbar": "ffffffff",
@@ -478,17 +708,29 @@
       },
       "sku": "frosted",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
       ]
     },
     {
       "theme_name": "Grey One",
       "theme_base": "dark",
       "folder_name": "greyone",
-      "category": [0, 1, 3],
+      "category": [
+        0,
+        1,
+        3
+      ],
       "colors": {
         "accent": "ff95969a",
         "actionbar": "ff35363a",
@@ -512,17 +754,29 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "file" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     },
     {
       "theme_name": "Harmony OS Dark",
       "theme_base": "dark",
       "folder_name": "harmonyosdark",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff7986cc",
         "actionbar": "ff21212e",
@@ -546,16 +800,26 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     },
     {
       "theme_name": "Hello Summer",
       "theme_base": "dark",
       "folder_name": "hellosummer",
-      "category": [0, 2, 6],
+      "category": [
+        0,
+        2,
+        6
+      ],
       "colors": {
         "accent": "ff00bfa5",
         "actionbar": "ffefefeb",
@@ -579,18 +843,31 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "file_col" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set_col" }
+        {
+          "name": "file_col"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set_col"
+        }
       ]
     },
     {
       "theme_name": "HotRed Alternative",
       "theme_base": "dark",
       "folder_name": "hotredalternative",
-      "category": [0, 1],
+      "category": [
+        0,
+        1
+      ],
       "colors": {
         "accent": "ffea3447",
         "actionbar": "ff151515",
@@ -614,17 +891,28 @@
       },
       "sku": "coloros",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set_col" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set_col"
+        }
       ]
     },
     {
       "theme_name": "HotRed ColorOS",
       "theme_base": "dark",
       "folder_name": "hotredcoloros",
-      "category": [0, 1],
+      "category": [
+        0,
+        1
+      ],
       "colors": {
         "accent": "ffea3447",
         "actionbar": "ff151515",
@@ -648,17 +936,29 @@
       },
       "sku": "coloros",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set_col" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set_col"
+        }
       ]
     },
     {
       "theme_name": "Lovely Sunset",
       "theme_base": "dark",
       "folder_name": "lovelysunset",
-      "category": [0, 1, 5],
+      "category": [
+        0,
+        1,
+        5
+      ],
       "colors": {
         "accent": "ffe3cba7",
         "actionbar": "ff4c4d47",
@@ -682,18 +982,31 @@
       },
       "sku": "lovely",
       "contents": [
-        { "name": "file" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set" }
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
       ]
     },
     {
       "theme_name": "MD Special",
       "theme_base": "dark",
       "folder_name": "mdspecial",
-      "category": [0, 1],
+      "category": [
+        0,
+        1
+      ],
       "colors": {
         "accent": "ff3ddc84",
         "actionbar": "ff313140",
@@ -717,17 +1030,29 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     },
     {
       "theme_name": "MINI Retro (Round)",
       "theme_base": "dark",
       "folder_name": "miniretroround",
-      "category": [0, 1, 4],
+      "category": [
+        0,
+        1,
+        4
+      ],
       "colors": {
         "accent": "ffe2765c",
         "actionbar": "ff414141",
@@ -751,17 +1076,29 @@
       },
       "sku": "miniretro",
       "contents": [
-        { "name": "file" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     },
     {
       "theme_name": "MINI Retro (Square)",
       "theme_base": "dark",
       "folder_name": "miniretrosquare",
-      "category": [0, 1, 4],
+      "category": [
+        0,
+        1,
+        4
+      ],
       "colors": {
         "accent": "ffe2765c",
         "actionbar": "ff414141",
@@ -785,17 +1122,29 @@
       },
       "sku": "miniretro",
       "contents": [
-        { "name": "file" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     },
     {
       "theme_name": "MIUI 13",
       "theme_base": "light",
       "folder_name": "miuitherteen",
-      "category": [0, 2, 6],
+      "category": [
+        0,
+        2,
+        6
+      ],
       "colors": {
         "accent": "ff458aff",
         "actionbar": "fffafafa",
@@ -819,18 +1168,32 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
       ]
     },
     {
       "theme_name": "MIUI 13 Dark",
       "theme_base": "dark",
       "folder_name": "miuitherteendark",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff9a9ab0",
         "actionbar": "ff1f1f28",
@@ -854,17 +1217,29 @@
       },
       "sku": "miui13",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set_col" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set_col"
+        }
       ]
     },
     {
       "theme_name": "MaterialYou Green",
       "theme_base": "light",
       "folder_name": "materialyougreen",
-      "category": [0, 2, 4],
+      "category": [
+        0,
+        2,
+        4
+      ],
       "colors": {
         "accent": "ffa2b176",
         "actionbar": "ffe1e8c9",
@@ -888,17 +1263,29 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set_col" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set_col"
+        }
       ]
     },
     {
       "theme_name": "MaterialYou Orange",
       "theme_base": "light",
       "folder_name": "materialyouorange",
-      "category": [0, 2, 4],
+      "category": [
+        0,
+        2,
+        4
+      ],
       "colors": {
         "accent": "ffd39355",
         "actionbar": "fffad9b6",
@@ -922,17 +1309,28 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set_col" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set_col"
+        }
       ]
     },
     {
       "theme_name": "Modern",
       "theme_base": "light",
       "folder_name": "modern",
-      "category": [0, 2],
+      "category": [
+        0,
+        2
+      ],
       "colors": {
         "accent": "ff212121",
         "actionbar": "ffffffff",
@@ -956,18 +1354,31 @@
       },
       "sku": "modern",
       "contents": [
-        { "name": "file_col" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set+col" }
+        {
+          "name": "file_col"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set+col"
+        }
       ]
     },
     {
       "theme_name": "Modern Dark",
       "theme_base": "dark",
       "folder_name": "moderndark",
-      "category": [0, 1],
+      "category": [
+        0,
+        1
+      ],
       "colors": {
         "accent": "ffababab",
         "actionbar": "ff252525",
@@ -991,18 +1402,31 @@
       },
       "sku": "modern",
       "contents": [
-        { "name": "file_col" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set_col" }
+        {
+          "name": "file_col"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set_col"
+        }
       ]
     },
     {
       "theme_name": "MorphOS BW",
       "theme_base": "dark",
       "folder_name": "morphosdarkbw",
-      "category": [0, 1],
+      "category": [
+        0,
+        1
+      ],
       "colors": {
         "accent": "ffa0a0a0",
         "actionbar": "ff414141",
@@ -1026,19 +1450,34 @@
       },
       "sku": "morphos_simple",
       "contents": [
-        { "name": "file" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set" }
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
       ]
     },
     {
       "theme_name": "MorphOS Colorful",
       "theme_base": "dark",
       "folder_name": "morphosdarkcolorful",
-      "category": [0, 1],
+      "category": [
+        0,
+        1
+      ],
       "colors": {
         "accent": "ff42a5f5",
         "actionbar": "ff414141",
@@ -1062,19 +1501,34 @@
       },
       "sku": "morphos_simple",
       "contents": [
-        { "name": "file" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set" }
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
       ]
     },
     {
       "theme_name": "MorphOS Light BW",
       "theme_base": "light",
       "folder_name": "morphosbw",
-      "category": [0, 2],
+      "category": [
+        0,
+        2
+      ],
       "colors": {
         "accent": "ffa0a0a0",
         "actionbar": "fff7f7f7",
@@ -1098,19 +1552,34 @@
       },
       "sku": "morphos_light",
       "contents": [
-        { "name": "file" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set" }
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
       ]
     },
     {
       "theme_name": "MorphOS Light Colorful",
       "theme_base": "light",
       "folder_name": "morphoscolorful",
-      "category": [0, 2],
+      "category": [
+        0,
+        2
+      ],
       "colors": {
         "accent": "ff42a5f5",
         "actionbar": "fff7f7f7",
@@ -1134,19 +1603,34 @@
       },
       "sku": "morphos_light",
       "contents": [
-        { "name": "file" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set" }
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
       ]
     },
     {
       "theme_name": "NEU",
       "theme_base": "light",
       "folder_name": "neu",
-      "category": [0, 2],
+      "category": [
+        0,
+        2
+      ],
       "colors": {
         "accent": "ff989b9d",
         "actionbar": "ffdee2e5",
@@ -1170,18 +1654,31 @@
       },
       "sku": "theme_neu",
       "contents": [
-        { "name": "file" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     },
     {
       "theme_name": "NEU Dark",
       "theme_base": "dark",
       "folder_name": "neudark",
-      "category": [0, 1],
+      "category": [
+        0,
+        1
+      ],
       "colors": {
         "accent": "ff78909c",
         "actionbar": "ff2b363c",
@@ -1205,18 +1702,31 @@
       },
       "sku": "theme_neu",
       "contents": [
-        { "name": "file" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     },
     {
       "theme_name": "NEU iOS",
       "theme_base": "light",
       "folder_name": "neuios",
-      "category": [0, 2],
+      "category": [
+        0,
+        2
+      ],
       "colors": {
         "accent": "ff15e3a6",
         "actionbar": "ffefefef",
@@ -1240,18 +1750,31 @@
       },
       "sku": "neu_ios",
       "contents": [
-        { "name": "file" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     },
     {
       "theme_name": "NEU iOS Dark",
       "theme_base": "dark",
       "folder_name": "neuiosdark",
-      "category": [0, 1],
+      "category": [
+        0,
+        1
+      ],
       "colors": {
         "accent": "ff15e3a6",
         "actionbar": "ff101010",
@@ -1275,18 +1798,31 @@
       },
       "sku": "neu_ios",
       "contents": [
-        { "name": "file" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     },
     {
       "theme_name": "NeuOS",
       "theme_base": "light",
       "folder_name": "neu_os",
-      "category": [0, 2],
+      "category": [
+        0,
+        2
+      ],
       "colors": {
         "accent": "ff1AD3BF",
         "actionbar": "ffffffff",
@@ -1310,18 +1846,31 @@
       },
       "sku": "neuos",
       "contents": [
-        { "name": "file" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     },
     {
       "theme_name": "NeuOS Dark",
       "theme_base": "dark",
       "folder_name": "neu_osdark",
-      "category": [0, 1],
+      "category": [
+        0,
+        1
+      ],
       "colors": {
         "accent": "ff1AD3BF",
         "actionbar": "ff353535",
@@ -1345,18 +1894,32 @@
       },
       "sku": "neuos",
       "contents": [
-        { "name": "file" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     },
     {
       "theme_name": "OUTLAWS",
       "theme_base": "dark",
       "folder_name": "outlaws",
-      "category": [0, 1, 3],
+      "category": [
+        0,
+        1,
+        3
+      ],
       "colors": {
         "accent": "ffcc0204",
         "actionbar": "ff0f0f0f",
@@ -1380,18 +1943,32 @@
       },
       "sku": "outlaws",
       "contents": [
-        { "name": "file_col" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "file_col"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     },
     {
       "theme_name": "One UI 3",
       "theme_base": "light",
       "folder_name": "oneuithree",
-      "category": [0, 2, 6],
+      "category": [
+        0,
+        2,
+        6
+      ],
       "colors": {
         "accent": "ff2e65f3",
         "actionbar": "fff2f2f2",
@@ -1415,18 +1992,32 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
       ]
     },
     {
       "theme_name": "One UI 3 Dark",
       "theme_base": "dark",
       "folder_name": "oneuthreedark",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff2e65f3",
         "actionbar": "ff171717",
@@ -1450,18 +2041,33 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
       ]
     },
     {
       "theme_name": "OxygenOS 13",
       "theme_base": "light",
       "folder_name": "oxygenostherteen",
-      "category": [0, 2, 4, 5],
+      "category": [
+        0,
+        2,
+        4,
+        5
+      ],
       "colors": {
         "accent": "ff2e8cfe",
         "actionbar": "fff5f5f5",
@@ -1485,17 +2091,29 @@
       },
       "sku": "oxygenos13",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
       ]
     },
     {
       "theme_name": "OxygenOS 13 Dark",
       "theme_base": "dark",
       "folder_name": "oxygenostherteendark",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff29a84d",
         "actionbar": "ff202020",
@@ -1519,17 +2137,30 @@
       },
       "sku": "oxygenos13",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
       ]
     },
     {
       "theme_name": "POCO Dark",
       "theme_base": "dark",
       "folder_name": "pocodark",
-      "category": [0, 1, 6, 4],
+      "category": [
+        0,
+        1,
+        6,
+        4
+      ],
       "colors": {
         "accent": "ff0c84ff",
         "actionbar": "ff202020",
@@ -1553,17 +2184,30 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
       ]
     },
     {
       "theme_name": "Pure AOSP",
       "theme_base": "light",
       "folder_name": "pureaosp",
-      "category": [0, 2, 6, 4],
+      "category": [
+        0,
+        2,
+        6,
+        4
+      ],
       "colors": {
         "accent": "ff009688",
         "actionbar": "ffffffff",
@@ -1587,16 +2231,27 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     },
     {
       "theme_name": "Pure AOSP Dark",
       "theme_base": "dark",
       "folder_name": "pureaospdark",
-      "category": [0, 1, 6, 4],
+      "category": [
+        0,
+        1,
+        6,
+        4
+      ],
       "colors": {
         "accent": "ff80cbc4",
         "actionbar": "ff353535",
@@ -1620,16 +2275,27 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     },
     {
       "theme_name": "Pure Pixel",
       "theme_base": "light",
       "folder_name": "purepixel",
-      "category": [0, 2, 6, 4],
+      "category": [
+        0,
+        2,
+        6,
+        4
+      ],
       "colors": {
         "accent": "ff4285f6",
         "actionbar": "ffffffff",
@@ -1653,16 +2319,27 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     },
     {
       "theme_name": "Pure Pixel Dark",
       "theme_base": "dark",
       "folder_name": "purepixeldark",
-      "category": [0, 1, 6, 4],
+      "category": [
+        0,
+        1,
+        6,
+        4
+      ],
       "colors": {
         "accent": "ff8ab4f8",
         "actionbar": "ff35363a",
@@ -1686,16 +2363,26 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     },
     {
       "theme_name": "Starry",
       "theme_base": "dark",
       "folder_name": "starry",
-      "category": [0, 1, 4],
+      "category": [
+        0,
+        1,
+        4
+      ],
       "colors": {
         "accent": "ff7986cb",
         "actionbar": "ff11162a",
@@ -1719,17 +2406,29 @@
       },
       "sku": "starry",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
       ]
     },
     {
       "theme_name": "Hello Future",
       "theme_base": "dark",
       "folder_name": "hellofuture",
-      "category": [0, 2, 6],
+      "category": [
+        0,
+        2,
+        6
+      ],
       "colors": {
         "accent": "ff458aff",
         "actionbar": "ffffffff",
@@ -1753,17 +2452,29 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     },
     {
       "theme_name": "WatchDogs",
       "theme_base": "dark",
       "folder_name": "watchdogs",
-      "category": [0, 1, 3],
+      "category": [
+        0,
+        1,
+        3
+      ],
       "colors": {
         "accent": "ff00bcd4",
         "actionbar": "ff050505",
@@ -1787,18 +2498,32 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "file" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set" }
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
       ]
     },
     {
       "theme_name": "Windows 11",
       "theme_base": "light",
       "folder_name": "windowseleven",
-      "category": [0, 2, 6],
+      "category": [
+        0,
+        2,
+        6
+      ],
       "colors": {
         "accent": "ff2196f3",
         "actionbar": "fff5f5f5",
@@ -1822,18 +2547,32 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "file" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set" }
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
       ]
     },
     {
       "theme_name": "Windows 11 Dark",
       "theme_base": "dark",
       "folder_name": "windowselevendark",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff2196f3",
         "actionbar": "ff051225",
@@ -1857,18 +2596,32 @@
       },
       "sku": "win11",
       "contents": [
-        { "name": "file" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set" }
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
       ]
     },
     {
       "theme_name": "XONE",
       "theme_base": "dark",
       "folder_name": "xone",
-      "category": [0, 1, 5],
+      "category": [
+        0,
+        1,
+        5
+      ],
       "colors": {
         "accent": "ffFF80AB",
         "actionbar": "ff2D2833",
@@ -1892,17 +2645,29 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set_col" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set_col"
+        }
       ]
     },
     {
       "theme_name": "XP Dark",
       "theme_base": "dark",
       "folder_name": "xpdark",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ffff6200",
         "actionbar": "ff1f1f1f",
@@ -1926,17 +2691,30 @@
       },
       "sku": "xperia",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set_col" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set_col"
+        }
       ]
     },
     {
       "theme_name": "XP Light",
       "theme_base": "light",
       "folder_name": "xp",
-      "category": [0, 2, 4, 5],
+      "category": [
+        0,
+        2,
+        4,
+        5
+      ],
       "colors": {
         "accent": "ff8f5de5",
         "actionbar": "fffcfcfc",
@@ -1960,17 +2738,29 @@
       },
       "sku": "xperia",
       "contents": [
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "preview_icons_0.jpg" },
-        { "name": "set_col" }
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set_col"
+        }
       ]
     },
     {
       "theme_name": "iCandy",
       "theme_base": "light",
       "folder_name": "icandy",
-      "category": [0, 2, 5],
+      "category": [
+        0,
+        2,
+        5
+      ],
       "colors": {
         "accent": "fffd5492",
         "actionbar": "ffffdeea",
@@ -1994,18 +2784,31 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "file" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "mod" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "mod"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     },
     {
       "theme_name": "iMono",
       "theme_base": "dark",
       "folder_name": "imono",
-      "category": [0, 1],
+      "category": [
+        0,
+        1
+      ],
       "colors": {
         "accent": "ff909090",
         "actionbar": "ff191919",
@@ -2029,18 +2832,32 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "file" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     },
     {
       "theme_name": "iOS 14",
       "theme_base": "light",
       "folder_name": "iosfourteen",
-      "category": [0, 2, 6],
+      "category": [
+        0,
+        2,
+        6
+      ],
       "colors": {
         "accent": "ff147efb",
         "actionbar": "ffffffff",
@@ -2064,18 +2881,32 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "file" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     },
     {
       "theme_name": "iOS 14 Dark",
       "theme_base": "dark",
       "folder_name": "iosfourteendark",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff147efb",
         "actionbar": "ff282a31",
@@ -2099,18 +2930,32 @@
       },
       "sku": "ios14",
       "contents": [
-        { "name": "file" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     },
     {
       "theme_name": "iOS 14 Dark (Free)",
       "theme_base": "dark",
       "folder_name": "iosfourteendarkfree",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff147efb",
         "actionbar": "ff282a31",
@@ -2134,18 +2979,31 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "file" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     },
     {
       "theme_name": "iOS Luxury",
       "theme_base": "dark",
       "folder_name": "iosluxury",
-      "category": [0, 1],
+      "category": [
+        0,
+        1
+      ],
       "colors": {
         "accent": "ffedc56e",
         "actionbar": "ff4f4f4f",
@@ -2169,18 +3027,32 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "file_col" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "file_col"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     },
     {
       "theme_name": "iOS Midnight",
       "theme_base": "dark",
       "folder_name": "iosmidnight",
-      "category": [0, 1, 5],
+      "category": [
+        0,
+        1,
+        5
+      ],
       "colors": {
         "accent": "fff06292",
         "actionbar": "ff484c66",
@@ -2204,21 +3076,59 @@
       },
       "sku": "free",
       "contents": [
-        { "name": "file" },
-        { "name": "home_wallpaper_0.jpg" },
-        { "name": "icons" },
-        { "name": "phone" },
-        { "name": "preview_icons_0.jpg" }
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
       ]
     }
   ],
   "categories": [
-    { "category": "All", "thumbnail": "cat_all", "cat_num": 0 },
-    { "category": "Dark", "thumbnail": "cat_dark", "cat_num": 1 },
-    { "category": "Light", "thumbnail": "cat_light", "cat_num": 2 },
-    { "category": "Gaming", "thumbnail": "cat_games", "cat_num": 3 },
-    { "category": "Nature", "thumbnail": "cat_nature", "cat_num": 4 },
-    { "category": "Cute", "thumbnail": "cat_girls", "cat_num": 5 },
-    { "category": "Operation Systems", "thumbnail": "cat_os", "cat_num": 6 }
+    {
+      "category": "All",
+      "thumbnail": "cat_all",
+      "cat_num": 0
+    },
+    {
+      "category": "Dark",
+      "thumbnail": "cat_dark",
+      "cat_num": 1
+    },
+    {
+      "category": "Light",
+      "thumbnail": "cat_light",
+      "cat_num": 2
+    },
+    {
+      "category": "Gaming",
+      "thumbnail": "cat_games",
+      "cat_num": 3
+    },
+    {
+      "category": "Nature",
+      "thumbnail": "cat_nature",
+      "cat_num": 4
+    },
+    {
+      "category": "Cute",
+      "thumbnail": "cat_girls",
+      "cat_num": 5
+    },
+    {
+      "category": "Operation Systems",
+      "thumbnail": "cat_os",
+      "cat_num": 6
+    }
   ]
 }
