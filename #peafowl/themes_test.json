@@ -1,14 +1,13 @@
 {
     "themes": [
         {
-            "theme_name": "Goku Blue",
+            "theme_name": "Goku Alternative",
             "theme_base": "dark",
             "folder_name": "gokublue",
             "category": [
                 0,
-                2,
-                6,
-                4
+                1,
+                3
             ],
             "colors": {
                 "accent": "ff42dafb",
@@ -53,9 +52,8 @@
             "folder_name": "goku",
             "category": [
                 0,
-                2,
-                6,
-                4
+                1,
+                3
             ],
             "colors": {
                 "accent": "ffff9800",
