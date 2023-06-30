@@ -1,6 +1,98 @@
 {
   "themes": [
     {
+      "theme_name": "Goku Alternative",
+      "theme_base": "dark",
+      "folder_name": "gokublue",
+      "category": [
+        0,
+        1,
+        3
+      ],
+      "colors": {
+        "accent": "ff42dafb",
+        "actionbar": "ff161616",
+        "background": "ff161616",
+        "cal_bg": "ff161616",
+        "cal_date": "ff42dafb",
+        "calculator": "ff42dafb",
+        "dialenums": "ff42dafb",
+        "dialer": "ff42dafb",
+        "dialpad": "ff161616",
+        "folder": "ff161616",
+        "nots_bg": "ff161616",
+        "optimizer": "ff42dafb",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff42dafb",
+        "settings": "ff42dafb",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff42dafb",
+        "systemui": "ff42dafb",
+        "systemui_off": "ff161616"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set_col"
+        }
+      ]
+    },
+    {
+      "theme_name": "Goku",
+      "theme_base": "dark",
+      "folder_name": "goku",
+      "category": [
+        0,
+        1,
+        3
+      ],
+      "colors": {
+        "accent": "ffff9800",
+        "actionbar": "ff161616",
+        "background": "ff161616",
+        "cal_bg": "ff161616",
+        "cal_date": "ffff9800",
+        "calculator": "ffff9800",
+        "dialenums": "ffff9800",
+        "dialer": "ffff9800",
+        "dialpad": "ff161616",
+        "folder": "ff161616",
+        "nots_bg": "ff161616",
+        "optimizer": "ffff9800",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ffff9800",
+        "settings": "ffff9800",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ffff9800",
+        "systemui": "ffff9800",
+        "systemui_off": "ff161616"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set_col"
+        }
+      ]
+    },
+    {
       "theme_name": "Pastel",
       "theme_base": "light",
       "folder_name": "pastel",
