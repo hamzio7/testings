@@ -1,8 +1,8 @@
 {
     "themes": [
         {
-            "theme_name": "Pastel",
-            "theme_base": "light",
+            "theme_name": "Dragon",
+            "theme_base": "dark",
             "folder_name": "dragon",
             "category": [
                 0,
@@ -34,16 +34,10 @@
             "sku": "pastel",
             "contents": [
                 {
-                    "name": "file"
-                },
-                {
                     "name": "home_wallpaper_0.jpg"
                 },
                 {
                     "name": "icons"
-                },
-                {
-                    "name": "phone"
                 },
                 {
                     "name": "preview_icons_0.jpg"
