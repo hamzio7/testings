@@ -1,6 +1,53 @@
 {
     "themes": [
         {
+            "theme_name": "Goku Blue",
+            "theme_base": "dark",
+            "folder_name": "gokublue",
+            "category": [
+                0,
+                2,
+                6,
+                4
+            ],
+            "colors": {
+                "accent": "ff42dafb",
+                "actionbar": "ff161616",
+                "background": "ff161616",
+                "cal_bg": "ff161616",
+                "cal_date": "ff42dafb",
+                "calculator": "ff42dafb",
+                "dialenums": "ff42dafb",
+                "dialer": "ff42dafb",
+                "dialpad": "ff161616",
+                "folder": "ff161616",
+                "nots_bg": "ff161616",
+                "optimizer": "ff42dafb",
+                "optimizer_icons": "ffffffff",
+                "optimizer_tiles": "ff42dafb",
+                "settings": "ff42dafb",
+                "settings_icons": "ffffffff",
+                "settings_tiles": "ff42dafb",
+                "systemui": "ff42dafb",
+                "systemui_off": "ff161616"
+            },
+            "sku": "free",
+            "contents": [
+                {
+                    "name": "home_wallpaper_0.jpg"
+                },
+                {
+                    "name": "icons"
+                },
+                {
+                    "name": "preview_icons_0.jpg"
+                },
+                {
+                    "name": "set_col"
+                }
+            ]
+        },
+        {
             "theme_name": "Goku",
             "theme_base": "dark",
             "folder_name": "goku",
