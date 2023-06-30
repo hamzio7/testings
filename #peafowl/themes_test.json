@@ -3,6 +3,59 @@
         {
             "theme_name": "Pastel",
             "theme_base": "light",
+            "folder_name": "dragon",
+            "category": [
+                0,
+                2,
+                6,
+                4
+            ],
+            "colors": {
+                "accent": "ffff9800",
+                "actionbar": "fff0f0f3",
+                "background": "fff0f0f3",
+                "cal_bg": "fff0f0f3",
+                "cal_date": "ffff9800",
+                "calculator": "ffff9800",
+                "dialenums": "ffff9800",
+                "dialer": "ffff9800",
+                "dialpad": "fff0f0f3",
+                "folder": "fff0f0f3",
+                "nots_bg": "fff0f0f3",
+                "optimizer": "ffff9800",
+                "optimizer_icons": "ffffffff",
+                "optimizer_tiles": "ffff9800",
+                "settings": "ffff9800",
+                "settings_icons": "ffffffff",
+                "settings_tiles": "ffff9800",
+                "systemui": "ffff9800",
+                "systemui_off": "fff0f0f3"
+            },
+            "sku": "pastel",
+            "contents": [
+                {
+                    "name": "file"
+                },
+                {
+                    "name": "home_wallpaper_0.jpg"
+                },
+                {
+                    "name": "icons"
+                },
+                {
+                    "name": "phone"
+                },
+                {
+                    "name": "preview_icons_0.jpg"
+                },
+                {
+                    "name": "set"
+                }
+            ]
+        },
+        {
+            "theme_name": "Pastel",
+            "theme_base": "light",
             "folder_name": "pastel",
             "category": [
                 0,
@@ -12,16 +65,16 @@
             ],
             "colors": {
                 "accent": "ff7da7d9",
-                "actionbar": "fff0f0f3",
-                "background": "fff0f0f3",
-                "cal_bg": "fff0f0f3",
+                "actionbar": "ff161616",
+                "background": "ff161616",
+                "cal_bg": "ff161616",
                 "cal_date": "ff7da7d9",
                 "calculator": "ff7da7d9",
                 "dialenums": "ff7da7d9",
                 "dialer": "ff7da7d9",
-                "dialpad": "fff0f0f3",
-                "folder": "fff0f0f3",
-                "nots_bg": "fff0f0f3",
+                "dialpad": "ff161616",
+                "folder": "ff161616",
+                "nots_bg": "ff161616",
                 "optimizer": "ff7da7d9",
                 "optimizer_icons": "ffffffff",
                 "optimizer_tiles": "ff7da7d9",
@@ -29,7 +82,7 @@
                 "settings_icons": "ffffffff",
                 "settings_tiles": "ff7da7d9",
                 "systemui": "ff7da7d9",
-                "systemui_off": "fff0f0f3"
+                "systemui_off": "ff161616"
             },
             "sku": "pastel",
             "contents": [
