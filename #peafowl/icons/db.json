@@ -1,4 +1,5 @@
 {"adaptive":[
+  { "adaptive":true, "_id":"honor" ,"pro":false},
   { "adaptive":true, "_id":"coloros13" ,"pro":true},
   { "adaptive":true, "_id":"oxygenos13" ,"pro":true},
   { "adaptive":true, "_id":"googlify" ,"pro":false},
