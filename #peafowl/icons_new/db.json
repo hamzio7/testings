@@ -87,9 +87,8 @@
   { "adaptive":true, "_id":"p_android_12" ,"pro":false},
   { "adaptive":true, "_id":"p_eleven" ,"pro":false},
   { "adaptive":true, "_id":"p_fluent" ,"pro":false},
-  { "adaptive":true, "_id":"p_ios" ,"pro":false},
+  { "adaptive":true, "_id":"p_ios" ,"pro":true},
   { "adaptive":true, "_id":"p_one" ,"pro":false},
-  { "adaptive":true, "_id":"p_ophium" ,"pro":true},
   { "adaptive":true, "_id":"p_ophium_light" ,"pro":true},
   { "adaptive":true, "_id":"p_you" ,"pro":false}
 ]
