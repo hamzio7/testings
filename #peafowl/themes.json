@@ -1,6 +1,52 @@
 {
   "themes": [
     {
+      "theme_name": "Fallout",
+      "theme_base": "dark",
+      "folder_name": "fallout",
+      "category": [
+        0,
+        1,
+        3
+      ],
+      "colors": {
+        "accent": "ff5d745d",
+        "actionbar": "ff202820",
+        "background": "ff171c17",
+        "cal_bg": "ff171c17",
+        "cal_date": "ff5d745d",
+        "calculator": "ff5d745d",
+        "dialenums": "ff5d745d",
+        "dialer": "ff5d745d",
+        "dialpad": "ff202820",
+        "folder": "ff171c17",
+        "nots_bg": "ff171c17",
+        "optimizer": "ff5d745d",
+        "optimizer_icons": "ffd0e0d0",
+        "optimizer_tiles": "ff5d745d",
+        "settings": "ff5d745d",
+        "settings_icons": "ffd0e0d0",
+        "settings_tiles": "ff5d745d",
+        "systemui": "ff5d745d",
+        "systemui_off": "ff171c17"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
+      ]
+    },
+    {
       "theme_name": "Goku Alternative",
       "theme_base": "dark",
       "folder_name": "gokublue",
