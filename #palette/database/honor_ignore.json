@@ -1,0 +1,23 @@
+{
+  "packages": [
+    "com.hihonor.android.thememanager",
+    "com.huawei.hms.ads",
+    "com.huawei.hms.analytics",
+    "com.huawei.hms.commonkit",
+    "com.huawei.hms.fwui",
+    "com.huawei.hms.iap",
+    "com.huawei.hms.kit.site",
+    "com.huawei.hms.kitstore",
+    "com.huawei.hms.location",
+    "com.huawei.hms.maps.maproute",
+    "com.huawei.hms.privacy",
+    "com.huawei.hms.push",
+    "com.huawei.hms.webapp",
+    "com.huawei.hms.game",
+    "com.huawei.hms.account",
+    "com.hihonor.notepad",
+    "com.hihonor.filemanager",
+    "com.hihonor.hidisk",
+    "com.hihonor.email"
+  ]
+}
