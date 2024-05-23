@@ -1,4 +1,5 @@
 {"adaptive":[
+  { "adaptive":true, "_id":"a_huawei_neu" ,"pro":false},
   { "adaptive":true, "_id":"a_honor" ,"pro":false},
   { "adaptive":true, "_id":"a_coloros13" ,"pro":true},
   { "adaptive":true, "_id":"a_oxygenos13" ,"pro":true},
