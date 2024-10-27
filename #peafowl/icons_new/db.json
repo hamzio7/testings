@@ -1,4 +1,6 @@
 {"adaptive":[
+  { "adaptive":true, "_id":"a_honor_magic" ,"pro":false},
+  { "adaptive":true, "_id":"a_honor_fantasy" ,"pro":false},
   { "adaptive":true, "_id":"a_huawei_neu" ,"pro":false},
   { "adaptive":true, "_id":"a_honor" ,"pro":false},
   { "adaptive":true, "_id":"a_coloros13" ,"pro":true},
