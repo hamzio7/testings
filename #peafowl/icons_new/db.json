@@ -1,5 +1,4 @@
 {"adaptive":[
-  { "adaptive":true, "_id":"a_ios_18_dark" ,"pro":true},
   { "adaptive":true, "_id":"a_magic_ios_flat" ,"pro":true},
   { "adaptive":true, "_id":"a_magic_ios" ,"pro":true},
   { "adaptive":true, "_id":"a_honor_magic" ,"pro":false},
