@@ -166,6 +166,9 @@
     {
       "name": "discord",
       "packages": ["com.discord"]
+    },    {
+      "name": "bing",
+      "packages": ["com.microsoft.bing"]
     },
     {
       "name": "disney",
@@ -293,6 +296,9 @@
     },
     {
       "name": "gbooks",
+      "packages": ["com.google.android.apps.books"]
+    },    {
+      "name": "gbook",
       "packages": ["com.google.android.apps.books"]
     },
     {
@@ -458,6 +464,14 @@
     },
     {
       "name": "hbooks",
+      "packages": [
+        "com.huawei.hnreader",
+        "com.huawei.hwireader",
+        "com.huawei.hwread.al",
+        "com.huawei.hwread.dz"
+      ]
+    },    {
+      "name": "hbook",
       "packages": [
         "com.huawei.hnreader",
         "com.huawei.hwireader",
@@ -685,10 +699,16 @@
     {
       "name": "playmusic",
       "packages": ["com.google.android.music"]
+    },    {
+      "name": "outlook",
+      "packages": ["com.microsoft.office.outlook"]
     },
     {
       "name": "plus_messenger",
       "packages": ["org.telegram.plus"]
+    },    {
+      "name": "onenote",
+      "packages": ["com.microsoft.office.onenote"]
     },
     {
       "name": "pmap",
@@ -773,6 +793,9 @@
     {
       "name": "shazam",
       "packages": ["com.shazam.android"]
+    },    {
+      "name": "skydrive",
+      "packages": ["com.microsoft.skydrive"]
     },
     {
       "name": "shop",
