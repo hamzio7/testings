@@ -362,8 +362,14 @@
     {
       "name": "ghealth",
       "packages": ["com.google.android.apps.healthdata"]
+    },    {
+      "name": "gemini",
+      "packages": ["com.google.android.apps.bard"]
     },
     {
+      "name": "chatgpt",
+      "packages": ["com.openai.chatgpt"]
+    },    {
       "name": "ghome",
       "packages": ["com.google.android.apps.chromecast.app"]
     },
@@ -756,6 +762,9 @@
       "packages": ["com.huawei.android.FMRadio", "com.hihonor.android.fmradio"]
     },
     {
+      "name": "epic",
+      "packages": ["com.epicgames.portal"]
+    },    {
       "name": "winrar",
       "packages": ["com.rarlab.rar"]
     },
@@ -866,6 +875,9 @@
     {
       "name": "snapchat",
       "packages": ["com.snapchat.android"]
+    },    {
+      "name": "wps",
+      "packages": ["cn.wps.moffice_i18n", "cn.wps.moffice_eng"]
     },
     {
       "name": "snapp",
@@ -982,6 +994,9 @@
     },
     {
       "name": "tweet",
+      "packages": ["com.twitter.android", "com.twitter.android.lite"]
+    },    {
+      "name": "tweeter",
       "packages": ["com.twitter.android", "com.twitter.android.lite"]
     },
     {
@@ -1109,6 +1124,9 @@
     {
       "name": "youtubem",
       "packages": ["com.google.android.apps.youtube.music"]
+    },    {
+      "name": "gauth",
+      "packages": ["com.google.android.apps.authenticator2"]
     },
     {
       "name": "ytstudio",
