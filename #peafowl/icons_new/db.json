@@ -1,102 +1,478 @@
-{"adaptive":[
-  { "adaptive":true, "_id":"a_ios_18_dark_alt" ,"pro":true},
-  { "adaptive":true, "_id":"a_ios_18_dark" ,"pro":true},
-  { "adaptive":true, "_id":"a_magic_ios_flat" ,"pro":true},
-  { "adaptive":true, "_id":"a_magic_ios" ,"pro":true},
-  { "adaptive":true, "_id":"a_honor_magic" ,"pro":false},
-  { "adaptive":true, "_id":"a_honor_fantasy" ,"pro":false},
-  { "adaptive":true, "_id":"a_huawei_neu" ,"pro":false},
-  { "adaptive":true, "_id":"a_honor" ,"pro":false},
-  { "adaptive":true, "_id":"a_coloros13" ,"pro":true},
-  { "adaptive":true, "_id":"a_oxygenos13" ,"pro":true},
-  { "adaptive":true, "_id":"a_googlify" ,"pro":false},
-  { "adaptive":true, "_id":"a_oneui_five" ,"pro":true},
-  { "adaptive":true, "_id":"a_magic_2" ,"pro":false},
-  { "adaptive":true, "_id":"a_magic" ,"pro":false},
-  { "adaptive":true, "_id":"a_ios" ,"pro":false},
-  { "adaptive":true, "_id":"a_miui13" ,"pro":true},
-  { "adaptive":true, "_id":"a_material" ,"pro":false},
-  { "adaptive":true, "_id":"a_poco_new" ,"pro":false},
-  { "adaptive":true, "_id":"a_harmony_dark" ,"pro":true},
-  { "adaptive":true, "_id":"a_harmony" ,"pro":false},
-  { "adaptive":true, "_id":"a_oneui_new" ,"pro":false},
-  { "adaptive":true, "_id":"a_pixel_new" ,"pro":false},
-  { "adaptive":true, "_id":"a_minios" ,"pro":false},
-  { "adaptive":true, "_id":"a_hotred" ,"pro":true},
-  { "adaptive":true, "_id":"a_cyberpunk" ,"pro":true},
-  { "adaptive":true, "_id":"a_eleven" ,"pro":true},
-  { "adaptive":true, "_id":"a_pebble" ,"pro":false},
-  { "adaptive":true, "_id":"a_nebula" ,"pro":true},
-  { "adaptive":true, "_id":"a_emui11" ,"pro":false},
-  { "adaptive":true, "_id":"a_outlines" ,"pro":false},
-  { "adaptive":true, "_id":"a_flaty" ,"pro":false},
-  { "adaptive":true, "_id":"a_morphos_bc" ,"pro":true},
-  { "adaptive":true, "_id":"a_morphos_black" ,"pro":false},
-  { "adaptive":true, "_id":"a_morphos_wc" ,"pro":true},
-  { "adaptive":true, "_id":"a_morphos_white" ,"pro":false},
-  { "adaptive":true, "_id":"a_morphy" ,"pro":true},
-  { "adaptive":true, "_id":"a_dream_p" ,"pro":false},
-  { "adaptive":true, "_id":"a_dream" ,"pro":false},
-  { "adaptive":true, "_id":"a_zenui" ,"pro":false},
-  { "adaptive":true, "_id":"a_xperia" ,"pro":false},
-  { "adaptive":true, "_id":"a_pixelify_dark" ,"pro":false},
-  { "adaptive":true, "_id":"a_pixel" ,"pro":false},
-  { "adaptive":true, "_id":"a_oneuilight" ,"pro":false},
-  { "adaptive":true, "_id":"a_oneuidark" ,"pro":true},
-  { "adaptive":true, "_id":"a_oneui" ,"pro":false},
-  { "adaptive":true, "_id":"a_oneplus" ,"pro":true},
-  { "adaptive":true, "_id":"a_mixel" ,"pro":true},
-  { "adaptive":true, "_id":"a_miui" ,"pro":false},
-  { "adaptive":true, "_id":"a_mios" ,"pro":true},
-  { "adaptive":true, "_id":"a_miniretro" ,"pro":true},
-  { "adaptive":true, "_id":"a_lineage" ,"pro":true},
-  { "adaptive":true, "_id":"a_lewa" ,"pro":false},
-  { "adaptive":true, "_id":"a_iSpecial" ,"pro":false},
-  { "adaptive":true, "_id":"a_iosmidnight" ,"pro":false},
-  { "adaptive":true, "_id":"a_iosblack" ,"pro":true},
-  { "adaptive":true, "_id":"a_ios_sunset" ,"pro":false},
-  { "adaptive":true, "_id":"a_ios_neu_ad_dark" ,"pro":true},
-  { "adaptive":true, "_id":"a_ios_neu_ad" ,"pro":true},
-  { "adaptive":true, "_id":"a_i-like" ,"pro":true},
-  { "adaptive":true, "_id":"a_huawei" ,"pro":false},
-  { "adaptive":true, "_id":"a_grey_one" ,"pro":true},
-  { "adaptive":true, "_id":"a_aosp" ,"pro":false},
-  { "adaptive":true, "_id":"a_colorful_night" ,"pro":true},
-  { "adaptive":true, "_id":"a_dmd_special" ,"pro":true},
-  { "adaptive":true, "_id":"a_fluent_adaptive" ,"pro":true}
-],
-
-"shapeless":[
-  { "adaptive":false, "_id":"s_oppo_material" ,"pro":false},
-  { "adaptive":false, "_id":"s_frost" ,"pro":true},
-  { "adaptive":false, "_id":"s_special_red" ,"pro":true},
-  { "adaptive":false, "_id":"s_special_pink" ,"pro":true},
-  { "adaptive":false, "_id":"s_special_colorful" ,"pro":false},
-  { "adaptive":false, "_id":"s_special_blue" ,"pro":true},
-  { "adaptive":false, "_id":"s_sense" ,"pro":false},
-  { "adaptive":false, "_id":"s_retro" ,"pro":false},
-  { "adaptive":false, "_id":"s_poco" ,"pro":false},
-  { "adaptive":false, "_id":"s_p_pixel" ,"pro":false},
-  { "adaptive":false, "_id":"s_p_aosp" ,"pro":false},
-  { "adaptive":false, "_id":"s_oxygen" ,"pro":false},
-  { "adaptive":false, "_id":"s_neu_ios_light" ,"pro":true},
-  { "adaptive":false, "_id":"s_neu_ios_dark" ,"pro":true},
-  { "adaptive":false, "_id":"s_miui10" ,"pro":false},
-  { "adaptive":false, "_id":"s_mclaren" ,"pro":true},
-  { "adaptive":false, "_id":"s_materialsmclaren" ,"pro":false},
-  { "adaptive":false, "_id":"s_materials_2" ,"pro":true},
-  { "adaptive":false, "_id":"s_materials" ,"pro":false},
-  { "adaptive":false, "_id":"s_hydrogen" ,"pro":true},
-  { "adaptive":false, "_id":"s_fluent_shapeless" ,"pro":true}
-],
-
-"palette":[
-  { "adaptive":true, "_id":"p_android_12" ,"pro":false},
-  { "adaptive":true, "_id":"p_eleven" ,"pro":false},
-  { "adaptive":true, "_id":"p_fluent" ,"pro":false},
-  { "adaptive":true, "_id":"p_ios" ,"pro":true},
-  { "adaptive":true, "_id":"p_one" ,"pro":false},
-  { "adaptive":true, "_id":"p_ophium_light" ,"pro":true},
-  { "adaptive":true, "_id":"p_you" ,"pro":false}
-]
+{
+  "adaptive": [
+    {
+      "adaptive": true,
+      "_id": "a_ios_18_dark_alt",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_ios_18_dark",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_magic_ios_flat",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_magic_ios",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_honor_magic",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_honor_fantasy",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_huawei_neu",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_honor",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_coloros13",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_oxygenos13",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_googlify",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_oneui_five",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_magic_2",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_magic",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_ios",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_miui13",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_material",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_poco_new",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_harmony_dark",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_harmony",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_oneui_new",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_pixel_new",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_minios",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_hotred",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_cyberpunk",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_eleven",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_pebble",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_nebula",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_emui11",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_outlines",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_flaty",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_morphos_bc",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_morphos_black",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_morphos_wc",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_morphos_white",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_morphy",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_dream_p",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_dream",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_zenui",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_xperia",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_pixelify_dark",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_pixel",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_oneuilight",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_oneuidark",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_oneui",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_oneplus",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_mixel",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_miui",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_mios",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_miniretro",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_lineage",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_lewa",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_iSpecial",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_iosmidnight",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_iosblack",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_ios_sunset",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_ios_neu_ad_dark",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_ios_neu_ad",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_i-like",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_huawei",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_grey_one",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_aosp",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "a_colorful_night",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_dmd_special",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "a_fluent_adaptive",
+      "pro": true
+    }
+  ],
+  "shapeless": [
+    {
+      "adaptive": false,
+      "_id": "s_oppo_material",
+      "pro": false
+    },
+    {
+      "adaptive": false,
+      "_id": "s_frost",
+      "pro": true
+    },
+    {
+      "adaptive": false,
+      "_id": "s_special_red",
+      "pro": true
+    },
+    {
+      "adaptive": false,
+      "_id": "s_special_pink",
+      "pro": true
+    },
+    {
+      "adaptive": false,
+      "_id": "s_special_colorful",
+      "pro": false
+    },
+    {
+      "adaptive": false,
+      "_id": "s_special_blue",
+      "pro": true
+    },
+    {
+      "adaptive": false,
+      "_id": "s_sense",
+      "pro": false
+    },
+    {
+      "adaptive": false,
+      "_id": "s_retro",
+      "pro": false
+    },
+    {
+      "adaptive": false,
+      "_id": "s_poco",
+      "pro": false
+    },
+    {
+      "adaptive": false,
+      "_id": "s_p_pixel",
+      "pro": false
+    },
+    {
+      "adaptive": false,
+      "_id": "s_p_aosp",
+      "pro": false
+    },
+    {
+      "adaptive": false,
+      "_id": "s_oxygen",
+      "pro": false
+    },
+    {
+      "adaptive": false,
+      "_id": "s_neu_ios_light",
+      "pro": true
+    },
+    {
+      "adaptive": false,
+      "_id": "s_neu_ios_dark",
+      "pro": true
+    },
+    {
+      "adaptive": false,
+      "_id": "s_miui10",
+      "pro": false
+    },
+    {
+      "adaptive": false,
+      "_id": "s_mclaren",
+      "pro": true
+    },
+    {
+      "adaptive": false,
+      "_id": "s_materialsmclaren",
+      "pro": false
+    },
+    {
+      "adaptive": false,
+      "_id": "s_materials_2",
+      "pro": true
+    },
+    {
+      "adaptive": false,
+      "_id": "s_materials",
+      "pro": false
+    },
+    {
+      "adaptive": false,
+      "_id": "s_hydrogen",
+      "pro": true
+    },
+    {
+      "adaptive": false,
+      "_id": "s_fluent_shapeless",
+      "pro": true
+    }
+  ],
+  "palette": [
+    {
+      "adaptive": true,
+      "_id": "p_honor",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "p_android_12",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "p_eleven",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "p_fluent",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "p_ios",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "p_one",
+      "pro": false
+    },
+    {
+      "adaptive": true,
+      "_id": "p_ophium_light",
+      "pro": true
+    },
+    {
+      "adaptive": true,
+      "_id": "p_you",
+      "pro": false
+    }
+  ]
 }
