@@ -2,63 +2,95 @@
   "apps": [
     {
       "name": "adm",
-      "packages": ["com.dv.adm", "com.dv.adm.pay"]
+      "packages": [
+        "com.dv.adm",
+        "com.dv.adm.pay"
+      ]
     },
     {
       "name": "admob",
-      "packages": ["com.google.android.apps.ads.admob"]
+      "packages": [
+        "com.google.android.apps.ads.admob"
+      ]
     },
     {
       "name": "airbnb",
-      "packages": ["com.airbnb.android"]
+      "packages": [
+        "com.airbnb.android"
+      ]
     },
     {
       "name": "alipay",
-      "packages": ["com.eg.android.AlipayGphone", "hk.alipay.wallet"]
+      "packages": [
+        "com.eg.android.AlipayGphone",
+        "hk.alipay.wallet"
+      ]
     },
     {
       "name": "amazon_prime",
-      "packages": ["com.amazon.avod.thirdpartyclient"]
+      "packages": [
+        "com.amazon.avod.thirdpartyclient"
+      ]
     },
     {
       "name": "amazon_shopping",
-      "packages": ["com.amazon.mShop.android.shopping"]
+      "packages": [
+        "com.amazon.mShop.android.shopping"
+      ]
     },
     {
       "name": "ap",
-      "packages": ["com.sibche.aspardproject.app"]
+      "packages": [
+        "com.sibche.aspardproject.app"
+      ]
     },
     {
       "name": "applemusic",
-      "packages": ["com.apple.android.music"]
+      "packages": [
+        "com.apple.android.music"
+      ]
     },
     {
       "name": "assistant",
-      "packages": ["com.huawei.intelligent"]
+      "packages": [
+        "com.huawei.intelligent"
+      ]
     },
     {
       "name": "backup",
-      "packages": ["com.huawei.KoBackup"]
+      "packages": [
+        "com.huawei.KoBackup"
+      ]
     },
     {
       "name": "baidu",
-      "packages": ["com.baidu.searchbox"]
+      "packages": [
+        "com.baidu.searchbox"
+      ]
     },
     {
       "name": "bazaar",
-      "packages": ["com.farsitel.bazaar"]
+      "packages": [
+        "com.farsitel.bazaar"
+      ]
     },
     {
       "name": "behance",
-      "packages": ["com.behance.behance"]
+      "packages": [
+        "com.behance.behance"
+      ]
     },
     {
       "name": "bone",
-      "packages": ["com.huawei.bone"]
+      "packages": [
+        "com.huawei.bone"
+      ]
     },
     {
       "name": "brawlstars",
-      "packages": ["com.supercell.brawlstars"]
+      "packages": [
+        "com.supercell.brawlstars"
+      ]
     },
     {
       "name": "browser",
@@ -79,11 +111,17 @@
     },
     {
       "name": "calendar",
-      "packages": ["com.android.calendar", "com.hihonor.calendar"]
+      "packages": [
+        "com.android.calendar",
+        "com.hihonor.calendar"
+      ]
     },
     {
       "name": "callofd",
-      "packages": ["com.activision.callofduty.shooter", "com.tencent.tmgp.cod"]
+      "packages": [
+        "com.activision.callofduty.shooter",
+        "com.tencent.tmgp.cod"
+      ]
     },
     {
       "name": "camera",
@@ -96,35 +134,51 @@
     },
     {
       "name": "castbox",
-      "packages": ["fm.castbox.audiobook.radio.podcast"]
+      "packages": [
+        "fm.castbox.audiobook.radio.podcast"
+      ]
     },
     {
       "name": "chrome",
-      "packages": ["com.android.chrome"]
+      "packages": [
+        "com.android.chrome"
+      ]
     },
     {
       "name": "chrome_beta",
-      "packages": ["com.chrome.beta"]
+      "packages": [
+        "com.chrome.beta"
+      ]
     },
     {
       "name": "chrome_can",
-      "packages": ["com.chrome.canary"]
+      "packages": [
+        "com.chrome.canary"
+      ]
     },
     {
       "name": "chrome_dev",
-      "packages": ["com.chrome.dev"]
+      "packages": [
+        "com.chrome.dev"
+      ]
     },
     {
       "name": "clashof",
-      "packages": ["com.supercell.clashofclans"]
+      "packages": [
+        "com.supercell.clashofclans"
+      ]
     },
     {
       "name": "clashroyale",
-      "packages": ["com.supercell.clashroyale"]
+      "packages": [
+        "com.supercell.clashroyale"
+      ]
     },
     {
       "name": "clip",
-      "packages": ["com.huawei.videoeditor"]
+      "packages": [
+        "com.huawei.videoeditor"
+      ]
     },
     {
       "name": "clock",
@@ -136,7 +190,10 @@
     },
     {
       "name": "clone",
-      "packages": ["com.hicloud.android.clone", "com.hihonor.android.clone"]
+      "packages": [
+        "com.hicloud.android.clone",
+        "com.hihonor.android.clone"
+      ]
     },
     {
       "name": "compass",
@@ -148,7 +205,9 @@
     },
     {
       "name": "console",
-      "packages": ["com.google.android.apps.playconsole"]
+      "packages": [
+        "com.google.android.apps.playconsole"
+      ]
     },
     {
       "name": "contacts",
@@ -161,18 +220,27 @@
     },
     {
       "name": "deviantart",
-      "packages": ["com.deviantart.android.damobile"]
+      "packages": [
+        "com.deviantart.android.damobile"
+      ]
     },
     {
       "name": "discord",
-      "packages": ["com.discord"]
-    },    {
+      "packages": [
+        "com.discord"
+      ]
+    },
+    {
       "name": "bing",
-      "packages": ["com.microsoft.bing"]
+      "packages": [
+        "com.microsoft.bing"
+      ]
     },
     {
       "name": "disney",
-      "packages": ["com.disney.disneyplus"]
+      "packages": [
+        "com.disney.disneyplus"
+      ]
     },
     {
       "name": "downloads",
@@ -184,47 +252,73 @@
     },
     {
       "name": "dribble",
-      "packages": ["mathieumaree.rippple"]
+      "packages": [
+        "mathieumaree.rippple"
+      ]
     },
     {
       "name": "drive",
-      "packages": ["com.google.android.apps.docs"]
+      "packages": [
+        "com.google.android.apps.docs"
+      ]
     },
     {
       "name": "dropbox",
-      "packages": ["com.dropbox.android"]
+      "packages": [
+        "com.dropbox.android"
+      ]
     },
     {
       "name": "duolingo",
-      "packages": ["com.duolingo"]
+      "packages": [
+        "com.duolingo"
+      ]
     },
     {
       "name": "ebay",
-      "packages": ["com.ebay.mobile"]
+      "packages": [
+        "com.ebay.mobile"
+      ]
     },
     {
       "name": "edge",
-      "packages": ["com.microsoft.emmx"]
+      "packages": [
+        "com.microsoft.emmx"
+      ]
     },
     {
       "name": "educenter",
-      "packages": ["com.huawei.educenter"]
+      "packages": [
+        "com.huawei.educenter"
+      ]
     },
     {
       "name": "email",
-      "packages": ["com.android.email", "com.hihonor.email", "com.huawei.email"]
+      "packages": [
+        "com.android.email",
+        "com.hihonor.email",
+        "com.huawei.email"
+      ]
     },
     {
       "name": "es",
-      "packages": ["com.estrongs.android.pop", "com.estrongs.android.pop.pro"]
+      "packages": [
+        "com.estrongs.android.pop",
+        "com.estrongs.android.pop.pro"
+      ]
     },
     {
       "name": "excel",
-      "packages": ["com.microsoft.office.excel"]
+      "packages": [
+        "com.microsoft.office.excel"
+      ]
     },
     {
       "name": "facebook",
-      "packages": ["com.facebook.katana", "com.facebook.lite"]
+      "packages": [
+        "com.facebook.katana",
+        "com.facebook.lite"
+      ]
     },
     {
       "name": "files",
@@ -246,19 +340,28 @@
     },
     {
       "name": "firefox",
-      "packages": ["org.mozilla.firefox"]
+      "packages": [
+        "org.mozilla.firefox"
+      ]
     },
     {
       "name": "flash",
-      "packages": ["com.android.systemui.flashlight.FlashlightActivity"]
+      "packages": [
+        "com.android.systemui.flashlight.FlashlightActivity"
+      ]
     },
     {
       "name": "folder",
-      "packages": ["portal_ring_inner_holo"]
+      "packages": [
+        "portal_ring_inner_holo"
+      ]
     },
     {
       "name": "fortnite",
-      "packages": ["com.mojang.minecraftpe", "com.netease.mc.mi"]
+      "packages": [
+        "com.mojang.minecraftpe",
+        "com.netease.mc.mi"
+      ]
     },
     {
       "name": "gallery",
@@ -284,42 +387,63 @@
     },
     {
       "name": "gandroidauto",
-      "packages": ["com.google.android.projection.gearhead"]
+      "packages": [
+        "com.google.android.projection.gearhead"
+      ]
     },
     {
       "name": "gassistant",
-      "packages": ["com.google.android.apps.googleassistant"]
+      "packages": [
+        "com.google.android.apps.googleassistant"
+      ]
     },
     {
       "name": "gboard",
-      "packages": ["com.google.android.inputmethod.latin"]
+      "packages": [
+        "com.google.android.inputmethod.latin"
+      ]
     },
     {
       "name": "gbooks",
-      "packages": ["com.google.android.apps.books"]
-    },    {
+      "packages": [
+        "com.google.android.apps.books"
+      ]
+    },
+    {
       "name": "gbook",
-      "packages": ["com.google.android.apps.books"]
+      "packages": [
+        "com.google.android.apps.books"
+      ]
     },
     {
       "name": "gcalendar",
-      "packages": ["com.google.android.calendar"]
+      "packages": [
+        "com.google.android.calendar"
+      ]
     },
     {
       "name": "gchat",
-      "packages": ["com.google.android.apps.dynamite"]
+      "packages": [
+        "com.google.android.apps.dynamite"
+      ]
     },
     {
       "name": "gcloud",
-      "packages": ["com.google.android.apps.cloudconsole"]
+      "packages": [
+        "com.google.android.apps.cloudconsole"
+      ]
     },
     {
       "name": "gcloudsearch",
-      "packages": ["com.google.enterprise.topaz.mobile.android"]
+      "packages": [
+        "com.google.enterprise.topaz.mobile.android"
+      ]
     },
     {
       "name": "gcroud",
-      "packages": ["com.google.android.apps.village.boond"]
+      "packages": [
+        "com.google.android.apps.village.boond"
+      ]
     },
     {
       "name": "gdocs",
@@ -330,19 +454,28 @@
     },
     {
       "name": "gearth",
-      "packages": ["com.google.earth"]
+      "packages": [
+        "com.google.earth"
+      ]
     },
     {
       "name": "genshin_impact",
-      "packages": ["com.miHoYo.GenshinImpact", "com.miHoYo.ys.mi"]
+      "packages": [
+        "com.miHoYo.GenshinImpact",
+        "com.miHoYo.ys.mi"
+      ]
     },
     {
       "name": "gfamily",
-      "packages": ["com.google.android.apps.kids.familylink"]
+      "packages": [
+        "com.google.android.apps.kids.familylink"
+      ]
     },
     {
       "name": "gfi",
-      "packages": ["com.google.android.apps.tycho"]
+      "packages": [
+        "com.google.android.apps.tycho"
+      ]
     },
     {
       "name": "gfiles",
@@ -353,41 +486,63 @@
     },
     {
       "name": "gfit",
-      "packages": ["com.google.android.apps.fitness"]
+      "packages": [
+        "com.google.android.apps.fitness"
+      ]
     },
     {
       "name": "ggallery",
-      "packages": ["com.google.android.apps.photosgo"]
+      "packages": [
+        "com.google.android.apps.photosgo"
+      ]
     },
     {
       "name": "ghealth",
-      "packages": ["com.google.android.apps.healthdata"]
-    },    {
+      "packages": [
+        "com.google.android.apps.healthdata"
+      ]
+    },
+    {
       "name": "gemini",
-      "packages": ["com.google.android.apps.bard"]
+      "packages": [
+        "com.google.android.apps.bard"
+      ]
     },
     {
       "name": "chatgpt",
-      "packages": ["com.openai.chatgpt"]
-    },    {
+      "packages": [
+        "com.openai.chatgpt"
+      ]
+    },
+    {
       "name": "ghome",
-      "packages": ["com.google.android.apps.chromecast.app"]
+      "packages": [
+        "com.google.android.apps.chromecast.app"
+      ]
     },
     {
       "name": "github",
-      "packages": ["com.github.android"]
+      "packages": [
+        "com.github.android"
+      ]
     },
     {
       "name": "gkeep",
-      "packages": ["com.google.android.keep"]
+      "packages": [
+        "com.google.android.keep"
+      ]
     },
     {
       "name": "glens",
-      "packages": ["com.google.ar.lens"]
+      "packages": [
+        "com.google.ar.lens"
+      ]
     },
     {
       "name": "gmail",
-      "packages": ["com.google.android.gm"]
+      "packages": [
+        "com.google.android.gm"
+      ]
     },
     {
       "name": "gmeet",
@@ -399,15 +554,21 @@
     },
     {
       "name": "gnews",
-      "packages": ["com.google.android.apps.magazines"]
+      "packages": [
+        "com.google.android.apps.magazines"
+      ]
     },
     {
       "name": "gone",
-      "packages": ["com.google.android.apps.subscriptions.red"]
+      "packages": [
+        "com.google.android.apps.subscriptions.red"
+      ]
     },
     {
       "name": "google",
-      "packages": ["com.google.android.googlequicksearchbox"]
+      "packages": [
+        "com.google.android.googlequicksearchbox"
+      ]
     },
     {
       "name": "gpay",
@@ -418,55 +579,81 @@
     },
     {
       "name": "gphotoscan",
-      "packages": ["com.google.android.apps.photos.scanner"]
+      "packages": [
+        "com.google.android.apps.photos.scanner"
+      ]
     },
     {
       "name": "gpixelbuds",
-      "packages": ["com.google.android.apps.wearables.maestro.companion"]
+      "packages": [
+        "com.google.android.apps.wearables.maestro.companion"
+      ]
     },
     {
       "name": "gpodcasts",
-      "packages": ["com.google.android.apps.podcasts"]
+      "packages": [
+        "com.google.android.apps.podcasts"
+      ]
     },
     {
       "name": "gremote",
-      "packages": ["com.google.chromeremotedesktop"]
+      "packages": [
+        "com.google.chromeremotedesktop"
+      ]
     },
     {
       "name": "gsheets",
-      "packages": ["com.google.android.apps.docs.editors.sheets"]
+      "packages": [
+        "com.google.android.apps.docs.editors.sheets"
+      ]
     },
     {
       "name": "gslides",
-      "packages": ["com.google.android.apps.docs.editors.slides"]
+      "packages": [
+        "com.google.android.apps.docs.editors.slides"
+      ]
     },
     {
       "name": "gtask",
-      "packages": ["com.google.android.apps.tasks"]
+      "packages": [
+        "com.google.android.apps.tasks"
+      ]
     },
     {
       "name": "gtranslate",
-      "packages": ["com.google.android.apps.translate"]
+      "packages": [
+        "com.google.android.apps.translate"
+      ]
     },
     {
       "name": "gtv",
-      "packages": ["com.google.android.videos"]
+      "packages": [
+        "com.google.android.videos"
+      ]
     },
     {
       "name": "gwallet",
-      "packages": ["com.google.android.apps.walletnfcrel"]
+      "packages": [
+        "com.google.android.apps.walletnfcrel"
+      ]
     },
     {
       "name": "gwearable",
-      "packages": ["com.google.android.wearable.app"]
+      "packages": [
+        "com.google.android.wearable.app"
+      ]
     },
     {
       "name": "gwent",
-      "packages": ["com.cdprojektred.gwent"]
+      "packages": [
+        "com.cdprojektred.gwent"
+      ]
     },
     {
       "name": "hamrah_card",
-      "packages": ["com.adpdigital.mbs.ayande"]
+      "packages": [
+        "com.adpdigital.mbs.ayande"
+      ]
     },
     {
       "name": "hbooks",
@@ -476,7 +663,8 @@
         "com.huawei.hwread.al",
         "com.huawei.hwread.dz"
       ]
-    },    {
+    },
+    {
       "name": "hbook",
       "packages": [
         "com.huawei.hnreader",
@@ -487,7 +675,10 @@
     },
     {
       "name": "hcloud",
-      "packages": ["com.huawei.accountagent", "com.huawei.hicloud"]
+      "packages": [
+        "com.huawei.accountagent",
+        "com.huawei.hicloud"
+      ]
     },
     {
       "name": "health",
@@ -500,19 +691,27 @@
     },
     {
       "name": "hfans",
-      "packages": ["com.huawei.fans"]
+      "packages": [
+        "com.huawei.fans"
+      ]
     },
     {
       "name": "honorclub",
-      "packages": ["com.hihonor.community"]
+      "packages": [
+        "com.hihonor.community"
+      ]
     },
     {
       "name": "honor_store",
-      "packages": ["com.hihonor.hstore.global"]
+      "packages": [
+        "com.hihonor.hstore.global"
+      ]
     },
     {
       "name": "honor_ai_space",
-      "packages": ["com.hihonor.magichome"]
+      "packages": [
+        "com.hihonor.magichome"
+      ]
     },
     {
       "name": "hwreader",
@@ -524,11 +723,16 @@
     },
     {
       "name": "inshot",
-      "packages": ["com.camerasideas.instashot"]
+      "packages": [
+        "com.camerasideas.instashot"
+      ]
     },
     {
       "name": "insta",
-      "packages": ["com.instagram.android", "com.instagram.lite"]
+      "packages": [
+        "com.instagram.android",
+        "com.instagram.lite"
+      ]
     },
     {
       "name": "kwai",
@@ -540,54 +744,87 @@
     },
     {
       "name": "lightroom",
-      "packages": ["com.adobe.lrmobile"]
+      "packages": [
+        "com.adobe.lrmobile"
+      ]
     },
     {
       "name": "line",
-      "packages": ["jp.naver.line.android"]
+      "packages": [
+        "jp.naver.line.android"
+      ]
     },
     {
       "name": "linkedin",
-      "packages": ["com.linkedin.android"]
+      "packages": [
+        "com.linkedin.android"
+      ]
     },
     {
       "name": "lives",
-      "packages": ["com.huawei.lives"]
+      "packages": [
+        "com.huawei.lives"
+      ]
     },
     {
       "name": "maps",
-      "packages": ["com.google.android.apps.maps"]
+      "packages": [
+        "com.google.android.apps.maps"
+      ]
     },
     {
       "name": "mask",
-      "packages": ["icon_mask", "icon_pattern"]
-    },    {
+      "packages": [
+        "icon_mask",
+        "icon_pattern"
+      ]
+    },
+    {
       "name": "icon_border",
-      "packages": ["icon_border"]
+      "packages": [
+        "icon_border"
+      ]
     },
     {
       "name": "measure",
-      "packages": ["com.hihonor.ar.measure", "com.huawei.ar.measure"]
+      "packages": [
+        "com.hihonor.ar.measure",
+        "com.huawei.ar.measure"
+      ]
     },
     {
       "name": "meetime",
-      "packages": ["com.huawei.hwvoipservice", "com.huawei.meetime"]
+      "packages": [
+        "com.huawei.hwvoipservice",
+        "com.huawei.meetime"
+      ]
     },
     {
       "name": "messanger",
-      "packages": ["com.facebook.mlite", "com.facebook.orca"]
+      "packages": [
+        "com.facebook.mlite",
+        "com.facebook.orca"
+      ]
     },
     {
       "name": "mega",
-      "packages": ["nz.mega.android", "mega.privacy.android.app"]
+      "packages": [
+        "nz.mega.android",
+        "mega.privacy.android.app"
+      ]
     },
     {
       "name": "messanger_lite",
-      "packages": ["com.facebook.mlite"]
+      "packages": [
+        "com.facebook.mlite"
+      ]
     },
     {
       "name": "minecraft",
-      "packages": ["com.mojang.minecraftpe", "com.netease.mc.mi"]
+      "packages": [
+        "com.mojang.minecraftpe",
+        "com.netease.mc.mi"
+      ]
     },
     {
       "name": "mirror",
@@ -602,6 +839,7 @@
       "name": "music",
       "packages": [
         "com.android.mediacenter",
+        "com.hihonor.hnmusicplayer",
         "com.android.music",
         "com.huawei.music",
         "com.miui.player",
@@ -610,11 +848,16 @@
     },
     {
       "name": "mx",
-      "packages": ["com.mxtech.videoplayer.ad", "com.mxtech.videoplayer.pro"]
+      "packages": [
+        "com.mxtech.videoplayer.ad",
+        "com.mxtech.videoplayer.pro"
+      ]
     },
     {
       "name": "myhonor",
-      "packages": ["com.hihonor.phoneservice"]
+      "packages": [
+        "com.hihonor.phoneservice"
+      ]
     },
     {
       "name": "netflix",
@@ -625,11 +868,15 @@
     },
     {
       "name": "notion",
-      "packages": ["notion.id"]
+      "packages": [
+        "notion.id"
+      ]
     },
     {
       "name": "nordvpn",
-      "packages": ["com.nordvpn.android"]
+      "packages": [
+        "com.nordvpn.android"
+      ]
     },
     {
       "name": "notes",
@@ -642,15 +889,21 @@
     },
     {
       "name": "office",
-      "packages": ["com.microsoft.office.officehubrow"]
+      "packages": [
+        "com.microsoft.office.officehubrow"
+      ]
     },
     {
       "name": "officesuite",
-      "packages": ["com.mobisystems.office"]
+      "packages": [
+        "com.mobisystems.office"
+      ]
     },
     {
       "name": "openvpn",
-      "packages": ["net.openvpn.openvpn"]
+      "packages": [
+        "net.openvpn.openvpn"
+      ]
     },
     {
       "name": "opera",
@@ -662,20 +915,28 @@
     },
     {
       "name": "operat",
-      "packages": ["com.opera.touch"]
+      "packages": [
+        "com.opera.touch"
+      ]
     },
     {
       "name": "palette",
-      "packages": ["h7.hamzio.palette"]
+      "packages": [
+        "h7.hamzio.palette"
+      ]
     },
     {
       "name": "peafowl",
-      "packages": ["h7.hamzio.emuithemeotg"]
+      "packages": [
+        "h7.hamzio.emuithemeotg"
+      ]
     },
-
     {
       "name": "paypal",
-      "packages": ["com.paypal.android.p2pmobile", "com.paypal.merchant.client"]
+      "packages": [
+        "com.paypal.android.p2pmobile",
+        "com.paypal.merchant.client"
+      ]
     },
     {
       "name": "phone",
@@ -696,45 +957,70 @@
     },
     {
       "name": "pinterest",
-      "packages": ["com.pinterest"]
+      "packages": [
+        "com.pinterest"
+      ]
     },
     {
       "name": "playgames",
-      "packages": ["com.google.android.play.games"]
+      "packages": [
+        "com.google.android.play.games"
+      ]
     },
     {
       "name": "playmusic",
-      "packages": ["com.google.android.music"]
-    },    {
+      "packages": [
+        "com.google.android.music"
+      ]
+    },
+    {
       "name": "outlook",
-      "packages": ["com.microsoft.office.outlook"]
+      "packages": [
+        "com.microsoft.office.outlook"
+      ]
     },
     {
       "name": "plus_messenger",
-      "packages": ["org.telegram.plus"]
-    },    {
+      "packages": [
+        "org.telegram.plus"
+      ]
+    },
+    {
       "name": "onenote",
-      "packages": ["com.microsoft.office.onenote"]
+      "packages": [
+        "com.microsoft.office.onenote"
+      ]
     },
     {
       "name": "pmap",
-      "packages": ["com.huawei.maps.app"]
+      "packages": [
+        "com.huawei.maps.app"
+      ]
     },
     {
       "name": "pocket",
-      "packages": ["com.ideashower.readitlater.pro"]
+      "packages": [
+        "com.ideashower.readitlater.pro"
+      ]
     },
     {
       "name": "powerpoint",
-      "packages": ["com.microsoft.office.powerpoint"]
+      "packages": [
+        "com.microsoft.office.powerpoint"
+      ]
     },
     {
       "name": "proton",
-      "packages": ["ch.protonvpn.android"]
+      "packages": [
+        "ch.protonvpn.android"
+      ]
     },
     {
       "name": "psearch",
-      "packages": ["com.huawei.hwsearch", "com.huawei.search"]
+      "packages": [
+        "com.huawei.hwsearch",
+        "com.huawei.search"
+      ]
     },
     {
       "name": "pubg",
@@ -747,26 +1033,40 @@
     },
     {
       "name": "qq",
-      "packages": ["com.tencent.mobileqq"]
+      "packages": [
+        "com.tencent.mobileqq"
+      ]
     },
     {
       "name": "qq_browser",
-      "packages": ["com.tencent.mtt"]
+      "packages": [
+        "com.tencent.mtt"
+      ]
     },
     {
       "name": "qqmusic",
-      "packages": ["com.tencent.qqmusic"]
+      "packages": [
+        "com.tencent.qqmusic"
+      ]
     },
     {
       "name": "radio",
-      "packages": ["com.huawei.android.FMRadio", "com.hihonor.android.fmradio"]
+      "packages": [
+        "com.huawei.android.FMRadio",
+        "com.hihonor.android.fmradio"
+      ]
     },
     {
       "name": "epic",
-      "packages": ["com.epicgames.portal"]
-    },    {
+      "packages": [
+        "com.epicgames.portal"
+      ]
+    },
+    {
       "name": "winrar",
-      "packages": ["com.rarlab.rar"]
+      "packages": [
+        "com.rarlab.rar"
+      ]
     },
     {
       "name": "recorder",
@@ -778,7 +1078,9 @@
     },
     {
       "name": "reddit",
-      "packages": ["com.reddit.frontpage"]
+      "packages": [
+        "com.reddit.frontpage"
+      ]
     },
     {
       "name": "remote",
@@ -789,22 +1091,34 @@
     },
     {
       "name": "settings",
-      "packages": ["com.android.settings"]
+      "packages": [
+        "com.android.settings"
+      ]
     },
     {
       "name": "share",
-      "packages": ["com.xiaomi.midrop"]
+      "packages": [
+        "com.xiaomi.midrop"
+      ]
     },
     {
       "name": "shareit",
-      "packages": ["com.lenovo.anyshare.gps", "shareit.lite"]
+      "packages": [
+        "com.lenovo.anyshare.gps",
+        "shareit.lite"
+      ]
     },
     {
       "name": "shazam",
-      "packages": ["com.shazam.android"]
-    },    {
+      "packages": [
+        "com.shazam.android"
+      ]
+    },
+    {
       "name": "skydrive",
-      "packages": ["com.microsoft.skydrive"]
+      "packages": [
+        "com.microsoft.skydrive"
+      ]
     },
     {
       "name": "shop",
@@ -819,7 +1133,9 @@
     },
     {
       "name": "signal",
-      "packages": ["org.thoughtcrime.securesms"]
+      "packages": [
+        "org.thoughtcrime.securesms"
+      ]
     },
     {
       "name": "sim",
@@ -842,7 +1158,9 @@
     },
     {
       "name": "skydrive",
-      "packages": ["com.microsoft.skydrive"]
+      "packages": [
+        "com.microsoft.skydrive"
+      ]
     },
     {
       "name": "skype",
@@ -854,15 +1172,21 @@
     },
     {
       "name": "skytone",
-      "packages": ["com.huawei.hiskytone"]
+      "packages": [
+        "com.huawei.hiskytone"
+      ]
     },
     {
       "name": "slack",
-      "packages": ["com.Slack"]
+      "packages": [
+        "com.Slack"
+      ]
     },
     {
       "name": "smarthome",
-      "packages": ["com.huawei.smarthome"]
+      "packages": [
+        "com.huawei.smarthome"
+      ]
     },
     {
       "name": "sms",
@@ -874,26 +1198,41 @@
     },
     {
       "name": "snapchat",
-      "packages": ["com.snapchat.android"]
-    },    {
+      "packages": [
+        "com.snapchat.android"
+      ]
+    },
+    {
       "name": "wps",
-      "packages": ["cn.wps.moffice_i18n", "cn.wps.moffice_eng"]
+      "packages": [
+        "cn.wps.moffice_i18n",
+        "cn.wps.moffice_eng"
+      ]
     },
     {
       "name": "snapp",
-      "packages": ["cab.snapp.passenger", "com.ubercab.driver"]
+      "packages": [
+        "cab.snapp.passenger",
+        "com.ubercab.driver"
+      ]
     },
     {
       "name": "snapseed",
-      "packages": ["com.niksoftware.snapseed"]
+      "packages": [
+        "com.niksoftware.snapseed"
+      ]
     },
     {
       "name": "soundcloud",
-      "packages": ["com.soundcloud.android"]
+      "packages": [
+        "com.soundcloud.android"
+      ]
     },
     {
       "name": "soundcloud",
-      "packages": ["com.soundcloud.android"]
+      "packages": [
+        "com.soundcloud.android"
+      ]
     },
     {
       "name": "soundhound",
@@ -904,21 +1243,28 @@
     },
     {
       "name": "spotify",
-      "packages": ["com.spotify.music"]
+      "packages": [
+        "com.spotify.music"
+      ]
     },
     {
       "name": "store",
-      "packages": ["com.android.vending"]
+      "packages": [
+        "com.android.vending"
+      ]
     },
     {
       "name": "stylus",
-      "packages": ["com.hihonor.stylus.mpenzone"]
+      "packages": [
+        "com.hihonor.stylus.mpenzone"
+      ]
     },
     {
       "name": "support",
       "packages": [
         "com.huawei.mycenter",
         "com.huawei.phoneservice",
+        "com.hihonor.phoneservice",
         "com.mi.misupport",
         "com.miui.bugreport"
       ]
@@ -936,19 +1282,27 @@
     },
     {
       "name": "telegram",
-      "packages": ["org.telegram.messenger"]
+      "packages": [
+        "org.telegram.messenger"
+      ]
     },
     {
       "name": "tradingview",
-      "packages": ["com.tradingview.tradingviewapp"]
+      "packages": [
+        "com.tradingview.tradingviewapp"
+      ]
     },
     {
       "name": "telegramx",
-      "packages": ["org.thunderdog.challegram"]
+      "packages": [
+        "org.thunderdog.challegram"
+      ]
     },
     {
       "name": "tencent_video",
-      "packages": ["com.tencent.qqlive"]
+      "packages": [
+        "com.tencent.qqlive"
+      ]
     },
     {
       "name": "themes",
@@ -960,7 +1314,10 @@
     },
     {
       "name": "thermometer",
-      "packages": ["com.hihonor.thermometer", "com.huawei.thermometer"]
+      "packages": [
+        "com.hihonor.thermometer",
+        "com.huawei.thermometer"
+      ]
     },
     {
       "name": "tiktok",
@@ -982,30 +1339,47 @@
     },
     {
       "name": "todo",
-      "packages": ["com.microsoft.todos"]
+      "packages": [
+        "com.microsoft.todos"
+      ]
     },
     {
       "name": "todoist",
-      "packages": ["com.todoist"]
+      "packages": [
+        "com.todoist"
+      ]
     },
     {
       "name": "truecaller",
-      "packages": ["com.truecaller"]
+      "packages": [
+        "com.truecaller"
+      ]
     },
     {
       "name": "tweet",
-      "packages": ["com.twitter.android", "com.twitter.android.lite"]
-    },    {
+      "packages": [
+        "com.twitter.android",
+        "com.twitter.android.lite"
+      ]
+    },
+    {
       "name": "tweeter",
-      "packages": ["com.twitter.android", "com.twitter.android.lite"]
+      "packages": [
+        "com.twitter.android",
+        "com.twitter.android.lite"
+      ]
     },
     {
       "name": "twitch",
-      "packages": ["tv.twitch.android.app"]
+      "packages": [
+        "tv.twitch.android.app"
+      ]
     },
     {
       "name": "uber",
-      "packages": ["com.ubercab"]
+      "packages": [
+        "com.ubercab"
+      ]
     },
     {
       "name": "uc_browser",
@@ -1019,21 +1393,28 @@
     },
     {
       "name": "vassistant",
-      "packages": ["com.huawei.vassistant"]
+      "packages": [
+        "com.huawei.vassistant"
+      ]
     },
     {
       "name": "vcl",
-      "packages": ["org.videolan.vlc"]
+      "packages": [
+        "org.videolan.vlc"
+      ]
     },
     {
       "name": "viber",
-      "packages": ["com.viber.voip"]
+      "packages": [
+        "com.viber.voip"
+      ]
     },
     {
       "name": "videos",
       "packages": [
         "com.huawei.himovie",
         "com.huawei.himovie.overseas",
+        "com.hihonor.hnvideoplayer",
         "com.huawei.hwvplayer",
         "com.huawei.hwvplayer.youku",
         "com.miui.video",
@@ -1050,27 +1431,41 @@
     },
     {
       "name": "vk",
-      "packages": ["com.vkontakte.android"]
+      "packages": [
+        "com.vkontakte.android"
+      ]
     },
     {
       "name": "vmall",
-      "packages": ["com.hihonor.vmall", "com.huawei.vmall", "com.vmall.client"]
+      "packages": [
+        "com.hihonor.vmall",
+        "com.huawei.vmall",
+        "com.vmall.client"
+      ]
     },
     {
       "name": "vr",
-      "packages": ["com.huawei.hwmarket.vr"]
+      "packages": [
+        "com.huawei.hwmarket.vr"
+      ]
     },
     {
       "name": "wallet",
-      "packages": ["com.huawei.wallet"]
+      "packages": [
+        "com.huawei.wallet"
+      ]
     },
     {
       "name": "walmart",
-      "packages": ["com.walmart.android"]
+      "packages": [
+        "com.walmart.android"
+      ]
     },
     {
       "name": "waze",
-      "packages": ["com.waze"]
+      "packages": [
+        "com.waze"
+      ]
     },
     {
       "name": "weather",
@@ -1083,58 +1478,89 @@
     },
     {
       "name": "wechat",
-      "packages": ["com.tencent.mm"]
+      "packages": [
+        "com.tencent.mm"
+      ]
     },
     {
       "name": "weibo",
-      "packages": ["com.sina.weibo", "com.weico.international"]
+      "packages": [
+        "com.sina.weibo",
+        "com.weico.international"
+      ]
     },
     {
       "name": "welink",
-      "packages": ["com.huawei.welinknow"]
+      "packages": [
+        "com.huawei.welinknow"
+      ]
     },
     {
       "name": "whatsapp",
-      "packages": ["com.whatsapp"]
+      "packages": [
+        "com.whatsapp"
+      ]
     },
     {
       "name": "whatsappb",
-      "packages": ["com.whatsapp.w4b"]
+      "packages": [
+        "com.whatsapp.w4b"
+      ]
     },
     {
       "name": "whatsappb",
-      "packages": ["com.whatsapp.w4b"]
+      "packages": [
+        "com.whatsapp.w4b"
+      ]
     },
     {
       "name": "word",
-      "packages": ["com.microsoft.office.word"]
+      "packages": [
+        "com.microsoft.office.word"
+      ]
     },
     {
       "name": "youtube",
-      "packages": ["com.google.android.youtube"]
+      "packages": [
+        "com.google.android.youtube"
+      ]
     },
     {
       "name": "youtube_vanced",
-      "packages": ["com.vanced.android.youtube"]
+      "packages": [
+        "com.vanced.android.youtube"
+      ]
     },
     {
       "name": "youtube_vancedm",
-      "packages": ["com.vanced.android.apps.youtube.music"]
+      "packages": [
+        "com.vanced.android.apps.youtube.music"
+      ]
     },
     {
       "name": "youtubem",
-      "packages": ["com.google.android.apps.youtube.music"]
-    },    {
+      "packages": [
+        "com.google.android.apps.youtube.music"
+      ]
+    },
+    {
       "name": "gauth",
-      "packages": ["com.google.android.apps.authenticator2"]
+      "packages": [
+        "com.google.android.apps.authenticator2"
+      ]
     },
     {
       "name": "ytstudio",
-      "packages": ["com.google.android.apps.youtube.creator"]
+      "packages": [
+        "com.google.android.apps.youtube.creator"
+      ]
     },
     {
       "name": "zoom",
-      "packages": ["us.zoom.videomeetings", "us.zoom.videomeetings4intune"]
+      "packages": [
+        "us.zoom.videomeetings",
+        "us.zoom.videomeetings4intune"
+      ]
     }
   ],
   "files": [
@@ -1165,7 +1591,10 @@
     },
     {
       "name": "recent",
-      "packages": ["category_icon_recent", "category_icon_recent_new"]
+      "packages": [
+        "category_icon_recent",
+        "category_icon_recent_new"
+      ]
     },
     {
       "name": "zip",
