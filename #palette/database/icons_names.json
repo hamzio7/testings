@@ -1057,6 +1057,13 @@
       ]
     },
     {
+      "name": "fm",
+      "packages": [
+        "com.huawei.android.FMRadio",
+        "com.hihonor.android.fmradio"
+      ]
+    },
+    {
       "name": "epic",
       "packages": [
         "com.epicgames.portal"
