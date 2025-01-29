@@ -2,6 +2,11 @@
   "adaptive": [
     {
       "adaptive": true,
+      "_id": "a_oneui_seven",
+      "pro": true
+    },
+    {
+      "adaptive": true,
       "_id": "a_ios_18_dark_alt",
       "pro": true
     },
