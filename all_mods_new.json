@@ -47,6 +47,10 @@
   ],
   "settings_icons": [
     {
+      "name": "hyperos",
+      "isColored": false
+    },
+    {
       "name": "plumpy",
       "isColored": true
     },
