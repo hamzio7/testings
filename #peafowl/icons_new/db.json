@@ -7,11 +7,6 @@
     },
     {
       "adaptive": true,
-      "_id": "a_oneui_seven",
-      "pro": false
-    },
-    {
-      "adaptive": true,
       "_id": "a_ios_18_dark_alt",
       "pro": true
     },
