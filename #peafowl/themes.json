@@ -1,6 +1,52 @@
 {
   "themes": [
     {
+      "theme_name": "Squid Game",
+      "theme_base": "dark",
+      "folder_name": "squidgame",
+      "category": [
+        0,
+        1,
+        3
+      ],
+      "colors": {
+        "accent": "ffe83e7d",
+        "actionbar": "ff181a26",
+        "background": "ff13161f",
+        "cal_bg": "ff13161f",
+        "cal_date": "ffe83e7d",
+        "calculator": "ffe83e7d",
+        "dialenums": "ffe83e7d",
+        "dialer": "ffe83e7d",
+        "dialpad": "ff181a26",
+        "folder": "ff13161f",
+        "nots_bg": "ff13161f",
+        "optimizer": "ffe83e7d",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ffe83e7d",
+        "settings": "ffe83e7d",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ffe83e7d",
+        "systemui": "ffe83e7d",
+        "systemui_off": "ff13161f"
+      },
+      "sku": "squidgame",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
+      ]
+    },
+    {
       "theme_name": "Fallout",
       "theme_base": "dark",
       "folder_name": "fallout",
