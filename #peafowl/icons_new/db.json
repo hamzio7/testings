@@ -2,6 +2,11 @@
   "adaptive": [
     {
       "adaptive": true,
+      "_id": "a_redmi",
+      "pro": true
+    },
+    {
+      "adaptive": true,
       "_id": "a_oneui_seven_larger",
       "pro": false
     },
