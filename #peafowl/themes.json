@@ -1,6 +1,52 @@
 {
   "themes": [
     {
+      "theme_name": "Dark Magic",
+      "theme_base": "dark",
+      "folder_name": "darkmagic",
+      "category": [
+        0,
+        1,
+        6
+      ],
+      "colors": {
+        "accent": "ff468eec",
+        "actionbar": "ff141414",
+        "background": "ff0d0d0d",
+        "cal_bg": "ff141414",
+        "cal_date": "ff468eec",
+        "calculator": "ff468eec",
+        "dialenums": "ff468eec",
+        "dialer": "ff468eec",
+        "dialpad": "ff141414",
+        "folder": "ff141414",
+        "nots_bg": "ff141414",
+        "optimizer": "ff468eec",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff468eec",
+        "settings": "ff468eec",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff468eec",
+        "systemui": "ff468eec",
+        "systemui_off": "ff141414"
+      },
+      "sku": "darkmagic",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
+      ]
+    },
+    {
       "theme_name": "DarkiOS 18",
       "theme_base": "dark",
       "folder_name": "darkios",
