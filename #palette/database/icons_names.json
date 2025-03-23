@@ -1338,7 +1338,8 @@
         {
             "name": "smarthome",
             "packages": [
-                "com.huawei.smarthome"
+                "com.huawei.smarthome",
+                "com.hihonor.magichome"
             ]
         },
         {
