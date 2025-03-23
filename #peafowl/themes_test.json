@@ -1,7 +1,7 @@
 {
   "themes": [
     {
-      "theme_name": "MiDark",
+      "theme_name": "HyperDark",
       "theme_base": "dark",
       "folder_name": "midark",
       "category": [
@@ -10,25 +10,25 @@
         6
       ],
       "colors": {
-        "accent": "ffe7000a",
-        "actionbar": "ff141418",
-        "background": "ff0d0d0f",
-        "cal_bg": "ff141418",
-        "cal_date": "ffe7000a",
-        "calculator": "ffe7000a",
+        "accent": "ff5c85d6",
+        "actionbar": "ff0b0c0f",
+        "background": "ff07080a",
+        "cal_bg": "ff0b0c0f",
+        "cal_date": "ff5c85d6",
+        "calculator": "ff5c85d6",
         "dialenums": "ffffffff",
-        "dialer": "ffe7000a",
-        "dialpad": "ff141418",
-        "folder": "ff141418",
-        "nots_bg": "ff141418",
-        "optimizer": "ffe7000a",
+        "dialer": "ff5c85d6",
+        "dialpad": "ff0b0c0f",
+        "folder": "ff0b0c0f",
+        "nots_bg": "ff0b0c0f",
+        "optimizer": "ff5c85d6",
         "optimizer_icons": "ffffffff",
-        "optimizer_tiles": "ffe7000a",
-        "settings": "ffe7000a",
+        "optimizer_tiles": "ff5c85d6",
+        "settings": "ff5c85d6",
         "settings_icons": "ffffffff",
-        "settings_tiles": "ffe7000a",
-        "systemui": "ffe7000a",
-        "systemui_off": "ff141418"
+        "settings_tiles": "ff5c85d6",
+        "systemui": "ff5c85d6",
+        "systemui_off": "ff0b0c0f"
       },
       "sku": "darkmagic",
       "contents": [
