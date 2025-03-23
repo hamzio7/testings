@@ -9,7 +9,8 @@
         {
             "name": "zarchiver",
             "packages": [
-                "ru.zdevs.zarchiver"
+                "ru.zdevs.zarchiver",
+                "ru.zdevs.zarchiver.pro"
             ]
         },
         {
