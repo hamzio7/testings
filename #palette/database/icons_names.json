@@ -1,6 +1,78 @@
 {
     "apps": [
         {
+            "name": "yahoo",
+            "packages": [
+                "com.yahoo.mobile.client.android.search"
+            ]
+        },
+        {
+            "name": "zarchiver",
+            "packages": [
+                "ru.zdevs.zarchiver"
+            ]
+        },
+        {
+            "name": "playstation",
+            "packages": [
+                "com.scee.psxandroid"
+            ]
+        },
+        {
+            "name": "evernote",
+            "packages": [
+                "com.evernote"
+            ]
+        },
+        {
+            "name": "copilot",
+            "packages": [
+                "com.microsoft.copilot"
+            ]
+        },
+        {
+            "name": "slack",
+            "packages": [
+                "com.Slack"
+            ]
+        },
+        {
+            "name": "tinder",
+            "packages": [
+                "com.tinder"
+            ]
+        },
+        {
+            "name": "likee",
+            "packages": [
+                "video.like"
+            ]
+        },
+        {
+            "name": "tumblr",
+            "packages": [
+                "com.tumblr"
+            ]
+        },
+        {
+            "name": "hulu",
+            "packages": [
+                "com.hulu.plus"
+            ]
+        },
+        {
+            "name": "vodafone",
+            "packages": [
+                "com.myvodafoneapp"
+            ]
+        },
+        {
+            "name": "brave",
+            "packages": [
+                "com.brave.browser"
+            ]
+        },
+        {
             "name": "bluesky",
             "packages": [
                 "xyz.blueskyweb.app"
