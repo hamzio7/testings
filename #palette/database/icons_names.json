@@ -1,6 +1,12 @@
 {
     "apps": [
         {
+            "name": "voiceaccess",
+            "packages": [
+                "com.google.android.apps.accessibility.voiceaccess"
+            ]
+        },
+        {
             "name": "gopinion",
             "packages": [
                 "com.google.android.apps.paidtasks"
