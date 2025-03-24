@@ -987,12 +987,6 @@
             ]
         },
         {
-            "name": "honor_ai_space",
-            "packages": [
-                "com.hihonor.magichome"
-            ]
-        },
-        {
             "name": "hwreader",
             "packages": [
                 "com.huawei.hnreader",
