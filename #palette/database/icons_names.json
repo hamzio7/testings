@@ -1,16 +1,124 @@
 {
     "apps": [
         {
+            "name": "gopinion",
+            "packages": [
+                "com.google.android.apps.paidtasks"
+            ]
+        },
+        {
+            "name": "anydo",
+            "packages": [
+                "com.anydo"
+            ]
+        },
+        {
+            "name": "adidas",
+            "packages": [
+                "com.adidas.app"
+            ]
+        },
+        {
+            "name": "etsy",
+            "packages": [
+                "com.etsy.android"
+            ]
+        },
+        {
+            "name": "alibaba",
+            "packages": [
+                "com.alibaba.aliexpresshd"
+            ]
+        },
+        {
+            "name": "noon",
+            "packages": [
+                "com.noon.buyerapp"
+            ]
+        },
+        {
+            "name": "vivaldi",
+            "packages": [
+                "com.vivaldi.browser"
+            ]
+        },
+        {
+            "name": "anydesk",
+            "packages": [
+                "com.anydesk.anydeskandroid"
+            ]
+        },
+        {
+            "name": "temu",
+            "packages": [
+                "com.einnovation.temu"
+            ]
+        },
+        {
+            "name": "gadmin",
+            "packages": [
+                "com.google.android.apps.enterprise.cpanel"
+            ]
+        },
+        {
+            "name": "fitbit",
+            "packages": [
+                "com.fitbit.FitbitMobile"
+            ]
+        },
+        {
+            "name": "gads",
+            "packages": [
+                "com.google.android.apps.adwords"
+            ]
+        },
+        {
+            "name": "gswitch",
+            "packages": [
+                "com.google.android.apps.restore"
+            ]
+        },
+        {
+            "name": "gthermo",
+            "packages": [
+                "com.google.android.apps.pixel.health"
+            ]
+        },
+        {
+            "name": "ytkids",
+            "packages": [
+                "com.google.android.apps.youtube.kids"
+            ]
+        },
+        {
+            "name": "wallapop",
+            "packages": [
+                "com.wallapop"
+            ]
+        },
+        {
+            "name": "ing",
+            "packages": [
+                "www.ingdirect.nativeframe",
+                "com.ing.mobile"
+            ]
+        },
+        {
             "name": "yahoo",
             "packages": [
                 "com.yahoo.mobile.client.android.search"
             ]
         },
         {
+            "name": "zarchiverpro",
+            "packages": [
+                "ru.zdevs.zarchiver.pro"
+            ]
+        },
+        {
             "name": "zarchiver",
             "packages": [
-                "ru.zdevs.zarchiver",
-                "ru.zdevs.zarchiver.pro"
+                "ru.zdevs.zarchiver"
             ]
         },
         {
@@ -160,7 +268,7 @@
             ]
         },
         {
-            "name": "amazon_prime",
+            "name": "amazon_prime_video",
             "packages": [
                 "com.amazon.avod.thirdpartyclient"
             ]
@@ -465,10 +573,15 @@
         {
             "name": "find",
             "packages": [
-                "com.google.android.apps.adm",
                 "com.hihonor.findmydevice",
                 "com.huawei.android.findmyphone",
                 "com.huawei.android.findmyphone"
+            ]
+        },
+        {
+            "name": "gfind",
+            "packages": [
+                "com.google.android.apps.adm"
             ]
         },
         {
@@ -720,6 +833,12 @@
             "name": "gpixelbuds",
             "packages": [
                 "com.google.android.apps.wearables.maestro.companion"
+            ]
+        },
+        {
+            "name": "gpixelwatch",
+            "packages": [
+                "com.google.android.apps.wear.companion"
             ]
         },
         {
