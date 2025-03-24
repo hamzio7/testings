@@ -239,7 +239,12 @@
         {
             "name": "teamviewer",
             "packages": [
-                "com.teamviewer.quicksupport.market"
+                "com.teamviewer.teamviewer.market.mobile",
+                "com.teamviewer.remotecontrollib.activity.MainActivity",
+                "com.teamviewer.teamviewer.activity.MainActivity",
+                "com.teamviewer.teamviewerlib.gui.MainActivity",
+                "com.teamviewer.quicksupport.market",
+                "com.teamviewer.teamviewerlib.activity.MainActivity"
             ]
         },
         {
