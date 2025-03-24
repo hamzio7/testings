@@ -1,6 +1,13 @@
 {
     "apps": [
         {
+            "name": "smarthome",
+            "packages": [
+                "com.hihonor.magichome",
+                "com.huawei.smarthome"
+            ]
+        },
+        {
             "name": "voiceaccess",
             "packages": [
                 "com.google.android.apps.accessibility.voiceaccess"
@@ -105,6 +112,18 @@
         {
             "name": "ing",
             "packages": [
+                "au.com.ingdirect.android",
+                "au.com.ingdirect.android.ui.WelcomeActivity",
+                "de.ingdiba.bankingapp",
+                "pl.ing.mojeing",
+                "com.ing.asia.mobile",
+                "com.ing.asia.mobile.presentation.activity.SplashActivity",
+                "pl.ing.mojeing.WebViewActivity",
+                "com.ing.mobile.diba.startup.SplashActivity",
+                "com.ing.mobile",
+                "com.ing.mobile.app.activities.SplashActivity",
+                "es.ingdirect.www.main.ui.MainRouterActivity",
+                "es.ingdirect.www.LandingActivity",
                 "www.ingdirect.nativeframe",
                 "com.ing.mobile"
             ]
@@ -844,7 +863,9 @@
         {
             "name": "gpixelwatch",
             "packages": [
-                "com.google.android.apps.wear.companion"
+                "com.google.android.apps.wear.companion",
+                "com.google.android.apps.wear.companion.core.application.RootActivity",
+                "com.google.android.apps.wear.companion.application.RootActivity"
             ]
         },
         {
@@ -1458,13 +1479,6 @@
             "name": "slack",
             "packages": [
                 "com.Slack"
-            ]
-        },
-        {
-            "name": "smarthome",
-            "packages": [
-                "com.huawei.smarthome",
-                "com.hihonor.magichome"
             ]
         },
         {
