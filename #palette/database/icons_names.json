@@ -136,7 +136,7 @@
             ]
         },
         {
-            "name": "crunchyroll",
+            "name": "crunchroll",
             "packages": [
                 "com.crunchyroll.crunchyroid"
             ]
@@ -1017,6 +1017,7 @@
         {
             "name": "disney",
             "packages": [
+                "com.disneyplus.mea",
                 "com.disney.disneyplus"
             ]
         },
