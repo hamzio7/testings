@@ -8,9 +8,516 @@
             ]
         },
         {
+            "name": "amazon_alexa",
+            "packages": [
+                "com.amazon.dee.alexaonwearos",
+                "com.amazon.dee.app"
+            ]
+        },
+        {
+            "name": "apple_tv",
+            "packages": [
+                "com.apple.atve.androidtv.appletv",
+                "com.apple.atve.sony.appletv"
+            ]
+        },
+        {
+            "name": "audible",
+            "packages": [
+                "com.audible.application"
+            ]
+        },
+        {
+            "name": "rave",
+            "packages": [
+                "com.wemesh.android"
+            ]
+        },
+        {
+            "name": "quora",
+            "packages": [
+                "com.quora.android"
+            ]
+        },
+        {
+            "name": "peeks",
+            "packages": [
+                "com.keek"
+            ]
+        },
+        {
+            "name": "patreon",
+            "packages": [
+                "com.patreon.android"
+            ]
+        },
+        {
+            "name": "ok",
+            "packages": [
+                "ru.ok.android"
+            ]
+        },
+        {
+            "name": "mcdonalds",
+            "packages": [
+                "com.mcdonalds.mobileapp"
+            ]
+        },
+        {
+            "name": "kickstarter",
+            "packages": [
+                "com.kickstarter.kickstarter"
+            ]
+        },
+        {
+            "name": "ticktick",
+            "packages": [
+                "com.ticktick.task"
+            ]
+        },
+        {
+            "name": "yahooweather",
+            "packages": [
+                "com.yahoo.mobile.client.android.weather"
+            ]
+        },
+        {
+            "name": "yahoomail",
+            "packages": [
+                "com.yahoo.mobile.client.android.mail"
+            ]
+        },
+        {
+            "name": "wise",
+            "packages": [
+                "com.transferwise.android"
+            ]
+        },
+        {
+            "name": "wikimedia",
+            "packages": [
+                "fr.free.nrw.commons"
+            ]
+        },
+        {
+            "name": "wikipedia",
+            "packages": [
+                "org.wikipedia"
+            ]
+        },
+        {
+            "name": "wikipedia_b",
+            "packages": [
+                "org.wikipedia.beta"
+            ]
+        },
+        {
+            "name": "trivago",
+            "packages": [
+                "com.trivago"
+            ]
+        },
+        {
+            "name": "truth",
+            "packages": [
+                "com.truthsocial.android.app"
+            ]
+        },
+        {
+            "name": "espn",
+            "packages": [
+                "com.espn.score_center"
+            ]
+        },
+        {
+            "name": "duckduckgo",
+            "packages": [
+                "com.duckduckgo.mobile.android"
+            ]
+        },
+        {
+            "name": "crunchyroll",
+            "packages": [
+                "com.crunchyroll.crunchyroid"
+            ]
+        },
+        {
+            "name": "clubhouse",
+            "packages": [
+                "com.clubhouse.app"
+            ]
+        },
+        {
+            "name": "chamet",
+            "packages": [
+                "com.hkfuliao.chamet"
+            ]
+        },
+        {
+            "name": "boo",
+            "packages": [
+                "enterprises.dating.boo"
+            ]
+        },
+        {
+            "name": "accuweather",
+            "packages": [
+                "com.accuweather.android"
+            ]
+        },
+        {
+            "name": "imdb",
+            "packages": [
+                "com.imdb.mobile"
+            ]
+        },
+        {
+            "name": "imdb_pro",
+            "packages": [
+                "com.imdb.pro.mobile.android"
+            ]
+        },
+        {
+            "name": "shopify",
+            "packages": [
+                "com.shopify.mobile"
+            ]
+        },
+        {
+            "name": "threads",
+            "packages": [
+                "com.instagram.barcelona"
+            ]
+        },
+        {
+            "name": "shein",
+            "packages": [
+                "com.zzkko"
+            ]
+        },
+        {
+            "name": "apple_music_classic",
+            "packages": [
+                "com.apple.android.music.classical"
+            ]
+        },
+        {
+            "name": "amazon_seller",
+            "packages": [
+                "com.amazon.sellermobile.android"
+            ]
+        },
+        {
+            "name": "amazon_firetv",
+            "packages": [
+                "com.amazon.storm.lightning.client.aosp"
+            ]
+        },
+        {
+            "name": "amazon_music",
+            "packages": [
+                "com.amazon.mp3"
+            ]
+        },
+        {
+            "name": "amazon_photos",
+            "packages": [
+                "com.amazon.clouddrive.photos"
+            ]
+        },
+        {
+            "name": "amazon_flex",
+            "packages": [
+                "com.amazon.flex.rabbit"
+            ]
+        },
+        {
+            "name": "ms_designer",
+            "packages": [
+                "com.microsoft.designer"
+            ]
+        },
+        {
+            "name": "ms_planner",
+            "packages": [
+                "com.microsoft.planner"
+            ]
+        },
+        {
+            "name": "msn",
+            "packages": [
+                "com.microsoft.amp.apps.bingnews"
+            ]
+        },
+        {
+            "name": "ms_powerbi",
+            "packages": [
+                "com.microsoft.powerbim"
+            ]
+        },
+        {
+            "name": "ms_sharepoint",
+            "packages": [
+                "com.microsoft.sharepoint"
+            ]
+        },
+        {
+            "name": "msn_weather",
+            "packages": [
+                "com.microsoft.amp.apps.bingweather"
+            ]
+        },
+        {
+            "name": "ms_linktowin",
+            "packages": [
+                "com.microsoft.appmanager"
+            ]
+        },
+        {
+            "name": "ms_whiteboard",
+            "packages": [
+                "com.microsoft.whiteboard.publicpreview"
+            ]
+        },
+        {
+            "name": "ms_powerapps",
+            "packages": [
+                "com.microsoft.msapps"
+            ]
+        },
+        {
+            "name": "ms_remotedesktop",
+            "packages": [
+                "com.microsoft.rdc.androidx"
+            ]
+        },
+        {
+            "name": "ms_remotedesktop8",
+            "packages": [
+                "com.microsoft.rdc.android"
+            ]
+        },
+        {
+            "name": "ms_copilot365",
+            "packages": [
+                "com.microsoft.office.officehubrow"
+            ]
+        },
+        {
+            "name": "ms_auth",
+            "packages": [
+                "com.azure.authenticator"
+            ]
+        },
+        {
             "name": "voiceaccess",
             "packages": [
                 "com.google.android.apps.accessibility.voiceaccess"
+            ]
+        },
+        {
+            "name": "proton_wallet",
+            "packages": [
+                "me.proton.wallet.android"
+            ]
+        },
+        {
+            "name": "proton_calendar",
+            "packages": [
+                "me.proton.android.calendar"
+            ]
+        },
+        {
+            "name": "proton_drive",
+            "packages": [
+                "me.proton.android.drive"
+            ]
+        },
+        {
+            "name": "proton_mail",
+            "packages": [
+                "ch.protonmail.android"
+            ]
+        },
+        {
+            "name": "proton_pass",
+            "packages": [
+                "proton.android.pass"
+            ]
+        },
+        {
+            "name": "adobe_express",
+            "packages": [
+                "com.adobe.spark.post"
+            ]
+        },
+        {
+            "name": "adobe_ps_express",
+            "packages": [
+                "com.adobe.psmobile"
+            ]
+        },
+        {
+            "name": "adobe_xd",
+            "packages": [
+                "com.adobe.sparklerandroid"
+            ]
+        },
+        {
+            "name": "acrobat_sign",
+            "packages": [
+                "com.adobe.echosign"
+            ]
+        },
+        {
+            "name": "acrobat_pdf",
+            "packages": [
+                "com.adobe.reader"
+            ]
+        },
+        {
+            "name": "acrobat_scan",
+            "packages": [
+                "com.adobe.scan.android"
+            ]
+        },
+        {
+            "name": "medium",
+            "packages": [
+                "com.medium.reader"
+            ]
+        },
+        {
+            "name": "vk_mail",
+            "packages": [
+                "com.vk.mail"
+            ]
+        },
+        {
+            "name": "vk_call",
+            "packages": [
+                "com.vk.calls"
+            ]
+        },
+        {
+            "name": "vk_play",
+            "packages": [
+                "com.my.mygamesapp"
+            ]
+        },
+        {
+            "name": "vk_live",
+            "packages": [
+                "live.vkplay.app"
+            ]
+        },
+        {
+            "name": "vk_short",
+            "packages": [
+                "com.vk.clips"
+            ]
+        },
+        {
+            "name": "vk_video",
+            "packages": [
+                "com.vk.vkvideo",
+                "com.vk.tv"
+            ]
+        },
+        {
+            "name": "vk_chat",
+            "packages": [
+                "com.vk.im"
+            ]
+        },
+        {
+            "name": "medium",
+            "packages": [
+                "com.medium.reader"
+            ]
+        },
+        {
+            "name": "steam",
+            "packages": [
+                "com.valvesoftware.android.steam.community"
+            ]
+        },
+        {
+            "name": "ms_xbox",
+            "packages": [
+                "com.microsoft.xboxone.smartglass"
+            ]
+        },
+        {
+            "name": "xodo",
+            "packages": [
+                "com.xodo.pdf.reader"
+            ]
+        },
+        {
+            "name": "dailymotion",
+            "packages": [
+                "com.dailymotion.dailymotion"
+            ]
+        },
+        {
+            "name": "notein",
+            "packages": [
+                "com.orion.notein.global"
+            ]
+        },
+        {
+            "name": "polaris",
+            "packages": [
+                "com.infraware.office.link"
+            ]
+        },
+        {
+            "name": "picsart",
+            "packages": [
+                "com.picsart.studio"
+            ]
+        },
+        {
+            "name": "vsco",
+            "packages": [
+                "com.vsco.cam"
+            ]
+        },
+        {
+            "name": "flipkart",
+            "packages": [
+                "com.flipkart.android"
+            ]
+        },
+        {
+            "name": "b612",
+            "packages": [
+                "com.linecorp.b612.android"
+            ]
+        },
+        {
+            "name": "linkedin_learning",
+            "packages": [
+                "com.linkedin.android.learning"
+            ]
+        },
+        {
+            "name": "khanacademy",
+            "packages": [
+                "org.khanacademy.android"
+            ]
+        },
+        {
+            "name": "coursera",
+            "packages": [
+                "org.coursera.android"
+            ]
+        },
+        {
+            "name": "udemy",
+            "packages": [
+                "com.udemy.android"
             ]
         },
         {
@@ -724,7 +1231,6 @@
         {
             "name": "gdocs",
             "packages": [
-                "com.google.android.apps.docs.app.NewMainProxyActivity",
                 "com.google.android.apps.docs.editors.docs"
             ]
         },
@@ -1665,6 +2171,42 @@
             "name": "twitch",
             "packages": [
                 "tv.twitch.android.app"
+            ]
+        },
+        {
+            "name": "uber_eats_order",
+            "packages": [
+                "com.uber.restaurants"
+            ]
+        },
+        {
+            "name": "uber_fleet",
+            "packages": [
+                "com.ubercab.fleet"
+            ]
+        },
+        {
+            "name": "uber_lite",
+            "packages": [
+                "com.ubercab.uberlite"
+            ]
+        },
+        {
+            "name": "uber_eats_manager",
+            "packages": [
+                "com.uber.restaurantmanager"
+            ]
+        },
+        {
+            "name": "uber_driver",
+            "packages": [
+                "com.ubercab.driver"
+            ]
+        },
+        {
+            "name": "uber_eats",
+            "packages": [
+                "com.ubercab.eats"
             ]
         },
         {
