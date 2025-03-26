@@ -1,6 +1,110 @@
 {
   "themes": [
     {
+      "theme_name": "Cyberpunk 2077",
+      "theme_base": "dark",
+      "folder_name": "cyberpunk",
+      "category": [
+        0,
+        1,
+        3
+      ],
+      "colors": {
+        "accent": "ff00bcd4",
+        "actionbar": "ff181818",
+        "background": "ff151515",
+        "cal_bg": "ff151515",
+        "cal_date": "ff00bcd4",
+        "calculator": "ff00bcd4",
+        "dialenums": "ff00bcd4",
+        "dialer": "ff00bcd4",
+        "dialpad": "ff181818",
+        "folder": "ff151515",
+        "nots_bg": "ff181818",
+        "optimizer": "ff00bcd4",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff00bcd4",
+        "settings": "ff00bcd4",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff00bcd4",
+        "systemui": "ff00bcd4",
+        "systemui_off": "ff181818"
+      },
+      "sku": "cyberpunk",
+      "contents": [
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
+      ]
+    },
+    {
+      "theme_name": "Cyberpunk 2077 Black",
+      "theme_base": "dark",
+      "folder_name": "cyberpunkblack",
+      "category": [
+        0,
+        1,
+        3
+      ],
+      "colors": {
+        "accent": "ff00bcd4",
+        "actionbar": "ff050505",
+        "background": "ff010101",
+        "cal_bg": "ff010101",
+        "cal_date": "ff00bcd4",
+        "calculator": "ff00bcd4",
+        "dialenums": "ff00bcd4",
+        "dialer": "ff00bcd4",
+        "dialpad": "ff050505",
+        "folder": "ff010101",
+        "nots_bg": "ff050505",
+        "optimizer": "ff00bcd4",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff00bcd4",
+        "settings": "ff00bcd4",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff00bcd4",
+        "systemui": "ff00bcd4",
+        "systemui_off": "ff050505"
+      },
+      "sku": "cyberpunk",
+      "contents": [
+        {
+          "name": "file"
+        },
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
+      ]
+    },
+    {
       "theme_name": "Hyper Dark",
       "theme_base": "dark",
       "folder_name": "hyperdark",
@@ -788,110 +892,6 @@
       },
       "sku": "coloros",
       "contents": [
-        {
-          "name": "home_wallpaper_0.jpg"
-        },
-        {
-          "name": "icons"
-        },
-        {
-          "name": "phone"
-        },
-        {
-          "name": "preview_icons_0.jpg"
-        },
-        {
-          "name": "set"
-        }
-      ]
-    },
-    {
-      "theme_name": "Cyberpunk 2077",
-      "theme_base": "dark",
-      "folder_name": "cyberpunk",
-      "category": [
-        0,
-        1,
-        3
-      ],
-      "colors": {
-        "accent": "ff00bcd4",
-        "actionbar": "ff181818",
-        "background": "ff151515",
-        "cal_bg": "ff151515",
-        "cal_date": "ff00bcd4",
-        "calculator": "ff00bcd4",
-        "dialenums": "ff00bcd4",
-        "dialer": "ff00bcd4",
-        "dialpad": "ff181818",
-        "folder": "ff151515",
-        "nots_bg": "ff181818",
-        "optimizer": "ff00bcd4",
-        "optimizer_icons": "ffffffff",
-        "optimizer_tiles": "ff00bcd4",
-        "settings": "ff00bcd4",
-        "settings_icons": "ffffffff",
-        "settings_tiles": "ff00bcd4",
-        "systemui": "ff00bcd4",
-        "systemui_off": "ff181818"
-      },
-      "sku": "cyberpunk",
-      "contents": [
-        {
-          "name": "file"
-        },
-        {
-          "name": "home_wallpaper_0.jpg"
-        },
-        {
-          "name": "icons"
-        },
-        {
-          "name": "phone"
-        },
-        {
-          "name": "preview_icons_0.jpg"
-        },
-        {
-          "name": "set"
-        }
-      ]
-    },
-    {
-      "theme_name": "Cyberpunk 2077 Black",
-      "theme_base": "dark",
-      "folder_name": "cyberpunkblack",
-      "category": [
-        0,
-        1,
-        3
-      ],
-      "colors": {
-        "accent": "ff00bcd4",
-        "actionbar": "ff050505",
-        "background": "ff010101",
-        "cal_bg": "ff010101",
-        "cal_date": "ff00bcd4",
-        "calculator": "ff00bcd4",
-        "dialenums": "ff00bcd4",
-        "dialer": "ff00bcd4",
-        "dialpad": "ff050505",
-        "folder": "ff010101",
-        "nots_bg": "ff050505",
-        "optimizer": "ff00bcd4",
-        "optimizer_icons": "ffffffff",
-        "optimizer_tiles": "ff00bcd4",
-        "settings": "ff00bcd4",
-        "settings_icons": "ffffffff",
-        "settings_tiles": "ff00bcd4",
-        "systemui": "ff00bcd4",
-        "systemui_off": "ff050505"
-      },
-      "sku": "cyberpunk",
-      "contents": [
-        {
-          "name": "file"
-        },
         {
           "name": "home_wallpaper_0.jpg"
         },
