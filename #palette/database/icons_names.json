@@ -61,6 +61,12 @@
             ]
         },
         {
+            "name": "butterflymx",
+            "packages": [
+                "com.butterflymx.butterflymx"
+            ]
+        },
+        {
             "name": "sam_wear",
             "packages": [
                 "com.samsung.android.app.watchmanager"
