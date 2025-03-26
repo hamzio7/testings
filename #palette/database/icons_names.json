@@ -5,6 +5,7 @@
             "packages": [
                 "com.aefyr.sai.fdroid",
                 "com.mtv.sai",
+                "com.aefyr.sai",
                 "pro.mtv.sai"
             ]
         },
