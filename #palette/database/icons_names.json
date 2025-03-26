@@ -1,6 +1,21 @@
 {
     "apps": [
         {
+            "name": "sai",
+            "packages": [
+                "com.aefyr.sai.fdroid",
+                "com.mtv.sai",
+                "pro.mtv.sai"
+            ]
+        },
+        {
+            "name": "hdocs",
+            "packages": [
+                "com.huawei.docs",
+                "com.hihonor.docs"
+            ]
+        },
+        {
             "name": "smarthome",
             "packages": [
                 "com.hihonor.magichome",
@@ -25,6 +40,81 @@
             "name": "audible",
             "packages": [
                 "com.audible.application"
+            ]
+        },
+        {
+            "name": "aimp",
+            "packages": [
+                "com.aimp.player"
+            ]
+        },
+        {
+            "name": "bizcal",
+            "packages": [
+                "com.appgenix.bizcal"
+            ]
+        },
+        {
+            "name": "luxerone",
+            "packages": [
+                "com.luxerone.mobile.residentapp"
+            ]
+        },
+        {
+            "name": "sam_wear",
+            "packages": [
+                "com.samsung.android.app.watchmanager"
+            ]
+        },
+        {
+            "name": "revolut",
+            "packages": [
+                "com.revolut.business",
+                "com.revolut.revolut"
+            ]
+        },
+        {
+            "name": "revolut_junior",
+            "packages": [
+                "com.revolut.junior"
+            ]
+        },
+        {
+            "name": "ms_lists",
+            "packages": [
+                "com.microsoft.lists.public"
+            ]
+        },
+        {
+            "name": "kmplayer",
+            "packages": [
+                "com.kmplayer"
+            ]
+        },
+        {
+            "name": "kmplayerplus",
+            "packages": [
+                "com.kmplayer.d"
+            ]
+        },
+        {
+            "name": "terabox",
+            "packages": [
+                "com.dubox.drive"
+            ]
+        },
+        {
+            "name": "kmp",
+            "packages": [
+                "com.kmp.video"
+            ]
+        },
+        {
+            "name": "deutchebank",
+            "packages": [
+                "com.db.pwcc.dbmobile",
+                "com.db.pbc.mibanco",
+                "com.db.pbc.mybank.in"
             ]
         },
         {
@@ -494,6 +584,31 @@
             "name": "b612",
             "packages": [
                 "com.linecorp.b612.android"
+            ]
+        },
+        {
+            "name": "terascan",
+            "packages": [
+                "com.tera.scan"
+            ]
+        },
+        {
+            "name": "zedge",
+            "packages": [
+                "net.zedge.android"
+            ]
+        },
+        {
+            "name": "teraverse",
+            "packages": [
+                "com.tera.verse"
+            ]
+        },
+        {
+            "name": "tmobile",
+            "packages": [
+                "com.tmobile.tuesdays",
+                "pl.tmobile.miboa"
             ]
         },
         {
@@ -2233,15 +2348,27 @@
             ]
         },
         {
-            "name": "vcl",
+            "name": "vlc",
             "packages": [
                 "org.videolan.vlc"
+            ]
+        },
+        {
+            "name": "kodi",
+            "packages": [
+                "org.xbmc.kodi"
             ]
         },
         {
             "name": "viber",
             "packages": [
                 "com.viber.voip"
+            ]
+        },
+        {
+            "name": "imo",
+            "packages": [
+                "com.imo.android.imoim"
             ]
         },
         {
