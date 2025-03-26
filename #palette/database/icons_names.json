@@ -160,6 +160,12 @@
             ]
         },
         {
+            "name": "chevrolet",
+            "packages": [
+                "com.gm.chevrolet.nomad.ownership"
+            ]
+        },
+        {
             "name": "kickstarter",
             "packages": [
                 "com.kickstarter.kickstarter"
@@ -169,6 +175,12 @@
             "name": "ticktick",
             "packages": [
                 "com.ticktick.task"
+            ]
+        },
+        {
+            "name": "yahoofinance",
+            "packages": [
+                "com.yahoo.mobile.client.android.finance"
             ]
         },
         {
