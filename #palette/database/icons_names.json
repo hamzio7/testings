@@ -844,7 +844,9 @@
         {
             "name": "brave",
             "packages": [
-                "com.brave.browser"
+                "com.brave.browser",
+                "com.brave.browser_beta",
+                "com.brave.browser_nightly"
             ]
         },
         {
