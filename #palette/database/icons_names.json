@@ -44,6 +44,18 @@
             ]
         },
         {
+            "name": "gclassroom",
+            "packages": [
+                "com.google.android.apps.classroom"
+            ]
+        },
+        {
+            "name": "gactionblocks",
+            "packages": [
+                "com.google.android.apps.accessibility.maui.actionblocks"
+            ]
+        },
+        {
             "name": "aimp",
             "packages": [
                 "com.aimp.player"
@@ -724,6 +736,78 @@
             "name": "gads",
             "packages": [
                 "com.google.android.apps.adwords"
+            ]
+        },
+        {
+            "name": "obsidian",
+            "packages": [
+                "md.obsidian"
+            ]
+        },
+        {
+            "name": "dynalist",
+            "packages": [
+                "io.dynalist"
+            ]
+        },
+        {
+            "name": "fdroid",
+            "packages": [
+                "org.fdroid.fdroid"
+            ]
+        },
+        {
+            "name": "cuto",
+            "packages": [
+                "com.sspai.cuto.android"
+            ]
+        },
+        {
+            "name": "ooni",
+            "packages": [
+                "org.openobservatory.ooniprobe"
+            ]
+        },
+        {
+            "name": "tor",
+            "packages": [
+                "org.torproject.torbrowser"
+            ]
+        },
+        {
+            "name": "tor_alpha",
+            "packages": [
+                "org.torproject.torbrowser_alpha"
+            ]
+        },
+        {
+            "name": "orbot",
+            "packages": [
+                "org.torproject.android"
+            ]
+        },
+        {
+            "name": "glooker",
+            "packages": [
+                "com.google.android.apps.cloud.cloudbi"
+            ]
+        },
+        {
+            "name": "aurora",
+            "packages": [
+                "com.aurora.store"
+            ]
+        },
+        {
+            "name": "ganalytics",
+            "packages": [
+                "com.google.android.apps.giant"
+            ]
+        },
+        {
+            "name": "gphotomath",
+            "packages": [
+                "com.microblink.photomath"
             ]
         },
         {
