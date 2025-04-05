@@ -12,7 +12,7 @@
         {
             "name": "spark",
             "packages": [
-                "com.readdle.sparkcom.readdle.spark"
+                "com.readdle.spark"
             ]
         },
         {
