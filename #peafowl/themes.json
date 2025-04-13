@@ -1,6 +1,52 @@
 {
   "themes": [
     {
+      "theme_name": "Dark O",
+      "theme_base": "dark",
+      "folder_name": "darkoxygen",
+      "category": [
+        0,
+        1,
+        6
+      ],
+      "colors": {
+        "accent": "ffd6242f",
+        "actionbar": "ff141414",
+        "background": "ff0f0f0f",
+        "cal_bg": "ff141414",
+        "cal_date": "ffd6242f",
+        "calculator": "ffd6242f",
+        "dialenums": "ffffffff",
+        "dialer": "ffd6242f",
+        "dialpad": "ff141414",
+        "folder": "ff141414",
+        "nots_bg": "ff141414",
+        "optimizer": "ffd6242f",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ffd6242f",
+        "settings": "ffd6242f",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ffd6242f",
+        "systemui": "ffd6242f",
+        "systemui_off": "ff141414"
+      },
+      "sku": "darkoxygen",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
+      ]
+    },
+    {
       "theme_name": "Dark One",
       "theme_base": "dark",
       "folder_name": "darkone",
