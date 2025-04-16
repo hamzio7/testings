@@ -965,6 +965,7 @@
         {
             "name": "assistant",
             "packages": [
+                "com.hihonor.magicvoice",
                 "com.huawei.intelligent"
             ]
         },
@@ -2099,7 +2100,15 @@
         {
             "name": "skytone",
             "packages": [
-                "com.huawei.hiskytone"
+                "com.huawei.hiskytone",
+                "com.hihonor.hiskytone"
+            ]
+        },
+        {
+            "name": "servicecenter",
+            "packages": [
+                "com.huawei.servicecenter",
+                "com.hihonor.servicecenter"
             ]
         },
         {
@@ -2344,6 +2353,7 @@
         {
             "name": "vassistant",
             "packages": [
+                "com.hihonor.magicvoice",
                 "com.huawei.vassistant"
             ]
         },
