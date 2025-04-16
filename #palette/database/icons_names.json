@@ -25,7 +25,8 @@
             "name": "hdocs",
             "packages": [
                 "com.huawei.docs",
-                "com.hihonor.docs"
+                "com.hihonor.docs",
+                "com.hihonor.hnoffice"
             ]
         },
         {
@@ -567,6 +568,12 @@
             "name": "xodo",
             "packages": [
                 "com.xodo.pdf.reader"
+            ]
+        },
+        {
+            "name": "smartdetect",
+            "packages": [
+                "com.hihonor.detectrepiar"
             ]
         },
         {
@@ -2101,6 +2108,7 @@
             "name": "skytone",
             "packages": [
                 "com.huawei.hiskytone",
+                "com.hihonor.redteamobile.roaming",
                 "com.hihonor.hiskytone"
             ]
         },
