@@ -16,6 +16,12 @@
             ]
         },
         {
+            "name": "nubank",
+            "packages": [
+                "com.nu.production"
+            ]
+        },
+        {
             "name": "mihome",
             "packages": [
                 "com.xiaomi.smarthome"
