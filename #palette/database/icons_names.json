@@ -17,6 +17,18 @@
             ]
         },
         {
+            "name": "nafadh",
+            "packages": [
+                "sa.gov.nic.myid"
+            ]
+        },
+        {
+            "name": "poppo",
+            "packages": [
+                "com.baitu.qingshu"
+            ]
+        },
+        {
             "name": "shahid",
             "packages": [
                 "net.mbc.shahid"
