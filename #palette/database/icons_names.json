@@ -201,6 +201,7 @@
             "packages": [
                 "com.huawei.docs",
                 "com.hihonor.docs",
+                "com.hihonor.hnofficelauncher",
                 "com.hihonor.hnoffice"
             ]
         },
