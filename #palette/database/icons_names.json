@@ -23,6 +23,12 @@
             ]
         },
         {
+            "name": "yoyochat",
+            "packages": [
+                "com.fun.share"
+            ]
+        },
+        {
             "name": "timestamp",
             "packages": [
                 "com.jeyluta.timestampcamerafree"
@@ -127,7 +133,8 @@
         {
             "name": "rbmobile",
             "packages": [
-                "com.zainkw.rb","com.mediapark.rbm"
+                "com.zainkw.rb",
+                "com.mediapark.rbm"
             ]
         },
         {
