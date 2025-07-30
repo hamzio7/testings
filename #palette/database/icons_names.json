@@ -10,9 +10,178 @@
             ]
         },
         {
+            "name": "stc",
+            "packages": [
+                "sa.com.stc.business",
+                "com.stc"
+            ]
+        },
+        {
+            "name": "shahid",
+            "packages": [
+                "net.mbc.shahid"
+            ]
+        },
+        {
+            "name": "timestamp",
+            "packages": [
+                "com.jeyluta.timestampcamerafree"
+            ]
+        },
+        {
+            "name": "tamini",
+            "packages": [
+                "tameeni.com"
+            ]
+        },
+        {
+            "name": "zain",
+            "packages": [
+                "com.zainsa.b2c"
+            ]
+        },
+        {
+            "name": "wahi",
+            "packages": [
+                "com.logicdev.quran_reader"
+            ]
+        },
+        {
+            "name": "wallspot",
+            "packages": [
+                "com.wallspot.wallpapers"
+            ]
+        },
+        {
+            "name": "tawakalna",
+            "packages": [
+                "sa.gov.nic.tawakkalna"
+            ]
+        },
+        {
+            "name": "twkhayat",
+            "packages": [
+                "sa.gov.nic.twkhayat"
+            ]
+        },
+        {
+            "name": "arabicwall",
+            "packages": [
+                "com.mahmoudzadah.app.arabic.wallpapers"
+            ]
+        },
+        {
+            "name": "najm",
+            "packages": [
+                "com.najm.najm"
+            ]
+        },
+        {
+            "name": "najiz",
+            "packages": [
+                "com.moj.najiz"
+            ]
+        },
+        {
+            "name": "mersal",
+            "packages": [
+                "com.yemenfon.mersal"
+            ]
+        },
+        {
+            "name": "larkvid",
+            "packages": [
+                "com.larkvideo.player"
+            ]
+        },
+        {
+            "name": "lark",
+            "packages": [
+                "com.dywx.larkplayer"
+            ]
+        },
+        {
+            "name": "haraj",
+            "packages": [
+                "com.haraj.app"
+            ]
+        },
+        {
+            "name": "kwgt",
+            "packages": [
+                "org.kustom.widget"
+            ]
+        },
+        {
+            "name": "hungerstation",
+            "packages": [
+                "com.hungerstation.android.web"
+            ]
+        },
+        {
+            "name": "hijrical",
+            "packages": [
+                "com.saudicalendars.calendar_app"
+            ]
+        },
+        {
+            "name": "rbmobile",
+            "packages": [
+                "com.zainkw.rb","com.mediapark.rbm"
+            ]
+        },
+        {
+            "name": "capcut",
+            "packages": [
+                "com.lemon.lvoverseas"
+            ]
+        },
+        {
+            "name": "fcmobile",
+            "packages": [
+                "com.ea.gp.fifamobile"
+            ]
+        },
+        {
             "name": "spark",
             "packages": [
                 "com.readdle.spark"
+            ]
+        },
+        {
+            "name": "boostvpn",
+            "packages": [
+                "com.proxy.fastnode"
+            ]
+        },
+        {
+            "name": "blackhole",
+            "packages": [
+                "com.fawazapp.blackhole"
+            ]
+        },
+        {
+            "name": "365scoes",
+            "packages": [
+                "com.scores365"
+            ]
+        },
+        {
+            "name": "absher",
+            "packages": [
+                "sa.gov.moi"
+            ]
+        },
+        {
+            "name": "absherb",
+            "packages": [
+                "sa.absher.business"
+            ]
+        },
+        {
+            "name": "alinma",
+            "packages": [
+                "com.alinma.retail.mobile.v4"
             ]
         },
         {
