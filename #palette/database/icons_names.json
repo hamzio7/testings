@@ -17,6 +17,182 @@
             ]
         },
         {
+            "name": "hammel",
+            "packages": [
+                "gyoom.hammel"
+            ]
+        },
+        {
+            "name": "jaco",
+            "packages": [
+                "com.weo.projectz"
+            ]
+        },
+        {
+            "name": "jahez",
+            "packages": [
+                "net.jahez"
+            ]
+        },
+        {
+            "name": "keeta",
+            "packages": [
+                "com.sankuai.sailor.afooddelivery"
+            ]
+        },
+        {
+            "name": "mada",
+            "packages": [
+                "com.mada.madapay"
+            ]
+        },
+        {
+            "name": "myone",
+            "packages": [
+                "com.tal.myone"
+            ]
+        },
+        {
+            "name": "myiute",
+            "packages": [
+                "com.iutecredit.myiute.albania"
+            ]
+        },
+        {
+            "name": "neptun",
+            "packages": [
+                "al.neptun.neptunapp",
+                "mk.neptun.neptunapp"
+            ]
+        },
+        {
+            "name": "parcels",
+            "packages": [
+                "com.brightstripe.parcels"
+            ]
+        },
+        {
+            "name": "peats",
+            "packages": [
+                "com.xingkeqi.peats"
+            ]
+        },
+        {
+            "name": "sendanywhere",
+            "packages": [
+                "com.estmob.android.sendanywhere"
+            ]
+        },
+        {
+            "name": "renderz",
+            "packages": [
+                "com.fifarenderz.fifarenderzapp"
+            ]
+        },
+        {
+            "name": "smartthings",
+            "packages": [
+                "com.samsung.android.oneconnect"
+            ]
+        },
+        {
+            "name": "sofascore",
+            "packages": [
+                "com.sofascore.results"
+            ]
+        },
+        {
+            "name": "spl",
+            "packages": [
+                "sa.com.SP"
+            ]
+        },
+        {
+            "name": "stcbank",
+            "packages": [
+                "sa.com.stcbank"
+            ]
+        },
+        {
+            "name": "tabby",
+            "packages": [
+                "app.tabby.client"
+            ]
+        },
+        {
+            "name": "tamara",
+            "packages": [
+                "co.tamara.user"
+            ]
+        },
+        {
+            "name": "vuiptv",
+            "packages": [
+                "vuiptv.player"
+            ]
+        },
+        {
+            "name": "youfs",
+            "packages": [
+                "com.yongfengshun"
+            ]
+        },
+        {
+            "name": "alkahraba",
+            "packages": [
+                "sa.com.se.alkahraba"
+            ]
+        },
+        {
+            "name": "alrajhi",
+            "packages": [
+                "com.alrajhiretailapp"
+            ]
+        },
+        {
+            "name": "ananinja",
+            "packages": [
+                "com.ananinja.lava"
+            ]
+        },
+        {
+            "name": "balady",
+            "packages": [
+                "momra.balady.android"
+            ]
+        },
+        {
+            "name": "chargemeter",
+            "packages": [
+                "dev.km.android.chargemeter"
+            ]
+        },
+        {
+            "name": "webcast",
+            "packages": [
+                "com.instantbits.cast.webvideo"
+            ]
+        },
+        {
+            "name": "credins",
+            "packages": [
+                "cy.com.netinfo.netteller.credinsbank"
+            ]
+        },
+        {
+            "name": "dijitalb",
+            "packages": [
+                "com.morescreens.digitalb",
+                "com.morescreens.launcher.prd_digitalb_atv"
+            ]
+        },
+        {
+            "name": "ealbania",
+            "packages": [
+                "al.ealbania.app"
+            ]
+        },
+        {
             "name": "nafadh",
             "packages": [
                 "sa.gov.nic.myid"
