@@ -17,6 +17,12 @@
             ]
         },
         {
+            "name": "goodnote",
+            "packages": [
+                "com.goodnotes.android.app"
+            ]
+        },
+        {
             "name": "hammel",
             "packages": [
                 "gyoom.hammel"
@@ -2726,6 +2732,21 @@
                 "com.UCMobile.intl",
                 "com.uc.browser.en",
                 "com.uc.browser.hd",
+                "com.ucturbo"
+            ]
+        },
+        {
+            "name": "uc",
+            "packages": [
+                "com.UCMobile",
+                "com.UCMobile.intl",
+                "com.uc.browser.en",
+                "com.uc.browser.hd"
+            ]
+        },
+        {
+            "name": "ucturbo",
+            "packages": [
                 "com.ucturbo"
             ]
         },
