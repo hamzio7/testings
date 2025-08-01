@@ -23,6 +23,12 @@
             ]
         },
         {
+            "name": "sambrowser",
+            "packages": [
+                "com.sec.android.app.sbrowser"
+            ]
+        },
+        {
             "name": "hammel",
             "packages": [
                 "gyoom.hammel"
