@@ -683,6 +683,12 @@
             ]
         },
         {
+            "name": "grok",
+            "packages": [
+                "ai.x.grok"
+            ]
+        },
+        {
             "name": "shopify",
             "packages": [
                 "com.shopify.mobile"
