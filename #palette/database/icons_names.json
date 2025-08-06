@@ -2910,6 +2910,25 @@
             ]
         },
         {
+            "name": "gmscore",
+            "packages": [
+                "app.revanced.android.gms",
+                "com.microg.gms"
+            ]
+        },
+        {
+            "name": "glassify",
+            "packages": [
+                "com.mahmoudzadah.app.glassifypro"
+            ]
+        },
+        {
+            "name": "yt_revanced",
+            "packages": [
+                "app.rvx.android.youtube"
+            ]
+        },
+        {
             "name": "youtube_vancedm",
             "packages": [
                 "com.vanced.android.apps.youtube.music"
