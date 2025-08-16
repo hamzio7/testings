@@ -17,9 +17,94 @@
             ]
         },
         {
+            "name": "yalla",
+            "packages": [
+                "io.paysky.yalla"
+            ]
+        },
+        {
+            "name": "taleek",
+            "packages": [
+                "com.taleek.app"
+            ]
+        },
+        {
+            "name": "we",
+            "packages": [
+                "com.ucare.we"
+            ]
+        },
+        {
+            "name": "tether",
+            "packages": [
+                "com.tplink.tether"
+            ]
+        },
+        {
+            "name": "redotpay",
+            "packages": [
+                "com.redotpay"
+            ]
+        },
+        {
+            "name": "sahl",
+            "packages": [
+                "gtpay.gtronicspay.com"
+            ]
+        },
+        {
             "name": "goodnote",
             "packages": [
                 "com.goodnotes.android.app"
+            ]
+        },
+        {
+            "name": "nbetoken",
+            "packages": [
+                "com.NBEProdToken"
+            ]
+        },
+        {
+            "name": "nbephonecash",
+            "packages": [
+                "com.emeint.android.mwallet"
+            ]
+        },
+        {
+            "name": "nbe",
+            "packages": [
+                "com.ofss.obdx.and.nbe.com.eg",
+                "com.nbe.softToken.corporate"
+            ]
+        },
+        {
+            "name": "instapay",
+            "packages": [
+                "com.egyptianbanks.instapay"
+            ]
+        },
+        {
+            "name": "indrive",
+            "packages": [
+                "sinet.startup.inDriver"
+            ]
+        },
+        {
+            "name": "defacto",
+            "packages": [
+                "com.defacto.android"
+            ]
+        },
+        {
+            "name": "ayah",
+            "packages": [
+                "com.ayah"
+            ]
+        },
+        {
+            "name": "bybit",
+            "packages": [
+                "com.bybit.app"
             ]
         },
         {
@@ -1234,6 +1319,7 @@
         {
             "name": "vodafone",
             "packages": [
+                "com.emeint.android.myservices",
                 "com.myvodafoneapp"
             ]
         },
@@ -2900,6 +2986,7 @@
         {
             "name": "youtube",
             "packages": [
+                "app.revanced.android.youtube",
                 "com.google.android.youtube"
             ]
         },
