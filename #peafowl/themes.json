@@ -1,6 +1,52 @@
 {
   "themes": [
     {
+      "theme_name": "Glassic",
+      "theme_base": "dark",
+      "folder_name": "glassic",
+      "category": [
+        0,
+        1,
+        6
+      ],
+      "colors": {
+        "accent": "ffce064f",
+        "actionbar": "ff141414",
+        "background": "ff0f0f0f",
+        "cal_bg": "ff141414",
+        "cal_date": "ffce064f",
+        "calculator": "ffce064f",
+        "dialenums": "ffffffff",
+        "dialer": "ffce064f",
+        "dialpad": "ff141414",
+        "folder": "ff141414",
+        "nots_bg": "ff141414",
+        "optimizer": "ffce064f",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ffce064f",
+        "settings": "ffce064f",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ffce064f",
+        "systemui": "ffce064f",
+        "systemui_off": "ff141414"
+      },
+      "sku": "glassic",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
+      ]
+    },
+    {
       "theme_name": "Dark Winds",
       "theme_base": "dark",
       "folder_name": "darkwinds",
