@@ -2181,12 +2181,6 @@
             ]
         },
         {
-            "name": "icon_border",
-            "packages": [
-                "icon_border"
-            ]
-        },
-        {
             "name": "measure",
             "packages": [
                 "com.hihonor.ar.measure",
