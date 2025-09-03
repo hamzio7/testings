@@ -1,7 +1,7 @@
 {
   "themes": [
-        {
-      "theme_name": "HyperOS 3 Dark",
+    {
+      "theme_name": "Hyper Dark 3",
       "theme_base": "dark",
       "folder_name": "hyperos3dark",
       "category": [
@@ -45,7 +45,8 @@
           "name": "set"
         }
       ]
-    },{
+    },
+    {
       "theme_name": "Glassic V2",
       "theme_base": "dark",
       "folder_name": "glassic_v2",
@@ -90,7 +91,8 @@
           "name": "set"
         }
       ]
-    },    {
+    },
+    {
       "theme_name": "Glassic",
       "theme_base": "dark",
       "folder_name": "glassic",
