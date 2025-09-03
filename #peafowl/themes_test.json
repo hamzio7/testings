@@ -1,6 +1,51 @@
 {
   "themes": [
     {
+      "theme_name": "Hyper Glassic",
+      "theme_base": "dark",
+      "folder_name": "hyper_glassic",
+      "category": [
+        0,
+        1,
+        6
+      ],
+      "colors": {
+        "accent": "ff5c85d6",
+        "actionbar": "ff0b0c0f",
+        "background": "ff07080a",
+        "cal_bg": "ff0b0c0f",
+        "cal_date": "ff5c85d6",
+        "calculator": "ff5c85d6",
+        "dialenums": "ffffffff",
+        "dialer": "ff5c85d6",
+        "dialpad": "ff0b0c0f",
+        "folder": "ff0b0c0f",
+        "nots_bg": "ff0b0c0f",
+        "optimizer": "ff5c85d6",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff5c85d6",
+        "settings": "ff5c85d6",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff5c85d6",
+        "systemui": "ff5c85d6",
+        "systemui_off": "ff0b0c0f"
+      },
+      "sku": "hyperdark",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
+      ]
+    },{
       "theme_name": "Hyper Dark 3",
       "theme_base": "dark",
       "folder_name": "hyperos3dark",
