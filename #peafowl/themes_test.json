@@ -1,10 +1,14 @@
 {
   "themes": [
     {
-      "theme_name": "Transparency Alt",
+      "theme_name": "Transparency Extended",
       "theme_base": "dark",
-      "folder_name": "transparency_alt",
-      "category": [0, 1, 6],
+      "folder_name": "transparency_extended",
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff468eec",
         "actionbar": "ff141414",
@@ -12,7 +16,7 @@
         "cal_bg": "ff141414",
         "cal_date": "ff468eec",
         "calculator": "ff468eec",
-        "dialenums": "ff468eec",
+        "dialenums": "ffffffff",
         "dialer": "ff468eec",
         "dialpad": "ff141414",
         "folder": "ff141414",
@@ -26,7 +30,7 @@
         "systemui": "ff468eec",
         "systemui_off": "ff141414"
       },
-      "sku": "free",
+      "sku": "darkmagic10",
       "contents": [
         {
           "name": "home_wallpaper_0.jpg"
@@ -41,12 +45,15 @@
           "name": "set"
         }
       ]
-    },
-    {
-      "theme_name": "Transparency Extended",
+    },    {
+      "theme_name": "Transparency Alt",
       "theme_base": "dark",
-      "folder_name": "transparency_extended",
-      "category": [0, 1, 6],
+      "folder_name": "transparency_alt",
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff468eec",
         "actionbar": "ff141414",
@@ -54,7 +61,7 @@
         "cal_bg": "ff141414",
         "cal_date": "ff468eec",
         "calculator": "ff468eec",
-        "dialenums": "ff468eec",
+        "dialenums": "ffffffff",
         "dialer": "ff468eec",
         "dialpad": "ff141414",
         "folder": "ff141414",
@@ -68,7 +75,7 @@
         "systemui": "ff468eec",
         "systemui_off": "ff141414"
       },
-      "sku": "free",
+      "sku": "darkmagic10",
       "contents": [
         {
           "name": "home_wallpaper_0.jpg"
@@ -88,7 +95,11 @@
       "theme_name": "Dark Magic 10",
       "theme_base": "dark",
       "folder_name": "darkmagic10",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff468eec",
         "actionbar": "ff141414",
@@ -96,7 +107,7 @@
         "cal_bg": "ff141414",
         "cal_date": "ff468eec",
         "calculator": "ff468eec",
-        "dialenums": "ff468eec",
+        "dialenums": "ffffffff",
         "dialer": "ff468eec",
         "dialpad": "ff141414",
         "folder": "ff141414",
@@ -110,49 +121,7 @@
         "systemui": "ff468eec",
         "systemui_off": "ff141414"
       },
-      "sku": "darkmagic",
-      "contents": [
-        {
-          "name": "home_wallpaper_0.jpg"
-        },
-        {
-          "name": "icons"
-        },
-        {
-          "name": "preview_icons_0.jpg"
-        },
-        {
-          "name": "set"
-        }
-      ]
-    },
-    {
-      "theme_name": "Vista",
-      "theme_base": "dark",
-      "folder_name": "vista",
-      "category": [0, 1, 6],
-      "colors": {
-        "accent": "ff5c85d6",
-        "actionbar": "ff0b0c0f",
-        "background": "ff07080a",
-        "cal_bg": "ff0b0c0f",
-        "cal_date": "ff5c85d6",
-        "calculator": "ff5c85d6",
-        "dialenums": "ffffffff",
-        "dialer": "ff5c85d6",
-        "dialpad": "ff0b0c0f",
-        "folder": "ff0b0c0f",
-        "nots_bg": "ff0b0c0f",
-        "optimizer": "ff5c85d6",
-        "optimizer_icons": "ffffffff",
-        "optimizer_tiles": "ff5c85d6",
-        "settings": "ff5c85d6",
-        "settings_icons": "ffffffff",
-        "settings_tiles": "ff5c85d6",
-        "systemui": "ff5c85d6",
-        "systemui_off": "ff0b0c0f"
-      },
-      "sku": "free",
+      "sku": "darkmagic10",
       "contents": [
         {
           "name": "home_wallpaper_0.jpg"
@@ -172,7 +141,11 @@
       "theme_name": "Hyper Glassic",
       "theme_base": "dark",
       "folder_name": "hyper_glassic",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff5c85d6",
         "actionbar": "ff0b0c0f",
@@ -214,7 +187,11 @@
       "theme_name": "Hyper Dark 3",
       "theme_base": "dark",
       "folder_name": "hyperos3dark",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff5c85d6",
         "actionbar": "ff0b0c0f",
@@ -236,7 +213,7 @@
         "systemui": "ff5c85d6",
         "systemui_off": "ff0b0c0f"
       },
-      "sku": "hyperdark",
+      "sku": "heper3dark",
       "contents": [
         {
           "name": "home_wallpaper_0.jpg"
@@ -256,7 +233,11 @@
       "theme_name": "Glassic V2",
       "theme_base": "dark",
       "folder_name": "glassic_v2",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ffce064f",
         "actionbar": "ff141414",
@@ -298,7 +279,11 @@
       "theme_name": "Glassic",
       "theme_base": "dark",
       "folder_name": "glassic",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ffce064f",
         "actionbar": "ff141414",
@@ -340,7 +325,11 @@
       "theme_name": "Dark Winds",
       "theme_base": "dark",
       "folder_name": "darkwinds",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff4cc2ff",
         "actionbar": "ff141414",
@@ -382,7 +371,11 @@
       "theme_name": "Dark O",
       "theme_base": "dark",
       "folder_name": "darkoxygen",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ffd6242f",
         "actionbar": "ff141414",
@@ -424,7 +417,11 @@
       "theme_name": "Dark One",
       "theme_base": "dark",
       "folder_name": "darkone",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff7986cb",
         "actionbar": "ff141414",
@@ -466,7 +463,11 @@
       "theme_name": "Dark Harmony",
       "theme_base": "dark",
       "folder_name": "darkharmony",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff3399ff",
         "actionbar": "ff141414",
@@ -508,7 +509,11 @@
       "theme_name": "Cyberpunk 2077",
       "theme_base": "dark",
       "folder_name": "cyberpunk",
-      "category": [0, 1, 3],
+      "category": [
+        0,
+        1,
+        3
+      ],
       "colors": {
         "accent": "ff00bcd4",
         "actionbar": "ff181818",
@@ -556,7 +561,11 @@
       "theme_name": "Cyberpunk 2077 Black",
       "theme_base": "dark",
       "folder_name": "cyberpunkblack",
-      "category": [0, 1, 3],
+      "category": [
+        0,
+        1,
+        3
+      ],
       "colors": {
         "accent": "ff00bcd4",
         "actionbar": "ff050505",
@@ -604,7 +613,11 @@
       "theme_name": "Hyper Dark",
       "theme_base": "dark",
       "folder_name": "hyperdark",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff5c85d6",
         "actionbar": "ff0b0c0f",
@@ -646,7 +659,11 @@
       "theme_name": "Dark Magic Round",
       "theme_base": "dark",
       "folder_name": "darkmagicround",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff468eec",
         "actionbar": "ff141414",
@@ -688,7 +705,11 @@
       "theme_name": "Dark Magic Alt",
       "theme_base": "dark",
       "folder_name": "darkmagicalt",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff468eec",
         "actionbar": "ff141414",
@@ -730,7 +751,11 @@
       "theme_name": "Dark Magic",
       "theme_base": "dark",
       "folder_name": "darkmagic",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff468eec",
         "actionbar": "ff141414",
@@ -772,7 +797,11 @@
       "theme_name": "DarkiOS 18",
       "theme_base": "dark",
       "folder_name": "darkios",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff3e99fa",
         "actionbar": "ff1a1a1a",
@@ -820,7 +849,11 @@
       "theme_name": "Squid Game",
       "theme_base": "dark",
       "folder_name": "squidgame",
-      "category": [0, 1, 3],
+      "category": [
+        0,
+        1,
+        3
+      ],
       "colors": {
         "accent": "ffe83e7d",
         "actionbar": "ff181a26",
@@ -862,7 +895,11 @@
       "theme_name": "Fallout",
       "theme_base": "dark",
       "folder_name": "fallout",
-      "category": [0, 1, 3],
+      "category": [
+        0,
+        1,
+        3
+      ],
       "colors": {
         "accent": "ff5d745d",
         "actionbar": "ff202820",
@@ -904,7 +941,11 @@
       "theme_name": "Goku Alternative",
       "theme_base": "dark",
       "folder_name": "gokublue",
-      "category": [0, 1, 3],
+      "category": [
+        0,
+        1,
+        3
+      ],
       "colors": {
         "accent": "ff42dafb",
         "actionbar": "ff161616",
@@ -946,7 +987,11 @@
       "theme_name": "Goku",
       "theme_base": "dark",
       "folder_name": "goku",
-      "category": [0, 1, 3],
+      "category": [
+        0,
+        1,
+        3
+      ],
       "colors": {
         "accent": "ffff9800",
         "actionbar": "ff161616",
@@ -988,7 +1033,12 @@
       "theme_name": "Pastel",
       "theme_base": "light",
       "folder_name": "pastel",
-      "category": [0, 2, 5, 4],
+      "category": [
+        0,
+        2,
+        5,
+        4
+      ],
       "colors": {
         "accent": "ff7da7d9",
         "actionbar": "fff0f0f3",
@@ -1036,7 +1086,12 @@
       "theme_name": "Android 12",
       "theme_base": "light",
       "folder_name": "androidtwelve",
-      "category": [0, 2, 6, 4],
+      "category": [
+        0,
+        2,
+        6,
+        4
+      ],
       "colors": {
         "accent": "ff1a73e9",
         "actionbar": "fff0f0ee",
@@ -1078,7 +1133,12 @@
       "theme_name": "Android 12 Dark",
       "theme_base": "dark",
       "folder_name": "androidtwelvedark",
-      "category": [0, 1, 6, 4],
+      "category": [
+        0,
+        1,
+        6,
+        4
+      ],
       "colors": {
         "accent": "ff89b4f8",
         "actionbar": "ff303030",
@@ -1120,7 +1180,11 @@
       "theme_name": "Batman",
       "theme_base": "dark",
       "folder_name": "batman",
-      "category": [0, 1, 3],
+      "category": [
+        0,
+        1,
+        3
+      ],
       "colors": {
         "accent": "ffFEC107",
         "actionbar": "ff353535",
@@ -1159,7 +1223,11 @@
       "theme_name": "Coffee Time",
       "theme_base": "dark",
       "folder_name": "coffetime",
-      "category": [0, 1, 5],
+      "category": [
+        0,
+        1,
+        5
+      ],
       "colors": {
         "accent": "ffaa7c4d",
         "actionbar": "ff362E2A",
@@ -1201,7 +1269,12 @@
       "theme_name": "ColorOS 13",
       "theme_base": "light",
       "folder_name": "colorostherteen",
-      "category": [0, 2, 4, 5],
+      "category": [
+        0,
+        2,
+        4,
+        5
+      ],
       "colors": {
         "accent": "ff2e40ea",
         "actionbar": "fff5f5f5",
@@ -1243,7 +1316,11 @@
       "theme_name": "ColorOS 13 Dark",
       "theme_base": "dark",
       "folder_name": "colorostherteendark",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff5867ee",
         "actionbar": "ff202020",
@@ -1288,7 +1365,11 @@
       "theme_name": "ColorOS Material",
       "theme_base": "light",
       "folder_name": "colorosmaterial",
-      "category": [0, 2, 6],
+      "category": [
+        0,
+        2,
+        6
+      ],
       "colors": {
         "accent": "ff2ad181",
         "actionbar": "fffafafa",
@@ -1333,7 +1414,12 @@
       "theme_name": "ColorOS Material Dark",
       "theme_base": "dark",
       "folder_name": "colorosmaterialdark",
-      "category": [0, 1, 6, 4],
+      "category": [
+        0,
+        1,
+        6,
+        4
+      ],
       "colors": {
         "accent": "ff2ad181",
         "actionbar": "ff252525",
@@ -1378,7 +1464,10 @@
       "theme_name": "Delight",
       "theme_base": "light",
       "folder_name": "delighted",
-      "category": [0, 2],
+      "category": [
+        0,
+        2
+      ],
       "colors": {
         "accent": "ffFB4656",
         "actionbar": "fff2f3f5",
@@ -1423,7 +1512,10 @@
       "theme_name": "Delight Dark",
       "theme_base": "dark",
       "folder_name": "delightdark",
-      "category": [0, 1],
+      "category": [
+        0,
+        1
+      ],
       "colors": {
         "accent": "ffFF4954",
         "actionbar": "ff242833",
@@ -1471,7 +1563,11 @@
       "theme_name": "EMUI Vivid",
       "theme_base": "dark",
       "folder_name": "emuivivid",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ffEFA219",
         "actionbar": "ff3E3D4B",
@@ -1510,7 +1606,10 @@
       "theme_name": "Frosted",
       "theme_base": "light",
       "folder_name": "frosted",
-      "category": [0, 2],
+      "category": [
+        0,
+        2
+      ],
       "colors": {
         "accent": "ff21B3F5",
         "actionbar": "ffffffff",
@@ -1552,7 +1651,11 @@
       "theme_name": "Grey One",
       "theme_base": "dark",
       "folder_name": "greyone",
-      "category": [0, 1, 3],
+      "category": [
+        0,
+        1,
+        3
+      ],
       "colors": {
         "accent": "ff95969a",
         "actionbar": "ff35363a",
@@ -1594,7 +1697,11 @@
       "theme_name": "Harmony OS Dark",
       "theme_base": "dark",
       "folder_name": "harmonyosdark",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff7986cc",
         "actionbar": "ff21212e",
@@ -1633,7 +1740,11 @@
       "theme_name": "Hello Summer",
       "theme_base": "dark",
       "folder_name": "hellosummer",
-      "category": [0, 2, 6],
+      "category": [
+        0,
+        2,
+        6
+      ],
       "colors": {
         "accent": "ff00bfa5",
         "actionbar": "ffefefeb",
@@ -1678,7 +1789,10 @@
       "theme_name": "HotRed Alternative",
       "theme_base": "dark",
       "folder_name": "hotredalternative",
-      "category": [0, 1],
+      "category": [
+        0,
+        1
+      ],
       "colors": {
         "accent": "ffea3447",
         "actionbar": "ff151515",
@@ -1720,7 +1834,10 @@
       "theme_name": "HotRed ColorOS",
       "theme_base": "dark",
       "folder_name": "hotredcoloros",
-      "category": [0, 1],
+      "category": [
+        0,
+        1
+      ],
       "colors": {
         "accent": "ffea3447",
         "actionbar": "ff151515",
@@ -1762,7 +1879,11 @@
       "theme_name": "Lovely Sunset",
       "theme_base": "dark",
       "folder_name": "lovelysunset",
-      "category": [0, 1, 5],
+      "category": [
+        0,
+        1,
+        5
+      ],
       "colors": {
         "accent": "ffe3cba7",
         "actionbar": "ff4c4d47",
@@ -1807,7 +1928,10 @@
       "theme_name": "MD Special",
       "theme_base": "dark",
       "folder_name": "mdspecial",
-      "category": [0, 1],
+      "category": [
+        0,
+        1
+      ],
       "colors": {
         "accent": "ff3ddc84",
         "actionbar": "ff313140",
@@ -1849,7 +1973,11 @@
       "theme_name": "MINI Retro (Round)",
       "theme_base": "dark",
       "folder_name": "miniretroround",
-      "category": [0, 1, 4],
+      "category": [
+        0,
+        1,
+        4
+      ],
       "colors": {
         "accent": "ffe2765c",
         "actionbar": "ff414141",
@@ -1891,7 +2019,11 @@
       "theme_name": "MINI Retro (Square)",
       "theme_base": "dark",
       "folder_name": "miniretrosquare",
-      "category": [0, 1, 4],
+      "category": [
+        0,
+        1,
+        4
+      ],
       "colors": {
         "accent": "ffe2765c",
         "actionbar": "ff414141",
@@ -1933,7 +2065,11 @@
       "theme_name": "MIUI 13",
       "theme_base": "light",
       "folder_name": "miuitherteen",
-      "category": [0, 2, 6],
+      "category": [
+        0,
+        2,
+        6
+      ],
       "colors": {
         "accent": "ff458aff",
         "actionbar": "fffafafa",
@@ -1978,7 +2114,11 @@
       "theme_name": "MIUI 13 Dark",
       "theme_base": "dark",
       "folder_name": "miuitherteendark",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff9a9ab0",
         "actionbar": "ff1f1f28",
@@ -2020,7 +2160,11 @@
       "theme_name": "MaterialYou Green",
       "theme_base": "light",
       "folder_name": "materialyougreen",
-      "category": [0, 2, 4],
+      "category": [
+        0,
+        2,
+        4
+      ],
       "colors": {
         "accent": "ffa2b176",
         "actionbar": "ffe1e8c9",
@@ -2062,7 +2206,11 @@
       "theme_name": "MaterialYou Orange",
       "theme_base": "light",
       "folder_name": "materialyouorange",
-      "category": [0, 2, 4],
+      "category": [
+        0,
+        2,
+        4
+      ],
       "colors": {
         "accent": "ffd39355",
         "actionbar": "fffad9b6",
@@ -2104,7 +2252,10 @@
       "theme_name": "Modern",
       "theme_base": "light",
       "folder_name": "modern",
-      "category": [0, 2],
+      "category": [
+        0,
+        2
+      ],
       "colors": {
         "accent": "ff212121",
         "actionbar": "ffffffff",
@@ -2149,7 +2300,10 @@
       "theme_name": "Modern Dark",
       "theme_base": "dark",
       "folder_name": "moderndark",
-      "category": [0, 1],
+      "category": [
+        0,
+        1
+      ],
       "colors": {
         "accent": "ffababab",
         "actionbar": "ff252525",
@@ -2194,7 +2348,10 @@
       "theme_name": "MorphOS BW",
       "theme_base": "dark",
       "folder_name": "morphosdarkbw",
-      "category": [0, 1],
+      "category": [
+        0,
+        1
+      ],
       "colors": {
         "accent": "ffa0a0a0",
         "actionbar": "ff414141",
@@ -2242,7 +2399,10 @@
       "theme_name": "MorphOS Colorful",
       "theme_base": "dark",
       "folder_name": "morphosdarkcolorful",
-      "category": [0, 1],
+      "category": [
+        0,
+        1
+      ],
       "colors": {
         "accent": "ff42a5f5",
         "actionbar": "ff414141",
@@ -2290,7 +2450,10 @@
       "theme_name": "MorphOS Light BW",
       "theme_base": "light",
       "folder_name": "morphosbw",
-      "category": [0, 2],
+      "category": [
+        0,
+        2
+      ],
       "colors": {
         "accent": "ffa0a0a0",
         "actionbar": "fff7f7f7",
@@ -2338,7 +2501,10 @@
       "theme_name": "MorphOS Light Colorful",
       "theme_base": "light",
       "folder_name": "morphoscolorful",
-      "category": [0, 2],
+      "category": [
+        0,
+        2
+      ],
       "colors": {
         "accent": "ff42a5f5",
         "actionbar": "fff7f7f7",
@@ -2386,7 +2552,10 @@
       "theme_name": "NEU",
       "theme_base": "light",
       "folder_name": "neu",
-      "category": [0, 2],
+      "category": [
+        0,
+        2
+      ],
       "colors": {
         "accent": "ff989b9d",
         "actionbar": "ffdee2e5",
@@ -2431,7 +2600,10 @@
       "theme_name": "NEU Dark",
       "theme_base": "dark",
       "folder_name": "neudark",
-      "category": [0, 1],
+      "category": [
+        0,
+        1
+      ],
       "colors": {
         "accent": "ff78909c",
         "actionbar": "ff2b363c",
@@ -2476,7 +2648,10 @@
       "theme_name": "NEU iOS",
       "theme_base": "light",
       "folder_name": "neuios",
-      "category": [0, 2],
+      "category": [
+        0,
+        2
+      ],
       "colors": {
         "accent": "ff15e3a6",
         "actionbar": "ffefefef",
@@ -2521,7 +2696,10 @@
       "theme_name": "NEU iOS Dark",
       "theme_base": "dark",
       "folder_name": "neuiosdark",
-      "category": [0, 1],
+      "category": [
+        0,
+        1
+      ],
       "colors": {
         "accent": "ff15e3a6",
         "actionbar": "ff101010",
@@ -2566,7 +2744,10 @@
       "theme_name": "NeuOS",
       "theme_base": "light",
       "folder_name": "neu_os",
-      "category": [0, 2],
+      "category": [
+        0,
+        2
+      ],
       "colors": {
         "accent": "ff1AD3BF",
         "actionbar": "ffffffff",
@@ -2611,7 +2792,10 @@
       "theme_name": "NeuOS Dark",
       "theme_base": "dark",
       "folder_name": "neu_osdark",
-      "category": [0, 1],
+      "category": [
+        0,
+        1
+      ],
       "colors": {
         "accent": "ff1AD3BF",
         "actionbar": "ff353535",
@@ -2656,7 +2840,11 @@
       "theme_name": "OUTLAWS",
       "theme_base": "dark",
       "folder_name": "outlaws",
-      "category": [0, 1, 3],
+      "category": [
+        0,
+        1,
+        3
+      ],
       "colors": {
         "accent": "ffcc0204",
         "actionbar": "ff0f0f0f",
@@ -2701,7 +2889,11 @@
       "theme_name": "One UI 3",
       "theme_base": "light",
       "folder_name": "oneuithree",
-      "category": [0, 2, 6],
+      "category": [
+        0,
+        2,
+        6
+      ],
       "colors": {
         "accent": "ff2e65f3",
         "actionbar": "fff2f2f2",
@@ -2746,7 +2938,11 @@
       "theme_name": "One UI 3 Dark",
       "theme_base": "dark",
       "folder_name": "oneuthreedark",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff2e65f3",
         "actionbar": "ff171717",
@@ -2791,7 +2987,12 @@
       "theme_name": "OxygenOS 13",
       "theme_base": "light",
       "folder_name": "oxygenostherteen",
-      "category": [0, 2, 4, 5],
+      "category": [
+        0,
+        2,
+        4,
+        5
+      ],
       "colors": {
         "accent": "ff2e8cfe",
         "actionbar": "fff5f5f5",
@@ -2833,7 +3034,11 @@
       "theme_name": "OxygenOS 13 Dark",
       "theme_base": "dark",
       "folder_name": "oxygenostherteendark",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff29a84d",
         "actionbar": "ff202020",
@@ -2875,7 +3080,12 @@
       "theme_name": "POCO Dark",
       "theme_base": "dark",
       "folder_name": "pocodark",
-      "category": [0, 1, 6, 4],
+      "category": [
+        0,
+        1,
+        6,
+        4
+      ],
       "colors": {
         "accent": "ff0c84ff",
         "actionbar": "ff202020",
@@ -2917,7 +3127,12 @@
       "theme_name": "Pure AOSP",
       "theme_base": "light",
       "folder_name": "pureaosp",
-      "category": [0, 2, 6, 4],
+      "category": [
+        0,
+        2,
+        6,
+        4
+      ],
       "colors": {
         "accent": "ff009688",
         "actionbar": "ffffffff",
@@ -2956,7 +3171,12 @@
       "theme_name": "Pure AOSP Dark",
       "theme_base": "dark",
       "folder_name": "pureaospdark",
-      "category": [0, 1, 6, 4],
+      "category": [
+        0,
+        1,
+        6,
+        4
+      ],
       "colors": {
         "accent": "ff80cbc4",
         "actionbar": "ff353535",
@@ -2995,7 +3215,12 @@
       "theme_name": "Pure Pixel",
       "theme_base": "light",
       "folder_name": "purepixel",
-      "category": [0, 2, 6, 4],
+      "category": [
+        0,
+        2,
+        6,
+        4
+      ],
       "colors": {
         "accent": "ff4285f6",
         "actionbar": "ffffffff",
@@ -3034,7 +3259,12 @@
       "theme_name": "Pure Pixel Dark",
       "theme_base": "dark",
       "folder_name": "purepixeldark",
-      "category": [0, 1, 6, 4],
+      "category": [
+        0,
+        1,
+        6,
+        4
+      ],
       "colors": {
         "accent": "ff8ab4f8",
         "actionbar": "ff35363a",
@@ -3073,7 +3303,11 @@
       "theme_name": "Starry",
       "theme_base": "dark",
       "folder_name": "starry",
-      "category": [0, 1, 4],
+      "category": [
+        0,
+        1,
+        4
+      ],
       "colors": {
         "accent": "ff7986cb",
         "actionbar": "ff11162a",
@@ -3115,7 +3349,11 @@
       "theme_name": "Hello Future",
       "theme_base": "dark",
       "folder_name": "hellofuture",
-      "category": [0, 2, 6],
+      "category": [
+        0,
+        2,
+        6
+      ],
       "colors": {
         "accent": "ff458aff",
         "actionbar": "ffffffff",
@@ -3157,7 +3395,11 @@
       "theme_name": "WatchDogs",
       "theme_base": "dark",
       "folder_name": "watchdogs",
-      "category": [0, 1, 3],
+      "category": [
+        0,
+        1,
+        3
+      ],
       "colors": {
         "accent": "ff00bcd4",
         "actionbar": "ff050505",
@@ -3202,7 +3444,11 @@
       "theme_name": "Windows 11",
       "theme_base": "light",
       "folder_name": "windowseleven",
-      "category": [0, 2, 6],
+      "category": [
+        0,
+        2,
+        6
+      ],
       "colors": {
         "accent": "ff2196f3",
         "actionbar": "fff5f5f5",
@@ -3247,7 +3493,11 @@
       "theme_name": "Windows 11 Dark",
       "theme_base": "dark",
       "folder_name": "windowselevendark",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff2196f3",
         "actionbar": "ff051225",
@@ -3292,7 +3542,11 @@
       "theme_name": "XONE",
       "theme_base": "dark",
       "folder_name": "xone",
-      "category": [0, 1, 5],
+      "category": [
+        0,
+        1,
+        5
+      ],
       "colors": {
         "accent": "ffFF80AB",
         "actionbar": "ff2D2833",
@@ -3334,7 +3588,11 @@
       "theme_name": "XP Dark",
       "theme_base": "dark",
       "folder_name": "xpdark",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ffff6200",
         "actionbar": "ff1f1f1f",
@@ -3376,7 +3634,12 @@
       "theme_name": "XP Light",
       "theme_base": "light",
       "folder_name": "xp",
-      "category": [0, 2, 4, 5],
+      "category": [
+        0,
+        2,
+        4,
+        5
+      ],
       "colors": {
         "accent": "ff8f5de5",
         "actionbar": "fffcfcfc",
@@ -3418,7 +3681,11 @@
       "theme_name": "iCandy",
       "theme_base": "light",
       "folder_name": "icandy",
-      "category": [0, 2, 5],
+      "category": [
+        0,
+        2,
+        5
+      ],
       "colors": {
         "accent": "fffd5492",
         "actionbar": "ffffdeea",
@@ -3463,7 +3730,10 @@
       "theme_name": "iMono",
       "theme_base": "dark",
       "folder_name": "imono",
-      "category": [0, 1],
+      "category": [
+        0,
+        1
+      ],
       "colors": {
         "accent": "ff909090",
         "actionbar": "ff191919",
@@ -3508,7 +3778,11 @@
       "theme_name": "iOS 14",
       "theme_base": "light",
       "folder_name": "iosfourteen",
-      "category": [0, 2, 6],
+      "category": [
+        0,
+        2,
+        6
+      ],
       "colors": {
         "accent": "ff147efb",
         "actionbar": "ffffffff",
@@ -3553,7 +3827,11 @@
       "theme_name": "iOS 14 Dark",
       "theme_base": "dark",
       "folder_name": "iosfourteendark",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff147efb",
         "actionbar": "ff282a31",
@@ -3598,7 +3876,11 @@
       "theme_name": "iOS 14 Dark (Free)",
       "theme_base": "dark",
       "folder_name": "iosfourteendarkfree",
-      "category": [0, 1, 6],
+      "category": [
+        0,
+        1,
+        6
+      ],
       "colors": {
         "accent": "ff147efb",
         "actionbar": "ff282a31",
@@ -3643,7 +3925,10 @@
       "theme_name": "iOS Luxury",
       "theme_base": "dark",
       "folder_name": "iosluxury",
-      "category": [0, 1],
+      "category": [
+        0,
+        1
+      ],
       "colors": {
         "accent": "ffedc56e",
         "actionbar": "ff4f4f4f",
@@ -3688,7 +3973,11 @@
       "theme_name": "iOS Midnight",
       "theme_base": "dark",
       "folder_name": "iosmidnight",
-      "category": [0, 1, 5],
+      "category": [
+        0,
+        1,
+        5
+      ],
       "colors": {
         "accent": "fff06292",
         "actionbar": "ff484c66",
