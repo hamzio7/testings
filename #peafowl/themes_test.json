@@ -1,6 +1,48 @@
 {
   "themes": [
     {
+      "theme_name": "One Glass Alt",
+      "theme_base": "dark",
+      "folder_name": "one_glass_alt",
+      "category": [0, 1, 6],
+      "colors": {
+        "accent": "fff31919",
+        "actionbar": "ff0c141f",
+        "background": "ff080d14",
+        "cal_bg": "ff0c141f",
+        "cal_date": "fff31919",
+        "calculator": "fff31919",
+        "dialenums": "ffffffff",
+        "dialer": "fff31919",
+        "dialpad": "ff0c141f",
+        "folder": "ff0c141f",
+        "nots_bg": "ff0c141f",
+        "optimizer": "fff31919",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "fff31919",
+        "settings": "fff31919",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "fff31919",
+        "systemui": "fff31919",
+        "systemui_off": "ff0c141f"
+      },
+      "sku": "one_glass",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
+      ]
+    },
+    {
       "theme_name": "One Glass",
       "theme_base": "dark",
       "folder_name": "one_glass",
