@@ -1,0 +1,143 @@
+{
+  "ic_vpn.png": [
+    { "file": "vpn_settings2.png", "paths": [""] },
+    { "file": "vpn_settings.png", "paths": [""] },
+    { "file": "ic_vpn_settings.png", "paths": [""] },
+    { "file": "ic_device_connection.png", "paths": [""] },
+    { "file": "ic_portable_wlan_hotspot_settings.png", "paths": [""] }
+  ],
+  "eye_care.png": [
+    { "file": "ic_settings_oasis_eye_care.png", "paths": [""] }
+  ],
+  "ic_eye_comfort.png": [
+    { "file": "ic_settings_oasis_eye_care.png", "paths": [""] }
+  ],
+  "ic_ai.png": [
+    { "file": "ic_launcher_round.png", "paths": [""] },
+    { "file": "setting_honor.webp", "paths": [""] },
+    { "file": "ic_launcher_round.webp", "paths": [""] }
+  ],
+  "ic_fold.png": [
+    { "file": "ic_foldablescreen.png", "paths": [""] },
+    { "file": "ic_super_device_fold_phone.png", "paths": [""] },
+    { "file": "ic_super_device_outside_fold_phone.png", "paths": [""] }
+  ],
+  "ic_about_digital_balance.png": [
+    { "file": "ic_app_timer.png", "paths": [""] },
+    { "file": "ic_google_wellbeing.png", "paths": [""] },
+    { "file": "ic_settings_digital_balance.png", "paths": [""] },
+    { "file": "ic_settings_digitaled_balance.png", "paths": [""] }
+  ],
+  "ic_settings_digital_balance.png": [
+    { "file": "ic_about_digital_balance.png", "paths": [""] },
+    { "file": "ic_app_timer.png", "paths": [""] },
+    { "file": "ic_google_wellbeing.png", "paths": [""] },
+    { "file": "ic_settings_digitaled_balance.png", "paths": [""] }
+  ],
+  "ic_settings_battery.png": [
+    { "file": "ic_battery_settings.png", "paths": [""] },
+    { "file": "ic_settings_battery_manager.png", "paths": [""] }
+  ],
+  "ic_homepage_home_unlock.png": [
+    { "file": "ic_miui_home_settings.png", "paths": [""] }
+  ],
+  "ic_hw_bluetooth_settings.png": [
+    { "file": "ic_hw_bluetooth_settings_restrictied.png", "paths": [""] },
+    { "file": "ic_bluetooth_settings.png", "paths": [""] }
+  ],
+  "ic_settings_about.png": [
+    { "file": "ic_about_settings.png", "paths": [""] },
+    { "file": "ic_my_device.png", "paths": [""] }
+  ],
+  "ic_settings_accessibility.png": [
+    { "file": "ic_special_features.png", "paths": [""] },
+    { "file": "ic_miui_lab_settings.png", "paths": [""] }
+  ],
+  "ic_settings_accounts.png": [
+    { "file": "ic_account_list.png", "paths": [""] },
+    { "file": "ic_account_settings.png", "paths": [""] }
+  ],
+  "ic_settings_applications.png": [
+    { "file": "ic_system_app_settings.png", "paths": [""] },
+    { "file": "ic_system_app_settings_new.png", "paths": [""] }
+  ],
+  "ic_settings_biometric_unlock.png": [
+    { "file": "ic_security_settings_settings.png", "paths": [""] }
+  ],
+  "ic_settings_device.png": [
+    { "file": "ic_launcher_collaboration.png", "paths": [""] }
+  ],
+  "ic_launcher_collaboration.png": [
+    { "file": "ic_homepage_super_device.png", "paths": [""] },
+    { "file": "ic_super_device.png", "paths": [""] }
+  ],
+  "ic_settings_display.png": [
+    { "file": "ic_display_settings.png", "paths": [""] }
+  ],
+  "ic_settings_google.png": [
+    { "file": "ic_google_settings.png", "paths": [""] }
+  ],
+  "ic_settings_location.png": [
+    { "file": "ic_preference_location.png", "paths": [""] },
+    { "file": "ic_location_info_settings.png", "paths": [""] },
+    { "file": "ic_privacy_location.png", "paths": [""] },
+    { "file": "ic_location_settings.png", "paths": [""] }
+  ],
+  "ic_settings_network.png": [
+    { "file": "ic_settings_data_usage.png", "paths": [""] },
+    { "file": "ic_mobile_network_settings.png", "paths": [""] },
+    { "file": "ic_settings_dualsim.png", "paths": [""] }
+  ],
+  "ic_settings_notification.png": [
+    { "file": "ic_notification_center.png", "paths": [""] },
+    { "file": "ic_settings_notifications.png", "paths": [""] },
+    { "file": "ic_status_bar_settings.png", "paths": [""] },
+    { "file": "colorful_led_icon.png", "paths": [""] }
+  ],
+  "ic_settings_phone_updates.png": [
+    { "file": "ic_settings_system_update.png", "paths": [""] },
+    { "file": "ic_settings_system_update_new.png", "paths": [""] },
+    { "file": "ic_system_update.png", "paths": [""] },
+    { "file": "ic_system_apps_updater.png", "paths": [""] },
+    { "file": "ic_sync_settings.png", "paths": [""] },
+    { "file": "ic_updater_settings.png", "paths": [""] }
+  ],
+  "ic_settings_privacy.png": [
+    { "file": "ic_privacy_settings.png", "paths": [""] }
+  ],
+  "ic_privacy_settings.png": [
+    { "file": "ic_settings_privacy.png", "paths": [""] }
+  ],
+  "ic_settings_security.png": [
+    { "file": "ic_app_lock.png", "paths": [""] },
+    { "file": "ic_security_status.png", "paths": [""] },
+    { "file": "ic_unlock_set_settings.png", "paths": [""] }
+  ],
+  "ic_settings_sound.png": [
+    { "file": "ic_sound_settings.png", "paths": [""] }
+  ],
+  "ic_settings_storage.png": [
+    { "file": "ic_settings_storage_hw.png", "paths": [""] },
+    { "file": "ic_storage_settings.png", "paths": [""] }
+  ],
+  "ic_settings_wifi.png": [
+    { "file": "ic_wifi_settings.png", "paths": [""] }
+  ],
+  "ic_privacy_protection.png": [
+    { "file": "ic_settings_safety_emergency.png", "paths": [""] }
+  ],
+  "ic_more_applications_settings.png": [
+    { "file": "ic_other_advanced_settings.png", "paths": [""] },
+    { "file": "ic_wifi_more_settings.png", "paths": [""] }
+  ],
+  "ic_smartassistant.png": [
+    { "file": "ic_launcher_round.png", "paths": [""] },
+    { "file": "setting_honor.webp", "paths": [""] },
+    { "file": "ic_launcher_round.webp", "paths": [""] },
+    { "file": "ic_smartassistant_honor.png", "paths": [""] },
+    { "file": "ic_yoyo_widget.webp", "paths": [""] },
+    { "file": "ic_smartassistant_honor.webp", "paths": [""] },
+    { "file": "xiaoai.png", "paths": [""] },
+    { "file": "ai_button_icon.png", "paths": [""] }
+  ]
+}
