@@ -1,143 +1,301 @@
 {
-  "ic_vpn.png": [
-    { "file": "vpn_settings2.png", "paths": [""] },
-    { "file": "vpn_settings.png", "paths": [""] },
-    { "file": "ic_vpn_settings.png", "paths": [""] },
-    { "file": "ic_device_connection.png", "paths": [""] },
-    { "file": "ic_portable_wlan_hotspot_settings.png", "paths": [""] }
+  "commonPaths": [
+    "com.android.settings/res/drawable/",
+    "com.android.settings/res/drawable-night/",
+    "com.android.settings/res/drawable-xxhdpi/",
+    "com.android.settings/res/drawable-night-xxhdpi/"
   ],
-  "eye_care.png": [
-    { "file": "ic_settings_oasis_eye_care.png", "paths": [""] }
-  ],
-  "ic_eye_comfort.png": [
-    { "file": "ic_settings_oasis_eye_care.png", "paths": [""] }
-  ],
-  "ic_ai.png": [
-    { "file": "ic_launcher_round.png", "paths": [""] },
-    { "file": "setting_honor.webp", "paths": [""] },
-    { "file": "ic_launcher_round.webp", "paths": [""] }
-  ],
-  "ic_fold.png": [
-    { "file": "ic_foldablescreen.png", "paths": [""] },
-    { "file": "ic_super_device_fold_phone.png", "paths": [""] },
-    { "file": "ic_super_device_outside_fold_phone.png", "paths": [""] }
-  ],
-  "ic_about_digital_balance.png": [
-    { "file": "ic_app_timer.png", "paths": [""] },
-    { "file": "ic_google_wellbeing.png", "paths": [""] },
-    { "file": "ic_settings_digital_balance.png", "paths": [""] },
-    { "file": "ic_settings_digitaled_balance.png", "paths": [""] }
-  ],
-  "ic_settings_digital_balance.png": [
-    { "file": "ic_about_digital_balance.png", "paths": [""] },
-    { "file": "ic_app_timer.png", "paths": [""] },
-    { "file": "ic_google_wellbeing.png", "paths": [""] },
-    { "file": "ic_settings_digitaled_balance.png", "paths": [""] }
-  ],
-  "ic_settings_battery.png": [
-    { "file": "ic_battery_settings.png", "paths": [""] },
-    { "file": "ic_settings_battery_manager.png", "paths": [""] }
-  ],
-  "ic_homepage_home_unlock.png": [
-    { "file": "ic_miui_home_settings.png", "paths": [""] }
-  ],
-  "ic_hw_bluetooth_settings.png": [
-    { "file": "ic_hw_bluetooth_settings_restrictied.png", "paths": [""] },
-    { "file": "ic_bluetooth_settings.png", "paths": [""] }
-  ],
-  "ic_settings_about.png": [
-    { "file": "ic_about_settings.png", "paths": [""] },
-    { "file": "ic_my_device.png", "paths": [""] }
-  ],
-  "ic_settings_accessibility.png": [
-    { "file": "ic_special_features.png", "paths": [""] },
-    { "file": "ic_miui_lab_settings.png", "paths": [""] }
-  ],
-  "ic_settings_accounts.png": [
-    { "file": "ic_account_list.png", "paths": [""] },
-    { "file": "ic_account_settings.png", "paths": [""] }
-  ],
-  "ic_settings_applications.png": [
-    { "file": "ic_system_app_settings.png", "paths": [""] },
-    { "file": "ic_system_app_settings_new.png", "paths": [""] }
-  ],
-  "ic_settings_biometric_unlock.png": [
-    { "file": "ic_security_settings_settings.png", "paths": [""] }
-  ],
-  "ic_settings_device.png": [
-    { "file": "ic_launcher_collaboration.png", "paths": [""] }
-  ],
-  "ic_launcher_collaboration.png": [
-    { "file": "ic_homepage_super_device.png", "paths": [""] },
-    { "file": "ic_super_device.png", "paths": [""] }
-  ],
-  "ic_settings_display.png": [
-    { "file": "ic_display_settings.png", "paths": [""] }
-  ],
-  "ic_settings_google.png": [
-    { "file": "ic_google_settings.png", "paths": [""] }
-  ],
-  "ic_settings_location.png": [
-    { "file": "ic_preference_location.png", "paths": [""] },
-    { "file": "ic_location_info_settings.png", "paths": [""] },
-    { "file": "ic_privacy_location.png", "paths": [""] },
-    { "file": "ic_location_settings.png", "paths": [""] }
-  ],
-  "ic_settings_network.png": [
-    { "file": "ic_settings_data_usage.png", "paths": [""] },
-    { "file": "ic_mobile_network_settings.png", "paths": [""] },
-    { "file": "ic_settings_dualsim.png", "paths": [""] }
-  ],
-  "ic_settings_notification.png": [
-    { "file": "ic_notification_center.png", "paths": [""] },
-    { "file": "ic_settings_notifications.png", "paths": [""] },
-    { "file": "ic_status_bar_settings.png", "paths": [""] },
-    { "file": "colorful_led_icon.png", "paths": [""] }
-  ],
-  "ic_settings_phone_updates.png": [
-    { "file": "ic_settings_system_update.png", "paths": [""] },
-    { "file": "ic_settings_system_update_new.png", "paths": [""] },
-    { "file": "ic_system_update.png", "paths": [""] },
-    { "file": "ic_system_apps_updater.png", "paths": [""] },
-    { "file": "ic_sync_settings.png", "paths": [""] },
-    { "file": "ic_updater_settings.png", "paths": [""] }
-  ],
-  "ic_settings_privacy.png": [
-    { "file": "ic_privacy_settings.png", "paths": [""] }
-  ],
-  "ic_privacy_settings.png": [
-    { "file": "ic_settings_privacy.png", "paths": [""] }
-  ],
-  "ic_settings_security.png": [
-    { "file": "ic_app_lock.png", "paths": [""] },
-    { "file": "ic_security_status.png", "paths": [""] },
-    { "file": "ic_unlock_set_settings.png", "paths": [""] }
-  ],
-  "ic_settings_sound.png": [
-    { "file": "ic_sound_settings.png", "paths": [""] }
-  ],
-  "ic_settings_storage.png": [
-    { "file": "ic_settings_storage_hw.png", "paths": [""] },
-    { "file": "ic_storage_settings.png", "paths": [""] }
-  ],
-  "ic_settings_wifi.png": [
-    { "file": "ic_wifi_settings.png", "paths": [""] }
-  ],
-  "ic_privacy_protection.png": [
-    { "file": "ic_settings_safety_emergency.png", "paths": [""] }
-  ],
-  "ic_more_applications_settings.png": [
-    { "file": "ic_other_advanced_settings.png", "paths": [""] },
-    { "file": "ic_wifi_more_settings.png", "paths": [""] }
-  ],
-  "ic_smartassistant.png": [
-    { "file": "ic_launcher_round.png", "paths": [""] },
-    { "file": "setting_honor.webp", "paths": [""] },
-    { "file": "ic_launcher_round.webp", "paths": [""] },
-    { "file": "ic_smartassistant_honor.png", "paths": [""] },
-    { "file": "ic_yoyo_widget.webp", "paths": [""] },
-    { "file": "ic_smartassistant_honor.webp", "paths": [""] },
-    { "file": "xiaoai.png", "paths": [""] },
-    { "file": "ai_button_icon.png", "paths": [""] }
-  ]
+  "items": {
+    "ic_vpn.png": {
+      "files": [
+        "vpn_settings2.png",
+        "vpn_settings.png",
+        "ic_vpn_settings.png",
+        "ic_device_connection.png",
+        "ic_portable_wlan_hotspot_settings.png"
+      ],
+      "extraPaths": []
+    },
+    "eye_care.png": {
+      "files": ["ic_settings_oasis_eye_care.png"],
+      "extraPaths": []
+    },
+    "ic_eye_comfort.png": {
+      "files": ["ic_settings_oasis_eye_care.png"],
+      "extraPaths": []
+    },
+    "ic_ai.png": {
+      "files": [
+        "ic_launcher_round.png",
+        "setting_honor.webp",
+        "ic_launcher_round.webp"
+      ],
+      "extraPaths": [
+        "com.huawei.vassistant/res/drawable/",
+        "com.huawei.hiassistantoversea/res/drawable-xxhdpi/",
+        "com.huawei.hiassistant/res/drawable-xxhdpi/",
+        "com.huawei.assistant/res/drawable-xxhdpi/",
+        "com.huawei.assistant/res/drawable-night-xxhdpi/",
+        "com.huawei.assistant/res/drawable/",
+        "com.huawei.assistant/res/drawable-night/",
+        "com.huawei.aipluginengine/res/drawable-night/",
+        "com.huawei.aipluginengine/res/drawable/"
+      ]
+    },
+    "ic_fold.png": {
+      "files": [
+        "ic_foldablescreen.png",
+        "ic_super_device_fold_phone.png",
+        "ic_super_device_outside_fold_phone.png"
+      ],
+      "extraPaths": []
+    },
+    "ic_about_digital_balance.png": {
+      "files": [
+        "ic_app_timer.png",
+        "ic_google_wellbeing.png",
+        "ic_settings_digital_balance.png",
+        "ic_settings_digitaled_balance.png"
+      ],
+      "extraPaths": [
+        "com.huawei.parentcontrol/res/drawable/",
+        "com.huawei.parentcontrol/res/drawable-night/",
+        "com.huawei.parentcontrol/res/drawable-xxhdpi/",
+        "com.huawei.parentcontrol/res/drawable-night-xxhdpi/"
+      ]
+    },
+    "ic_settings_digital_balance.png": {
+      "files": [
+        "ic_about_digital_balance.png",
+        "ic_app_timer.png",
+        "ic_google_wellbeing.png",
+        "ic_settings_digitaled_balance.png"
+      ],
+      "extraPaths": [
+        "com.huawei.parentcontrol/res/drawable/",
+        "com.huawei.parentcontrol/res/drawable-night/",
+        "com.huawei.parentcontrol/res/drawable-xxhdpi/",
+        "com.huawei.parentcontrol/res/drawable-night-xxhdpi/"
+      ]
+    },
+    "ic_settings_battery.png": {
+      "files": [
+        "ic_battery_settings.png",
+        "ic_settings_battery_manager.png"
+      ],
+      "extraPaths": [
+        "com.huawei.systemmanager/res/drawable/",
+        "com.huawei.systemmanager/res/drawable-night/",
+        "com.huawei.systemmanager/res/drawable-night-xxhdpi/",
+        "com.huawei.systemmanager/res/drawable-xxhdpi/"
+      ]
+    },
+    "ic_homepage_home_unlock.png": {
+      "files": ["ic_miui_home_settings.png"],
+      "extraPaths": []
+    },
+    "ic_hw_bluetooth_settings.png": {
+      "files": [
+        "ic_hw_bluetooth_settings_restrictied.png",
+        "ic_bluetooth_settings.png"
+      ],
+      "extraPaths": []
+    },
+    "ic_settings_about.png": {
+      "files": [
+        "ic_about_settings.png",
+        "ic_my_device.png"
+      ],
+      "extraPaths": []
+    },
+    "ic_settings_accessibility.png": {
+      "files": [
+        "ic_special_features.png",
+        "ic_miui_lab_settings.png"
+      ],
+      "extraPaths": []
+    },
+    "ic_settings_accounts.png": {
+      "files": [
+        "ic_account_list.png",
+        "ic_account_settings.png"
+      ],
+      "extraPaths": []
+    },
+    "ic_settings_applications.png": {
+      "files": [
+        "ic_system_app_settings.png",
+        "ic_system_app_settings_new.png"
+      ],
+      "extraPaths": []
+    },
+    "ic_settings_biometric_unlock.png": {
+      "files": ["ic_security_settings_settings.png"],
+      "extraPaths": []
+    },
+    "ic_settings_device.png": {
+      "files": ["ic_launcher_collaboration.png"],
+      "extraPaths": [
+        "com.huawei.controlcenter/res/drawable/"
+      ]
+    },
+    "ic_launcher_collaboration.png": {
+      "files": [
+        "ic_homepage_super_device.png",
+        "ic_super_device.png"
+      ],
+      "extraPaths": [
+        "com.huawei.controlcenter/res/drawable/"
+      ]
+    },
+    "ic_settings_display.png": {
+      "files": ["ic_display_settings.png"],
+      "extraPaths": []
+    },
+    "ic_settings_google.png": {
+      "files": ["ic_google_settings.png"],
+      "extraPaths": []
+    },
+    "ic_settings_location.png": {
+      "files": [
+        "ic_preference_location.png",
+        "ic_location_info_settings.png",
+        "ic_privacy_location.png",
+        "ic_location_settings.png"
+      ],
+      "extraPaths": []
+    },
+    "ic_settings_network.png": {
+      "files": [
+        "ic_settings_data_usage.png",
+        "ic_mobile_network_settings.png",
+        "ic_settings_dualsim.png"
+      ],
+      "extraPaths": [
+        "com.huawei.android.dsdscardmanager/res/drawable/"
+      ]
+    },
+    "ic_settings_notification.png": {
+      "files": [
+        "ic_notification_center.png",
+        "ic_settings_notifications.png",
+        "ic_status_bar_settings.png",
+        "colorful_led_icon.png"
+      ],
+      "extraPaths": [
+        "com.huawei.systemmanager/res/drawable/",
+        "com.huawei.systemmanager/res/drawable-night/",
+        "com.huawei.systemmanager/res/drawable-night-xxhdpi/",
+        "com.huawei.systemmanager/res/drawable-xxhdpi/"
+      ]
+    },
+    "ic_settings_phone_updates.png": {
+      "files": [
+        "ic_settings_system_update.png",
+        "ic_settings_system_update_new.png",
+        "ic_system_update.png",
+        "ic_system_apps_updater.png",
+        "ic_sync_settings.png",
+        "ic_updater_settings.png"
+      ],
+      "extraPaths": [
+        "com.huawei.android.hwouc/res/drawable/"
+      ]
+    },
+    "ic_settings_privacy.png": {
+      "files": ["ic_privacy_settings.png"],
+      "extraPaths": [
+        "com.huawei.systemmanager/res/drawable/",
+        "com.huawei.systemmanager/res/drawable-night/",
+        "com.huawei.systemmanager/res/drawable-night-xxhdpi/",
+        "com.huawei.systemmanager/res/drawable-xxhdpi/"
+      ]
+    },
+    "ic_privacy_settings.png": {
+      "files": ["ic_settings_privacy.png"],
+      "extraPaths": [
+        "com.huawei.systemmanager/res/drawable/",
+        "com.huawei.systemmanager/res/drawable-night/",
+        "com.huawei.systemmanager/res/drawable-night-xxhdpi/",
+        "com.huawei.systemmanager/res/drawable-xxhdpi/"
+      ]
+    },
+    "ic_settings_security.png": {
+      "files": [
+        "ic_app_lock.png",
+        "ic_security_status.png",
+        "ic_unlock_set_settings.png"
+      ],
+      "extraPaths": [
+        "com.huawei.systemmanager/res/drawable/",
+        "com.huawei.systemmanager/res/drawable-night/",
+        "com.huawei.systemmanager/res/drawable-night-xxhdpi/",
+        "com.huawei.systemmanager/res/drawable-xxhdpi/"
+      ]
+    },
+    "ic_settings_sound.png": {
+      "files": ["ic_sound_settings.png"],
+      "extraPaths": [
+        "com.huawei.systemmanager/res/drawable/",
+        "com.huawei.systemmanager/res/drawable-night/",
+        "com.huawei.systemmanager/res/drawable-night-xxhdpi/",
+        "com.huawei.systemmanager/res/drawable-xxhdpi/"
+      ]
+    },
+    "ic_settings_storage.png": {
+      "files": [
+        "ic_settings_storage_hw.png",
+        "ic_storage_settings.png"
+      ],
+      "extraPaths": [
+        "com.huawei.systemmanager/res/drawable/",
+        "com.huawei.systemmanager/res/drawable-night/",
+        "com.huawei.systemmanager/res/drawable-night-xxhdpi/",
+        "com.huawei.systemmanager/res/drawable-xxhdpi/"
+      ]
+    },
+    "ic_settings_wifi.png": {
+      "files": ["ic_wifi_settings.png"],
+      "extraPaths": []
+    },
+    "ic_privacy_protection.png": {
+      "files": ["ic_settings_safety_emergency.png"],
+      "extraPaths": [
+        "com.huawei.systemmanager/res/drawable/",
+        "com.huawei.systemmanager/res/drawable-night/",
+        "com.huawei.systemmanager/res/drawable-night-xxhdpi/",
+        "com.huawei.systemmanager/res/drawable-xxhdpi/"
+      ]
+    },
+    "ic_more_applications_settings.png": {
+      "files": [
+        "ic_other_advanced_settings.png",
+        "ic_wifi_more_settings.png"
+      ],
+      "extraPaths": []
+    },
+    "ic_smartassistant.png": {
+      "files": [
+        "ic_launcher_round.png",
+        "setting_honor.webp",
+        "ic_launcher_round.webp",
+        "ic_smartassistant_honor.png",
+        "ic_yoyo_widget.webp",
+        "ic_smartassistant_honor.webp",
+        "xiaoai.png",
+        "ai_button_icon.png"
+      ],
+      "extraPaths": [
+        "com.huawei.vassistant/res/drawable/",
+        "com.huawei.hiassistantoversea/res/drawable-xxhdpi/",
+        "com.huawei.hiassistant/res/drawable-xxhdpi/",
+        "com.huawei.assistant/res/drawable-xxhdpi/",
+        "com.huawei.assistant/res/drawable-night-xxhdpi/",
+        "com.huawei.assistant/res/drawable/",
+        "com.huawei.assistant/res/drawable-night/",
+        "com.huawei.aipluginengine/res/drawable-night/",
+        "com.huawei.aipluginengine/res/drawable/"
+      ]
+    }
+  }
 }
