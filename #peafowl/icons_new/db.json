@@ -2,8 +2,13 @@
   "adaptive": [
     {
       "adaptive": true,
+      "_id": "a_magic_9",
+      "pro": false
+    },
+    {
+      "adaptive": true,
       "_id": "a_redmi",
-      "pro": true
+      "pro": false
     },
     {
       "adaptive": true,
