@@ -16,6 +16,9 @@
     {
       "name": "magictranslate",
       "packages": ["com.hihonor.magictranslate"]
+    },{
+      "name": "hntranslate",
+      "packages": ["com.hihonor.magictranslate"]
     },
     {
       "name": "parallel_space",
