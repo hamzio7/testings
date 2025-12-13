@@ -1,6 +1,45 @@
 {
   "themes": [
     {
+      "theme_name": "Black Magic 10",
+      "theme_base": "dark",
+      "folder_name": "blackmagic10",
+      "category": [0, 1, 6],
+      "colors": {
+        "accent": "ff468eec",
+        "actionbar": "ff1d1d1e",
+        "background": "ff1a1a1c",
+        "cal_bg": "ff1d1d1e",
+        "cal_date": "ff468eec",
+        "calculator": "ff468eec",
+        "dialenums": "ffffffff",
+        "dialer": "ff468eec",
+        "dialpad": "ff1d1d1e",
+        "folder": "ff1d1d1e",
+        "nots_bg": "ff1d1d1e",
+        "optimizer": "ff468eec",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff468eec",
+        "settings": "ff468eec",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff468eec",
+        "systemui": "ff468eec",
+        "systemui_off": "ff1d1d1e"
+      },
+      "sku": "darkmagic10",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
+      ]
+    },
+    {
       "theme_name": "One Glass Alt",
       "theme_base": "dark",
       "folder_name": "one_glass_alt",
