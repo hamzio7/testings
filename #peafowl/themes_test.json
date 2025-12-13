@@ -23,7 +23,7 @@
         "settings": "ff808081",
         "settings_icons": "ffffffff",
         "settings_tiles": "ff606061",
-        "systemui": "ff468eec",
+        "systemui": "ff808081",
         "systemui_off": "ff0d0d0e"
       },
       "sku": "darkmagic10",
