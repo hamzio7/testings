@@ -7,16 +7,16 @@
       "category": [0, 1, 6],
       "colors": {
         "accent": "ff468eec",
-        "actionbar": "ff1d1d1e",
-        "background": "ff1a1a1c",
-        "cal_bg": "ff1d1d1e",
+        "actionbar": "ff0d0d0e",
+        "background": "ff0a0a0c",
+        "cal_bg": "ff0d0d0e",
         "cal_date": "ff468eec",
         "calculator": "ff468eec",
         "dialenums": "ffffffff",
         "dialer": "ff468eec",
-        "dialpad": "ff1d1d1e",
-        "folder": "ff1d1d1e",
-        "nots_bg": "ff1d1d1e",
+        "dialpad": "ff0d0d0e",
+        "folder": "ff0d0d0e",
+        "nots_bg": "ff0d0d0e",
         "optimizer": "ff468eec",
         "optimizer_icons": "ffffffff",
         "optimizer_tiles": "ff468eec",
@@ -24,7 +24,7 @@
         "settings_icons": "ffffffff",
         "settings_tiles": "ff606061",
         "systemui": "ff468eec",
-        "systemui_off": "ff1d1d1e"
+        "systemui_off": "ff0d0d0e"
       },
       "sku": "darkmagic10",
       "contents": [
