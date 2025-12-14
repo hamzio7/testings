@@ -1,6 +1,48 @@
 {
   "themes": [
     {
+      "theme_name": "HyperOS 3",
+      "theme_base": "light",
+      "folder_name": "hyperos3",
+      "category": [0, 2, 6],
+      "colors": {
+        "accent": "ff458aff",
+        "actionbar": "fffafafa",
+        "background": "ffffffff",
+        "cal_bg": "ffffffff",
+        "cal_date": "ff458aff",
+        "calculator": "ffffcc00",
+        "dialenums": "ff458aff",
+        "dialer": "ff458aff",
+        "dialpad": "ffffffff",
+        "folder": "ffffffff",
+        "nots_bg": "ffffffff",
+        "optimizer": "ff00cc83",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff00cc83",
+        "settings": "ff458aff",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff458aff",
+        "systemui": "ff458aff",
+        "systemui_off": "ffffffff"
+      },
+      "sku": "free",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
+      ]
+    },
+    {
       "theme_name": "Black Transparency",
       "theme_base": "dark",
       "folder_name": "blackmagic10_alt",
