@@ -2,6 +2,11 @@
   "adaptive": [
     {
       "adaptive": true,
+      "_id": "a_hyperos",
+      "pro": true
+    },
+    {
+      "adaptive": true,
       "_id": "a_magic_10",
       "pro": true
     },
