@@ -16,7 +16,8 @@
     {
       "name": "magictranslate",
       "packages": ["com.hihonor.magictranslate"]
-    },{
+    },
+    {
       "name": "hntranslate",
       "packages": ["com.hihonor.magictranslate"]
     },
@@ -1002,7 +1003,12 @@
     },
     {
       "name": "assistant",
-      "packages": ["com.hihonor.magicvoice", "com.huawei.intelligent"]
+      "packages": [
+        "com.hihonor.magicvoice",
+        "com.huawei.intelligent",
+        "com.miui.voiceassist",
+        "com.miui.voiceassistProxy"
+      ]
     },
     {
       "name": "backup",
@@ -1049,7 +1055,12 @@
     },
     {
       "name": "calendar",
-      "packages": ["com.android.calendar", "com.hihonor.calendar"]
+      "packages": [
+        "com.android.providers.calendar",
+        "com.android.calendar",
+        "com.hihonor.calendar",
+        "com.xiaomi.calendar"
+      ]
     },
     {
       "name": "callofd",
@@ -1148,8 +1159,8 @@
     {
       "name": "downloads",
       "packages": [
-        "com.android.documentsui",
         "com.android.providers.downloads",
+        "com.android.documentsui",
         "com.android.providers.downloads.ui"
       ]
     },
@@ -1212,7 +1223,7 @@
         "com.hihonor.findmydevice",
         "com.hihonor.devicefinder",
         "com.huawei.android.findmyphone",
-        "com.huawei.android.findmyphone"
+        "com.miui.findmy"
       ]
     },
     {
@@ -1396,6 +1407,10 @@
       "packages": ["com.google.android.apps.photos.scanner"]
     },
     {
+      "name": "bluetooth",
+      "packages": ["com.android.bluetooth"]
+    },
+    {
       "name": "gpixelbuds",
       "packages": ["com.google.android.apps.wearables.maestro.companion"]
     },
@@ -1476,6 +1491,7 @@
       "packages": [
         "com.huawei.accountagent",
         "com.hihonor.hncloud",
+        "com.xiaomi.xmsf.account.ui.MiCloudSettingsActivity",
         "com.huawei.hicloud"
       ]
     },
@@ -1761,11 +1777,19 @@
     },
     {
       "name": "radio",
-      "packages": ["com.huawei.android.FMRadio", "com.hihonor.android.fmradio"]
+      "packages": [
+        "com.huawei.android.FMRadio",
+        "com.hihonor.android.fmradio",
+        "com.miui.fmradio"
+      ]
     },
     {
       "name": "fm",
-      "packages": ["com.huawei.android.FMRadio", "com.hihonor.android.fmradio"]
+      "packages": [
+        "com.huawei.android.FMRadio",
+        "com.hihonor.android.fmradio",
+        "com.miui.fmradio"
+      ]
     },
     {
       "name": "epic",
@@ -1863,6 +1887,7 @@
       "packages": [
         "com.huawei.hiskytone",
         "com.hihonor.redteamobile.roaming",
+        "com.miui.virtualsim",
         "com.hihonor.hiskytone"
       ]
     },
@@ -2069,7 +2094,11 @@
     },
     {
       "name": "vassistant",
-      "packages": ["com.huawei.vassistant", "com.hihonor.magicvoice"]
+      "packages": [
+        "com.huawei.vassistant",
+        "com.hihonor.magicvoice",
+        "com.miui.voiceassist"
+      ]
     },
     {
       "name": "vlc",
@@ -2122,7 +2151,11 @@
     },
     {
       "name": "wallet",
-      "packages": ["com.hihonor.wallet", "com.huawei.wallet"]
+      "packages": [
+        "com.hihonor.wallet",
+        "com.huawei.wallet",
+        "com.mipay.wallet"
+      ]
     },
     {
       "name": "walmart",
