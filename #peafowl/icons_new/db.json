@@ -1,9 +1,9 @@
 {
   "adaptive": [
     {
-      "adaptive": false,
+      "adaptive": true,
       "_id": "a_originos",
-      "pro": true
+      "pro": false
     },
     {
       "adaptive": true,
