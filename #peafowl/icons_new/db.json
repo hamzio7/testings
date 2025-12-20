@@ -1,6 +1,11 @@
 {
   "adaptive": [
     {
+      "adaptive": false,
+      "_id": "a_originos",
+      "pro": true
+    },
+    {
       "adaptive": true,
       "_id": "a_hyperos",
       "pro": true
