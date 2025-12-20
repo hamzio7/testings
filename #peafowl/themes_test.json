@@ -22,7 +22,7 @@
         "optimizer_tiles": "ff465d8f",
         "settings": "ff465d8f",
         "settings_icons": "ffffffff",
-        "settings_tiles": "ff606061",
+        "settings_tiles": "ff465d8f",
         "systemui": "ff465d8f",
         "systemui_off": "ff0d0d0e"
       },
@@ -38,7 +38,8 @@
           "name": "preview_icons_0.jpg"
         }
       ]
-    },{
+    },
+    {
       "theme_name": "HyperOS 3",
       "theme_base": "light",
       "folder_name": "hyperos3",
