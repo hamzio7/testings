@@ -1,6 +1,48 @@
 {
   "themes": [
     {
+      "theme_name": "DarkiOS 26",
+      "theme_base": "dark",
+      "folder_name": "darkios26",
+      "category": [0, 1, 6],
+      "colors": {
+        "accent": "ff3e99fa",
+        "actionbar": "ff1a1a1a",
+        "background": "ff000000",
+        "cal_bg": "ff1a1a1a",
+        "cal_date": "ff3e99fa",
+        "calculator": "ff3e99fa",
+        "dialenums": "ff3e99fa",
+        "dialer": "ff3e99fa",
+        "dialpad": "ff1a1a1a",
+        "folder": "ff1a1a1a",
+        "nots_bg": "ff1a1a1a",
+        "optimizer": "ff3e99fa",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff3e99fa",
+        "settings": "ff3e99fa",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff3e99fa",
+        "systemui": "ff3e99fa",
+        "systemui_off": "ff1a1a1a"
+      },
+      "sku": "darkios",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        },
+        {
+          "name": "set"
+        }
+      ]
+    },
+    {
       "theme_name": "Black Origin",
       "theme_base": "dark",
       "folder_name": "blackorigin",
