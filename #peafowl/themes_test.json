@@ -12,7 +12,7 @@
         "cal_bg": "ff1a1a1a",
         "cal_date": "ff3e99fa",
         "calculator": "ff3e99fa",
-        "dialenums": "ff3e99fa",
+        "dialenums": "ffffffff",
         "dialer": "ff3e99fa",
         "dialpad": "ff1a1a1a",
         "folder": "ff1a1a1a",
@@ -26,7 +26,7 @@
         "systemui": "ff3e99fa",
         "systemui_off": "ff1a1a1a"
       },
-      "sku": "darkios",
+      "sku": "darkios26",
       "contents": [
         {
           "name": "home_wallpaper_0.jpg"
