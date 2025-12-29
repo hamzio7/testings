@@ -549,7 +549,7 @@
     },
     {
       "name": "threads",
-      "packages": ["com.instagram.barcelona"]
+      "packages": ["com.instagram.barcelona", "com.instagram.threadsapp"]
     },
     {
       "name": "shein",
@@ -1453,6 +1453,10 @@
     {
       "name": "gwallet",
       "packages": ["com.google.android.apps.walletnfcrel"]
+    },
+    {
+      "name": "gsafetyhub",
+      "packages": ["com.google.android.apps.safetyhub"]
     },
     {
       "name": "gwearable",
