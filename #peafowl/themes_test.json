@@ -1,6 +1,45 @@
 {
   "themes": [
     {
+      "theme_name": "Magic Leica",
+      "theme_base": "dark",
+      "folder_name": "magicleica",
+      "category": [0, 1, 6],
+      "colors": {
+        "accent": "ffed1c24",
+        "actionbar": "ff1f1f21",
+        "background": "ff1d1d1f",
+        "cal_bg": "ff1f1f21",
+        "cal_date": "ffed1c24",
+        "calculator": "ffed1c24",
+        "dialenums": "ffffffff",
+        "dialer": "ffed1c24",
+        "dialpad": "ff1f1f21",
+        "folder": "ff1f1f21",
+        "nots_bg": "ff1f1f21",
+        "optimizer": "ffed1c24",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ffed1c24",
+        "settings": "ffed1c24",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ffed1c24",
+        "systemui": "ffed1c24",
+        "systemui_off": "ff1f1f21"
+      },
+      "sku": "hyperleica",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
+      ]
+    },
+    {
       "theme_name": "Leica",
       "theme_base": "dark",
       "folder_name": "hyperleica",
