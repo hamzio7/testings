@@ -1572,10 +1572,6 @@
       "packages": ["com.google.android.apps.maps"]
     },
     {
-      "name": "mask",
-      "packages": ["icon_mask", "icon_pattern"]
-    },
-    {
       "name": "measure",
       "packages": ["com.hihonor.ar.measure", "com.huawei.ar.measure"]
     },
