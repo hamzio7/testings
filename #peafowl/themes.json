@@ -1,5 +1,45 @@
 {
   "themes": [
+{
+      "theme_name": "VI",
+      "theme_base": "dark",
+      "folder_name": "gtavi",
+      "category": [0, 1, 3],
+      "colors": {
+        "accent": "ffe458db",
+        "actionbar": "ff040814",
+        "background": "ff040814",
+        "cal_bg": "ff040814",
+        "cal_date": "ffe458db",
+        "calculator": "ffe458db",
+        "dialenums": "ffffffff",
+        "dialer": "ffe458db",
+        "dialpad": "ff040814",
+        "folder": "ff040814",
+        "nots_bg": "ff040814",
+        "optimizer": "ffe458db",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ffe458db",
+        "settings": "ffe458db",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ffe458db",
+        "systemui": "ffe458db",
+        "systemui_off": "ff040814"
+      },
+      "sku": "gtavi",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
+      ]
+    },
+
     {
       "theme_name": "Magic Leica",
       "theme_base": "dark",
