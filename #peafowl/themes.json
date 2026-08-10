@@ -1,6 +1,49 @@
 {
   "themes": [
-{
+    {
+      "theme_name": "Redemption",
+      "theme_base": "dark",
+      "folder_name": "redemption",
+      "category": [0, 1, 3],
+      "colors": {
+        "accent": "ffa9281f",
+        "actionbar": "ff171717",
+        "background": "ff101010",
+        "cal_bg": "ff0f0f0f",
+        "cal_date": "ffa9281f",
+        "calculator": "ffa9281f",
+        "dialenums": "ffa9281f",
+        "dialer": "ffa9281f",
+        "dialpad": "ff171717",
+        "folder": "ff171717",
+        "nots_bg": "ff171717",
+        "optimizer": "ffa9281f",
+        "optimizer_icons": "ff171717",
+        "optimizer_tiles": "ffa9281f",
+        "settings": "ffa9281f",
+        "settings_icons": "ff171717",
+        "settings_tiles": "ffa9281f",
+        "systemui": "ffa9281f",
+        "systemui_off": "ff171717"
+      },
+      "sku": "redemption",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "phone"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
+      ]
+    },
+    
+    {
       "theme_name": "VI Alt",
       "theme_base": "dark",
       "folder_name": "gtavialt",
@@ -79,7 +122,6 @@
         }
       ]
     },
-
 
     {
       "theme_name": "Magic Leica",
