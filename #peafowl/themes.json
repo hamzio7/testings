@@ -1,5 +1,46 @@
 {
   "themes": [
+
+{
+      "theme_name": "Night City",
+      "theme_base": "dark",
+      "folder_name": "nightcity",
+      "category": [0, 1, 3],
+      "colors": {
+        "accent": "ffe9c201",
+        "actionbar": "ff09161c",
+        "background": "ff071217",
+        "cal_bg": "ff071217",
+        "cal_date": "ffe9c201",
+        "calculator": "ffe9c201",
+        "dialenums": "ffe9c201",
+        "dialer": "ffe9c201",
+        "dialpad": "ff09161c",
+        "folder": "ff09161c",
+        "nots_bg": "ff09161c",
+        "optimizer": "ffe9c201",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ffe9c201",
+        "settings": "ffe9c201",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ffe9c201",
+        "systemui": "ffe9c201",
+        "systemui_off": "ff071217"
+      },
+      "sku": "nightcity",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
+      ]
+    },
+
     {
       "theme_name": "Redemption Alt",
       "theme_base": "dark",
