@@ -1,7 +1,46 @@
 {
   "themes": [
+    {
+      "theme_name": "Vice City",
+      "theme_base": "dark",
+      "folder_name": "gtavc",
+      "category": [0, 1, 3],
+      "colors": {
+        "accent": "fff24bb4",
+        "actionbar": "ff1c1c28",
+        "background": "ff191924",
+        "cal_bg": "ff191924",
+        "cal_date": "fff24bb4",
+        "calculator": "fff24bb4",
+        "dialenums": "fff24bb4",
+        "dialer": "fff24bb4",
+        "dialpad": "ff1c1c28",
+        "folder": "ff1c1c28",
+        "nots_bg": "ff1c1c28",
+        "optimizer": "fff24bb4",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "fff24bb4",
+        "settings": "fff24bb4",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "fff24bb4",
+        "systemui": "fff24bb4",
+        "systemui_off": "ff191924"
+      },
+      "sku": "gtavc",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
+      ]
+    },
 
-{
+    {
       "theme_name": "Night City",
       "theme_base": "dark",
       "folder_name": "nightcity",
