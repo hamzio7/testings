@@ -1,6 +1,45 @@
 {
   "themes": [
     {
+      "theme_name": "ColorOS 17 Glass",
+      "theme_base": "dark",
+      "folder_name": "coloros17glass",
+      "category": [0, 1, 6],
+      "colors": {
+        "accent": "ff5867ee",
+        "actionbar": "ff141414",
+        "background": "ff0d0d0d",
+        "cal_bg": "ff141414",
+        "cal_date": "ff5867ee",
+        "calculator": "ff5867ee",
+        "dialenums": "ffffffff",
+        "dialer": "ff5867ee",
+        "dialpad": "ff141414",
+        "folder": "ff141414",
+        "nots_bg": "ff141414",
+        "optimizer": "ff5867ee",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff5867ee",
+        "settings": "ff5867ee",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff5867ee",
+        "systemui": "ff5867ee",
+        "systemui_off": "ff141414"
+      },
+      "sku": "coloros17",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
+      ]
+    },
+    {
       "theme_name": "ColorOS 17 Dark",
       "theme_base": "dark",
       "folder_name": "coloros17dark",
