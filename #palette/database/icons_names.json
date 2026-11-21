@@ -14,6 +14,50 @@
       "packages": ["com.huawei.docs", "com.hihonor.docs"]
     },
     {
+      "name": "gcred",
+      "packages": ["com.google.android.apps.credentialmanager"]
+    },
+    {
+      "name": "ventusky",
+      "packages": ["cz.ackee.ventusky"]
+    },
+    {
+      "name": "wiz2",
+      "packages": ["com.wizconnected.wiz2"]
+    },
+    {
+      "name": "wellsfargomobile",
+      "packages": ["com.wf.wellsfargomobile"]
+    },
+    {
+      "name": "remotemouseandroid",
+      "packages": ["com.hungrybolo.remotemouseandroid"]
+    },
+    {
+      "name": "smartlife",
+      "packages": ["com.tuya.smartlife"]
+    },
+    {
+      "name": "venmo",
+      "packages": ["com.venmo"]
+    },
+    {
+      "name": "cashapp",
+      "packages": ["com.squareup.cash"]
+    },
+    {
+      "name": "zoomearth",
+      "packages": ["com.neave.zoomearth"]
+    },
+    {
+      "name": "gnotes",
+      "packages": ["com.google.android.apps.labs.language.tailwind"]
+    },
+    {
+      "name": "firsthawaiian",
+      "packages": ["com.firsthawaiian.mobile"]
+    },
+    {
       "name": "magictranslate",
       "packages": ["com.hihonor.magictranslate"]
     },
