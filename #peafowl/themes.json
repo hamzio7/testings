@@ -157,6 +157,45 @@
       ]
     },
     {
+      "theme_name": "MagicOS 11 Bubbles Alt",
+      "theme_base": "dark",
+      "folder_name": "magicos11bubblealt",
+      "category": [0, 1, 6],
+      "colors": {
+        "accent": "ff468eec",
+        "actionbar": "ff0d0d0e",
+        "background": "ff0a0a0c",
+        "cal_bg": "ff0d0d0e",
+        "cal_date": "ff468eec",
+        "calculator": "ff468eec",
+        "dialenums": "ffffffff",
+        "dialer": "ff468eec",
+        "dialpad": "ff0d0d0e",
+        "folder": "ff0d0d0e",
+        "nots_bg": "ff0d0d0e",
+        "optimizer": "ff468eec",
+        "optimizer_icons": "ffffffff",
+        "optimizer_tiles": "ff468eec",
+        "settings": "ff808081",
+        "settings_icons": "ffffffff",
+        "settings_tiles": "ff606061",
+        "systemui": "ff468eec",
+        "systemui_off": "ff0d0d0e"
+      },
+      "sku": "magicos11",
+      "contents": [
+        {
+          "name": "home_wallpaper_0.jpg"
+        },
+        {
+          "name": "icons"
+        },
+        {
+          "name": "preview_icons_0.jpg"
+        }
+      ]
+    },
+    {
       "theme_name": "Origin OS 7 Glass Round",
       "theme_base": "dark",
       "folder_name": "originos7glassround",
