@@ -1769,6 +1769,9 @@
     {
       "name": "parentcontrol",
       "packages": ["com.hihonor.parentcontrol"]
+    },{
+      "name": "parental",
+      "packages": ["com.hihonor.parentcontrol"]
     },
     {
       "name": "parent",
